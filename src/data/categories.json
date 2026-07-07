@@ -1,5 +1,12 @@
-[
-  {
+{
+  "categories": [
+    {
+      "id": "language_learning",
+      "name": "Language & Learning",
+      "emoji": "🔤",
+      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=80",
+      "subcategories": [
+         {
     "id": "batch_1",
     "name": "Batch 1",
     "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
@@ -29,4 +36,15 @@
     "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
     "vocabularyFile": "batch_5.json"
   }
-]
+        
+    
+   
+  ]
+}
+  ]
+}
+
+
+
+
+
