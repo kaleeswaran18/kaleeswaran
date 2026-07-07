@@ -1,0 +1,138 @@
+{
+  "id": "furniture",
+  "name": "Furniture",
+  "items": [
+    {
+      "id": "table",
+      "name": "Table",
+      "image": "https://images.unsplash.com/photo-1500000000520?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "chair",
+      "name": "Chair",
+      "image": "https://images.unsplash.com/photo-1500000000519?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "bed",
+      "name": "Bed",
+      "image": "https://images.unsplash.com/photo-1500000000299?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sofa",
+      "name": "Sofa",
+      "image": "https://images.unsplash.com/photo-1500000000425?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "desk",
+      "name": "Desk",
+      "image": "https://images.unsplash.com/photo-1500000000423?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "shelf",
+      "name": "Shelf",
+      "image": "https://images.unsplash.com/photo-1500000000530?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cabinet",
+      "name": "Cabinet",
+      "image": "https://images.unsplash.com/photo-1500000000726?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "wardrobe",
+      "name": "Wardrobe",
+      "image": "https://images.unsplash.com/photo-1500000000854?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "drawer",
+      "name": "Drawer",
+      "image": "https://images.unsplash.com/photo-1500000000645?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "mirror",
+      "name": "Mirror",
+      "image": "https://images.unsplash.com/photo-1500000000667?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "lamp",
+      "name": "Lamp",
+      "image": "https://images.unsplash.com/photo-1500000000426?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "rug",
+      "name": "Rug",
+      "image": "https://images.unsplash.com/photo-1500000000334?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "curtain",
+      "name": "Curtain",
+      "image": "https://images.unsplash.com/photo-1500000000758?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pillow",
+      "name": "Pillow",
+      "image": "https://images.unsplash.com/photo-1500000000663?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "blanket",
+      "name": "Blanket",
+      "image": "https://images.unsplash.com/photo-1500000000737?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "mattress",
+      "name": "Mattress",
+      "image": "https://images.unsplash.com/photo-1500000000883?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "bench",
+      "name": "Bench",
+      "image": "https://images.unsplash.com/photo-1500000000512?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "stool",
+      "name": "Stool",
+      "image": "https://images.unsplash.com/photo-1500000000561?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cupboard",
+      "name": "Cupboard",
+      "image": "https://images.unsplash.com/photo-1500000000848?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "bookcase",
+      "name": "Bookcase",
+      "image": "https://images.unsplash.com/photo-1500000000839?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "couch",
+      "name": "Couch",
+      "image": "https://images.unsplash.com/photo-1500000000530?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "ottoman",
+      "name": "Ottoman",
+      "image": "https://images.unsplash.com/photo-1500000000770?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

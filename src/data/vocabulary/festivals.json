@@ -1,0 +1,114 @@
+{
+  "id": "Festivals",
+  "name": "Festivals",
+  "items": [
+    {
+      "id": "prayer",
+      "name": "Prayer",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "god",
+      "name": "God",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "lamp",
+      "name": "Lamp",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "candle",
+      "name": "Candle",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "bell",
+      "name": "Bell",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "garland",
+      "name": "Garland",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "festival",
+      "name": "Festival",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "birthday",
+      "name": "Birthday",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "gift",
+      "name": "Gift",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "balloon",
+      "name": "Balloon",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "diwali",
+      "name": "Diwali",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "christmas",
+      "name": "Christmas",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "eid",
+      "name": "Eid",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "pongal",
+      "name": "Pongal",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "holi",
+      "name": "Holi",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "navratri",
+      "name": "Navratri",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "onam",
+      "name": "Onam",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "raksha_bandhan",
+      "name": "Raksha Bandhan",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "electronics",
+  "name": "Electronics",
+  "items": [
+    {
+      "id": "phone",
+      "name": "Phone",
+      "image": "https://images.unsplash.com/photo-1500000000538?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "computer",
+      "name": "Computer",
+      "image": "https://images.unsplash.com/photo-1500000000879?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "tablet",
+      "name": "Tablet",
+      "image": "https://images.unsplash.com/photo-1500000000636?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "television",
+      "name": "Television",
+      "image": "https://images.unsplash.com/photo-1500000001090?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "radio",
+      "name": "Radio",
+      "image": "https://images.unsplash.com/photo-1500000000527?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "camera",
+      "name": "Camera",
+      "image": "https://images.unsplash.com/photo-1500000000617?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "speaker",
+      "name": "Speaker",
+      "image": "https://images.unsplash.com/photo-1500000000747?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "headphones",
+      "name": "Headphones",
+      "image": "https://images.unsplash.com/photo-1500000001055?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "keyboard",
+      "name": "Keyboard",
+      "image": "https://images.unsplash.com/photo-1500000000849?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "mouse",
+      "name": "Mouse",
+      "image": "https://images.unsplash.com/photo-1500000000553?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "monitor",
+      "name": "Monitor",
+      "image": "https://images.unsplash.com/photo-1500000000776?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "printer",
+      "name": "Printer",
+      "image": "https://images.unsplash.com/photo-1500000000772?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "router",
+      "name": "Router",
+      "image": "https://images.unsplash.com/photo-1500000000673?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "charger",
+      "name": "Charger",
+      "image": "https://images.unsplash.com/photo-1500000000732?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "battery",
+      "name": "Battery",
+      "image": "https://images.unsplash.com/photo-1500000000763?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "remote",
+      "name": "Remote",
+      "image": "https://images.unsplash.com/photo-1500000000652?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "microphone",
+      "name": "Microphone",
+      "image": "https://images.unsplash.com/photo-1500000001076?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "projector",
+      "name": "Projector",
+      "image": "https://images.unsplash.com/photo-1500000000984?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "clock",
+      "name": "Clock",
+      "image": "https://images.unsplash.com/photo-1500000000524?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "fan",
+      "name": "Fan",
+      "image": "https://images.unsplash.com/photo-1500000000309?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "lamp",
+      "name": "Lamp",
+      "image": "https://images.unsplash.com/photo-1500000000426?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "drone",
+      "name": "Drone",
+      "image": "https://images.unsplash.com/photo-1500000000536?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "id": "arts_crafts",
+  "name": "Arts & Crafts",
+  "items": [
+    {
+      "id": "music",
+      "name": "Music",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "song",
+      "name": "Song",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "piano",
+      "name": "Piano",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "guitar",
+      "name": "Guitar",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "drum",
+      "name": "Drum",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "flute",
+      "name": "Flute",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "violin",
+      "name": "Violin",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "microphone",
+      "name": "Microphone",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "paint",
+      "name": "Paint",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "pencil",
+      "name": "Pencil",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "crayon",
+      "name": "Crayon",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "marker",
+      "name": "Marker",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "drawing",
+      "name": "Drawing",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "picture",
+      "name": "Picture",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "craft",
+      "name": "Craft",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "glue",
+      "name": "Glue",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "clay",
+      "name": "Clay",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sticker",
+      "name": "Sticker",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "easel",
+      "name": "Easel",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

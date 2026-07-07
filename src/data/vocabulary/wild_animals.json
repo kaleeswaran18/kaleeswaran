@@ -1,0 +1,120 @@
+{
+  "id": "wild_animals",
+  "name": "Wild Animals",
+  "items": [
+    {
+      "id": "lion",
+      "name": "Lion",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782475189/ChatGPT_Image_Jun_26_2026_03_34_32_PM_lq3mjz.png",
+      "audio": null
+    },
+    {
+      "id": "tiger",
+      "name": "Tiger",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782543971/download_36_onnqud.jpg",
+      "audio": null
+    },
+    {
+      "id": "leopard",
+      "name": "Leopard",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782544030/Snow_Leopard_dg1lwx.jpg",
+      "audio": null
+    },
+    {
+      "id": "bear",
+      "name": "Bear",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782544090/download_37_i8zp74.jpg",
+      "audio": null
+    },
+    {
+      "id": "wolf",
+      "name": "Wolf",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782544148/download_38_pm0h2k.jpg",
+      "audio": null
+    },
+    {
+      "id": "fox",
+      "name": "Fox",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782544244/Red_Fox_PNG_SVG_Woodland_Forest_Animal_Design_Digital_Download_gpeikg.jpg",
+      "audio": null
+    },
+    {
+      "id": "hyena",
+      "name": "Hyena",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782544333/Hyena_chxq5d.jpg",
+      "audio": null
+    },
+    {
+      "id": "monkey",
+      "name": "Monkey",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782544398/__Peaceful_Jungle_Nap_Sleeping_Monkey_in_Golden_Light_rhtw4n.jpg",
+      "audio": null
+    },
+    {
+      "id": "gorilla",
+      "name": "Gorilla",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782544460/download_39_ixwly9.jpg",
+      "audio": null
+    },
+    {
+      "id": "deer",
+      "name": "Deer",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782544518/Explore_the_Profound_Deer_Dream_Meaning_and_Its_Spiritual_Insights_tforha.jpg",
+      "audio": null
+    },
+    {
+      "id": "zebra",
+      "name": "Zebra",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782475194/download_32_mp37k1.jpg",
+      "audio": null
+    },
+    {
+      "id": "giraffe",
+      "name": "Giraffe",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782475194/download_33_vryfyo.jpg",
+      "audio": null
+    },
+    {
+      "id": "kangaroo",
+      "name": "Kangaroo",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782475196/Kangaroo_with_Joey_i0mdkc.jpg",
+      "audio": null
+    },
+    {
+      "id": "panda",
+      "name": "Panda",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782475195/download_34_pqpwh4.jpg",
+      "audio": null
+    },
+    {
+      "id": "hippopotamus",
+      "name": "Hippopotamus",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782475193/Common_hippopotamus_Hippopotamus_amphibius_essjhj.jpg",
+      "audio": null
+    },
+    {
+      "id": "rhinoceros",
+      "name": "Rhinoceros",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782475196/kingdom-of-the-dinosaurs-et00346816-1670586542_wkzfdq.avif",
+      "audio": null
+    },
+    {
+      "id": "squirrel",
+      "name": "Squirrel",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782475194/download_31_ubpygh.jpg",
+      "audio": null
+    },
+    {
+      "id": "rat",
+      "name": "Rat",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782475195/download_36_yc9uc1.jpg",
+      "audio": null
+    },
+    {
+      "id": "bat",
+      "name": "Bat",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782475195/download_37_fc8vtg.jpg",
+      "audio": null
+    }
+  ]
+}

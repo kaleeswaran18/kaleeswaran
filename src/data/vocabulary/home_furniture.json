@@ -1,0 +1,150 @@
+{
+  "id": "home_furniture",
+  "name": "Home & Furniture",
+  "items": [
+    {
+      "id": "house",
+      "name": "House",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "door",
+      "name": "Door",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "window",
+      "name": "Window",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "roof",
+      "name": "Roof",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wall",
+      "name": "Wall",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "floor",
+      "name": "Floor",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "bedroom",
+      "name": "Bedroom",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "living_room",
+      "name": "Living Room",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "kitchen",
+      "name": "Kitchen",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "bathroom",
+      "name": "Bathroom",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "chair",
+      "name": "Chair",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "table",
+      "name": "Table",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "bed",
+      "name": "Bed",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "pillow",
+      "name": "Pillow",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sofa",
+      "name": "Sofa",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "television",
+      "name": "Television",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "fan",
+      "name": "Fan",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "light",
+      "name": "Light",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "clock",
+      "name": "Clock",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "mirror",
+      "name": "Mirror",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "refrigerator",
+      "name": "Refrigerator",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sink",
+      "name": "Sink",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "shower",
+      "name": "Shower",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "toilet",
+      "name": "Toilet",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

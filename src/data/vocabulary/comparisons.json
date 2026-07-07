@@ -1,0 +1,96 @@
+{
+  "id": "comparisons",
+  "name": "Comparisons",
+  "items": [
+    {
+      "id": "bigger-smaller",
+      "name": "Bigger - Smaller",
+      "image": "https://dummyimage.com/800x800/4f46e5/ffffff&text=BIGGER+%7C+SMALLER",
+      "audio": null
+    },
+    {
+      "id": "longer-shorter",
+      "name": "Longer - Shorter",
+      "image": "https://dummyimage.com/800x800/06b6d4/ffffff&text=LONGER+%7C+SHORTER",
+      "audio": null
+    },
+    {
+      "id": "taller-shorter",
+      "name": "Taller - Shorter",
+      "image": "https://dummyimage.com/800x800/10b981/ffffff&text=TALLER+%7C+SHORTER",
+      "audio": null
+    },
+    {
+      "id": "heavier-lighter",
+      "name": "Heavier - Lighter",
+      "image": "https://dummyimage.com/800x800/f59e0b/ffffff&text=HEAVIER+%7C+LIGHTER",
+      "audio": null
+    },
+    {
+      "id": "thicker-thinner",
+      "name": "Thicker - Thinner",
+      "image": "https://dummyimage.com/800x800/ef4444/ffffff&text=THICKER+%7C+THINNER",
+      "audio": null
+    },
+    {
+      "id": "higher-lower",
+      "name": "Higher - Lower",
+      "image": "https://dummyimage.com/800x800/8b5cf6/ffffff&text=HIGHER+%7C+LOWER",
+      "audio": null
+    },
+    {
+      "id": "more-less",
+      "name": "More - Less",
+      "image": "https://dummyimage.com/800x800/ec4899/ffffff&text=MORE+%7C+LESS",
+      "audio": null
+    },
+    {
+      "id": "older-younger",
+      "name": "Older - Younger",
+      "image": "https://dummyimage.com/800x800/14b8a6/ffffff&text=OLDER+%7C+YOUNGER",
+      "audio": null
+    },
+    {
+      "id": "faster-slower",
+      "name": "Faster - Slower",
+      "image": "https://dummyimage.com/800x800/f97316/ffffff&text=FASTER+%7C+SLOWER",
+      "audio": null
+    },
+    {
+      "id": "nearer-farther",
+      "name": "Nearer - Farther",
+      "image": "https://dummyimage.com/800x800/3b82f6/ffffff&text=NEARER+%7C+FARTHER",
+      "audio": null
+    },
+    {
+      "id": "fuller-emptier",
+      "name": "Fuller - Emptier",
+      "image": "https://dummyimage.com/800x800/6366f1/ffffff&text=FULLER+%7C+EMPTIER",
+      "audio": null
+    },
+    {
+      "id": "stronger-weaker",
+      "name": "Stronger - Weaker",
+      "image": "https://dummyimage.com/800x800/22c55e/ffffff&text=STRONGER+%7C+WEAKER",
+      "audio": null
+    },
+    {
+      "id": "deeper-shallower",
+      "name": "Deeper - Shallower",
+      "image": "https://dummyimage.com/800x800/eab308/ffffff&text=DEEPER+%7C+SHALLOWER",
+      "audio": null
+    },
+    {
+      "id": "wider-narrower",
+      "name": "Wider - Narrower",
+      "image": "https://dummyimage.com/800x800/f43f5e/ffffff&text=WIDER+%7C+NARROWER",
+      "audio": null
+    },
+    {
+      "id": "closer-farther",
+      "name": "Closer - Farther",
+      "image": "https://dummyimage.com/800x800/0ea5e9/ffffff&text=CLOSER+%7C+FARTHER",
+      "audio": null
+    }
+  ]
+}

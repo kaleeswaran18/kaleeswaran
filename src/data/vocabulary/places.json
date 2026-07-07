@@ -1,0 +1,120 @@
+{
+  "id": "places",
+  "name": "Places",
+  "items": [
+    {
+      "id": "school",
+      "name": "School",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "classroom",
+      "name": "Classroom",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "playground",
+      "name": "Playground",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "park",
+      "name": "Park",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "library",
+      "name": "Library",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "zoo",
+      "name": "Zoo",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "farm",
+      "name": "Farm",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "market",
+      "name": "Market",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "shop",
+      "name": "Shop",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "bakery",
+      "name": "Bakery",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "restaurant",
+      "name": "Restaurant",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "bank",
+      "name": "Bank",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "post_office",
+      "name": "Post Office",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "bus_stop",
+      "name": "Bus Stop",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "railway_station",
+      "name": "Railway Station",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "airport",
+      "name": "Airport",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "garden",
+      "name": "Garden",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "museum",
+      "name": "Museum",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "cinema",
+      "name": "Cinema",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

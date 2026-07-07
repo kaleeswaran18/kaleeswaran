@@ -1,0 +1,138 @@
+{
+  "id": "sky",
+  "name": "Sky",
+  "items": [
+    {
+      "id": "sun",
+      "name": "Sun",
+      "image": "https://images.unsplash.com/photo-1500000000342?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "moon",
+      "name": "Moon",
+      "image": "https://images.unsplash.com/photo-1500000000441?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "image": "https://images.unsplash.com/photo-1500000000442?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud",
+      "image": "https://images.unsplash.com/photo-1500000000535?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sky",
+      "name": "Sky",
+      "image": "https://images.unsplash.com/photo-1500000000343?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "rainbow",
+      "name": "Rainbow",
+      "image": "https://images.unsplash.com/photo-1500000000754?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sunrise",
+      "name": "Sunrise",
+      "image": "https://images.unsplash.com/photo-1500000000777?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sunset",
+      "name": "Sunset",
+      "image": "https://images.unsplash.com/photo-1500000000674?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "comet",
+      "name": "Comet",
+      "image": "https://images.unsplash.com/photo-1500000000536?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "planet",
+      "name": "Planet",
+      "image": "https://images.unsplash.com/photo-1500000000644?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "galaxy",
+      "name": "Galaxy",
+      "image": "https://images.unsplash.com/photo-1500000000646?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "universe",
+      "name": "Universe",
+      "image": "https://images.unsplash.com/photo-1500000000881?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "horizon",
+      "name": "Horizon",
+      "image": "https://images.unsplash.com/photo-1500000000777?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "twilight",
+      "name": "Twilight",
+      "image": "https://images.unsplash.com/photo-1500000000876?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "dawn",
+      "name": "Dawn",
+      "image": "https://images.unsplash.com/photo-1500000000426?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "dusk",
+      "name": "Dusk",
+      "image": "https://images.unsplash.com/photo-1500000000439?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "night",
+      "name": "Night",
+      "image": "https://images.unsplash.com/photo-1500000000538?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "day",
+      "name": "Day",
+      "image": "https://images.unsplash.com/photo-1500000000318?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "light",
+      "name": "Light",
+      "image": "https://images.unsplash.com/photo-1500000000536?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "dark",
+      "name": "Dark",
+      "image": "https://images.unsplash.com/photo-1500000000418?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "meteor",
+      "name": "Meteor",
+      "image": "https://images.unsplash.com/photo-1500000000652?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "image": "https://images.unsplash.com/photo-1500000000650?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

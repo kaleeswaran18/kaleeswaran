@@ -1,0 +1,3 @@
+.focus-grid:focus-within {
+  outline: none;
+}

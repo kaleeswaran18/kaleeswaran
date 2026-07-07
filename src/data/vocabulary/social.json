@@ -1,0 +1,84 @@
+{
+  "id": "social",
+  "name": "Social",
+  "items": [
+    {
+      "id": "best_friend",
+      "name": "Best Friend",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "classmate",
+      "name": "Classmate",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "team",
+      "name": "Team",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "group",
+      "name": "Group",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "invite",
+      "name": "Invite",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "together",
+      "name": "Together",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "kindness",
+      "name": "Kindness",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "emergency",
+      "name": "Emergency",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "firefighter",
+      "name": "Firefighter",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "first_aid",
+      "name": "First Aid",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "hurt",
+      "name": "Hurt",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "danger",
+      "name": "Danger",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "safetravel",
+      "name": "Safetravel",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

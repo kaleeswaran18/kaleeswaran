@@ -1,0 +1,144 @@
+{
+  "id": "phonics",
+  "name": "Phonics",
+  "items": [
+    {
+      "id": "ah",
+      "name": "Ah",
+      "image": "https://images.unsplash.com/photo-1500000000201?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "eh",
+      "name": "Eh",
+      "image": "https://images.unsplash.com/photo-1500000000205?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "ee",
+      "name": "Ee",
+      "image": "https://images.unsplash.com/photo-1500000000202?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "oh",
+      "name": "Oh",
+      "image": "https://images.unsplash.com/photo-1500000000215?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "oo",
+      "name": "Oo",
+      "image": "https://images.unsplash.com/photo-1500000000222?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "ba",
+      "name": "Ba",
+      "image": "https://images.unsplash.com/photo-1500000000195?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "da",
+      "name": "Da",
+      "image": "https://images.unsplash.com/photo-1500000000197?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "fa",
+      "name": "Fa",
+      "image": "https://images.unsplash.com/photo-1500000000199?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "ga",
+      "name": "Ga",
+      "image": "https://images.unsplash.com/photo-1500000000200?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "ha",
+      "name": "Ha",
+      "image": "https://images.unsplash.com/photo-1500000000201?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "ja",
+      "name": "Ja",
+      "image": "https://images.unsplash.com/photo-1500000000203?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "ka",
+      "name": "Ka",
+      "image": "https://images.unsplash.com/photo-1500000000204?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "la",
+      "name": "La",
+      "image": "https://images.unsplash.com/photo-1500000000205?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "ma",
+      "name": "Ma",
+      "image": "https://images.unsplash.com/photo-1500000000206?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "na",
+      "name": "Na",
+      "image": "https://images.unsplash.com/photo-1500000000207?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pa",
+      "name": "Pa",
+      "image": "https://images.unsplash.com/photo-1500000000209?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "ra",
+      "name": "Ra",
+      "image": "https://images.unsplash.com/photo-1500000000211?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sa",
+      "name": "Sa",
+      "image": "https://images.unsplash.com/photo-1500000000212?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "ta",
+      "name": "Ta",
+      "image": "https://images.unsplash.com/photo-1500000000213?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "va",
+      "name": "Va",
+      "image": "https://images.unsplash.com/photo-1500000000215?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "wa",
+      "name": "Wa",
+      "image": "https://images.unsplash.com/photo-1500000000216?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "ya",
+      "name": "Ya",
+      "image": "https://images.unsplash.com/photo-1500000000218?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "za",
+      "name": "Za",
+      "image": "https://images.unsplash.com/photo-1500000000219?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

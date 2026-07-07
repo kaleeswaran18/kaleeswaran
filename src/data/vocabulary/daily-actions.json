@@ -1,0 +1,138 @@
+{
+  "id": "daily-actions",
+  "name": "Daily Actions",
+  "items": [
+    {
+      "id": "wake-up",
+      "name": "Wake Up",
+      "image": "https://images.unsplash.com/photo-1500000000685?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "brush-teeth",
+      "name": "Brush Teeth",
+      "image": "https://images.unsplash.com/photo-1500000001118?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "wash-face",
+      "name": "Wash Face",
+      "image": "https://images.unsplash.com/photo-1500000000866?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "take-bath",
+      "name": "Take Bath",
+      "image": "https://images.unsplash.com/photo-1500000000868?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "get-dressed",
+      "name": "Get Dressed",
+      "image": "https://images.unsplash.com/photo-1500000001098?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "eat-breakfast",
+      "name": "Eat Breakfast",
+      "image": "https://images.unsplash.com/photo-1500000001293?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "go-to-school",
+      "name": "Go To School",
+      "image": "https://images.unsplash.com/photo-1500000001153?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "study",
+      "name": "Study",
+      "image": "https://images.unsplash.com/photo-1500000000569?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "play",
+      "name": "Play",
+      "image": "https://images.unsplash.com/photo-1500000000438?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "eat-lunch",
+      "name": "Eat Lunch",
+      "image": "https://images.unsplash.com/photo-1500000000884?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "do-homework",
+      "name": "Do Homework",
+      "image": "https://images.unsplash.com/photo-1500000001119?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "watch-tv",
+      "name": "Watch TV",
+      "image": "https://images.unsplash.com/photo-1500000000801?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "eat-dinner",
+      "name": "Eat Dinner",
+      "image": "https://images.unsplash.com/photo-1500000000986?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "read-book",
+      "name": "Read Book",
+      "image": "https://images.unsplash.com/photo-1500000000871?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "go-to-bed",
+      "name": "Go To Bed",
+      "image": "https://images.unsplash.com/photo-1500000000804?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "image": "https://images.unsplash.com/photo-1500000000537?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "clean-room",
+      "name": "Clean Room",
+      "image": "https://images.unsplash.com/photo-1500000000992?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "help-mom",
+      "name": "Help Mom",
+      "image": "https://images.unsplash.com/photo-1500000000786?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "walk",
+      "name": "Walk",
+      "image": "https://images.unsplash.com/photo-1500000000431?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "exercise",
+      "name": "Exercise",
+      "image": "https://images.unsplash.com/photo-1500000000856?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pray",
+      "name": "Pray",
+      "image": "https://images.unsplash.com/photo-1500000000444?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "rest",
+      "name": "Rest",
+      "image": "https://images.unsplash.com/photo-1500000000446?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

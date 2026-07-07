@@ -1,0 +1,49 @@
+{
+  "id": "days-of-week",
+  "name": "Days of Week",
+  "items": [
+     {
+      "id": "sunday",
+      "name": "Sunday",
+      "image": "https://dummyimage.com/800x800/f97316/ffffff&text=SUNDAY",
+      "audio": null
+    },
+    {
+      "id": "monday",
+      "name": "Monday",
+      "image": "https://dummyimage.com/800x800/3b82f6/ffffff&text=MONDAY",
+      "audio": null
+    },
+    {
+      "id": "tuesday",
+      "name": "Tuesday",
+      "image": "https://dummyimage.com/800x800/ef4444/ffffff&text=TUESDAY",
+      "audio": null
+    },
+    {
+      "id": "wednesday",
+      "name": "Wednesday",
+      "image": "https://dummyimage.com/800x800/22c55e/ffffff&text=WEDNESDAY",
+      "audio": null
+    },
+    {
+      "id": "thursday",
+      "name": "Thursday",
+      "image": "https://dummyimage.com/800x800/f59e0b/ffffff&text=THURSDAY",
+      "audio": null
+    },
+    {
+      "id": "friday",
+      "name": "Friday",
+      "image": "https://dummyimage.com/800x800/a855f7/ffffff&text=FRIDAY",
+      "audio": null
+    },
+    {
+      "id": "saturday",
+      "name": "Saturday",
+      "image": "https://dummyimage.com/800x800/ec4899/ffffff&text=SATURDAY",
+      "audio": null
+    }
+   
+  ]
+}

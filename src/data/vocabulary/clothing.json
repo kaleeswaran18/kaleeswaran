@@ -1,0 +1,138 @@
+{
+  "id": "clothing",
+  "name": "Clothing",
+  "items": [
+    {
+      "id": "shirt",
+      "name": "Shirt",
+      "image": "https://images.unsplash.com/photo-1500000000554?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pants",
+      "name": "Pants",
+      "image": "https://images.unsplash.com/photo-1500000000550?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "dress",
+      "name": "Dress",
+      "image": "https://images.unsplash.com/photo-1500000000545?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "skirt",
+      "name": "Skirt",
+      "image": "https://images.unsplash.com/photo-1500000000557?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "jacket",
+      "name": "Jacket",
+      "image": "https://images.unsplash.com/photo-1500000000626?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "coat",
+      "name": "Coat",
+      "image": "https://images.unsplash.com/photo-1500000000423?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sweater",
+      "name": "Sweater",
+      "image": "https://images.unsplash.com/photo-1500000000763?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "hat",
+      "name": "Hat",
+      "image": "https://images.unsplash.com/photo-1500000000317?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cap",
+      "name": "Cap",
+      "image": "https://images.unsplash.com/photo-1500000000308?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "shoes",
+      "name": "Shoes",
+      "image": "https://images.unsplash.com/photo-1500000000546?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "socks",
+      "name": "Socks",
+      "image": "https://images.unsplash.com/photo-1500000000547?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "gloves",
+      "name": "Gloves",
+      "image": "https://images.unsplash.com/photo-1500000000656?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "scarf",
+      "name": "Scarf",
+      "image": "https://images.unsplash.com/photo-1500000000527?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "belt",
+      "name": "Belt",
+      "image": "https://images.unsplash.com/photo-1500000000423?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "tie",
+      "name": "Tie",
+      "image": "https://images.unsplash.com/photo-1500000000322?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "uniform",
+      "name": "Uniform",
+      "image": "https://images.unsplash.com/photo-1500000000768?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pajamas",
+      "name": "Pajamas",
+      "image": "https://images.unsplash.com/photo-1500000000733?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "shorts",
+      "name": "Shorts",
+      "image": "https://images.unsplash.com/photo-1500000000675?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "jeans",
+      "name": "Jeans",
+      "image": "https://images.unsplash.com/photo-1500000000529?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "boots",
+      "name": "Boots",
+      "image": "https://images.unsplash.com/photo-1500000000551?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sandals",
+      "name": "Sandals",
+      "image": "https://images.unsplash.com/photo-1500000000742?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "suit",
+      "name": "Suit",
+      "image": "https://images.unsplash.com/photo-1500000000453?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

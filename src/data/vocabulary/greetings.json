@@ -1,0 +1,138 @@
+{
+  "id": "greetings",
+  "name": "Greetings",
+  "items": [
+    {
+      "id": "hello",
+      "name": "Hello",
+      "image": "https://images.unsplash.com/photo-1500000000532?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "hi",
+      "name": "Hi",
+      "image": "https://images.unsplash.com/photo-1500000000209?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "good-morning",
+      "name": "Good Morning",
+      "image": "https://images.unsplash.com/photo-1500000001219?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "good-afternoon",
+      "name": "Good Afternoon",
+      "image": "https://images.unsplash.com/photo-1500000001429?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "good-evening",
+      "name": "Good Evening",
+      "image": "https://images.unsplash.com/photo-1500000001205?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "good-night",
+      "name": "Good Night",
+      "image": "https://images.unsplash.com/photo-1500000000995?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "goodbye",
+      "name": "Goodbye",
+      "image": "https://images.unsplash.com/photo-1500000000745?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "bye",
+      "name": "Bye",
+      "image": "https://images.unsplash.com/photo-1500000000320?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "see-you",
+      "name": "See You",
+      "image": "https://images.unsplash.com/photo-1500000000698?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "welcome",
+      "name": "Welcome",
+      "image": "https://images.unsplash.com/photo-1500000000748?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "how-are-you",
+      "name": "How Are You",
+      "image": "https://images.unsplash.com/photo-1500000001059?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "fine",
+      "name": "Fine",
+      "image": "https://images.unsplash.com/photo-1500000000418?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "nice",
+      "name": "Nice",
+      "image": "https://images.unsplash.com/photo-1500000000415?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "great",
+      "name": "Great",
+      "image": "https://images.unsplash.com/photo-1500000000531?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "thank-you",
+      "name": "Thank You",
+      "image": "https://images.unsplash.com/photo-1500000000915?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "please",
+      "name": "Please",
+      "image": "https://images.unsplash.com/photo-1500000000634?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sorry",
+      "name": "Sorry",
+      "image": "https://images.unsplash.com/photo-1500000000575?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "excuse-me",
+      "name": "Excuse Me",
+      "image": "https://images.unsplash.com/photo-1500000000895?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pardon",
+      "name": "Pardon",
+      "image": "https://images.unsplash.com/photo-1500000000644?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cheers",
+      "name": "Cheers",
+      "image": "https://images.unsplash.com/photo-1500000000634?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "take-care",
+      "name": "Take Care",
+      "image": "https://images.unsplash.com/photo-1500000000864?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "have-fun",
+      "name": "Have Fun",
+      "image": "https://images.unsplash.com/photo-1500000000781?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

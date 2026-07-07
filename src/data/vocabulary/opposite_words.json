@@ -1,0 +1,126 @@
+{
+  "id": "opposite_words",
+  "name": "Opposite Words",
+  "items": [
+    {
+      "id": "big_small",
+      "name": "Big - Small",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "tall_short",
+      "name": "Tall - Short",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "hot_cold",
+      "name": "Hot - Cold",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "fast_slow",
+      "name": "Fast - Slow",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "open_close",
+      "name": "Open - Close",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "up_down",
+      "name": "Up - Down",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "in_out",
+      "name": "In - Out",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "full_empty",
+      "name": "Full - Empty",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "happy_sad",
+      "name": "Happy - Sad",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "day_night",
+      "name": "Day - Night",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "light_dark",
+      "name": "Light - Dark",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "clean_dirty",
+      "name": "Clean - Dirty",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wet_dry",
+      "name": "Wet - Dry",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "heavy_light",
+      "name": "Heavy - Light",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "left_right",
+      "name": "Left - Right",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "near_far",
+      "name": "Near - Far",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "early_late",
+      "name": "Early - Late",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "young_old",
+      "name": "Young - Old",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "soft_hard",
+      "name": "Soft - Hard",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "push_pull",
+      "name": "Push - Pull",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

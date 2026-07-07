@@ -1,0 +1,12 @@
+{
+  "id": "drinks",
+  "name": "Drinks",
+  "items": [
+    {
+      "id": "water",
+      "name": "Water",
+      "image": "https://images.unsplash.com/photo-1500000000547?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

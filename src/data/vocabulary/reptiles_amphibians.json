@@ -1,0 +1,36 @@
+{
+  "id": "reptiles_amphibians",
+  "name": "Reptiles & Amphibians",
+  "items": [
+    {
+      "id": "snake",
+      "name": "Snake",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782545167/download_40_t0udiy.jpg",
+      "audio": null
+    },
+    {
+      "id": "lizard",
+      "name": "Lizard",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782545221/download_41_mhf5xv.jpg",
+      "audio": null
+    },
+    {
+      "id": "crocodile",
+      "name": "Crocodile",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782545270/Snapping_Crocodile_Clipart_Deadly_and_Precise_uwvqcl.jpg",
+      "audio": null
+    },
+    {
+      "id": "turtle",
+      "name": "Turtle",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782545333/Turtle_Isolated_On_White_Background_PNG_Images___PSD_Free_Download_-_Pikbest_phpg5f.jpg",
+      "audio": null
+    },
+    {
+      "id": "frog",
+      "name": "Frog",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782545414/download_42_fxvuhh.jpg",
+      "audio": null
+    }
+  ]
+}

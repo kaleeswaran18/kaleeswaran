@@ -1,0 +1,138 @@
+{
+  "id": "cleaning-actions",
+  "name": "Cleaning",
+  "items": [
+    {
+      "id": "clean",
+      "name": "Clean",
+      "image": "https://images.unsplash.com/photo-1500000000515?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sweep",
+      "name": "Sweep",
+      "image": "https://images.unsplash.com/photo-1500000000548?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "mop",
+      "name": "Mop",
+      "image": "https://images.unsplash.com/photo-1500000000332?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "dust",
+      "name": "Dust",
+      "image": "https://images.unsplash.com/photo-1500000000448?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "wash",
+      "name": "Wash",
+      "image": "https://images.unsplash.com/photo-1500000000435?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "scrub",
+      "name": "Scrub",
+      "image": "https://images.unsplash.com/photo-1500000000543?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "wipe",
+      "name": "Wipe",
+      "image": "https://images.unsplash.com/photo-1500000000437?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "polish",
+      "name": "Polish",
+      "image": "https://images.unsplash.com/photo-1500000000655?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "vacuum",
+      "name": "Vacuum",
+      "image": "https://images.unsplash.com/photo-1500000000657?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "organize",
+      "name": "Organize",
+      "image": "https://images.unsplash.com/photo-1500000000863?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "tidy",
+      "name": "Tidy",
+      "image": "https://images.unsplash.com/photo-1500000000442?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "arrange",
+      "name": "Arrange",
+      "image": "https://images.unsplash.com/photo-1500000000736?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sort",
+      "name": "Sort",
+      "image": "https://images.unsplash.com/photo-1500000000456?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "fold",
+      "name": "Fold",
+      "image": "https://images.unsplash.com/photo-1500000000421?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "iron",
+      "name": "Iron",
+      "image": "https://images.unsplash.com/photo-1500000000440?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "rinse",
+      "name": "Rinse",
+      "image": "https://images.unsplash.com/photo-1500000000545?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "dry",
+      "name": "Dry",
+      "image": "https://images.unsplash.com/photo-1500000000335?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "dispose",
+      "name": "Dispose",
+      "image": "https://images.unsplash.com/photo-1500000000759?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "recycle",
+      "name": "Recycle",
+      "image": "https://images.unsplash.com/photo-1500000000743?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "throw",
+      "name": "Throw",
+      "image": "https://images.unsplash.com/photo-1500000000564?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pick-up",
+      "name": "Pick Up",
+      "image": "https://images.unsplash.com/photo-1500000000684?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "put-away",
+      "name": "Put Away",
+      "image": "https://images.unsplash.com/photo-1500000000811?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

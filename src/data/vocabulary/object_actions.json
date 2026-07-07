@@ -1,0 +1,168 @@
+{
+  "id": "object_actions",
+  "name": "Object Actions",
+  "items": [
+    {
+      "id": "put_down",
+      "name": "Put Down",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "bring",
+      "name": "Bring",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "lower",
+      "name": "Lower",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "press",
+      "name": "Press",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "tap",
+      "name": "Tap",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "pour",
+      "name": "Pour",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "scoop",
+      "name": "Scoop",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "fill",
+      "name": "Fill",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "empty",
+      "name": "Empty",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "squeeze",
+      "name": "Squeeze",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sprinkle",
+      "name": "Sprinkle",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "spread",
+      "name": "Spread",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "mix",
+      "name": "Mix",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "stir",
+      "name": "Stir",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "peel",
+      "name": "Peel",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "slice",
+      "name": "Slice",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "break",
+      "name": "Break",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "unfold",
+      "name": "Unfold",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "stack",
+      "name": "Stack",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "arrange",
+      "name": "Arrange",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "pack",
+      "name": "Pack",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "unpack",
+      "name": "Unpack",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wipe",
+      "name": "Wipe",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "dry",
+      "name": "Dry",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "hang",
+      "name": "Hang",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "roll",
+      "name": "Roll",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "tie",
+      "name": "Tie",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

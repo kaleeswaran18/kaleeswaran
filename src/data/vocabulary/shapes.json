@@ -1,0 +1,94 @@
+{
+  "id": "shapes",
+  "name": "Shapes",
+  "items": [
+    {
+      "id": "circle",
+      "name": "Circle",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782557701/Redirect_Notice_oe45hb.jpg",
+      "audio": null
+    },
+    {
+      "id": "square",
+      "name": "Square",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782557744/Square_heoqbg.jpg",
+      "audio": null
+    },
+    {
+      "id": "triangle",
+      "name": "Triangle",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782557798/download_52_pvcnu5.jpg",
+      "audio": null
+    },
+    {
+      "id": "rectangle",
+      "name": "Rectangle",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782557839/Imagem_De_Retangulo___Decide_se_a_figura_dada_parece_corresponder_a_um_____qpacxj.jpg",
+      "audio": null
+    },
+    {
+      "id": "oval",
+      "name": "Oval",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782557880/Oval_tg6wnr.jpg",
+      "audio": null
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782557934/download_53_mgcyqu.jpg",
+      "audio": null
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782557976/download_54_e7z80q.jpg",
+      "audio": null
+    },
+    {
+      "id": "diamond",
+      "name": "Diamond",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558027/Large_Blue_Diamond_Emoji_ynxx1j.jpg",
+      "audio": null
+    },
+    {
+      "id": "pentagon",
+      "name": "Pentagon",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558076/Pentagon_-_Jumbo_temyfy.jpg",
+      "audio": null
+    },
+    {
+      "id": "hexagon",
+      "name": "Hexagon",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558121/hexagon_shape_gzzl7a.jpg",
+      "audio": null
+    },
+   
+    {
+      "id": "crescent",
+      "name": "Crescent",
+            "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558222/download_55_ttcn3e.jpg",
+
+      "audio": null
+    },
+    {
+      "id": "semicircle",
+      "name": "Semicircle",
+       "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558268/0_u7gfzr.jpg",
+    
+      "audio": null
+    },
+   
+    {
+      "id": "cone",
+      "name": "Cone",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558379/Cone_gqzcod.jpg",
+      "audio": null
+    },
+    {
+      "id": "cylinder",
+      "name": "Cylinder",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558426/Cylinder_PNG_Images_Transparent_HD_Photo_Clipart_gjag5l.jpg",
+      "audio": null
+    }
+  ]
+}

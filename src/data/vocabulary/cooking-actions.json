@@ -1,0 +1,138 @@
+{
+  "id": "cooking-actions",
+  "name": "Cooking",
+  "items": [
+    {
+      "id": "cook",
+      "name": "Cook",
+      "image": "https://images.unsplash.com/photo-1500000000428?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "boil",
+      "name": "Boil",
+      "image": "https://images.unsplash.com/photo-1500000000422?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "fry",
+      "name": "Fry",
+      "image": "https://images.unsplash.com/photo-1500000000337?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "bake",
+      "name": "Bake",
+      "image": "https://images.unsplash.com/photo-1500000000403?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "roast",
+      "name": "Roast",
+      "image": "https://images.unsplash.com/photo-1500000000553?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "grill",
+      "name": "Grill",
+      "image": "https://images.unsplash.com/photo-1500000000538?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "steam",
+      "name": "Steam",
+      "image": "https://images.unsplash.com/photo-1500000000538?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "mix",
+      "name": "Mix",
+      "image": "https://images.unsplash.com/photo-1500000000334?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "stir",
+      "name": "Stir",
+      "image": "https://images.unsplash.com/photo-1500000000450?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cut",
+      "name": "Cut",
+      "image": "https://images.unsplash.com/photo-1500000000332?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "chop",
+      "name": "Chop",
+      "image": "https://images.unsplash.com/photo-1500000000426?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "slice",
+      "name": "Slice",
+      "image": "https://images.unsplash.com/photo-1500000000528?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "peel",
+      "name": "Peel",
+      "image": "https://images.unsplash.com/photo-1500000000422?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pour",
+      "name": "Pour",
+      "image": "https://images.unsplash.com/photo-1500000000454?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "measure",
+      "name": "Measure",
+      "image": "https://images.unsplash.com/photo-1500000000754?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "taste",
+      "name": "Taste",
+      "image": "https://images.unsplash.com/photo-1500000000545?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "serve",
+      "name": "Serve",
+      "image": "https://images.unsplash.com/photo-1500000000549?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "heat",
+      "name": "Heat",
+      "image": "https://images.unsplash.com/photo-1500000000418?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cool",
+      "name": "Cool",
+      "image": "https://images.unsplash.com/photo-1500000000429?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "wash",
+      "name": "Wash",
+      "image": "https://images.unsplash.com/photo-1500000000435?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "clean",
+      "name": "Clean",
+      "image": "https://images.unsplash.com/photo-1500000000515?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "prepare",
+      "name": "Prepare",
+      "image": "https://images.unsplash.com/photo-1500000000751?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

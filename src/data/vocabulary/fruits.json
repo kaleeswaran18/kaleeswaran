@@ -1,0 +1,132 @@
+{
+  "id": "fruits",
+  "name": "Fruits",
+  "items": [
+    {
+      "id": "apple",
+      "name": "Apple",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782807661/RED_APPLE___ijnrza.jpg",
+      "audio": null
+    },
+    {
+      "id": "banana",
+      "name": "Banana",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782807707/download_64_ubigjz.jpg",
+      "audio": null
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782807854/Orange_s8phac.jpg",
+      "audio": null
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782807895/download_65_aafs6o.jpg",
+      "audio": null
+    },
+    {
+      "id": "grapes",
+      "name": "Grapes",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782807941/download_66_i4ad81.jpg",
+      "audio": null
+    },
+    {
+      "id": "pineapple",
+      "name": "Pineapple",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782807982/in_18th_century_England_the_pineapple_was_so_rare_and_desirable_it_was_consumed_only_by_royalty_lqbk9b.jpg",
+      "audio": null
+    },
+    {
+      "id": "watermelon",
+      "name": "Watermelon",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808026/download_67_ibtzar.jpg",
+      "audio": null
+    },
+    {
+      "id": "papaya",
+      "name": "Papaya",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808061/Papaya_Juice_PowderOrganic33_lbs_njkstt.jpg",
+      "audio": null
+    },
+    {
+      "id": "guava",
+      "name": "Guava",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808105/download_68_h7po6h.jpg",
+      "audio": null
+    },
+    {
+      "id": "strawberry",
+      "name": "Strawberry",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808149/download_69_c7azks.jpg",
+      "audio": null
+    },
+    {
+      "id": "cherry",
+      "name": "Cherry",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808195/download_70_ylwsmh.jpg",
+      "audio": null
+    },
+    {
+      "id": "kiwi",
+      "name": "Kiwi",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808288/download_71_avgsli.jpg",
+      "audio": null
+    },
+    {
+      "id": "pomegranate",
+      "name": "Pomegranate",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808357/16_300_Pomegranate_Tree_Fotograf%C3%ADas_de_stock_fotos_e_im%C3%A1genes_libres_de_derechos_mpfmq6.jpg",
+      "audio": null
+    },
+    {
+      "id": "lemon",
+      "name": "Lemon",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808407/CITRON_ipdtcj.jpg",
+      "audio": null
+    },
+    {
+      "id": "coconut",
+      "name": "Coconut",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808449/Coconut_khy3vb.jpg",
+      "audio": null
+    },
+    {
+      "id": "avocado",
+      "name": "Avocado",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808556/Awokado_Png_Kawa%C5%82ek_Awokado_Wyizolowany_%C5%9Bwie%C5%BCy___Elementy_graficzne_PNG_pobierz_darmowe_-_Pikbest_ov9oxi.jpg",
+      "audio": null
+    },
+    {
+      "id": "jackfruit",
+      "name": "Jackfruit",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808615/download_72_eoaq4u.jpg",
+      "audio": null
+    },
+    {
+      "id": "sapota",
+      "name": "Sapota",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808656/Fresh_Sapota_-_500g_zvbejj.jpg",
+      "audio": null
+    },
+    {
+      "id": "date",
+      "name": "Date",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808713/21_Tricks_Non-Morning_People_Should_Know_About_Early_Exercising_udnpsj.jpg",
+      "audio": null
+    },
+    {
+      "id": "dragon_fruit",
+      "name": "Dragon Fruit",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808789/Dragon_fruit_f5wers.jpg",
+      "audio": null
+    },
+    {
+      "id": "custard_apple",
+      "name": "Custard Apple",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782808848/custard_apple_recipes___Indian_recipes_using_sitafal___q8kgvo.jpg",
+      "audio": null
+    }
+  ]
+}

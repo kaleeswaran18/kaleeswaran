@@ -1,0 +1,90 @@
+{
+  "id": "time",
+  "name": "Time",
+  "items": [
+    {
+      "id": "week",
+      "name": "Week",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "month",
+      "name": "Month",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "year",
+      "name": "Year",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "today",
+      "name": "Today",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "yesterday",
+      "name": "Yesterday",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "tomorrow",
+      "name": "Tomorrow",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "hour",
+      "name": "Hour",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "minute",
+      "name": "Minute",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "second",
+      "name": "Second",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "clock",
+      "name": "Clock",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "calendar",
+      "name": "Calendar",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "am",
+      "name": "AM",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "pm",
+      "name": "PM",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "night",
+      "name": "Night",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

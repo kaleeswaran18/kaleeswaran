@@ -1,0 +1,138 @@
+{
+  "id": "food-items",
+  "name": "Food Items",
+  "items": [
+    {
+      "id": "rice",
+      "name": "Rice",
+      "image": "https://images.unsplash.com/photo-1500000000419?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pasta",
+      "name": "Pasta",
+      "image": "https://images.unsplash.com/photo-1500000000537?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "noodles",
+      "name": "Noodles",
+      "image": "https://images.unsplash.com/photo-1500000000756?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "egg",
+      "name": "Egg",
+      "image": "https://images.unsplash.com/photo-1500000000307?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cheese",
+      "name": "Cheese",
+      "image": "https://images.unsplash.com/photo-1500000000621?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "butter",
+      "name": "Butter",
+      "image": "https://images.unsplash.com/photo-1500000000662?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "image": "https://images.unsplash.com/photo-1500000000547?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sugar",
+      "name": "Sugar",
+      "image": "https://images.unsplash.com/photo-1500000000546?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "salt",
+      "name": "Salt",
+      "image": "https://images.unsplash.com/photo-1500000000436?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pepper",
+      "name": "Pepper",
+      "image": "https://images.unsplash.com/photo-1500000000652?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "oil",
+      "name": "Oil",
+      "image": "https://images.unsplash.com/photo-1500000000324?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "flour",
+      "name": "Flour",
+      "image": "https://images.unsplash.com/photo-1500000000552?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "soup",
+      "name": "Soup",
+      "image": "https://images.unsplash.com/photo-1500000000455?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "salad",
+      "name": "Salad",
+      "image": "https://images.unsplash.com/photo-1500000000517?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sandwich",
+      "name": "Sandwich",
+      "image": "https://images.unsplash.com/photo-1500000000849?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "curry",
+      "name": "Curry",
+      "image": "https://images.unsplash.com/photo-1500000000565?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "stew",
+      "name": "Stew",
+      "image": "https://images.unsplash.com/photo-1500000000451?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "omelette",
+      "name": "Omelette",
+      "image": "https://images.unsplash.com/photo-1500000000863?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "porridge",
+      "name": "Porridge",
+      "image": "https://images.unsplash.com/photo-1500000000860?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cereal",
+      "name": "Cereal",
+      "image": "https://images.unsplash.com/photo-1500000000620?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "jam",
+      "name": "Jam",
+      "image": "https://images.unsplash.com/photo-1500000000312?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sauce",
+      "name": "Sauce",
+      "image": "https://images.unsplash.com/photo-1500000000529?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

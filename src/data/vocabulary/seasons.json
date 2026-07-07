@@ -1,0 +1,36 @@
+{
+  "id": "seasons",
+  "name": "Seasons",
+  "items": [
+    {
+      "id": "spring",
+      "name": "Spring",
+      "image": null,
+      "audio": null
+    },
+    {
+      "id": "summer",
+      "name": "Summer",
+      "image": null,
+      "audio": null
+    },
+    {
+      "id": "monsoon",
+      "name": "Monsoon",
+      "image": null,
+      "audio": null
+    },
+    {
+      "id": "autumn",
+      "name": "Autumn",
+      "image": null,
+      "audio": null
+    },
+    {
+      "id": "winter",
+      "name": "Winter",
+      "image": null,
+      "audio": null
+    }
+  ]
+}

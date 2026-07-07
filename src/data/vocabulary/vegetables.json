@@ -1,0 +1,138 @@
+{
+  "id": "vegetables",
+  "name": "Vegetables",
+  "items": [
+    {
+      "id": "carrot",
+      "name": "Carrot",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809393/download_73_g2uccz.jpg",
+      "audio": null
+    },
+    {
+      "id": "potato",
+      "name": "Potato",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809426/Download_Potatos_isolated_on_transparent_background_for_free_bfl9xp.jpg",
+      "audio": null
+    },
+    {
+      "id": "tomato",
+      "name": "Tomato",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809465/How_To_Get_Rid_of_Dark_Spots__10_DIY_Remedies_for_Hyperpigmentation_rjrmgt.jpg",
+      "audio": null
+    },
+    {
+      "id": "onion",
+      "name": "Onion",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809498/download_74_voxxne.jpg",
+      "audio": null
+    },
+    {
+      "id": "garlic",
+      "name": "Garlic",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809539/download_75_gbw5qr.jpg",
+      "audio": null
+    },
+    {
+      "id": "ginger",
+      "name": "Ginger",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809583/Ginger_Rye_Ale_Recipe___Craft_Beer_Brewing_xu8t9r.jpg",
+      "audio": null
+    },
+    {
+      "id": "cabbage",
+      "name": "Cabbage",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809645/Download_Green_fresh_cabbage_isolated_on_transparent_background_for_free_v7qhi1.jpg",
+      "audio": null
+    },
+    {
+      "id": "cauliflower",
+      "name": "Cauliflower",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809682/Cauliflower_Pizza_Crust_iziif4.jpg",
+      "audio": null
+    },
+    {
+      "id": "spinach",
+      "name": "Spinach",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809751/download_76_mouiut.jpg",
+      "audio": null
+    },
+    {
+      "id": "cucumber",
+      "name": "Cucumber",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809807/Vegetable_Cucumber_Food_Plant_Cucumis_Cucumber_gourd_and_melon_family_Winter_melon_Produce_Pepino_Ingredient_uxoxnh.jpg",
+      "audio": null
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pumpkin",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809858/download_77_oz9mmy.jpg",
+      "audio": null
+    },
+    {
+      "id": "bottle_gourd",
+      "name": "Bottle Gourd",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782810829/Thanks_f3kicm.jpg",
+      "audio": null
+    },
+    {
+      "id": "brinjal",
+      "name": "Brinjal",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782809942/download_78_rffqk9.jpg",
+      "audio": null
+    },
+    {
+      "id": "okra",
+      "name": "Okra",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782810007/Fresh_Okra_qp7u0i.jpg",
+      "audio": null
+    },
+    {
+      "id": "green_chilli",
+      "name": "Green Chilli",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782810060/Chili_drawing_reference_ve045r.jpg",
+      "audio": null
+    },
+    {
+      "id": "capsicum",
+      "name": "Capsicum",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782810103/Bell_Peppers__All_About_Them_hao29j.jpg",
+      "audio": null
+    },
+    {
+      "id": "corn",
+      "name": "Corn",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782810175/download_79_znorva.jpg",
+      "audio": null
+    },
+    {
+      "id": "peas",
+      "name": "Peas",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782810228/pea___%E0%B8%96%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B8%A5%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%95%E0%B8%B2_vx89ly.jpg",
+      "audio": null
+    },
+    {
+      "id": "radish",
+      "name": "Radish",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782810280/White_Icicle_Radish_Seeds_-_Raphanus_Sativus_-_3_Grams_-_Approx_270_Gardening_Seeds_-_Vegetable_Garden_Seed_q6fzzw.jpg",
+      "audio": null
+    },
+    {
+      "id": "beetroot",
+      "name": "Beetroot",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782810336/Les_bienfaits_de_la_betterave_swoxq4.jpg",
+      "audio": null
+    },
+    {
+      "id": "drumstick",
+      "name": "Drumstick",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782810428/mybox_q5st9z.jpg",
+      "audio": null
+    },
+    {
+      "id": "mushroom",
+      "name": "Mushroom",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782810487/Mushroom_with_brown_cap_grows_in_a_forest_setting_under_natural_light_transparent_bsfn6t.jpg",
+      "audio": null
+    }
+  ]
+}

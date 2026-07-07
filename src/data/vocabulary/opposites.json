@@ -1,0 +1,138 @@
+{
+  "id": "opposites",
+  "name": "Opposites",
+  "items": [
+    {
+      "id": "hot",
+      "name": "Hot",
+      "image": "https://images.unsplash.com/photo-1500000000331?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "cold",
+      "name": "Cold",
+      "image": "https://images.unsplash.com/photo-1500000000418?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "big",
+      "name": "Big",
+      "image": "https://images.unsplash.com/photo-1500000000306?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "small",
+      "name": "Small",
+      "image": "https://images.unsplash.com/photo-1500000000537?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "fast",
+      "name": "Fast",
+      "image": "https://images.unsplash.com/photo-1500000000430?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "slow",
+      "name": "Slow",
+      "image": "https://images.unsplash.com/photo-1500000000453?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "up",
+      "name": "Up",
+      "image": "https://images.unsplash.com/photo-1500000000229?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "down",
+      "name": "Down",
+      "image": "https://images.unsplash.com/photo-1500000000440?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "in",
+      "name": "In",
+      "image": "https://images.unsplash.com/photo-1500000000215?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "out",
+      "name": "Out",
+      "image": "https://images.unsplash.com/photo-1500000000344?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "open",
+      "name": "Open",
+      "image": "https://images.unsplash.com/photo-1500000000434?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "close",
+      "name": "Close",
+      "image": "https://images.unsplash.com/photo-1500000000534?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "day",
+      "name": "Day",
+      "image": "https://images.unsplash.com/photo-1500000000318?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "night",
+      "name": "Night",
+      "image": "https://images.unsplash.com/photo-1500000000538?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "light",
+      "name": "Light",
+      "image": "https://images.unsplash.com/photo-1500000000536?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "dark",
+      "name": "Dark",
+      "image": "https://images.unsplash.com/photo-1500000000418?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "happy",
+      "name": "Happy",
+      "image": "https://images.unsplash.com/photo-1500000000546?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "sad",
+      "name": "Sad",
+      "image": "https://images.unsplash.com/photo-1500000000312?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "good",
+      "name": "Good",
+      "image": "https://images.unsplash.com/photo-1500000000425?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "bad",
+      "name": "Bad",
+      "image": "https://images.unsplash.com/photo-1500000000295?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "young",
+      "name": "Young",
+      "image": "https://images.unsplash.com/photo-1500000000562?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "old",
+      "name": "Old",
+      "image": "https://images.unsplash.com/photo-1500000000319?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

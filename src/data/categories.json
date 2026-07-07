@@ -1,0 +1,32 @@
+[
+  {
+    "id": "batch_1",
+    "name": "Batch 1",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+    "vocabularyFile": "batch_1.json"
+  },
+  {
+    "id": "batch_2",
+    "name": "Batch 2",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+    "vocabularyFile": "batch_2.json"
+  },
+  {
+    "id": "batch_3",
+    "name": "Batch 3",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+    "vocabularyFile": "batch_3.json"
+  },
+  {
+    "id": "batch_4",
+    "name": "Batch 4",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+    "vocabularyFile": "batch_4.json"
+  },
+  {
+    "id": "batch_5",
+    "name": "Batch 5",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+    "vocabularyFile": "batch_5.json"
+  }
+]

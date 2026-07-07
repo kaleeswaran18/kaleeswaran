@@ -1,0 +1,36 @@
+{
+  "id": "directions",
+  "name": "Directions",
+  "items": [
+    {
+      "id": "go_straight",
+      "name": "Go Straight",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782560072/download_59_j3s9rk.jpg",
+      "audio": null
+    },
+    {
+      "id": "turn_left",
+      "name": "Turn Left",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782560122/Vector_Turn_Left_Icon_Arrow_Left_Left_Turn_PNG_and_Vector_with_Transparent_Background_for_Free_Download_by89mf.jpg",
+      "audio": null
+    },
+    {
+      "id": "turn_right",
+      "name": "Turn Right",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782560162/Right_turn_arrow_icon__Design_template_vector_whopgo.jpg",
+      "audio": null
+    },
+    {
+      "id": "stop",
+      "name": "Stop",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782560265/STOP___The_Ultimate_Attention-Grabbing_wuhwmd.jpg",
+      "audio": null
+    },
+    {
+      "id": "u_turn",
+      "name": "U-Turn",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782560307/U-Turn_Sticker_vrdtxd.jpg",
+      "audio": null
+    }
+  ]
+}

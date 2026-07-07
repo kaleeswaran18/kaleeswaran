@@ -1,0 +1,138 @@
+{
+  "id": "colors",
+  "name": "Colors",
+  "items": [
+    {
+      "id": "red",
+      "name": "Red",
+      "image": "https://dummyimage.com/800x800/ff0000/ffffff&text=RED",
+      "audio": null
+    },
+    {
+      "id": "blue",
+      "name": "Blue",
+      "image": "https://dummyimage.com/800x800/0000ff/ffffff&text=BLUE",
+      "audio": null
+    },
+    {
+      "id": "green",
+      "name": "Green",
+      "image": "https://dummyimage.com/800x800/00a000/ffffff&text=GREEN",
+      "audio": null
+    },
+    {
+      "id": "yellow",
+      "name": "Yellow",
+      "image": "https://dummyimage.com/800x800/ffff00/000000&text=YELLOW",
+      "audio": null
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "image": "https://dummyimage.com/800x800/ff8000/ffffff&text=ORANGE",
+      "audio": null
+    },
+    {
+      "id": "purple",
+      "name": "Purple",
+      "image": "https://dummyimage.com/800x800/800080/ffffff&text=PURPLE",
+      "audio": null
+    },
+    {
+      "id": "pink",
+      "name": "Pink",
+      "image": "https://dummyimage.com/800x800/ff69b4/ffffff&text=PINK",
+      "audio": null
+    },
+    {
+      "id": "brown",
+      "name": "Brown",
+      "image": "https://dummyimage.com/800x800/8b4513/ffffff&text=BROWN",
+      "audio": null
+    },
+    {
+      "id": "black",
+      "name": "Black",
+      "image": "https://dummyimage.com/800x800/000000/ffffff&text=BLACK",
+      "audio": null
+    },
+    {
+      "id": "white",
+      "name": "White",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=WHITE",
+      "audio": null
+    },
+    {
+      "id": "gray",
+      "name": "Gray",
+      "image": "https://dummyimage.com/800x800/808080/ffffff&text=GRAY",
+      "audio": null
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "image": "https://dummyimage.com/800x800/ffd700/000000&text=GOLD",
+      "audio": null
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "image": "https://dummyimage.com/800x800/c0c0c0/000000&text=SILVER",
+      "audio": null
+    },
+    {
+      "id": "cyan",
+      "name": "Cyan",
+      "image": "https://dummyimage.com/800x800/00ffff/000000&text=CYAN",
+      "audio": null
+    },
+    {
+      "id": "magenta",
+      "name": "Magenta",
+      "image": "https://dummyimage.com/800x800/ff00ff/ffffff&text=MAGENTA",
+      "audio": null
+    },
+    {
+      "id": "violet",
+      "name": "Violet",
+      "image": "https://dummyimage.com/800x800/8f00ff/ffffff&text=VIOLET",
+      "audio": null
+    },
+    {
+      "id": "indigo",
+      "name": "Indigo",
+      "image": "https://dummyimage.com/800x800/4b0082/ffffff&text=INDIGO",
+      "audio": null
+    },
+    {
+      "id": "turquoise",
+      "name": "Turquoise",
+      "image": "https://dummyimage.com/800x800/40e0d0/000000&text=TURQUOISE",
+      "audio": null
+    },
+    {
+      "id": "maroon",
+      "name": "Maroon",
+      "image": "https://dummyimage.com/800x800/800000/ffffff&text=MAROON",
+      "audio": null
+    },
+    {
+      "id": "beige",
+      "name": "Beige",
+      "image": "https://dummyimage.com/800x800/f5f5dc/000000&text=BEIGE",
+      "audio": null
+    },
+    {
+      "id": "navy",
+      "name": "Navy",
+      "image": "https://dummyimage.com/800x800/000080/ffffff&text=NAVY",
+      "audio": null
+    },
+    {
+      "id": "coral",
+      "name": "Coral",
+      "image": "https://dummyimage.com/800x800/ff7f50/ffffff&text=CORAL",
+      "audio": null
+    }
+  ]
+}

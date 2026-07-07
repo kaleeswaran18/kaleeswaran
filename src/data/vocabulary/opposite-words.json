@@ -1,0 +1,126 @@
+{
+  "id": "opposite-words",
+  "name": "Opposite Words",
+  "items": [
+    {
+      "id": "big-small",
+      "name": "Big - Small",
+      "image": "https://dummyimage.com/800x800/4f46e5/ffffff&text=BIG+%7C+SMALL",
+      "audio": null
+    },
+    {
+      "id": "hot-cold",
+      "name": "Hot - Cold",
+      "image": "https://dummyimage.com/800x800/ef4444/ffffff&text=HOT+%7C+COLD",
+      "audio": null
+    },
+    {
+      "id": "tall-short",
+      "name": "Tall - Short",
+      "image": "https://dummyimage.com/800x800/10b981/ffffff&text=TALL+%7C+SHORT",
+      "audio": null
+    },
+    {
+      "id": "fast-slow",
+      "name": "Fast - Slow",
+      "image": "https://dummyimage.com/800x800/f59e0b/ffffff&text=FAST+%7C+SLOW",
+      "audio": null
+    },
+    {
+      "id": "happy-sad",
+      "name": "Happy - Sad",
+      "image": "https://dummyimage.com/800x800/ec4899/ffffff&text=HAPPY+%7C+SAD",
+      "audio": null
+    },
+    {
+      "id": "up-down",
+      "name": "Up - Down",
+      "image": "https://dummyimage.com/800x800/3b82f6/ffffff&text=UP+%7C+DOWN",
+      "audio": null
+    },
+    {
+      "id": "open-close",
+      "name": "Open - Close",
+      "image": "https://dummyimage.com/800x800/8b5cf6/ffffff&text=OPEN+%7C+CLOSE",
+      "audio": null
+    },
+    {
+      "id": "day-night",
+      "name": "Day - Night",
+      "image": "https://dummyimage.com/800x800/14b8a6/ffffff&text=DAY+%7C+NIGHT",
+      "audio": null
+    },
+    {
+      "id": "full-empty",
+      "name": "Full - Empty",
+      "image": "https://dummyimage.com/800x800/f97316/ffffff&text=FULL+%7C+EMPTY",
+      "audio": null
+    },
+    {
+      "id": "clean-dirty",
+      "name": "Clean - Dirty",
+      "image": "https://dummyimage.com/800x800/6366f1/ffffff&text=CLEAN+%7C+DIRTY",
+      "audio": null
+    },
+    {
+      "id": "old-young",
+      "name": "Old - Young",
+      "image": "https://dummyimage.com/800x800/22c55e/ffffff&text=OLD+%7C+YOUNG",
+      "audio": null
+    },
+    {
+      "id": "rich-poor",
+      "name": "Rich - Poor",
+      "image": "https://dummyimage.com/800x800/eab308/ffffff&text=RICH+%7C+POOR",
+      "audio": null
+    },
+    {
+      "id": "left-right",
+      "name": "Left - Right",
+      "image": "https://dummyimage.com/800x800/f43f5e/ffffff&text=LEFT+%7C+RIGHT",
+      "audio": null
+    },
+    {
+      "id": "inside-outside",
+      "name": "Inside - Outside",
+      "image": "https://dummyimage.com/800x800/0ea5e9/ffffff&text=INSIDE+%7C+OUTSIDE",
+      "audio": null
+    },
+    {
+      "id": "light-dark",
+      "name": "Light - Dark",
+      "image": "https://dummyimage.com/800x800/84cc16/ffffff&text=LIGHT+%7C+DARK",
+      "audio": null
+    },
+    {
+      "id": "early-late",
+      "name": "Early - Late",
+      "image": "https://dummyimage.com/800x800/06b6d4/ffffff&text=EARLY+%7C+LATE",
+      "audio": null
+    },
+    {
+      "id": "hard-soft",
+      "name": "Hard - Soft",
+      "image": "https://dummyimage.com/800x800/a855f7/ffffff&text=HARD+%7C+SOFT",
+      "audio": null
+    },
+    {
+      "id": "heavy-light",
+      "name": "Heavy - Light",
+      "image": "https://dummyimage.com/800x800/dc2626/ffffff&text=HEAVY+%7C+LIGHT",
+      "audio": null
+    },
+    {
+      "id": "laugh-cry",
+      "name": "Laugh - Cry",
+      "image": "https://dummyimage.com/800x800/2563eb/ffffff&text=LAUGH+%7C+CRY",
+      "audio": null
+    },
+    {
+      "id": "push-pull",
+      "name": "Push - Pull",
+      "image": "https://dummyimage.com/800x800/16a34a/ffffff&text=PUSH+%7C+PULL",
+      "audio": null
+    }
+  ]
+}

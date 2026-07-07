@@ -1,0 +1,126 @@
+{
+  "id": "advanced_words",
+  "name": "Advanced Words",
+  "items": [
+    {
+      "id": "hesitate",
+      "name": "Hesitate",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "respect",
+      "name": "Respect",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "encourage",
+      "name": "Encourage",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "celebrate",
+      "name": "Celebrate",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "apologize",
+      "name": "Apologize",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "promise",
+      "name": "Promise",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "accept",
+      "name": "Accept",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "refuse",
+      "name": "Refuse",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "protect",
+      "name": "Protect",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "support",
+      "name": "Support",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "care",
+      "name": "Care",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "trust",
+      "name": "Trust",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "agree",
+      "name": "Agree",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "disagree",
+      "name": "Disagree",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "succeed",
+      "name": "Succeed",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "fail",
+      "name": "Fail",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "win",
+      "name": "Win",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "lose",
+      "name": "Lose",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "achieve",
+      "name": "Achieve",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "inspire",
+      "name": "Inspire",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

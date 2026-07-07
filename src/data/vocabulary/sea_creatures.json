@@ -1,0 +1,42 @@
+{
+  "id": "sea_creatures",
+  "name": "Sea Creatures",
+  "items": [
+    {
+      "id": "fish",
+      "name": "Fish",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782545549/Gold_fish_dyasyg.jpg",
+      "audio": null
+    },
+    {
+      "id": "shark",
+      "name": "Shark",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782545598/A_Great_White_Shark_Shark_Marine_Life_Ocean_Predator_PNG_Transparent_Image_and_Clipart_for_Free_Download_ncdne9.jpg",
+      "audio": null
+    },
+    {
+      "id": "dolphin",
+      "name": "Dolphin",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782545728/Dauphin_usst30.jpg",
+      "audio": null
+    },
+    {
+      "id": "octopus",
+      "name": "Octopus",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782545807/download_43_elwuga.jpg",
+      "audio": null
+    },
+    {
+      "id": "crab",
+      "name": "Crab",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782545866/Descargar_cangrejo_aislado__ilustraci%C3%B3n_ai_generativo_gratis_djesn4.jpg",
+      "audio": null
+    },
+    {
+      "id": "lobster",
+      "name": "Lobster",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782545920/Lobster_Coloring_Book__Fun_Easy_Seafood_Art_for_All_Ages_byjbfj.jpg",
+      "audio": null
+    }
+  ]
+}

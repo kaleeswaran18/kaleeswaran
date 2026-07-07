@@ -1,0 +1,96 @@
+{
+  "id": "birds",
+  "name": "Birds",
+  "items": [
+    {
+      "id": "parrot",
+      "name": "Parrot",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547545/download_47_abanfl.jpg",
+      "audio": null
+    },
+    {
+      "id": "peacock",
+      "name": "Peacock",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547605/download_48_m9ejvo.jpg",
+      "audio": null
+    },
+    {
+      "id": "sparrow",
+      "name": "Sparrow",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547647/%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%D0%B5%D0%B9_sparrow_wy5mw6.jpg",
+      "audio": null
+    },
+    {
+      "id": "crow",
+      "name": "Crow",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547690/black_crow_on_tree_vgsg7m.jpg",
+      "audio": null
+    },
+    {
+      "id": "pigeon",
+      "name": "Pigeon",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547735/download_49_ysnhhb.jpg",
+      "audio": null
+    },
+    {
+      "id": "owl",
+      "name": "Owl",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547773/download_50_zso1w6.jpg",
+      "audio": null
+    },
+    {
+      "id": "eagle",
+      "name": "Eagle",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547818/Bald_Eagle_Wallpaper_HD_uxcelq.jpg",
+      "audio": null
+    },
+    {
+      "id": "falcon",
+      "name": "Falcon",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547871/Red-tailed_Hawk_jzp0gb.jpg",
+      "audio": null
+    },
+    {
+      "id": "woodpecker",
+      "name": "Woodpecker",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547995/81K_views_4_9K_reactions___This_male_great_spotted_woodpecker_proudly_stands_guard_at_his_freshly_carved_nest_scarlet_crown_blazing_against_the_tex_vhlnbq.jpg",
+      "audio": null
+    },
+    {
+      "id": "flamingo",
+      "name": "Flamingo",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782548032/Pink_Flamingo_Art_Print_Tropical_Bird_Decor_Nursery_Wall_Art_Digital_Download_qrahew.jpg",
+      "audio": null
+    },
+    {
+      "id": "penguin",
+      "name": "Penguin",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782548069/The_Cutest_Jack_Russell_Terrier_fbspxb.jpg",
+      "audio": null
+    },
+    {
+      "id": "swan",
+      "name": "Swan",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782548132/download_51_aqruon.jpg",
+      "audio": null
+    },
+    {
+      "id": "ostrich",
+      "name": "Ostrich",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782548291/Heaviest_Ostrich_Comparison_to_Prehistoric_Extinct_Giants_npubdv.jpg",
+      "audio": null
+    },
+    {
+      "id": "lovebird",
+      "name": "Lovebird",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782548492/Charming_Lovebirds__Symbols_of_Affection_and_Beauty_cucav2.jpg",
+      "audio": null
+    },
+    {
+      "id": "hummingbird",
+      "name": "Hummingbird",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782548554/El_colibr%C3%AD__Una_maravilla_del_Creador_hnplob.jpg",
+      "audio": null
+    }
+  ]
+}

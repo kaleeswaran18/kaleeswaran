@@ -1,0 +1,282 @@
+{
+  "id": "basic_grammar_words",
+  "name": "Basic Grammar Words",
+  "items": [
+    {
+      "id": "not",
+      "name": "Not",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "and",
+      "name": "And",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "or",
+      "name": "Or",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "but",
+      "name": "But",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "because",
+      "name": "Because",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "so",
+      "name": "So",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "if",
+      "name": "If",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "then",
+      "name": "Then",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "also",
+      "name": "Also",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "only",
+      "name": "Only",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "very",
+      "name": "Very",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "too",
+      "name": "Too",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "do",
+      "name": "Do",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "does",
+      "name": "Does",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "did",
+      "name": "Did",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "have",
+      "name": "Have",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "has",
+      "name": "Has",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "had",
+      "name": "Had",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "be",
+      "name": "Be",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "am",
+      "name": "Am",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "is",
+      "name": "Is",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "are",
+      "name": "Are",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "was",
+      "name": "Was",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "were",
+      "name": "Were",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "can",
+      "name": "Can",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "could",
+      "name": "Could",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "will",
+      "name": "Will",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "would",
+      "name": "Would",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "shall",
+      "name": "Shall",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "should",
+      "name": "Should",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "may",
+      "name": "May",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "might",
+      "name": "Might",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "must",
+      "name": "Must",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "this",
+      "name": "This",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "that",
+      "name": "That",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "these",
+      "name": "These",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "those",
+      "name": "Those",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "what",
+      "name": "What",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "which",
+      "name": "Which",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "who",
+      "name": "Who",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "whom",
+      "name": "Whom",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "whose",
+      "name": "Whose",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "when",
+      "name": "When",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "where",
+      "name": "Where",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "why",
+      "name": "Why",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "how",
+      "name": "How",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

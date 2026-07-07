@@ -1,0 +1,126 @@
+{
+  "id": "good_habits",
+  "name": "Good Habits",
+  "items": [
+    {
+      "id": "brush_your_teeth",
+      "name": "Brush Your Teeth",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782968224/Mouth_care_hk8qpj.jpg",
+      "audio": null
+    },
+    {
+      "id": "wash_your_face",
+      "name": "Wash Your Face",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782968440/How_to_Tell_If_You_re_Cleansing_Your_Face_Too_Much_wymml5.jpg",
+      "audio": null
+    },
+    {
+      "id": "wash_your_hands",
+      "name": "Wash Your Hands",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782968501/download_-_2026-07-02T103128.519_ekvwwk.jpg",
+      "audio": null
+    },
+    {
+      "id": "take_a_bath",
+      "name": "Take a Bath",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782968572/A_Cute_Little_Boy_Taking_Shower_Shower_Clipart_Boy_Clipart_Kids_Bath_PNG_Transparent_Image_and_Clipart_for_Free_Download_jelvzf.webp",
+      "audio": null
+    },
+    {
+      "id": "comb_your_hair",
+      "name": "Comb Your Hair",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782968652/Vectores_de_Ni%C3%B1os_-_Descarga_vectores_gratis_de_gran_calidad___Magnific_antes_Freepik_cddrue.webp",
+      "audio": null
+    },
+    {
+      "id": "cut_your_nails",
+      "name": "Cut Your Nails",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782968735/Nail_Clippers_Set_Hompie_Stainless_Steel_Sharp_Fingernail_Toenail_Clippers_Nails_Cutter_Manicure_Set_Trimmer_Set_with_Luxurious_Travel_Case_and_2_Files_for_Men_Women_Gift_for_Easter_2_Pack_Silver_quao3p.jpg",
+      "audio": null
+    },
+    {
+      "id": "wear_clean_clothes",
+      "name": "Wear Clean Clothes",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782968873/Cute_little_boy_wearing_clothes_get_dressed_daily_routine_activity_aywhc3.webp",
+      "audio": null
+    },
+    {
+      "id": "wear_your_shoes",
+      "name": "Wear Your Shoes",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782968939/First_Walkers_eyfcja.jpg",
+      "audio": null
+    },
+    {
+      "id": "pray_to_god",
+      "name": "Pray to God",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969024/Keep_our_youth_in_prayer_zqx2ou.jpg",
+      "audio": null
+    },
+    {
+      "id": "eat_food",
+      "name": "Eat Food",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969162/download_-_2026-07-02T104226.682_gv4aac.jpg",
+      "audio": null
+    },
+    {
+      "id": "drink_water",
+      "name": "Drink Water",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969238/download_-_2026-07-02T104343.072_dkaxtj.jpg",
+      "audio": null
+    },
+    {
+      "id": "go_to_school",
+      "name": "Go to School",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969298/chico_yendo_a_el_colegio_vector_ilustraci%C3%B3n_mvryu8.jpg",
+      "audio": null
+    },
+    {
+      "id": "listen_to_teacher",
+      "name": "Listen to Teacher",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969344/Illustration_with_kids_and_teacher_in_a_classroom__Education_illustration._Vector_interior._Teacher_with_pupils_in_a_classroom._Primary_school_kids_zc80lv.jpg",
+      "audio": null
+    },
+    {
+      "id": "read_books",
+      "name": "Read Books",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969405/download_-_2026-07-02T104631.880_w9sgyq.jpg",
+      "audio": null
+    },
+    {
+      "id": "help_others",
+      "name": "Help Others",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969467/download_-_2026-07-02T104734.083_un045m.jpg",
+      "audio": null
+    },
+    {
+      "id": "share_with_friends",
+      "name": "Share with Friends",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969515/download_-_2026-07-02T104822.221_tkfla0.jpg",
+      "audio": null
+    },
+    {
+      "id": "play_cricket",
+      "name": "Play Cricket",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969575/%E0%A4%97%E0%A4%B2%E0%A5%8D%E0%A4%B2%E0%A5%80%E0%A4%A4_%E0%A4%96%E0%A5%87%E0%A4%B3%E0%A4%A3%E0%A4%BE%E0%A4%B0%E0%A5%80_%E0%A4%AE%E0%A5%81%E0%A4%B2%E0%A4%82_nxnely.webp",
+      "audio": null
+    },
+    {
+      "id": "throw_trash_in_bin",
+      "name": "Throw Trash in Bin",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969628/download_1_wsym1v.webp",
+      "audio": null
+    },
+    {
+      "id": "say_thank_you",
+      "name": "Say Thank You",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969730/download_-_2026-07-02T105145.356_ybuubb.jpg",
+      "audio": null
+    },
+    {
+      "id": "respect_elders",
+      "name": "Respect Elders",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782969791/download_-_2026-07-02T105258.840_bmjrsy.jpg",
+      "audio": null
+    }
+  ]
+}

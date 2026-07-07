@@ -1,0 +1,156 @@
+{
+  "id": "daily_routine",
+  "name": "Daily Routine",
+  "items": [
+    {
+      "id": "wake_up",
+      "name": "Wake Up",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "get_out_of_bed",
+      "name": "Get Out of Bed",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "brush_teeth",
+      "name": "Brush Teeth",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wash_face",
+      "name": "Wash Face",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "take_a_bath",
+      "name": "Take a Bath",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "comb_hair",
+      "name": "Comb Hair",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "get_dressed",
+      "name": "Get Dressed",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "eat_breakfast",
+      "name": "Eat Breakfast",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "drink_water",
+      "name": "Drink Water",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "go_to_school",
+      "name": "Go to School",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "study",
+      "name": "Study",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "read_a_book",
+      "name": "Read a Book",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "write",
+      "name": "Write",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "draw",
+      "name": "Draw",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "play",
+      "name": "Play",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "eat_lunch",
+      "name": "Eat Lunch",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "take_a_nap",
+      "name": "Take a Nap",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "eat_dinner",
+      "name": "Eat Dinner",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "do_homework",
+      "name": "Do Homework",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "clean_up",
+      "name": "Clean Up",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wash_hands",
+      "name": "Wash Hands",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "say_thank_you",
+      "name": "Say Thank You",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "go_to_bed",
+      "name": "Go to Bed",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "dream",
+      "name": "Dream",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

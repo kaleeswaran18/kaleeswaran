@@ -1,0 +1,252 @@
+{
+  "id": "greetings_phrases",
+  "name": "Greetings & Phrases",
+  "items": [
+    {
+      "id": "hi",
+      "name": "Hi",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "hello",
+      "name": "Hello",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "good_morning",
+      "name": "Good Morning",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "good_afternoon",
+      "name": "Good Afternoon",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "good_evening",
+      "name": "Good Evening",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "good_night",
+      "name": "Good Night",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "bye",
+      "name": "Bye",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "see_you",
+      "name": "See You",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "please",
+      "name": "Please",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "yes",
+      "name": "Yes",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "no",
+      "name": "No",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "thank_you",
+      "name": "Thank You",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "youre_welcome",
+      "name": "You're Welcome",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sorry",
+      "name": "Sorry",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "excuse_me",
+      "name": "Excuse Me",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "good_job",
+      "name": "Good Job",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "well_done",
+      "name": "Well Done",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "thats_okay",
+      "name": "That's Okay",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "no_problem",
+      "name": "No Problem",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "great",
+      "name": "Great",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "welcome",
+      "name": "Welcome",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "take_care",
+      "name": "Take Care",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "come_here",
+      "name": "Come Here",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "go_there",
+      "name": "Go There",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "look",
+      "name": "Look",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wait",
+      "name": "Wait",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "hurry_up",
+      "name": "Hurry Up",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "lets_go",
+      "name": "Let's Go",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "stop",
+      "name": "Stop",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "open_the_door",
+      "name": "Open the Door",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "close_the_door",
+      "name": "Close the Door",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wear_your_shoes",
+      "name": "Wear Your Shoes",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wear_your_dress",
+      "name": "Wear Your Dress",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "throw_the_ball",
+      "name": "Throw the Ball",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "kick_the_ball",
+      "name": "Kick the Ball",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "run_fast",
+      "name": "Run Fast",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "be_careful",
+      "name": "Be Careful",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "dont_move",
+      "name": "Don't Move",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "dont_run",
+      "name": "Don't Run",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "dont_touch",
+      "name": "Don't Touch",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "dont_shout",
+      "name": "Don't Shout",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

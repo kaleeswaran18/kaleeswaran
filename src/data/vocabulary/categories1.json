@@ -1,0 +1,575 @@
+{
+  "categories": [
+    {
+      "id": "language_learning",
+      "name": "Language & Learning",
+      "emoji": "🔤",
+      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=80",
+      "subcategories": [
+        {
+          "id": "alphabets",
+          "name": "Alphabets",
+          "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
+          "vocabularyFile": "alphabets.json"
+        },
+        {
+          "id": "numbers",
+          "name": "Numbers",
+          "image": "https://images.unsplash.com/photo-1509228627152-72ae9ae6848d?w=600&q=80",
+          "vocabularyFile": "numbers.json"
+        },
+        {
+          "id": "colors",
+          "name": "Colors",
+          "image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=600&q=80",
+          "vocabularyFile": "colors.json"
+        },
+        {
+          "id": "shapes",
+          "name": "Shapes",
+          "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=600&q=80",
+          "vocabularyFile": "shapes.json"
+        },
+        {
+          "id": "lines",
+          "name": "Lines",
+          "image": "https://images.unsplash.com/photo-1486325212027-8081e485255e?w=600&q=80",
+          "vocabularyFile": "lines.json"
+        }
+      ]
+    },
+    {
+      "id": "living_things",
+      "name": "Living Things",
+      "emoji": "🐾",
+      "image": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?w=600&q=80",
+      "subcategories": [
+        {
+          "id": "farm_animals",
+          "name": "Farm Animals",
+          "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=600&q=80",
+          "vocabularyFile": "farm_animals.json"
+        },
+        {
+          "id": "wild_animals",
+          "name": "Wild Animals",
+          "image": "https://images.unsplash.com/photo-1564349683136-77e08dba1ef7?w=600&q=80",
+          "vocabularyFile": "wild_animals.json"
+        },
+        {
+          "id": "reptiles_amphibians",
+          "name": "Reptiles & Amphibians",
+          "image": "https://images.unsplash.com/photo-1510832198440-a52376950479?w=600&q=80",
+          "vocabularyFile": "reptiles_amphibians.json"
+        },
+        {
+          "id": "sea_creatures",
+          "name": "Sea Creatures",
+          "image": "https://images.unsplash.com/photo-1518020382113-a7e8fc38eac9?w=600&q=80",
+          "vocabularyFile": "sea_creatures.json"
+        },
+        {
+          "id": "insects",
+          "name": "Insects",
+          "image": "https://images.unsplash.com/photo-1550159930-40066082a4fc?w=600&q=80",
+          "vocabularyFile": "insects.json"
+        },
+        {
+          "id": "birds",
+          "name": "Birds",
+          "image": "https://images.unsplash.com/photo-1444464666168-49d633b86797?w=600&q=80",
+          "vocabularyFile": "birds.json"
+        }
+      ]
+    },
+    {
+      "id": "food_plants",
+      "name": "Food & Plants",
+      "emoji": "🍎",
+      "image": "https://images.unsplash.com/photo-1490818387583-1baba5e638af?w=600&q=80",
+      "subcategories": [
+        {
+          "id": "fruits",
+          "name": "Fruits",
+          "image": "https://images.unsplash.com/photo-1619566636858-adf3ef46400b?w=600&q=80",
+          "vocabularyFile": "fruits.json"
+        },
+        {
+          "id": "vegetables",
+          "name": "Vegetables",
+          "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=600&q=80",
+          "vocabularyFile": "vegetables.json"
+        },
+        {
+          "id": "food",
+          "name": "Food",
+          "image": "https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=600&q=80",
+          "vocabularyFile": "food.json"
+        },
+       
+        {
+          "id": "flowers",
+          "name": "Flowers"
+        },
+        {
+          "id": "trees",
+          "name": "Trees"
+        }
+      ]
+    },
+    {
+      "id": "concepts",
+      "name": "Concepts",
+      "emoji": "🧭",
+      "image": "https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=600&q=80",
+      "subcategories": [
+        {
+          "id": "directions",
+          "name": "Directions",
+          "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?w=600&q=80",
+          "vocabularyFile": "directions.json"
+        },
+        {
+          "id": "prepositions",
+          "name": "Prepositions",
+          "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=600&q=80",
+          "vocabularyFile": "prepositions.json"
+        },
+        {
+          "id": "symbols",
+          "name": "Common Symbols",
+          "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=600&q=80",
+          "vocabularyFile": "symbols.json"
+        },
+        {
+          "id": "days",
+          "name": "Days of the Week",
+          "image": "https://images.unsplash.com/photo-1506784365847-bbad939e9335?w=600&q=80",
+          "vocabularyFile": "days.json"
+        },
+        {
+          "id": "months",
+          "name": "Months of the Year",
+          "image": "https://images.unsplash.com/photo-1508193638397-1c4234db14d8?w=600&q=80",
+          "vocabularyFile": "months.json"
+        },
+        {
+          "id": "time",
+          "name": "Time"
+        }
+      ]
+    },
+    {
+      "id": "language_communication",
+      "name": "Language & Communication",
+      "emoji": "🗣️",
+      "subcategories": [
+        {
+          "id": "greetings",
+          "name": "Greetings"
+        },
+        {
+          "id": "daily_conversation",
+          "name": "Daily Conversation"
+        },
+        {
+          "id": "common_words",
+          "name": "Common Words"
+        },
+        {
+          "id": "everyday_expressions",
+          "name": "Everyday Expressions"
+        },
+        {
+          "id": "polite_expressions",
+          "name": "Polite Expressions"
+        },
+        {
+          "id": "vocabulary_builder",
+          "name": "Vocabulary Builder"
+        },
+        {
+          "id": "sentence_patterns",
+          "name": "Sentence Patterns"
+        }
+      ]
+    },
+    {
+      "id": "grammar",
+      "name": "Grammar",
+      "emoji": "📝",
+      "subcategories": [
+        {
+          "id": "action_verbs",
+          "name": "Action Verbs"
+        },
+        {
+          "id": "helping_verbs",
+          "name": "Helping Verbs"
+        },
+        {
+          "id": "adjectives",
+          "name": "Adjectives"
+        },
+        {
+          "id": "adverbs",
+          "name": "Adverbs"
+        },
+        {
+          "id": "pronouns",
+          "name": "Pronouns"
+        },
+        {
+          "id": "articles",
+          "name": "Articles"
+        },
+        {
+          "id": "conjunctions",
+          "name": "Conjunctions"
+        },
+        {
+          "id": "question_words",
+          "name": "Question Words"
+        },
+        {
+          "id": "opposites",
+          "name": "Opposites"
+        },
+        {
+          "id": "phrasal_verbs",
+          "name": "Phrasal Verbs"
+        },
+        {
+          "id": "idioms",
+          "name": "Idioms"
+        },
+        {
+          "id": "proverbs",
+          "name": "Proverbs"
+        },
+        {
+          "id": "grammar_basics",
+          "name": "Grammar Basics"
+        }
+      ]
+    },
+    {
+      "id": "people_personality",
+      "name": "People & Personality",
+      "emoji": "👨‍👩‍👧",
+      "subcategories": [
+        {
+          "id": "family",
+          "name": "Family"
+        },
+        {
+          "id": "friends",
+          "name": "Friends"
+        },
+        {
+          "id": "relationships_trust",
+          "name": "Relationships & Trust"
+        },
+        {
+          "id": "people",
+          "name": "People"
+        },
+        {
+          "id": "feelings_emotions",
+          "name": "Feelings & Emotions"
+        },
+        {
+          "id": "personality_traits",
+          "name": "Personality Traits"
+        },
+        {
+          "id": "human_nature",
+          "name": "Human Nature"
+        },
+        {
+          "id": "character_behavior",
+          "name": "Character & Behavior"
+        },
+        {
+          "id": "positive_words",
+          "name": "Positive Words"
+        },
+        {
+          "id": "negative_words",
+          "name": "Negative Words"
+        },
+        {
+          "id": "motivational_words",
+          "name": "Motivational Words"
+        }
+      ]
+    },
+    {
+      "id": "body_health",
+      "name": "Body & Health",
+      "emoji": "🩺",
+      "subcategories": [
+        {
+          "id": "body_parts",
+          "name": "Body Parts"
+        },
+        {
+          "id": "health",
+          "name": "Health"
+        },
+        {
+          "id": "clothes",
+          "name": "Clothes"
+        }
+      ]
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "emoji": "🐾",
+      "subcategories": [
+        {
+          "id": "pets",
+          "name": "Pets"
+        },
+        {
+          "id": "sea_animals",
+          "name": "Sea Animals"
+        },
+        {
+          "id": "reptiles",
+          "name": "Reptiles"
+        },
+        {
+          "id": "amphibians",
+          "name": "Amphibians"
+        }
+      ]
+    },
+    {
+      "id": "nature_environment",
+      "name": "Nature & Environment",
+      "emoji": "🌍",
+      "subcategories": [
+        {
+          "id": "nature",
+          "name": "Nature"
+        },
+        {
+          "id": "weather",
+          "name": "Weather"
+        },
+        {
+          "id": "seasons",
+          "name": "Seasons"
+        },
+        {
+          "id": "space",
+          "name": "Space"
+        },
+        {
+          "id": "environment",
+          "name": "Environment"
+        }
+      ]
+    },
+    {
+      "id": "home_daily_life",
+      "name": "Home & Daily Life",
+      "emoji": "🏠",
+      "subcategories": [
+        {
+          "id": "home",
+          "name": "Home"
+        },
+        {
+          "id": "living_room",
+          "name": "Living Room"
+        },
+        {
+          "id": "bedroom",
+          "name": "Bedroom"
+        },
+        {
+          "id": "bathroom",
+          "name": "Bathroom"
+        },
+        {
+          "id": "kitchen",
+          "name": "Kitchen"
+        },
+        {
+          "id": "furniture",
+          "name": "Furniture"
+        },
+        {
+          "id": "household_items",
+          "name": "Household Items"
+        },
+        {
+          "id": "daily_routine",
+          "name": "Daily Routine"
+        },
+        {
+          "id": "good_habits",
+          "name": "Good Habits"
+        }
+      ]
+    },
+    {
+      "id": "school_learning",
+      "name": "School & Learning",
+      "emoji": "🎓",
+      "subcategories": [
+        {
+          "id": "school",
+          "name": "School"
+        },
+        {
+          "id": "classroom_objects",
+          "name": "Classroom Objects"
+        }
+      ]
+    },
+    {
+      "id": "world_around_us",
+      "name": "World Around Us",
+      "emoji": "🚗",
+      "subcategories": [
+        {
+          "id": "vehicles",
+          "name": "Vehicles"
+        },
+        {
+          "id": "transportation",
+          "name": "Transportation"
+        },
+        {
+          "id": "places",
+          "name": "Places"
+        },
+        {
+          "id": "travel",
+          "name": "Travel"
+        },
+        {
+          "id": "shopping",
+          "name": "Shopping"
+        },
+        {
+          "id": "money",
+          "name": "Money"
+        },
+        {
+          "id": "banking",
+          "name": "Banking"
+        },
+        {
+          "id": "jobs_professions",
+          "name": "Jobs & Professions"
+        },
+        {
+          "id": "office",
+          "name": "Office"
+        },
+        {
+          "id": "tools",
+          "name": "Tools"
+        }
+      ]
+    },
+    {
+      "id": "technology",
+      "name": "Technology",
+      "emoji": "💻",
+      "subcategories": [
+        {
+          "id": "electronics",
+          "name": "Electronics"
+        },
+        {
+          "id": "technology",
+          "name": "Technology"
+        },
+        {
+          "id": "internet_computer",
+          "name": "Internet & Computer"
+        },
+        {
+          "id": "mobile_apps",
+          "name": "Mobile & Apps"
+        }
+      ]
+    },
+    {
+      "id": "fun_creativity",
+      "name": "Fun & Creativity",
+      "emoji": "🎨",
+      "subcategories": [
+        {
+          "id": "sports",
+          "name": "Sports"
+        },
+        {
+          "id": "games",
+          "name": "Games"
+        },
+        {
+          "id": "music",
+          "name": "Music"
+        },
+        {
+          "id": "dance",
+          "name": "Dance"
+        },
+        {
+          "id": "art_drawing",
+          "name": "Art & Drawing"
+        },
+        {
+          "id": "hobbies",
+          "name": "Hobbies"
+        }
+      ]
+    },
+    {
+      "id": "society_culture",
+      "name": "Society & Culture",
+      "emoji": "🎉",
+      "subcategories": [
+        {
+          "id": "festivals",
+          "name": "Festivals"
+        },
+        {
+          "id": "culture",
+          "name": "Culture"
+        },
+        {
+          "id": "national_symbols",
+          "name": "National Symbols"
+        }
+      ]
+    },
+    {
+      "id": "safety",
+      "name": "Safety",
+      "emoji": "🚨",
+      "subcategories": [
+        {
+          "id": "emergency",
+          "name": "Emergency"
+        },
+        {
+          "id": "safety",
+          "name": "Safety"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+

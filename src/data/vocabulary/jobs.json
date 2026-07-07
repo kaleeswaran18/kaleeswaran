@@ -1,0 +1,138 @@
+{
+  "id": "jobs",
+  "name": "Jobs",
+  "items": [
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "image": "https://images.unsplash.com/photo-1500000000651?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "teacher",
+      "name": "Teacher",
+      "image": "https://images.unsplash.com/photo-1500000000732?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "engineer",
+      "name": "Engineer",
+      "image": "https://images.unsplash.com/photo-1500000000845?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "image": "https://images.unsplash.com/photo-1500000000557?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "pilot",
+      "name": "Pilot",
+      "image": "https://images.unsplash.com/photo-1500000000552?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "chef",
+      "name": "Chef",
+      "image": "https://images.unsplash.com/photo-1500000000406?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "farmer",
+      "name": "Farmer",
+      "image": "https://images.unsplash.com/photo-1500000000637?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "driver",
+      "name": "Driver",
+      "image": "https://images.unsplash.com/photo-1500000000652?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "police",
+      "name": "Police",
+      "image": "https://images.unsplash.com/photo-1500000000636?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "firefighter",
+      "name": "Firefighter",
+      "image": "https://images.unsplash.com/photo-1500000001167?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "artist",
+      "name": "Artist",
+      "image": "https://images.unsplash.com/photo-1500000000663?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "singer",
+      "name": "Singer",
+      "image": "https://images.unsplash.com/photo-1500000000648?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "actor",
+      "name": "Actor",
+      "image": "https://images.unsplash.com/photo-1500000000537?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "writer",
+      "name": "Writer",
+      "image": "https://images.unsplash.com/photo-1500000000669?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "lawyer",
+      "name": "Lawyer",
+      "image": "https://images.unsplash.com/photo-1500000000660?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "scientist",
+      "name": "Scientist",
+      "image": "https://images.unsplash.com/photo-1500000000982?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "builder",
+      "name": "Builder",
+      "image": "https://images.unsplash.com/photo-1500000000743?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "mechanic",
+      "name": "Mechanic",
+      "image": "https://images.unsplash.com/photo-1500000000824?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "soldier",
+      "name": "Soldier",
+      "image": "https://images.unsplash.com/photo-1500000000754?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "judge",
+      "name": "Judge",
+      "image": "https://images.unsplash.com/photo-1500000000527?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "banker",
+      "name": "Banker",
+      "image": "https://images.unsplash.com/photo-1500000000627?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "shopkeeper",
+      "name": "Shopkeeper",
+      "image": "https://images.unsplash.com/photo-1500000001078?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

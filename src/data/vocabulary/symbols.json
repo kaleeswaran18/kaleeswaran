@@ -1,0 +1,116 @@
+{
+  "id": "common_symbols",
+  "name": "Common Symbols",
+  "items": [
+   
+    {
+      "id": "star",
+      "name": "Star",
+      "image": "https://dummyimage.com/800x800/ffffff/facc15&text=%E2%98%85",
+      "audio": null
+    },
+    {
+      "id": "check_mark",
+      "name": "Check Mark",
+      "image": "https://dummyimage.com/800x800/ffffff/16a34a&text=%E2%9C%93",
+      "audio": null
+    },
+    {
+      "id": "cross_mark",
+      "name": "Cross Mark",
+      "image": "https://dummyimage.com/800x800/ffffff/dc2626&text=%E2%9C%95",
+      "audio": null
+    },
+    {
+      "id": "plus",
+      "name": "Plus",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=%2B",
+      "audio": null
+    },
+    {
+      "id": "minus",
+      "name": "Minus",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=-",
+      "audio": null
+    },
+    {
+      "id": "multiply",
+      "name": "Multiply",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=%C3%97",
+      "audio": null
+    },
+    {
+      "id": "divide",
+      "name": "Divide",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=%C3%B7",
+      "audio": null
+    },
+    {
+      "id": "equal",
+      "name": "Equal",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=%3D",
+      "audio": null
+    },
+    {
+      "id": "percent",
+      "name": "Percent",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=%25",
+      "audio": null
+    },
+    
+    {
+      "id": "dollar",
+      "name": "Dollar",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=%24",
+      "audio": null
+    },
+    {
+      "id": "at",
+      "name": "At",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=%40",
+      "audio": null
+    },
+    {
+      "id": "hash",
+      "name": "Hash",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=%23",
+      "audio": null
+    },
+    {
+      "id": "ampersand",
+      "name": "Ampersand",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=%26",
+      "audio": null
+    },
+    {
+      "id": "question_mark",
+      "name": "Question Mark",
+      "image": "https://dummyimage.com/800x800/ffffff/2563eb&text=%3F",
+      "audio": null
+    },
+    {
+      "id": "exclamation_mark",
+      "name": "Exclamation Mark",
+      "image": "https://dummyimage.com/800x800/ffffff/f59e0b&text=%21",
+      "audio": null
+    },
+    {
+      "id": "full_stop",
+      "name": "Full Stop",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=.",
+      "audio": null
+    },
+    {
+      "id": "comma",
+      "name": "Comma",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=%2C",
+      "audio": null
+    },
+    {
+      "id": "slash",
+      "name": "Slash",
+      "image": "https://dummyimage.com/800x800/ffffff/000000&text=%2F",
+      "audio": null
+    }
+  ]
+}

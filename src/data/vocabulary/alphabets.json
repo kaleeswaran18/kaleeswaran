@@ -1,0 +1,162 @@
+{
+  "id": "alphabets",
+  "name": "Alphabets",
+  "items": [
+    {
+      "id": "a",
+      "name": "A",
+      "image": "https://dummyimage.com/800x800/ff4d4d/ffffff&text=A",
+      "audio": null
+    },
+    {
+      "id": "b",
+      "name": "B",
+      "image": "https://dummyimage.com/800x800/4d79ff/ffffff&text=B",
+      "audio": null
+    },
+    {
+      "id": "c",
+      "name": "C",
+      "image": "https://dummyimage.com/800x800/00b894/ffffff&text=C",
+      "audio": null
+    },
+    {
+      "id": "d",
+      "name": "D",
+      "image": "https://dummyimage.com/800x800/f39c12/ffffff&text=D",
+      "audio": null
+    },
+    {
+      "id": "e",
+      "name": "E",
+      "image": "https://dummyimage.com/800x800/9b59b6/ffffff&text=E",
+      "audio": null
+    },
+    {
+      "id": "f",
+      "name": "F",
+      "image": "https://dummyimage.com/800x800/e74c3c/ffffff&text=F",
+      "audio": null
+    },
+    {
+      "id": "g",
+      "name": "G",
+      "image": "https://dummyimage.com/800x800/16a085/ffffff&text=G",
+      "audio": null
+    },
+    {
+      "id": "h",
+      "name": "H",
+      "image": "https://dummyimage.com/800x800/3498db/ffffff&text=H",
+      "audio": null
+    },
+    {
+      "id": "i",
+      "name": "I",
+      "image": "https://dummyimage.com/800x800/f1c40f/000000&text=I",
+      "audio": null
+    },
+    {
+      "id": "j",
+      "name": "J",
+      "image": "https://dummyimage.com/800x800/e67e22/ffffff&text=J",
+      "audio": null
+    },
+    {
+      "id": "k",
+      "name": "K",
+      "image": "https://dummyimage.com/800x800/2ecc71/ffffff&text=K",
+      "audio": null
+    },
+    {
+      "id": "l",
+      "name": "L",
+      "image": "https://dummyimage.com/800x800/1abc9c/ffffff&text=L",
+      "audio": null
+    },
+    {
+      "id": "m",
+      "name": "M",
+      "image": "https://dummyimage.com/800x800/8e44ad/ffffff&text=M",
+      "audio": null
+    },
+    {
+      "id": "n",
+      "name": "N",
+      "image": "https://dummyimage.com/800x800/34495e/ffffff&text=N",
+      "audio": null
+    },
+    {
+      "id": "o",
+      "name": "O",
+      "image": "https://dummyimage.com/800x800/ff6b6b/ffffff&text=O",
+      "audio": null
+    },
+    {
+      "id": "p",
+      "name": "P",
+      "image": "https://dummyimage.com/800x800/6c5ce7/ffffff&text=P",
+      "audio": null
+    },
+    {
+      "id": "q",
+      "name": "Q",
+      "image": "https://dummyimage.com/800x800/00cec9/ffffff&text=Q",
+      "audio": null
+    },
+    {
+      "id": "r",
+      "name": "R",
+      "image": "https://dummyimage.com/800x800/d63031/ffffff&text=R",
+      "audio": null
+    },
+    {
+      "id": "s",
+      "name": "S",
+      "image": "https://dummyimage.com/800x800/0984e3/ffffff&text=S",
+      "audio": null
+    },
+    {
+      "id": "t",
+      "name": "T",
+      "image": "https://dummyimage.com/800x800/fdcB6e/000000&text=T",
+      "audio": null
+    },
+    {
+      "id": "u",
+      "name": "U",
+      "image": "https://dummyimage.com/800x800/00b894/ffffff&text=U",
+      "audio": null
+    },
+    {
+      "id": "v",
+      "name": "V",
+      "image": "https://dummyimage.com/800x800/e84393/ffffff&text=V",
+      "audio": null
+    },
+    {
+      "id": "w",
+      "name": "W",
+      "image": "https://dummyimage.com/800x800/6c5ce7/ffffff&text=W",
+      "audio": null
+    },
+    {
+      "id": "x",
+      "name": "X",
+      "image": "https://dummyimage.com/800x800/00cec9/ffffff&text=X",
+      "audio": null
+    },
+    {
+      "id": "y",
+      "name": "Y",
+      "image": "https://dummyimage.com/800x800/f39c12/ffffff&text=Y",
+      "audio": null
+    },
+    {
+      "id": "z",
+      "name": "Z",
+      "image": "https://dummyimage.com/800x800/2d3436/ffffff&text=Z",
+      "audio": null
+    }
+  ]
+}

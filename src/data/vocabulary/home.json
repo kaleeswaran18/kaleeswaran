@@ -1,0 +1,138 @@
+{
+  "id": "home",
+  "name": "Home",
+  "items": [
+    {
+      "id": "house",
+      "name": "House",
+      "image": "https://images.unsplash.com/photo-1500000000548?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "room",
+      "name": "Room",
+      "image": "https://images.unsplash.com/photo-1500000000445?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "door",
+      "name": "Door",
+      "image": "https://images.unsplash.com/photo-1500000000436?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "window",
+      "name": "Window",
+      "image": "https://images.unsplash.com/photo-1500000000664?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "wall",
+      "name": "Wall",
+      "image": "https://images.unsplash.com/photo-1500000000432?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "floor",
+      "name": "Floor",
+      "image": "https://images.unsplash.com/photo-1500000000546?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "roof",
+      "name": "Roof",
+      "image": "https://images.unsplash.com/photo-1500000000438?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "kitchen",
+      "name": "Kitchen",
+      "image": "https://images.unsplash.com/photo-1500000000742?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "bedroom",
+      "name": "Bedroom",
+      "image": "https://images.unsplash.com/photo-1500000000744?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "bathroom",
+      "name": "Bathroom",
+      "image": "https://images.unsplash.com/photo-1500000000860?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "living-room",
+      "name": "Living Room",
+      "image": "https://images.unsplash.com/photo-1500000001126?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "dining-room",
+      "name": "Dining Room",
+      "image": "https://images.unsplash.com/photo-1500000001110?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "garage",
+      "name": "Garage",
+      "image": "https://images.unsplash.com/photo-1500000000615?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "garden",
+      "name": "Garden",
+      "image": "https://images.unsplash.com/photo-1500000000625?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "balcony",
+      "name": "Balcony",
+      "image": "https://images.unsplash.com/photo-1500000000744?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "stairs",
+      "name": "Stairs",
+      "image": "https://images.unsplash.com/photo-1500000000662?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "hallway",
+      "name": "Hallway",
+      "image": "https://images.unsplash.com/photo-1500000000754?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "basement",
+      "name": "Basement",
+      "image": "https://images.unsplash.com/photo-1500000000847?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "attic",
+      "name": "Attic",
+      "image": "https://images.unsplash.com/photo-1500000000533?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "fence",
+      "name": "Fence",
+      "image": "https://images.unsplash.com/photo-1500000000513?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "gate",
+      "name": "Gate",
+      "image": "https://images.unsplash.com/photo-1500000000417?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    },
+    {
+      "id": "yard",
+      "name": "Yard",
+      "image": "https://images.unsplash.com/photo-1500000000432?w=800&q=80&auto=format&fit=crop",
+      "audio": null
+    }
+  ]
+}

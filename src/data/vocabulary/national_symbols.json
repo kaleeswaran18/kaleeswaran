@@ -1,0 +1,150 @@
+{
+  "id": "national_symbols",
+  "name": "National Symbols",
+  "items": [
+    {
+      "id": "national_flag",
+      "name": "National Flag",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "indian_flag",
+      "name": "Indian Flag",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "national_anthem",
+      "name": "National Anthem",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "national_song",
+      "name": "National Song",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "national_emblem",
+      "name": "National Emblem",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "ashoka_chakra",
+      "name": "Ashoka Chakra",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "constitution",
+      "name": "Constitution",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "parliament",
+      "name": "Parliament",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "president",
+      "name": "President",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "prime_minister",
+      "name": "Prime Minister",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "republic_day",
+      "name": "Republic Day",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "independence_day",
+      "name": "Independence Day",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "state",
+      "name": "State",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "capital_city",
+      "name": "Capital City",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "chief_minister",
+      "name": "Chief Minister",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "governor",
+      "name": "Governor",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "district",
+      "name": "District",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "village",
+      "name": "Village",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "city",
+      "name": "City",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "national_animal",
+      "name": "National Animal",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "national_bird",
+      "name": "National Bird",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "national_flower",
+      "name": "National Flower",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "national_fruit",
+      "name": "National Fruit",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "national_tree",
+      "name": "National Tree",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

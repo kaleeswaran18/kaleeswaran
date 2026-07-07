@@ -1,0 +1,156 @@
+{
+  "id": "tools",
+  "name": "Tools",
+  "items": [
+    {
+      "id": "hammer",
+      "name": "Hammer",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "screwdriver",
+      "name": "Screwdriver",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wrench",
+      "name": "Wrench",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "pliers",
+      "name": "Pliers",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "saw",
+      "name": "Saw",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "drill",
+      "name": "Drill",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "tape_measure",
+      "name": "Tape Measure",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "ruler",
+      "name": "Ruler",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "scissors",
+      "name": "Scissors",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "utility_knife",
+      "name": "Utility Knife",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "paint_brush",
+      "name": "Paint Brush",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "paint_roller",
+      "name": "Paint Roller",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "ladder",
+      "name": "Ladder",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "toolbox",
+      "name": "Toolbox",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "flashlight",
+      "name": "Flashlight",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "shovel",
+      "name": "Shovel",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "spade",
+      "name": "Spade",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "rake",
+      "name": "Rake",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "watering_can",
+      "name": "Watering Can",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "trowel",
+      "name": "Trowel",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "glue_gun",
+      "name": "Glue Gun",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "sandpaper",
+      "name": "Sandpaper",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "clamp",
+      "name": "Clamp",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "safety_helmet",
+      "name": "Safety Helmet",
+      "image": "",
+      "audio": null
+    },
+    {
+      "id": "wheelbarrow",
+      "name": "Wheelbarrow",
+      "image": "",
+      "audio": null
+    }
+  ]
+}

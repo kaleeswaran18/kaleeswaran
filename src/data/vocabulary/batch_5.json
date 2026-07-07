@@ -1,0 +1,606 @@
+{
+  "id": "batch_5",
+  "name": "English Communication - Batch 5",
+  "items": [
+    {
+      "id": "divide",
+      "name": "Divide (பிரி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "double",
+      "name": "Double (இரட்டிப்பாக்கு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "doubt",
+      "name": "Doubt (சந்தேகி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "draw",
+      "name": "Draw (வரை)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "drive",
+      "name": "Drive (இயக்கு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "educate",
+      "name": "Educate (கல்வி அளி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "embed",
+      "name": "Embed (பொருத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "emerge",
+      "name": "Emerge (வெளிப்படு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "employ",
+      "name": "Employ (வேலைக்கு அமர்த்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "enable",
+      "name": "Enable (இயலச் செய்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "encounter",
+      "name": "Encounter (எதிர்கொள்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "endure",
+      "name": "Endure (தாங்கு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "enforce",
+      "name": "Enforce (அமல்படுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "enlist",
+      "name": "Enlist (பட்டியலிடு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "enrich",
+      "name": "Enrich (செழுமைப்படுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "entail",
+      "name": "Entail (உள்ளடக்கு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "enter",
+      "name": "Enter (நுழை)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "entertain",
+      "name": "Entertain (மகிழ்வி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "equip",
+      "name": "Equip (தேவையானவை வழங்கு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "erase",
+      "name": "Erase (அழி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "escalate",
+      "name": "Escalate (தீவிரப்படுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "escort",
+      "name": "Escort (வழிநடத்திச் செல்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "exceed",
+      "name": "Exceed (மிஞ்சு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "exchange",
+      "name": "Exchange (பரிமாறு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "excel",
+      "name": "Excel (சிறப்பாகச் செய்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "exhibit",
+      "name": "Exhibit (காட்சிப்படுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "exist",
+      "name": "Exist (இரு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "expect",
+      "name": "Expect (எதிர்பார்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "experience",
+      "name": "Experience (அனுபவி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "expire",
+      "name": "Expire (காலாவதியாகு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "explain",
+      "name": "Explain (விளக்கு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "express",
+      "name": "Express (வெளிப்படுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "extract",
+      "name": "Extract (பிரித்தெடு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "face",
+      "name": "Face (எதிர்கொள்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "fail",
+      "name": "Fail (தோல்வியடை)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "favor",
+      "name": "Favor (ஆதரி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "feature",
+      "name": "Feature (சிறப்பம்சமாகக் கொள்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "file",
+      "name": "File (தாக்கல் செய்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "fill",
+      "name": "Fill (நிரப்பு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "filter",
+      "name": "Filter (வடிகட்டு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "finance",
+      "name": "Finance (நிதியளி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "fit",
+      "name": "Fit (பொருந்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "fix",
+      "name": "Fix (சரிசெய்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "flow",
+      "name": "Flow (ஓடு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "focus",
+      "name": "Focus (கவனம் செலுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "follow",
+      "name": "Follow (பின்பற்று)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "force",
+      "name": "Force (வலியுறுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "foresee",
+      "name": "Foresee (முன்கூட்டியே காண்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "form",
+      "name": "Form (உருவாக்கு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "formulate",
+      "name": "Formulate (வடிவமை)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "found",
+      "name": "Found (நிறுவு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "frame",
+      "name": "Frame (வடிவமை)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "fund",
+      "name": "Fund (நிதியளி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "gain",
+      "name": "Gain (பெறு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "gather",
+      "name": "Gather (சேகரி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "grant",
+      "name": "Grant (வழங்கு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "greet",
+      "name": "Greet (வாழ்த்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "grow",
+      "name": "Grow (வளர்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "guide",
+      "name": "Guide (வழிகாட்டு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "halt",
+      "name": "Halt (நிறுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "hesitate",
+      "name": "Hesitate (தயங்கு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "hire",
+      "name": "Hire (வேலைக்கு அமர்த்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "hold",
+      "name": "Hold (வைத்திரு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "host",
+      "name": "Host (விருந்தோம்பு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "ignore",
+      "name": "Ignore (புறக்கணி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "imagine",
+      "name": "Imagine (கற்பனை செய்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "impose",
+      "name": "Impose (சுமத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "improve",
+      "name": "Improve (மேம்படுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "include",
+      "name": "Include (சேர்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "incur",
+      "name": "Incur (ஏற்படுத்திக்கொள்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "indulge",
+      "name": "Indulge (இன்பம் அனுபவி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "infer",
+      "name": "Infer (அனுமானி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "inform",
+      "name": "Inform (தெரிவி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "inherit",
+      "name": "Inherit (வாரிசாகப் பெறு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "insert",
+      "name": "Insert (நுழைத்துச் செருகு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "insist",
+      "name": "Insist (வலியுறுத்திக் கூறு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "inspect",
+      "name": "Inspect (ஆய்வு செய்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "instruct",
+      "name": "Instruct (அறிவுறுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "insure",
+      "name": "Insure (காப்பீடு செய்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "intend",
+      "name": "Intend (நோக்கமாகக் கொள்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "invite",
+      "name": "Invite (அழை)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "involve",
+      "name": "Involve (ஈடுபடுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "join",
+      "name": "Join (சேர்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "judge",
+      "name": "Judge (தீர்ப்பளி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "keep",
+      "name": "Keep (வைத்திரு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "lead",
+      "name": "Lead (வழிநடத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "learn",
+      "name": "Learn (கற்றுக்கொள்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "lend",
+      "name": "Lend (கடன் கொடு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "limit",
+      "name": "Limit (வரம்பு விதி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "link",
+      "name": "Link (இணை)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "list",
+      "name": "List (பட்டியலிடு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "listen",
+      "name": "Listen (கேள்)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "load",
+      "name": "Load (ஏற்று)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "locate",
+      "name": "Locate (இடம் கண்டறி)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "lower",
+      "name": "Lower (குறை)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "magnify",
+      "name": "Magnify (பெரிதுபடுத்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "merge",
+      "name": "Merge (இணை)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "minimize",
+      "name": "Minimize (குறைந்தபட்சமாக்கு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "model",
+      "name": "Model (மாதிரி உருவாக்கு)",
+      "image": "placeholder.webp",
+      "audio": null
+    },
+    {
+      "id": "move",
+      "name": "Move (நகர்த்து)",
+      "image": "placeholder.webp",
+      "audio": null
+    }
+  ]
+}

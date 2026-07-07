@@ -1,0 +1,56 @@
+{
+  "id": "lines",
+  "name": "Lines",
+  "items": [
+    {
+      "id": "standing_line",
+      "name": "Standing Line",
+            "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559027/Luxury_fashion_independent_designers___SSENSE_gy5roq.jpg",
+
+      "audio": null
+    },
+    {
+      "id": "sleeping_line",
+      "name": "Sleeping Line",
+            "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559069/Beeldaspect_lijn_sgyt4b.jpg",
+
+      "audio": null
+    },
+    {
+      "id": "slanting_line",
+      "name": "Slanting Line",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559117/Diagonal_PNG_Images_Transparent_HD_Photo_Clipart_osqiwd.jpg",
+      "audio": null
+    },
+    {
+      "id": "curved_line",
+      "name": "Curved Line",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558870/Curved_o5gaxs.jpg",
+      "audio": null
+    },
+    {
+      "id": "zigzag_line",
+      "name": "Zigzag Line",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558927/download_58_mhxmvn.jpg",
+      "audio": null
+    },
+    {
+      "id": "wavy_line",
+      "name": "Wavy Line",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782558971/waves_lines_border_iwroul.jpg",
+      "audio": null
+    },
+    {
+      "id": "spiral_line",
+      "name": "Spiral Line",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782814750/%C3%87%C4%B0ZG%C4%B0_%C3%87ALI%C5%9EMALARI_kujncg.jpg",
+      "audio": null
+    },
+    {
+      "id": "parallel_lines",
+      "name": "Parallel Lines",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782559237/Parallel_Lines_PNG_Images_Transparent_HD_Photo_Clipart_l3sjvl.jpg",
+      "audio": null
+    }
+  ]
+}

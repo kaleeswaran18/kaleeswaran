@@ -1,0 +1,78 @@
+{
+  "id": "insects",
+  "name": "Insects",
+  "items": [
+    {
+      "id": "starfish",
+      "name": "Starfish",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782546866/The_Spiritual_Meaning_of_Starfish_Symbolism_in_Your_Life_ml48af.jpg",
+      "audio": null
+    },
+    {
+      "id": "seahorse",
+      "name": "Seahorse",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782546914/download_44_vnal8m.jpg",
+      "audio": null
+    },
+    {
+      "id": "butterfly",
+      "name": "Butterfly",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782546957/Spiritual_Meaning_of_Monarch_Butterfly_Flying_Around_You_-_Awakening_State_hrqxdh.jpg",
+      "audio": null
+    },
+    {
+      "id": "bee",
+      "name": "Bee",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547002/Premium_Png_Of_Png_Bee_Bumblebee_Animal_Insect_By_Using_Growth_Approximately_Honey_Bee_Bee_Ai_Gene_g7ahtw.jpg",
+      "audio": null
+    },
+    {
+      "id": "ant",
+      "name": "Ant",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547055/download_45_ungewd.jpg",
+      "audio": null
+    },
+    {
+      "id": "spider",
+      "name": "Spider",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547119/Alabama_Spider_Experiments_xbgmwb.jpg",
+      "audio": null
+    },
+    {
+      "id": "ladybug",
+      "name": "Ladybug",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547163/Order_Ladybugs_are_also_called_ladybugs_Women_s_Premium_Organic_Joggers_online___Spreadshirt_sehe2y.jpg",
+      "audio": null
+    },
+    {
+      "id": "dragonfly",
+      "name": "Dragonfly",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547216/Beautiful_Dragonfly_Fabric_Panel_tkub6e.jpg",
+      "audio": null
+    },
+    {
+      "id": "grasshopper",
+      "name": "Grasshopper",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547262/Baixar_ai_gerado_3d_gafanhoto_isolado_em_transparente_fundo_png_gratuitamente_zeqlrl.jpg",
+      "audio": null
+    },
+    {
+      "id": "snail",
+      "name": "Snail",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547304/Snail_k7h1r8.jpg",
+      "audio": null
+    },
+    {
+      "id": "worm",
+      "name": "Worm",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547355/Regenwormen_van_Nederland_in_kaart_gebracht_v45xo6.jpg",
+      "audio": null
+    },
+    {
+      "id": "caterpillar",
+      "name": "Caterpillar",
+      "image": "https://res.cloudinary.com/dkqpkdisv/image/upload/v1782547437/download_46_wh7lxi.jpg",
+      "audio": null
+    }
+  ]
+}
