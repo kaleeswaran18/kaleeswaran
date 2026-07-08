@@ -1,0 +1,814 @@
+{
+  "id": "mathematics_logic",
+  "name": "Mathematics & Logic",
+  "items": [
+    {
+      "id": "mathematics",
+      "name": "Mathematics",
+      "tamilMeaning": "கணிதம்",
+      "example": "She loves solving mathematics problems.",
+      "exampleTamil": "அவள் கணித பிரச்சனைகளை தீர்ப்பதை விரும்புகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "arithmetic",
+      "name": "Arithmetic",
+      "tamilMeaning": "எண்கணிதம்",
+      "example": "He is good at arithmetic.",
+      "exampleTamil": "அவன் எண்கணிதத்தில் திறமையானவன்.",
+      "audio": null
+    },
+    {
+      "id": "algebra",
+      "name": "Algebra",
+      "tamilMeaning": "இயற்கணிதம்",
+      "example": "She studies algebra in school.",
+      "exampleTamil": "அவள் பள்ளியில் இயற்கணிதம் படிக்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "geometry",
+      "name": "Geometry",
+      "tamilMeaning": "வடிவவியல்",
+      "example": "Geometry deals with shapes and sizes.",
+      "exampleTamil": "வடிவவியல் வடிவங்கள் மற்றும் அளவுகள் பற்றி பேசுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "trigonometry",
+      "name": "Trigonometry",
+      "tamilMeaning": "முக்கோணவியல்",
+      "example": "Trigonometry studies triangles and angles.",
+      "exampleTamil": "முக்கோணவியல் முக்கோணங்கள் மற்றும் கோணங்களை ஆய்வு செய்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "calculus",
+      "name": "Calculus",
+      "tamilMeaning": "நுண்கணிதம்",
+      "example": "Calculus is used in engineering.",
+      "exampleTamil": "நுண்கணிதம் பொறியியலில் பயன்படுத்தப்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "statistics",
+      "name": "Statistics",
+      "tamilMeaning": "புள்ளியியல்",
+      "example": "Statistics helps analyze data.",
+      "exampleTamil": "புள்ளியியல் தரவை பகுப்பாய்வு செய்ய உதவுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "probability",
+      "name": "Probability",
+      "tamilMeaning": "நிகழ்தகவு",
+      "example": "The probability of rain is high today.",
+      "exampleTamil": "இன்று மழை பெய்யும் நிகழ்தகவு அதிகம்.",
+      "audio": null
+    },
+    {
+      "id": "logic",
+      "name": "Logic",
+      "tamilMeaning": "தர்க்கம்",
+      "example": "Logic helps in problem solving.",
+      "exampleTamil": "தர்க்கம் பிரச்சனை தீர்வுக்கு உதவுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "reasoning",
+      "name": "Reasoning",
+      "tamilMeaning": "அறிவாற்றல் (பகுத்தறிவு)",
+      "example": "Her reasoning skills are excellent.",
+      "exampleTamil": "அவளது பகுத்தறிவு திறன்கள் சிறப்பானவை.",
+      "audio": null
+    },
+    {
+      "id": "number",
+      "name": "Number",
+      "tamilMeaning": "எண்",
+      "example": "Choose a number between one and ten.",
+      "exampleTamil": "ஒன்று முதல் பத்து வரை ஒரு எண்ணை தேர்ந்தெடுங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "digit",
+      "name": "Digit",
+      "tamilMeaning": "இலக்கம்",
+      "example": "This number has three digits.",
+      "exampleTamil": "இந்த எண்ணுக்கு மூன்று இலக்கங்கள் உள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "integer",
+      "name": "Integer",
+      "tamilMeaning": "முழு எண்",
+      "example": "Negative five is an integer.",
+      "exampleTamil": "எதிர்மறை ஐந்து ஒரு முழு எண் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "fraction",
+      "name": "Fraction",
+      "tamilMeaning": "பின்னம்",
+      "example": "Half is written as a fraction.",
+      "exampleTamil": "அரை என்பது ஒரு பின்னமாக எழுதப்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "decimal",
+      "name": "Decimal",
+      "tamilMeaning": "தசம எண்",
+      "example": "Convert the fraction into a decimal.",
+      "exampleTamil": "பின்னத்தை தசம எண்ணாக மாற்றவும்.",
+      "audio": null
+    },
+    {
+      "id": "percentage",
+      "name": "Percentage",
+      "tamilMeaning": "சதவீதம்",
+      "example": "She scored ninety percentage in the exam.",
+      "exampleTamil": "அவள் தேர்வில் தொண்ணூறு சதவீதம் பெற்றாள்.",
+      "audio": null
+    },
+    {
+      "id": "ratio",
+      "name": "Ratio",
+      "tamilMeaning": "விகிதம்",
+      "example": "The ratio of boys to girls is two to one.",
+      "exampleTamil": "சிறுவர்களுக்கும் சிறுமிகளுக்கும் இடையேயான விகிதம் இரண்டு முதல் ஒன்று.",
+      "audio": null
+    },
+    {
+      "id": "proportion",
+      "name": "Proportion",
+      "tamilMeaning": "விகிதாச்சாரம்",
+      "example": "The recipe uses a proportion of sugar and flour.",
+      "exampleTamil": "சமையல் குறிப்பு சர்க்கரை மற்றும் மாவின் விகிதாச்சாரத்தை பயன்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "average",
+      "name": "Average",
+      "tamilMeaning": "சராசரி",
+      "example": "The average score was seventy.",
+      "exampleTamil": "சராசரி மதிப்பெண் எழுபது ஆக இருந்தது.",
+      "audio": null
+    },
+    {
+      "id": "mean",
+      "name": "Mean",
+      "tamilMeaning": "சராசரி மதிப்பு",
+      "example": "Calculate the mean of these numbers.",
+      "exampleTamil": "இந்த எண்களின் சராசரி மதிப்பை கணக்கிடவும்.",
+      "audio": null
+    },
+    {
+      "id": "median",
+      "name": "Median",
+      "tamilMeaning": "இடைநிலை மதிப்பு",
+      "example": "Find the median of the data set.",
+      "exampleTamil": "தரவுத் தொகுப்பின் இடைநிலை மதிப்பை கண்டறியவும்.",
+      "audio": null
+    },
+    {
+      "id": "mode",
+      "name": "Mode",
+      "tamilMeaning": "முகடு மதிப்பு",
+      "example": "The mode is the most frequent value.",
+      "exampleTamil": "முகடு மதிப்பு என்பது அதிகம் தோன்றும் மதிப்பாகும்.",
+      "audio": null
+    },
+    {
+      "id": "range",
+      "name": "Range",
+      "tamilMeaning": "வீச்சு",
+      "example": "The range of the data is fifty.",
+      "exampleTamil": "தரவின் வீச்சு ஐம்பது ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "equation",
+      "name": "Equation",
+      "tamilMeaning": "சமன்பாடு",
+      "example": "Solve this equation for x.",
+      "exampleTamil": "x-க்காக இந்த சமன்பாட்டை தீர்க்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "expression",
+      "name": "Expression",
+      "tamilMeaning": "கணித வெளிப்பாடு",
+      "example": "Simplify this algebraic expression.",
+      "exampleTamil": "இந்த இயற்கணித வெளிப்பாட்டை எளிமையாக்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "formula",
+      "name": "Formula",
+      "tamilMeaning": "சூத்திரம்",
+      "example": "Use the formula to find the area.",
+      "exampleTamil": "பரப்பளவை கண்டறிய சூத்திரத்தை பயன்படுத்துங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "variable",
+      "name": "Variable",
+      "tamilMeaning": "மாறி",
+      "example": "In this equation, x is the variable.",
+      "exampleTamil": "இந்த சமன்பாட்டில் x என்பது மாறி.",
+      "audio": null
+    },
+    {
+      "id": "constant",
+      "name": "Constant",
+      "tamilMeaning": "மாறிலி",
+      "example": "Pi is a mathematical constant.",
+      "exampleTamil": "பை ஒரு கணித மாறிலி ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "coefficient",
+      "name": "Coefficient",
+      "tamilMeaning": "குணகம்",
+      "example": "The coefficient of x is three.",
+      "exampleTamil": "x-இன் குணகம் மூன்று ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "function",
+      "name": "Function",
+      "tamilMeaning": "சார்பு",
+      "example": "This function calculates the square.",
+      "exampleTamil": "இந்த சார்பு வர்க்கத்தை கணக்கிடுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "graph",
+      "name": "Graph",
+      "tamilMeaning": "வரைபடம்",
+      "example": "Plot the points on a graph.",
+      "exampleTamil": "புள்ளிகளை ஒரு வரைபடத்தில் குறிக்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "coordinate",
+      "name": "Coordinate",
+      "tamilMeaning": "ஆயத்தொலைவு",
+      "example": "Mark the coordinate on the graph.",
+      "exampleTamil": "ஆயத்தொலைவை வரைபடத்தில் குறிக்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "axis",
+      "name": "Axis",
+      "tamilMeaning": "அச்சு",
+      "example": "The x-axis is horizontal.",
+      "exampleTamil": "x-அச்சு கிடைமட்டமானது.",
+      "audio": null
+    },
+    {
+      "id": "origin",
+      "name": "Origin",
+      "tamilMeaning": "மூலப்புள்ளி",
+      "example": "The origin is where both axes meet.",
+      "exampleTamil": "மூலப்புள்ளி என்பது இரு அச்சுகளும் சந்திக்கும் இடம்.",
+      "audio": null
+    },
+    {
+      "id": "point",
+      "name": "Point",
+      "tamilMeaning": "புள்ளி",
+      "example": "Mark a point on the line.",
+      "exampleTamil": "கோட்டில் ஒரு புள்ளியை குறிக்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "line",
+      "name": "Line",
+      "tamilMeaning": "கோடு",
+      "example": "Draw a straight line.",
+      "exampleTamil": "ஒரு நேர்கோட்டை வரையவும்.",
+      "audio": null
+    },
+    {
+      "id": "angle",
+      "name": "Angle",
+      "tamilMeaning": "கோணம்",
+      "example": "This angle measures ninety degrees.",
+      "exampleTamil": "இந்த கோணம் தொண்ணூறு டிகிரி அளவுள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "triangle",
+      "name": "Triangle",
+      "tamilMeaning": "முக்கோணம்",
+      "example": "A triangle has three sides.",
+      "exampleTamil": "ஒரு முக்கோணத்திற்கு மூன்று பக்கங்கள் உள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "square",
+      "name": "Square",
+      "tamilMeaning": "சதுரம்",
+      "example": "All sides of a square are equal.",
+      "exampleTamil": "சதுரத்தின் அனைத்து பக்கங்களும் சமமானவை.",
+      "audio": null
+    },
+    {
+      "id": "rectangle",
+      "name": "Rectangle",
+      "tamilMeaning": "செவ்வகம்",
+      "example": "The rectangle has two pairs of equal sides.",
+      "exampleTamil": "செவ்வகத்திற்கு இரண்டு ஜோடி சம பக்கங்கள் உள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "circle",
+      "name": "Circle",
+      "tamilMeaning": "வட்டம்",
+      "example": "Draw a circle with a compass.",
+      "exampleTamil": "ஒரு கவராயம் கொண்டு வட்டம் வரையவும்.",
+      "audio": null
+    },
+    {
+      "id": "polygon",
+      "name": "Polygon",
+      "tamilMeaning": "பலகோணம்",
+      "example": "A hexagon is a polygon with six sides.",
+      "exampleTamil": "அறுகோணம் ஆறு பக்கங்களைக் கொண்ட ஒரு பலகோணம்.",
+      "audio": null
+    },
+    {
+      "id": "radius",
+      "name": "Radius",
+      "tamilMeaning": "ஆரை",
+      "example": "The radius is half the diameter.",
+      "exampleTamil": "ஆரை என்பது விட்டத்தின் பாதியாகும்.",
+      "audio": null
+    },
+    {
+      "id": "diameter",
+      "name": "Diameter",
+      "tamilMeaning": "விட்டம்",
+      "example": "The diameter of the circle is ten centimeters.",
+      "exampleTamil": "வட்டத்தின் விட்டம் பத்து சென்டிமீட்டர் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "circumference",
+      "name": "Circumference",
+      "tamilMeaning": "சுற்றளவு",
+      "example": "Calculate the circumference of the circle.",
+      "exampleTamil": "வட்டத்தின் சுற்றளவை கணக்கிடவும்.",
+      "audio": null
+    },
+    {
+      "id": "area",
+      "name": "Area",
+      "tamilMeaning": "பரப்பளவு",
+      "example": "Find the area of the rectangle.",
+      "exampleTamil": "செவ்வகத்தின் பரப்பளவை கண்டறியவும்.",
+      "audio": null
+    },
+    {
+      "id": "perimeter",
+      "name": "Perimeter",
+      "tamilMeaning": "சுற்றளவு (எல்லை நீளம்)",
+      "example": "The perimeter of the square is twenty.",
+      "exampleTamil": "சதுரத்தின் சுற்றளவு இருபது ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "volume",
+      "name": "Volume",
+      "tamilMeaning": "கன அளவு",
+      "example": "Calculate the volume of the box.",
+      "exampleTamil": "பெட்டியின் கன அளவை கணக்கிடவும்.",
+      "audio": null
+    },
+    {
+      "id": "cube",
+      "name": "Cube",
+      "tamilMeaning": "கனசதுரம்",
+      "example": "A cube has six equal faces.",
+      "exampleTamil": "ஒரு கனசதுரத்திற்கு ஆறு சம முகங்கள் உள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "cuboid",
+      "name": "Cuboid",
+      "tamilMeaning": "கனச்செவ்வகம்",
+      "example": "This box is shaped like a cuboid.",
+      "exampleTamil": "இந்த பெட்டி ஒரு கனச்செவ்வகம் போல் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "sphere",
+      "name": "Sphere",
+      "tamilMeaning": "கோளம்",
+      "example": "A ball is shaped like a sphere.",
+      "exampleTamil": "ஒரு பந்து ஒரு கோளம் போல் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "cylinder",
+      "name": "Cylinder",
+      "tamilMeaning": "உருளை",
+      "example": "The can is shaped like a cylinder.",
+      "exampleTamil": "கேன் ஒரு உருளை போல் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "cone",
+      "name": "Cone",
+      "tamilMeaning": "கூம்பு",
+      "example": "The ice cream cone is shaped like a cone.",
+      "exampleTamil": "ஐஸ்கிரீம் கோன் ஒரு கூம்பு போல் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "parallel",
+      "name": "Parallel",
+      "tamilMeaning": "இணை (சமாந்தரம்)",
+      "example": "These two lines are parallel.",
+      "exampleTamil": "இந்த இரண்டு கோடுகளும் சமாந்தரமானவை.",
+      "audio": null
+    },
+    {
+      "id": "perpendicular",
+      "name": "Perpendicular",
+      "tamilMeaning": "செங்குத்து",
+      "example": "The two lines are perpendicular.",
+      "exampleTamil": "இரண்டு கோடுகளும் செங்குத்தானவை.",
+      "audio": null
+    },
+    {
+      "id": "symmetry",
+      "name": "Symmetry",
+      "tamilMeaning": "சமச்சீர்",
+      "example": "This shape has perfect symmetry.",
+      "exampleTamil": "இந்த வடிவத்திற்கு சரியான சமச்சீர் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "pattern",
+      "name": "Pattern",
+      "tamilMeaning": "முறை",
+      "example": "Find the next number in the pattern.",
+      "exampleTamil": "முறையில் அடுத்த எண்ணை கண்டறியவும்.",
+      "audio": null
+    },
+    {
+      "id": "sequence",
+      "name": "Sequence",
+      "tamilMeaning": "தொடர்",
+      "example": "This is an arithmetic sequence.",
+      "exampleTamil": "இது ஒரு எண்கணித தொடர் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "series",
+      "name": "Series",
+      "tamilMeaning": "தொகுதி (கணித வரிசை)",
+      "example": "Sum the numbers in the series.",
+      "exampleTamil": "தொகுதியில் உள்ள எண்களை கூட்டவும்.",
+      "audio": null
+    },
+    {
+      "id": "factor",
+      "name": "Factor",
+      "tamilMeaning": "காரணி",
+      "example": "Two is a factor of ten.",
+      "exampleTamil": "இரண்டு பத்தின் ஒரு காரணி ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "multiple",
+      "name": "Multiple",
+      "tamilMeaning": "மடங்கு",
+      "example": "Ten is a multiple of five.",
+      "exampleTamil": "பத்து ஐந்தின் ஒரு மடங்கு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "prime_number",
+      "name": "Prime Number",
+      "tamilMeaning": "பகா எண்",
+      "example": "Seven is a prime number.",
+      "exampleTamil": "ஏழு ஒரு பகா எண் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "composite_number",
+      "name": "Composite Number",
+      "tamilMeaning": "கூட்டு எண்",
+      "example": "Eight is a composite number.",
+      "exampleTamil": "எட்டு ஒரு கூட்டு எண் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "even_number",
+      "name": "Even Number",
+      "tamilMeaning": "இரட்டைப்படை எண்",
+      "example": "Four is an even number.",
+      "exampleTamil": "நான்கு ஒரு இரட்டைப்படை எண் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "odd_number",
+      "name": "Odd Number",
+      "tamilMeaning": "ஒற்றைப்படை எண்",
+      "example": "Three is an odd number.",
+      "exampleTamil": "மூன்று ஒரு ஒற்றைப்படை எண் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "positive_number",
+      "name": "Positive Number",
+      "tamilMeaning": "நேர் எண்",
+      "example": "Five is a positive number.",
+      "exampleTamil": "ஐந்து ஒரு நேர் எண் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "negative_number",
+      "name": "Negative Number",
+      "tamilMeaning": "எதிர்மறை எண்",
+      "example": "Minus five is a negative number.",
+      "exampleTamil": "எதிர்மறை ஐந்து ஒரு எதிர்மறை எண் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "zero",
+      "name": "Zero",
+      "tamilMeaning": "பூஜ்ஜியம்",
+      "example": "Zero is neither positive nor negative.",
+      "exampleTamil": "பூஜ்ஜியம் நேர் அல்லது எதிர்மறை இரண்டும் அல்ல.",
+      "audio": null
+    },
+    {
+      "id": "infinity",
+      "name": "Infinity",
+      "tamilMeaning": "அளவிலி",
+      "example": "Numbers continue toward infinity.",
+      "exampleTamil": "எண்கள் அளவிலி நோக்கி தொடர்கின்றன.",
+      "audio": null
+    },
+    {
+      "id": "addition",
+      "name": "Addition",
+      "tamilMeaning": "கூட்டல்",
+      "example": "Addition combines two numbers.",
+      "exampleTamil": "கூட்டல் இரண்டு எண்களை இணைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "subtraction",
+      "name": "Subtraction",
+      "tamilMeaning": "கழித்தல்",
+      "example": "Subtraction finds the difference.",
+      "exampleTamil": "கழித்தல் வித்தியாசத்தை கண்டறிகிறது.",
+      "audio": null
+    },
+    {
+      "id": "multiplication",
+      "name": "Multiplication",
+      "tamilMeaning": "பெருக்கல்",
+      "example": "Multiplication is repeated addition.",
+      "exampleTamil": "பெருக்கல் என்பது மீண்டும் மீண்டும் கூட்டலாகும்.",
+      "audio": null
+    },
+    {
+      "id": "division",
+      "name": "Division",
+      "tamilMeaning": "வகுத்தல்",
+      "example": "Division splits a number into equal parts.",
+      "exampleTamil": "வகுத்தல் ஒரு எண்ணை சம பாகங்களாக பிரிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "remainder",
+      "name": "Remainder",
+      "tamilMeaning": "மீதி",
+      "example": "The remainder after division is two.",
+      "exampleTamil": "வகுத்த பிறகு மீதி இரண்டு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "quotient",
+      "name": "Quotient",
+      "tamilMeaning": "ஈவு",
+      "example": "The quotient of ten divided by two is five.",
+      "exampleTamil": "பத்தை இரண்டால் வகுத்தால் ஈவு ஐந்து ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "sum",
+      "name": "Sum",
+      "tamilMeaning": "கூட்டுத்தொகை",
+      "example": "The sum of five and three is eight.",
+      "exampleTamil": "ஐந்தும் மூன்றும் கூட்டுத்தொகை எட்டு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "difference",
+      "name": "Difference",
+      "tamilMeaning": "வித்தியாசம்",
+      "example": "The difference between ten and four is six.",
+      "exampleTamil": "பத்திற்கும் நான்கிற்கும் இடையேயான வித்தியாசம் ஆறு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "product",
+      "name": "Product",
+      "tamilMeaning": "பெருக்குத்தொகை",
+      "example": "The product of three and four is twelve.",
+      "exampleTamil": "மூன்றும் நான்கும் பெருக்குத்தொகை பன்னிரண்டு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "power",
+      "name": "Power",
+      "tamilMeaning": "அடுக்கு",
+      "example": "Two raised to the power of three is eight.",
+      "exampleTamil": "இரண்டு மூன்று அடுக்கு எட்டு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "exponent",
+      "name": "Exponent",
+      "tamilMeaning": "அடுக்குக்குறி",
+      "example": "The exponent tells how many times to multiply.",
+      "exampleTamil": "அடுக்குக்குறி எத்தனை முறை பெருக்க வேண்டும் என்பதை கூறுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "square_root",
+      "name": "Square Root",
+      "tamilMeaning": "வர்க்கமூலம்",
+      "example": "The square root of nine is three.",
+      "exampleTamil": "ஒன்பதின் வர்க்கமூலம் மூன்று ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "cube_root",
+      "name": "Cube Root",
+      "tamilMeaning": "கனமூலம்",
+      "example": "The cube root of eight is two.",
+      "exampleTamil": "எட்டின் கனமூலம் இரண்டு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "logarithm",
+      "name": "Logarithm",
+      "tamilMeaning": "மடக்கை",
+      "example": "Logarithms simplify large calculations.",
+      "exampleTamil": "மடக்கைகள் பெரிய கணக்கீடுகளை எளிமையாக்குகின்றன.",
+      "audio": null
+    },
+    {
+      "id": "inequality",
+      "name": "Inequality",
+      "tamilMeaning": "சமனிலி",
+      "example": "Solve this inequality for x.",
+      "exampleTamil": "x-க்காக இந்த சமனிலியை தீர்க்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "matrix",
+      "name": "Matrix",
+      "tamilMeaning": "அணி",
+      "example": "Add these two matrices together.",
+      "exampleTamil": "இந்த இரண்டு அணிகளையும் ஒன்றாக கூட்டவும்.",
+      "audio": null
+    },
+    {
+      "id": "vector",
+      "name": "Vector",
+      "tamilMeaning": "திசையன்",
+      "example": "A vector has both magnitude and direction.",
+      "exampleTamil": "ஒரு திசையனுக்கு அளவும் திசையும் உண்டு.",
+      "audio": null
+    },
+    {
+      "id": "set",
+      "name": "Set",
+      "tamilMeaning": "கணம்",
+      "example": "This set contains five elements.",
+      "exampleTamil": "இந்த கணத்தில் ஐந்து உறுப்பினர்கள் உள்ளனர்.",
+      "audio": null
+    },
+    {
+      "id": "subset",
+      "name": "Subset",
+      "tamilMeaning": "துணைக்கணம்",
+      "example": "This is a subset of the main set.",
+      "exampleTamil": "இது முதன்மை கணத்தின் ஒரு துணைக்கணம் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "union",
+      "name": "Union",
+      "tamilMeaning": "சேர்ப்பு",
+      "example": "The union of the two sets has eight elements.",
+      "exampleTamil": "இரண்டு கணங்களின் சேர்ப்பில் எட்டு உறுப்பினர்கள் உள்ளனர்.",
+      "audio": null
+    },
+    {
+      "id": "intersection",
+      "name": "Intersection",
+      "tamilMeaning": "வெட்டு",
+      "example": "The intersection of the sets is empty.",
+      "exampleTamil": "கணங்களின் வெட்டு காலியாக உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "permutation",
+      "name": "Permutation",
+      "tamilMeaning": "வரிசைமாற்று",
+      "example": "Calculate the permutation of these letters.",
+      "exampleTamil": "இந்த எழுத்துகளின் வரிசைமாற்றை கணக்கிடவும்.",
+      "audio": null
+    },
+    {
+      "id": "combination",
+      "name": "Combination",
+      "tamilMeaning": "சேர்க்கை",
+      "example": "Find the combination of these numbers.",
+      "exampleTamil": "இந்த எண்களின் சேர்க்கையை கண்டறியவும்.",
+      "audio": null
+    },
+    {
+      "id": "deduction",
+      "name": "Deduction",
+      "tamilMeaning": "துணிபு (அனுமானம்)",
+      "example": "She reached her conclusion by deduction.",
+      "exampleTamil": "அவள் துணிபு மூலம் தனது முடிவை அடைந்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "induction",
+      "name": "Induction",
+      "tamilMeaning": "தூண்டல் அனுமானம்",
+      "example": "Mathematical induction proves the pattern.",
+      "exampleTamil": "கணித தூண்டல் அனுமானம் முறையை நிரூபிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "syllogism",
+      "name": "Syllogism",
+      "tamilMeaning": "நியாய அனுமானம்",
+      "example": "This is a classic example of syllogism.",
+      "exampleTamil": "இது நியாய அனுமானத்தின் ஒரு பாரம்பரிய எடுத்துக்காட்டு.",
+      "audio": null
+    },
+    {
+      "id": "analogy",
+      "name": "Analogy",
+      "tamilMeaning": "ஒப்புமை",
+      "example": "She used an analogy to explain the concept.",
+      "exampleTamil": "அவள் கருத்தை விளக்க ஒரு ஒப்புமையை பயன்படுத்தினாள்.",
+      "audio": null
+    },
+    {
+      "id": "critical_thinking",
+      "name": "Critical Thinking",
+      "tamilMeaning": "விமர்சன சிந்தனை",
+      "example": "Critical thinking helps solve complex problems.",
+      "exampleTamil": "விமர்சன சிந்தனை சிக்கலான பிரச்சனைகளை தீர்க்க உதவும்.",
+      "audio": null
+    },
+    {
+      "id": "problem_solving",
+      "name": "Problem Solving",
+      "tamilMeaning": "பிரச்சனை தீர்வு",
+      "example": "Problem solving is a key skill.",
+      "exampleTamil": "பிரச்சனை தீர்வு ஒரு முக்கியமான திறன் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "decision_tree",
+      "name": "Decision Tree",
+      "tamilMeaning": "முடிவு மரம்",
+      "example": "Use a decision tree to analyze options.",
+      "exampleTamil": "விருப்பங்களை பகுப்பாய்வு செய்ய ஒரு முடிவு மரத்தை பயன்படுத்தவும்.",
+      "audio": null
+    },
+    {
+      "id": "truth_table",
+      "name": "Truth Table",
+      "tamilMeaning": "உண்மை அட்டவணை",
+      "example": "Draw a truth table for this logic statement.",
+      "exampleTamil": "இந்த தர்க்க கூற்றுக்கு ஒரு உண்மை அட்டவணையை வரையவும்.",
+      "audio": null
+    },
+    {
+      "id": "algorithmic_thinking",
+      "name": "Algorithmic Thinking",
+      "tamilMeaning": "வழிமுறை சிந்தனை",
+      "example": "Algorithmic thinking is essential for coding.",
+      "exampleTamil": "வழிமுறை சிந்தனை நிரலாக்கத்திற்கு அவசியமானது.",
+      "audio": null
+    }
+  ]
+}

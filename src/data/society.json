@@ -1,0 +1,806 @@
+{
+  "id": "society",
+  "name": "Society & Social Issues",
+  "items": [
+    {
+      "id": "society",
+      "name": "Society",
+      "tamilMeaning": "சமூகம்",
+      "example": "Society expects everyone to follow rules.",
+      "exampleTamil": "சமூகம் அனைவரும் விதிகளை பின்பற்ற வேண்டும் என எதிர்பார்க்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "community",
+      "name": "Community",
+      "tamilMeaning": "சமூக குழு (சமுதாயம்)",
+      "example": "The community came together to help.",
+      "exampleTamil": "சமுதாயம் உதவ ஒன்று சேர்ந்தது.",
+      "audio": null
+    },
+    {
+      "id": "citizen",
+      "name": "Citizen",
+      "tamilMeaning": "குடிமகன்",
+      "example": "Every citizen must follow the law.",
+      "exampleTamil": "ஒவ்வொரு குடிமகனும் சட்டத்தை பின்பற்ற வேண்டும்.",
+      "audio": null
+    },
+    {
+      "id": "population",
+      "name": "Population",
+      "tamilMeaning": "மக்கள் தொகை",
+      "example": "The city's population is growing fast.",
+      "exampleTamil": "நகரத்தின் மக்கள் தொகை வேகமாக வளர்ந்து வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "neighborhood",
+      "name": "Neighborhood",
+      "tamilMeaning": "அக்கம்பக்கம்",
+      "example": "She knows everyone in her neighborhood.",
+      "exampleTamil": "அவளுக்கு தனது அக்கம்பக்கத்தில் உள்ள அனைவரையும் தெரியும்.",
+      "audio": null
+    },
+    {
+      "id": "public",
+      "name": "Public",
+      "tamilMeaning": "பொது",
+      "example": "The park is open to the public.",
+      "exampleTamil": "பூங்கா பொதுமக்களுக்கு திறந்துள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "culture",
+      "name": "Culture",
+      "tamilMeaning": "பண்பாடு",
+      "example": "Tamil culture has a rich history.",
+      "exampleTamil": "தமிழ் பண்பாடு வளமான வரலாற்றைக் கொண்டது.",
+      "audio": null
+    },
+    {
+      "id": "tradition",
+      "name": "Tradition",
+      "tamilMeaning": "மரபு",
+      "example": "They follow an old family tradition.",
+      "exampleTamil": "அவர்கள் ஒரு பழைய குடும்ப மரபை பின்பற்றுகின்றனர்.",
+      "audio": null
+    },
+    {
+      "id": "custom",
+      "name": "Custom",
+      "tamilMeaning": "வழக்கம்",
+      "example": "This custom is common in villages.",
+      "exampleTamil": "இந்த வழக்கம் கிராமங்களில் பொதுவானது.",
+      "audio": null
+    },
+    {
+      "id": "value",
+      "name": "Value",
+      "tamilMeaning": "விழுமியம்",
+      "example": "Honesty is an important value.",
+      "exampleTamil": "நேர்மை ஒரு முக்கியமான விழுமியம் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "ethics",
+      "name": "Ethics",
+      "tamilMeaning": "நெறிமுறை",
+      "example": "Business ethics build customer trust.",
+      "exampleTamil": "வணிக நெறிமுறை வாடிக்கையாளர் நம்பிக்கையை உருவாக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "morality",
+      "name": "Morality",
+      "tamilMeaning": "ஒழுக்கம்",
+      "example": "Morality guides our actions.",
+      "exampleTamil": "ஒழுக்கம் நமது செயல்களை வழிநடத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "respect",
+      "name": "Respect",
+      "tamilMeaning": "மரியாதை",
+      "example": "Respect your elders.",
+      "exampleTamil": "உங்கள் பெரியவர்களை மரியாதை செய்யுங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "kindness",
+      "name": "Kindness",
+      "tamilMeaning": "இரக்கம்",
+      "example": "Kindness makes the world better.",
+      "exampleTamil": "இரக்கம் உலகை சிறப்பாக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "compassion",
+      "name": "Compassion",
+      "tamilMeaning": "கருணை",
+      "example": "She showed compassion to the poor.",
+      "exampleTamil": "அவள் ஏழைகளுக்கு கருணை காட்டினாள்.",
+      "audio": null
+    },
+    {
+      "id": "empathy",
+      "name": "Empathy",
+      "tamilMeaning": "பரிவு (உணர்வுப் பங்கீடு)",
+      "example": "Empathy helps us understand others.",
+      "exampleTamil": "பரிவு மற்றவர்களை புரிந்துகொள்ள உதவுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "cooperation",
+      "name": "Cooperation",
+      "tamilMeaning": "ஒத்துழைப்பு",
+      "example": "Cooperation is key to teamwork.",
+      "exampleTamil": "ஒத்துழைப்பு குழுப்பணிக்கு முக்கியமானது.",
+      "audio": null
+    },
+    {
+      "id": "volunteer",
+      "name": "Volunteer",
+      "tamilMeaning": "தன்னார்வலர்",
+      "example": "He works as a volunteer at the shelter.",
+      "exampleTamil": "அவன் தங்குமிடத்தில் ஒரு தன்னார்வலராக பணிபுரிகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "charity",
+      "name": "Charity",
+      "tamilMeaning": "தொண்டு நிறுவனம்",
+      "example": "She donates to charity every year.",
+      "exampleTamil": "அவள் ஒவ்வொரு ஆண்டும் தொண்டு நிறுவனத்திற்கு நன்கொடை அளிக்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "donation",
+      "name": "Donation",
+      "tamilMeaning": "நன்கொடை",
+      "example": "They collected donations for flood victims.",
+      "exampleTamil": "அவர்கள் வெள்ள பாதிக்கப்பட்டவர்களுக்காக நன்கொடைகளை சேகரித்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "equality",
+      "name": "Equality",
+      "tamilMeaning": "சமத்துவம்",
+      "example": "Equality means treating everyone fairly.",
+      "exampleTamil": "சமத்துவம் என்பது அனைவரையும் நியாயமாக நடத்துவது.",
+      "audio": null
+    },
+    {
+      "id": "inequality",
+      "name": "Inequality",
+      "tamilMeaning": "சமத்துவமின்மை",
+      "example": "Income inequality is a major issue.",
+      "exampleTamil": "வருமான சமத்துவமின்மை ஒரு முக்கிய பிரச்சனை.",
+      "audio": null
+    },
+    {
+      "id": "justice",
+      "name": "Justice",
+      "tamilMeaning": "நீதி",
+      "example": "The court delivered justice.",
+      "exampleTamil": "நீதிமன்றம் நீதியை வழங்கியது.",
+      "audio": null
+    },
+    {
+      "id": "fairness",
+      "name": "Fairness",
+      "tamilMeaning": "நேர்மை (நியாயம்)",
+      "example": "Fairness is important in every decision.",
+      "exampleTamil": "நேர்மை ஒவ்வொரு முடிவிலும் முக்கியமானது.",
+      "audio": null
+    },
+    {
+      "id": "freedom",
+      "name": "Freedom",
+      "tamilMeaning": "சுதந்திரம்",
+      "example": "Freedom is a basic human right.",
+      "exampleTamil": "சுதந்திரம் ஒரு அடிப்படை மனித உரிமை.",
+      "audio": null
+    },
+    {
+      "id": "responsibility",
+      "name": "Responsibility",
+      "tamilMeaning": "பொறுப்பு",
+      "example": "It is our responsibility to help others.",
+      "exampleTamil": "மற்றவர்களுக்கு உதவுவது நமது பொறுப்பு.",
+      "audio": null
+    },
+    {
+      "id": "rights",
+      "name": "Rights",
+      "tamilMeaning": "உரிமைகள்",
+      "example": "Everyone has certain basic rights.",
+      "exampleTamil": "அனைவருக்கும் சில அடிப்படை உரிமைகள் உள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "human_rights",
+      "name": "Human Rights",
+      "tamilMeaning": "மனித உரிமைகள்",
+      "example": "Human rights must be protected.",
+      "exampleTamil": "மனித உரிமைகள் பாதுகாக்கப்பட வேண்டும்.",
+      "audio": null
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "tamilMeaning": "கல்வி",
+      "example": "Education empowers people.",
+      "exampleTamil": "கல்வி மக்களை மேம்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "literacy",
+      "name": "Literacy",
+      "tamilMeaning": "எழுத்தறிவு",
+      "example": "Literacy rates are improving nationwide.",
+      "exampleTamil": "எழுத்தறிவு விகிதம் நாடு முழுவதும் மேம்பட்டு வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "employment",
+      "name": "Employment",
+      "tamilMeaning": "வேலைவாய்ப்பு",
+      "example": "The government promotes rural employment.",
+      "exampleTamil": "அரசு ஊரக வேலைவாய்ப்பை ஊக்குவிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "unemployment",
+      "name": "Unemployment",
+      "tamilMeaning": "வேலையின்மை",
+      "example": "Unemployment affects the economy.",
+      "exampleTamil": "வேலையின்மை பொருளாதாரத்தை பாதிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "poverty",
+      "name": "Poverty",
+      "tamilMeaning": "வறுமை",
+      "example": "Poverty remains a global challenge.",
+      "exampleTamil": "வறுமை ஒரு உலகளாவிய சவாலாக உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "homelessness",
+      "name": "Homelessness",
+      "tamilMeaning": "வீடற்ற நிலை",
+      "example": "The city helps people facing homelessness.",
+      "exampleTamil": "நகரம் வீடற்ற நிலையில் உள்ளவர்களுக்கு உதவுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "healthcare",
+      "name": "Healthcare",
+      "tamilMeaning": "சுகாதார பராமரிப்பு",
+      "example": "Good healthcare saves lives.",
+      "exampleTamil": "நல்ல சுகாதார பராமரிப்பு உயிர்களை காப்பாற்றும்.",
+      "audio": null
+    },
+    {
+      "id": "public_health",
+      "name": "Public Health",
+      "tamilMeaning": "பொது சுகாதாரம்",
+      "example": "Public health campaigns prevent disease spread.",
+      "exampleTamil": "பொது சுகாதார பிரச்சாரங்கள் நோய் பரவலை தடுக்கின்றன.",
+      "audio": null
+    },
+    {
+      "id": "sanitation",
+      "name": "Sanitation",
+      "tamilMeaning": "சுத்தம் மற்றும் தூய்மை",
+      "example": "Good sanitation reduces disease spread.",
+      "exampleTamil": "நல்ல சுத்தம் மற்றும் தூய்மை நோய் பரவலை குறைக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "hygiene",
+      "name": "Hygiene",
+      "tamilMeaning": "சுகாதாரம்",
+      "example": "Personal hygiene prevents illness.",
+      "exampleTamil": "தனிப்பட்ட சுகாதாரம் நோயை தடுக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "crime",
+      "name": "Crime",
+      "tamilMeaning": "குற்றம்",
+      "example": "Crime rates dropped in the city.",
+      "exampleTamil": "நகரத்தில் குற்ற விகிதம் குறைந்தது.",
+      "audio": null
+    },
+    {
+      "id": "violence",
+      "name": "Violence",
+      "tamilMeaning": "வன்முறை",
+      "example": "They campaigned against domestic violence.",
+      "exampleTamil": "அவர்கள் குடும்ப வன்முறைக்கு எதிராக பிரச்சாரம் செய்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "bullying",
+      "name": "Bullying",
+      "tamilMeaning": "கொடுமைப்படுத்துதல்",
+      "example": "Schools are addressing bullying seriously.",
+      "exampleTamil": "பள்ளிகள் கொடுமைப்படுத்துதலை தீவிரமாக கையாள்கின்றன.",
+      "audio": null
+    },
+    {
+      "id": "harassment",
+      "name": "Harassment",
+      "tamilMeaning": "துன்புறுத்தல்",
+      "example": "She reported the workplace harassment.",
+      "exampleTamil": "அவள் பணியிட துன்புறுத்தலை புகாரளித்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "discrimination",
+      "name": "Discrimination",
+      "tamilMeaning": "பாகுபாடு",
+      "example": "Laws protect against discrimination.",
+      "exampleTamil": "சட்டங்கள் பாகுபாட்டிற்கு எதிராக பாதுகாக்கின்றன.",
+      "audio": null
+    },
+    {
+      "id": "racism",
+      "name": "Racism",
+      "tamilMeaning": "இனவெறி",
+      "example": "The movement fights against racism.",
+      "exampleTamil": "இயக்கம் இனவெறிக்கு எதிராக போராடுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "gender_equality",
+      "name": "Gender Equality",
+      "tamilMeaning": "பாலின சமத்துவம்",
+      "example": "Gender equality benefits everyone.",
+      "exampleTamil": "பாலின சமத்துவம் அனைவருக்கும் நன்மை பயக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "women_empowerment",
+      "name": "Women Empowerment",
+      "tamilMeaning": "பெண்கள் மேம்பாடு",
+      "example": "Women empowerment programs are growing.",
+      "exampleTamil": "பெண்கள் மேம்பாடு திட்டங்கள் வளர்ந்து வருகின்றன.",
+      "audio": null
+    },
+    {
+      "id": "child_rights",
+      "name": "Child Rights",
+      "tamilMeaning": "குழந்தை உரிமைகள்",
+      "example": "Child rights must always be respected.",
+      "exampleTamil": "குழந்தை உரிமைகள் எப்போதும் மதிக்கப்பட வேண்டும்.",
+      "audio": null
+    },
+    {
+      "id": "child_labor",
+      "name": "Child Labor",
+      "tamilMeaning": "குழந்தை தொழிலாளர்",
+      "example": "Child labor is illegal in many countries.",
+      "exampleTamil": "பல நாடுகளில் குழந்தை தொழிலாளர் சட்டவிரோதமானது.",
+      "audio": null
+    },
+    {
+      "id": "elderly_care",
+      "name": "Elderly Care",
+      "tamilMeaning": "முதியோர் பராமரிப்பு",
+      "example": "Elderly care homes are increasing in number.",
+      "exampleTamil": "முதியோர் பராமரிப்பு இல்லங்கள் எண்ணிக்கையில் அதிகரித்து வருகின்றன.",
+      "audio": null
+    },
+    {
+      "id": "disability",
+      "name": "Disability",
+      "tamilMeaning": "குறைபாடு (ஊனம்)",
+      "example": "The building has ramps for disability access.",
+      "exampleTamil": "கட்டிடத்தில் ஊனமுற்றோர் அணுகலுக்கான சாய்வுப் பாதைகள் உள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "inclusion",
+      "name": "Inclusion",
+      "tamilMeaning": "உள்ளடக்கம் (சேர்த்துக்கொள்ளுதல்)",
+      "example": "The school promotes inclusion of all students.",
+      "exampleTamil": "பள்ளி அனைத்து மாணவர்களையும் சேர்த்துக்கொள்வதை ஊக்குவிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "diversity",
+      "name": "Diversity",
+      "tamilMeaning": "பன்முகத்தன்மை",
+      "example": "Diversity makes a workplace stronger.",
+      "exampleTamil": "பன்முகத்தன்மை பணியிடத்தை வலுவாக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "migration",
+      "name": "Migration",
+      "tamilMeaning": "இடம்பெயர்வு",
+      "example": "Migration to cities is increasing.",
+      "exampleTamil": "நகரங்களுக்கான இடம்பெயர்வு அதிகரித்து வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "urbanization",
+      "name": "Urbanization",
+      "tamilMeaning": "நகரமயமாக்கல்",
+      "example": "Urbanization changes rural landscapes.",
+      "exampleTamil": "நகரமயமாக்கல் ஊரக நிலப்பரப்புகளை மாற்றுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "globalization",
+      "name": "Globalization",
+      "tamilMeaning": "உலகமயமாக்கல்",
+      "example": "Globalization connects world economies.",
+      "exampleTamil": "உலகமயமாக்கல் உலக பொருளாதாரங்களை இணைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "social_media",
+      "name": "Social Media",
+      "tamilMeaning": "சமூக ஊடகம்",
+      "example": "She spends hours on social media.",
+      "exampleTamil": "அவள் சமூக ஊடகத்தில் மணிக்கணக்கில் செலவிடுகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "fake_news",
+      "name": "Fake News",
+      "tamilMeaning": "போலிச் செய்தி",
+      "example": "Fake news spreads quickly online.",
+      "exampleTamil": "போலிச் செய்தி ஆன்லைனில் வேகமாக பரவுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "privacy",
+      "name": "Privacy",
+      "tamilMeaning": "தனியுரிமை",
+      "example": "He values his online privacy.",
+      "exampleTamil": "அவன் தனது ஆன்லைன் தனியுரிமையை மதிக்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "cyberbullying",
+      "name": "Cyberbullying",
+      "tamilMeaning": "இணைய கொடுமைப்படுத்துதல்",
+      "example": "Cyberbullying affects teenagers deeply.",
+      "exampleTamil": "இணைய கொடுமைப்படுத்துதல் இளம் வயதினரை ஆழமாக பாதிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "addiction",
+      "name": "Addiction",
+      "tamilMeaning": "அடிமைத்தனம்",
+      "example": "Addiction can be hard to overcome.",
+      "exampleTamil": "அடிமைத்தனத்தை கடக்க கடினமாக இருக்கலாம்.",
+      "audio": null
+    },
+    {
+      "id": "mental_health",
+      "name": "Mental Health",
+      "tamilMeaning": "மனநலம்",
+      "example": "Mental health is as important as physical health.",
+      "exampleTamil": "உடல் ஆரோக்கியம் போலவே மனநலமும் முக்கியம்.",
+      "audio": null
+    },
+    {
+      "id": "stress",
+      "name": "Stress",
+      "tamilMeaning": "மன அழுத்தம்",
+      "example": "Work causes him a lot of stress.",
+      "exampleTamil": "வேலை அவனுக்கு அதிக மன அழுத்தத்தை ஏற்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "counseling",
+      "name": "Counseling",
+      "tamilMeaning": "ஆலோசனை சேவை",
+      "example": "She attends counseling every week.",
+      "exampleTamil": "அவள் ஒவ்வொரு வாரமும் ஆலோசனை சேவைக்கு செல்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "awareness",
+      "name": "Awareness",
+      "tamilMeaning": "விழிப்புணர்வு",
+      "example": "The campaign raised awareness about health.",
+      "exampleTamil": "பிரச்சாரம் ஆரோக்கியம் பற்றிய விழிப்புணர்வை ஏற்படுத்தியது.",
+      "audio": null
+    },
+    {
+      "id": "campaign",
+      "name": "Campaign",
+      "tamilMeaning": "பிரச்சாரம்",
+      "example": "They launched a campaign against pollution.",
+      "exampleTamil": "அவர்கள் மாசுபாட்டிற்கு எதிராக ஒரு பிரச்சாரத்தை தொடங்கினர்.",
+      "audio": null
+    },
+    {
+      "id": "activism",
+      "name": "Activism",
+      "tamilMeaning": "செயல்பாட்டுவாதம்",
+      "example": "Her activism inspired many young people.",
+      "exampleTamil": "அவளது செயல்பாட்டுவாதம் பல இளைஞர்களை ஊக்குவித்தது.",
+      "audio": null
+    },
+    {
+      "id": "leadership",
+      "name": "Leadership",
+      "tamilMeaning": "தலைமைத்துவம்",
+      "example": "Good leadership motivates the team.",
+      "exampleTamil": "நல்ல தலைமைத்துவம் குழுவை ஊக்குவிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "teamwork",
+      "name": "Teamwork",
+      "tamilMeaning": "குழுப்பணி",
+      "example": "Teamwork helped them finish the project.",
+      "exampleTamil": "குழுப்பணி அவர்களுக்கு திட்டத்தை முடிக்க உதவியது.",
+      "audio": null
+    },
+    {
+      "id": "communication",
+      "name": "Communication",
+      "tamilMeaning": "தொடர்பு",
+      "example": "Clear communication avoids misunderstandings.",
+      "exampleTamil": "தெளிவான தொடர்பு தவறான புரிதல்களை தவிர்க்கும்.",
+      "audio": null
+    },
+    {
+      "id": "dialogue",
+      "name": "Dialogue",
+      "tamilMeaning": "உரையாடல்",
+      "example": "Open dialogue solves many problems.",
+      "exampleTamil": "திறந்த உரையாடல் பல பிரச்சனைகளை தீர்க்கும்.",
+      "audio": null
+    },
+    {
+      "id": "conflict",
+      "name": "Conflict",
+      "tamilMeaning": "மோதல்",
+      "example": "They resolved the conflict peacefully.",
+      "exampleTamil": "அவர்கள் மோதலை அமைதியாக தீர்த்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "peace",
+      "name": "Peace",
+      "tamilMeaning": "அமைதி",
+      "example": "The two countries signed a peace treaty.",
+      "exampleTamil": "இரு நாடுகளும் ஒரு அமைதி ஒப்பந்தத்தில் கையெழுத்திட்டன.",
+      "audio": null
+    },
+    {
+      "id": "security",
+      "name": "Security",
+      "tamilMeaning": "பாதுகாப்பு",
+      "example": "National security is a top priority.",
+      "exampleTamil": "தேசிய பாதுகாப்பு ஒரு முதன்மையான முன்னுரிமை.",
+      "audio": null
+    },
+    {
+      "id": "law",
+      "name": "Law",
+      "tamilMeaning": "சட்டம்",
+      "example": "Everyone must obey the law.",
+      "exampleTamil": "அனைவரும் சட்டத்திற்கு கீழ்ப்படிய வேண்டும்.",
+      "audio": null
+    },
+    {
+      "id": "democracy",
+      "name": "Democracy",
+      "tamilMeaning": "ஜனநாயகம்",
+      "example": "India is the largest democracy in the world.",
+      "exampleTamil": "இந்தியா உலகின் மிகப்பெரிய ஜனநாயக நாடு.",
+      "audio": null
+    },
+    {
+      "id": "constitution",
+      "name": "Constitution",
+      "tamilMeaning": "அரசியலமைப்பு",
+      "example": "The constitution protects citizens' rights.",
+      "exampleTamil": "அரசியலமைப்பு குடிமக்களின் உரிமைகளை பாதுகாக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "election",
+      "name": "Election",
+      "tamilMeaning": "தேர்தல்",
+      "example": "The election results were announced today.",
+      "exampleTamil": "தேர்தல் முடிவுகள் இன்று அறிவிக்கப்பட்டன.",
+      "audio": null
+    },
+    {
+      "id": "government",
+      "name": "Government",
+      "tamilMeaning": "அரசு",
+      "example": "The government launched a new scheme.",
+      "exampleTamil": "அரசு ஒரு புதிய திட்டத்தை தொடங்கியது.",
+      "audio": null
+    },
+    {
+      "id": "public_service",
+      "name": "Public Service",
+      "tamilMeaning": "பொது சேவை",
+      "example": "He dedicated his life to public service.",
+      "exampleTamil": "அவன் தனது வாழ்க்கையை பொது சேவைக்காக அர்ப்பணித்தான்.",
+      "audio": null
+    },
+    {
+      "id": "ngo",
+      "name": "NGO",
+      "tamilMeaning": "அரசு சாரா நிறுவனம்",
+      "example": "The NGO provides education to poor children.",
+      "exampleTamil": "அரசு சாரா நிறுவனம் ஏழை குழந்தைகளுக்கு கல்வி வழங்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "social_worker",
+      "name": "Social Worker",
+      "tamilMeaning": "சமூக ஊழியர்",
+      "example": "The social worker helped the displaced family.",
+      "exampleTamil": "சமூக ஊழியர் இடம்பெயர்ந்த குடும்பத்திற்கு உதவினார்.",
+      "audio": null
+    },
+    {
+      "id": "welfare",
+      "name": "Welfare",
+      "tamilMeaning": "நலன்",
+      "example": "The scheme promotes public welfare.",
+      "exampleTamil": "திட்டம் பொது நலனை ஊக்குவிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "development",
+      "name": "Development",
+      "tamilMeaning": "வளர்ச்சி",
+      "example": "Rural development is a government priority.",
+      "exampleTamil": "ஊரக வளர்ச்சி அரசின் முன்னுரிமையாகும்.",
+      "audio": null
+    },
+    {
+      "id": "sustainability",
+      "name": "Sustainability",
+      "tamilMeaning": "நிலைத்தன்மை",
+      "example": "Sustainability ensures resources for the future.",
+      "exampleTamil": "நிலைத்தன்மை எதிர்காலத்திற்கான வளங்களை உறுதி செய்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "environmental_awareness",
+      "name": "Environmental Awareness",
+      "tamilMeaning": "சுற்றுச்சூழல் விழிப்புணர்வு",
+      "example": "Schools teach environmental awareness to children.",
+      "exampleTamil": "பள்ளிகள் குழந்தைகளுக்கு சுற்றுச்சூழல் விழிப்புணர்வை கற்பிக்கின்றன.",
+      "audio": null
+    },
+    {
+      "id": "volunteering",
+      "name": "Volunteering",
+      "tamilMeaning": "தன்னார்வ பணி",
+      "example": "Volunteering teaches valuable life skills.",
+      "exampleTamil": "தன்னார்வ பணி மதிப்புமிக்க வாழ்க்கை திறன்களை கற்பிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "fundraising",
+      "name": "Fundraising",
+      "tamilMeaning": "நிதி திரட்டல்",
+      "example": "They organized a fundraising event.",
+      "exampleTamil": "அவர்கள் ஒரு நிதி திரட்டல் நிகழ்வை ஏற்பாடு செய்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "disaster_relief",
+      "name": "Disaster Relief",
+      "tamilMeaning": "பேரிடர் நிவாரணம்",
+      "example": "Disaster relief teams reached the flood zone.",
+      "exampleTamil": "பேரிடர் நிவாரண குழுக்கள் வெள்ள பகுதிக்கு சென்றன.",
+      "audio": null
+    },
+    {
+      "id": "humanitarian_aid",
+      "name": "Humanitarian Aid",
+      "tamilMeaning": "மனிதாபிமான உதவி",
+      "example": "Humanitarian aid reached the affected villages.",
+      "exampleTamil": "மனிதாபிமான உதவி பாதிக்கப்பட்ட கிராமங்களை அடைந்தது.",
+      "audio": null
+    },
+    {
+      "id": "social_justice",
+      "name": "Social Justice",
+      "tamilMeaning": "சமூக நீதி",
+      "example": "Social justice ensures fairness for all.",
+      "exampleTamil": "சமூக நீதி அனைவருக்கும் நேர்மையை உறுதி செய்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "civic_duty",
+      "name": "Civic Duty",
+      "tamilMeaning": "குடிமைக் கடமை",
+      "example": "Voting is an important civic duty.",
+      "exampleTamil": "வாக்களித்தல் ஒரு முக்கியமான குடிமைக் கடமை.",
+      "audio": null
+    },
+    {
+      "id": "public_opinion",
+      "name": "Public Opinion",
+      "tamilMeaning": "பொதுக் கருத்து",
+      "example": "Public opinion influences government decisions.",
+      "exampleTamil": "பொதுக் கருத்து அரசு முடிவுகளை பாதிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "social_responsibility",
+      "name": "Social Responsibility",
+      "tamilMeaning": "சமூகப் பொறுப்பு",
+      "example": "Companies must practice social responsibility.",
+      "exampleTamil": "நிறுவனங்கள் சமூகப் பொறுப்பை கடைப்பிடிக்க வேண்டும்.",
+      "audio": null
+    },
+    {
+      "id": "quality_of_life",
+      "name": "Quality of Life",
+      "tamilMeaning": "வாழ்க்கைத் தரம்",
+      "example": "Better infrastructure improves quality of life.",
+      "exampleTamil": "சிறந்த உள்கட்டமைப்பு வாழ்க்கைத் தரத்தை மேம்படுத்தும்.",
+      "audio": null
+    },
+    {
+      "id": "life_expectancy",
+      "name": "Life Expectancy",
+      "tamilMeaning": "எதிர்பார்க்கப்படும் ஆயுள்",
+      "example": "Life expectancy has increased over decades.",
+      "exampleTamil": "பல தசாப்தங்களாக எதிர்பார்க்கப்படும் ஆயுள் அதிகரித்துள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "economic_growth",
+      "name": "Economic Growth",
+      "tamilMeaning": "பொருளாதார வளர்ச்சி",
+      "example": "Economic growth improves living standards.",
+      "exampleTamil": "பொருளாதார வளர்ச்சி வாழ்க்கைத் தரத்தை மேம்படுத்தும்.",
+      "audio": null
+    },
+    {
+      "id": "social_change",
+      "name": "Social Change",
+      "tamilMeaning": "சமூக மாற்றம்",
+      "example": "Education drives long-term social change.",
+      "exampleTamil": "கல்வி நீண்டகால சமூக மாற்றத்தை இயக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "community_service",
+      "name": "Community Service",
+      "tamilMeaning": "சமூக சேவை",
+      "example": "Students take part in community service.",
+      "exampleTamil": "மாணவர்கள் சமூக சேவையில் பங்கேற்கின்றனர்.",
+      "audio": null
+    },
+    {
+      "id": "national_unity",
+      "name": "National Unity",
+      "tamilMeaning": "தேசிய ஒற்றுமை",
+      "example": "National unity strengthens the country.",
+      "exampleTamil": "தேசிய ஒற்றுமை நாட்டை வலுப்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "social_harmony",
+      "name": "Social Harmony",
+      "tamilMeaning": "சமூக நல்லிணக்கம்",
+      "example": "Social harmony helps communities thrive.",
+      "exampleTamil": "சமூக நல்லிணக்கம் சமூகங்கள் செழிக்க உதவுகிறது.",
+      "audio": null
+    }
+  ]
+}

@@ -1,0 +1,798 @@
+{
+  "id": "environment",
+  "name": "Environment & Sustainability",
+  "items": [
+    {
+      "id": "environment",
+      "name": "Environment",
+      "tamilMeaning": "சுற்றுச்சூழல்",
+      "example": "We must protect our environment.",
+      "exampleTamil": "நாம் நமது சுற்றுச்சூழலை பாதுகாக்க வேண்டும்.",
+      "audio": null
+    },
+    {
+      "id": "nature",
+      "name": "Nature",
+      "tamilMeaning": "இயற்கை",
+      "example": "She loves spending time in nature.",
+      "exampleTamil": "அவள் இயற்கையில் நேரம் செலவிட விரும்புகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "ecosystem",
+      "name": "Ecosystem",
+      "tamilMeaning": "சுற்றுச்சூழல் அமைப்பு",
+      "example": "The forest is a rich ecosystem.",
+      "exampleTamil": "காடு ஒரு வளமான சுற்றுச்சூழல் அமைப்பு.",
+      "audio": null
+    },
+    {
+      "id": "biodiversity",
+      "name": "Biodiversity",
+      "tamilMeaning": "பல்லுயிர் பெருக்கம்",
+      "example": "This region has rich biodiversity.",
+      "exampleTamil": "இந்த பகுதியில் வளமான பல்லுயிர் பெருக்கம் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "habitat",
+      "name": "Habitat",
+      "tamilMeaning": "வாழ்விடம்",
+      "example": "The forest is the tiger's habitat.",
+      "exampleTamil": "காடு புலியின் வாழ்விடம் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "wildlife",
+      "name": "Wildlife",
+      "tamilMeaning": "வனவிலங்குகள்",
+      "example": "They protect wildlife in the reserve.",
+      "exampleTamil": "அவர்கள் காப்பகத்தில் வனவிலங்குகளை பாதுகாக்கின்றனர்.",
+      "audio": null
+    },
+    {
+      "id": "forest",
+      "name": "Forest",
+      "tamilMeaning": "காடு",
+      "example": "The forest is home to many animals.",
+      "exampleTamil": "காடு பல விலங்குகளின் இருப்பிடம் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "rainforest",
+      "name": "Rainforest",
+      "tamilMeaning": "மழைக்காடு",
+      "example": "The Amazon is the largest rainforest.",
+      "exampleTamil": "அமேசான் மிகப்பெரிய மழைக்காடு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "grassland",
+      "name": "Grassland",
+      "tamilMeaning": "புல்வெளி",
+      "example": "Zebras graze on the grassland.",
+      "exampleTamil": "வரிக்குதிரைகள் புல்வெளியில் மேய்கின்றன.",
+      "audio": null
+    },
+    {
+      "id": "wetland",
+      "name": "Wetland",
+      "tamilMeaning": "ஈரநிலம்",
+      "example": "The wetland supports many bird species.",
+      "exampleTamil": "ஈரநிலம் பல பறவை இனங்களை ஆதரிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "desert",
+      "name": "Desert",
+      "tamilMeaning": "பாலைவனம்",
+      "example": "Camels are common in the desert.",
+      "exampleTamil": "ஒட்டகங்கள் பாலைவனத்தில் பொதுவானவை.",
+      "audio": null
+    },
+    {
+      "id": "mountain",
+      "name": "Mountain",
+      "tamilMeaning": "மலை",
+      "example": "They climbed the tall mountain.",
+      "exampleTamil": "அவர்கள் உயரமான மலையை ஏறினர்.",
+      "audio": null
+    },
+    {
+      "id": "valley",
+      "name": "Valley",
+      "tamilMeaning": "பள்ளத்தாக்கு",
+      "example": "The village lies in a green valley.",
+      "exampleTamil": "கிராமம் ஒரு பச்சை பள்ளத்தாக்கில் அமைந்துள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "river",
+      "name": "River",
+      "tamilMeaning": "ஆறு",
+      "example": "The river flows through the city.",
+      "exampleTamil": "ஆறு நகரத்தின் வழியாக ஓடுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "lake",
+      "name": "Lake",
+      "tamilMeaning": "ஏரி",
+      "example": "They went boating on the lake.",
+      "exampleTamil": "அவர்கள் ஏரியில் படகு சவாரி சென்றனர்.",
+      "audio": null
+    },
+    {
+      "id": "ocean",
+      "name": "Ocean",
+      "tamilMeaning": "பெருங்கடல்",
+      "example": "The ocean covers most of the earth.",
+      "exampleTamil": "பெருங்கடல் பூமியின் பெரும்பகுதியை மூடியுள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "sea",
+      "name": "Sea",
+      "tamilMeaning": "கடல்",
+      "example": "They swam in the sea.",
+      "exampleTamil": "அவர்கள் கடலில் நீந்தினர்.",
+      "audio": null
+    },
+    {
+      "id": "waterfall",
+      "name": "Waterfall",
+      "tamilMeaning": "அருவி",
+      "example": "The waterfall is a popular tourist spot.",
+      "exampleTamil": "அருவி ஒரு பிரபலமான சுற்றுலா தலம் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "island",
+      "name": "Island",
+      "tamilMeaning": "தீவு",
+      "example": "They vacationed on a tropical island.",
+      "exampleTamil": "அவர்கள் ஒரு வெப்பமண்டல தீவில் விடுமுறை எடுத்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "climate",
+      "name": "Climate",
+      "tamilMeaning": "காலநிலை",
+      "example": "Climate change affects the whole world.",
+      "exampleTamil": "காலநிலை மாற்றம் முழு உலகையும் பாதிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "tamilMeaning": "வானிலை",
+      "example": "The weather is pleasant today.",
+      "exampleTamil": "இன்று வானிலை இனிமையாக உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "atmosphere",
+      "name": "Atmosphere",
+      "tamilMeaning": "வளிமண்டலம்",
+      "example": "The atmosphere protects earth from radiation.",
+      "exampleTamil": "வளிமண்டலம் பூமியை கதிர்வீச்சில் இருந்து பாதுகாக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "air",
+      "name": "Air",
+      "tamilMeaning": "காற்று",
+      "example": "We need clean air to breathe.",
+      "exampleTamil": "சுவாசிக்க நமக்கு தூய காற்று தேவை.",
+      "audio": null
+    },
+    {
+      "id": "oxygen",
+      "name": "Oxygen",
+      "tamilMeaning": "ஆக்ஸிஜன்",
+      "example": "Trees release oxygen into the air.",
+      "exampleTamil": "மரங்கள் காற்றில் ஆக்ஸிஜனை வெளியிடுகின்றன.",
+      "audio": null
+    },
+    {
+      "id": "carbon_dioxide",
+      "name": "Carbon Dioxide",
+      "tamilMeaning": "கார்பன் டை ஆக்சைடு",
+      "example": "Cars emit carbon dioxide.",
+      "exampleTamil": "கார்கள் கார்பன் டை ஆக்சைடை வெளியிடுகின்றன.",
+      "audio": null
+    },
+    {
+      "id": "greenhouse_gas",
+      "name": "Greenhouse Gas",
+      "tamilMeaning": "பசுமை இல்ல வாயு",
+      "example": "Greenhouse gases trap heat in the atmosphere.",
+      "exampleTamil": "பசுமை இல்ல வாயுக்கள் வளிமண்டலத்தில் வெப்பத்தை சிக்கவைக்கின்றன.",
+      "audio": null
+    },
+    {
+      "id": "global_warming",
+      "name": "Global Warming",
+      "tamilMeaning": "புவி வெப்பமடைதல்",
+      "example": "Global warming is melting the glaciers.",
+      "exampleTamil": "புவி வெப்பமடைதல் பனிப்பாறைகளை உருகச் செய்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "climate_change",
+      "name": "Climate Change",
+      "tamilMeaning": "காலநிலை மாற்றம்",
+      "example": "Climate change affects weather patterns.",
+      "exampleTamil": "காலநிலை மாற்றம் வானிலை முறைகளை பாதிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "ozone_layer",
+      "name": "Ozone Layer",
+      "tamilMeaning": "ஓசோன் படை",
+      "example": "The ozone layer blocks harmful UV rays.",
+      "exampleTamil": "ஓசோன் படை தீங்கு விளைவிக்கும் புற ஊதா கதிர்களை தடுக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "pollution",
+      "name": "Pollution",
+      "tamilMeaning": "மாசுபாடு",
+      "example": "Pollution harms both humans and animals.",
+      "exampleTamil": "மாசுபாடு மனிதர்களையும் விலங்குகளையும் பாதிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "air_pollution",
+      "name": "Air Pollution",
+      "tamilMeaning": "காற்று மாசுபாடு",
+      "example": "Air pollution causes breathing problems.",
+      "exampleTamil": "காற்று மாசுபாடு சுவாச பிரச்சனைகளை ஏற்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "water_pollution",
+      "name": "Water Pollution",
+      "tamilMeaning": "நீர் மாசுபாடு",
+      "example": "Water pollution kills aquatic life.",
+      "exampleTamil": "நீர் மாசுபாடு நீர்வாழ் உயிரினங்களை கொல்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "soil_pollution",
+      "name": "Soil Pollution",
+      "tamilMeaning": "மண் மாசுபாடு",
+      "example": "Soil pollution reduces crop yield.",
+      "exampleTamil": "மண் மாசுபாடு பயிர் விளைச்சலை குறைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "noise_pollution",
+      "name": "Noise Pollution",
+      "tamilMeaning": "ஒலி மாசுபாடு",
+      "example": "Noise pollution disturbs city residents.",
+      "exampleTamil": "ஒலி மாசுபாடு நகர வாசிகளை தொந்தரவு செய்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "plastic_pollution",
+      "name": "Plastic Pollution",
+      "tamilMeaning": "பிளாஸ்டிக் மாசுபாடு",
+      "example": "Plastic pollution harms marine animals.",
+      "exampleTamil": "பிளாஸ்டிக் மாசுபாடு கடல் வாழ் விலங்குகளை பாதிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "waste",
+      "name": "Waste",
+      "tamilMeaning": "கழிவு",
+      "example": "Reduce waste to protect the environment.",
+      "exampleTamil": "சுற்றுச்சூழலை பாதுகாக்க கழிவை குறைக்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "garbage",
+      "name": "Garbage",
+      "tamilMeaning": "குப்பை",
+      "example": "Throw the garbage in the bin.",
+      "exampleTamil": "குப்பையை குப்பைத் தொட்டியில் போடுங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "litter",
+      "name": "Litter",
+      "tamilMeaning": "சிதறிய குப்பை",
+      "example": "Do not litter on the streets.",
+      "exampleTamil": "தெருக்களில் குப்பையை சிதற வேண்டாம்.",
+      "audio": null
+    },
+    {
+      "id": "landfill",
+      "name": "Landfill",
+      "tamilMeaning": "குப்பை நிலம்",
+      "example": "The landfill is full of plastic waste.",
+      "exampleTamil": "குப்பை நிலம் பிளாஸ்டிக் கழிவுகளால் நிறைந்துள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "recycling",
+      "name": "Recycling",
+      "tamilMeaning": "மறுசுழற்சி",
+      "example": "Recycling reduces waste in landfills.",
+      "exampleTamil": "மறுசுழற்சி குப்பை நிலங்களில் கழிவை குறைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "reuse",
+      "name": "Reuse",
+      "tamilMeaning": "மறுபயன்பாடு",
+      "example": "Reuse bags instead of buying new ones.",
+      "exampleTamil": "புதியவற்றை வாங்குவதற்கு பதிலாக பைகளை மறுபயன்படுத்துங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "reduce",
+      "name": "Reduce",
+      "tamilMeaning": "குறை",
+      "example": "Reduce plastic use to help the planet.",
+      "exampleTamil": "பூமிக்கு உதவ பிளாஸ்டிக் பயன்பாட்டை குறைக்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "compost",
+      "name": "Compost",
+      "tamilMeaning": "உரம்",
+      "example": "They make compost from kitchen waste.",
+      "exampleTamil": "அவர்கள் சமையலறை கழிவில் இருந்து உரம் தயாரிக்கின்றனர்.",
+      "audio": null
+    },
+    {
+      "id": "renewable_energy",
+      "name": "Renewable Energy",
+      "tamilMeaning": "புதுப்பிக்கத்தக்க எரிசக்தி",
+      "example": "Renewable energy reduces pollution.",
+      "exampleTamil": "புதுப்பிக்கத்தக்க எரிசக்தி மாசுபாட்டை குறைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "solar_energy",
+      "name": "Solar Energy",
+      "tamilMeaning": "சூரிய ஆற்றல்",
+      "example": "Solar energy is clean and renewable.",
+      "exampleTamil": "சூரிய ஆற்றல் தூய்மையானதும் புதுப்பிக்கத்தக்கதும் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "wind_energy",
+      "name": "Wind Energy",
+      "tamilMeaning": "காற்று ஆற்றல்",
+      "example": "Wind energy powers many homes.",
+      "exampleTamil": "காற்று ஆற்றல் பல வீடுகளை இயக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "hydroelectric_energy",
+      "name": "Hydroelectric Energy",
+      "tamilMeaning": "நீர்மின் ஆற்றல்",
+      "example": "Hydroelectric energy uses flowing water.",
+      "exampleTamil": "நீர்மின் ஆற்றல் ஓடும் நீரை பயன்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "geothermal_energy",
+      "name": "Geothermal Energy",
+      "tamilMeaning": "புவிவெப்ப ஆற்றல்",
+      "example": "Geothermal energy comes from the earth's heat.",
+      "exampleTamil": "புவிவெப்ப ஆற்றல் பூமியின் வெப்பத்தில் இருந்து வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "biomass",
+      "name": "Biomass",
+      "tamilMeaning": "உயிர்த்திணிவு",
+      "example": "Biomass energy comes from organic material.",
+      "exampleTamil": "உயிர்த்திணிவு ஆற்றல் கரிமப் பொருளில் இருந்து வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "fossil_fuel",
+      "name": "Fossil Fuel",
+      "tamilMeaning": "புதைபடிவ எரிபொருள்",
+      "example": "Fossil fuels contribute to pollution.",
+      "exampleTamil": "புதைபடிவ எரிபொருட்கள் மாசுபாட்டிற்கு பங்களிக்கின்றன.",
+      "audio": null
+    },
+    {
+      "id": "coal",
+      "name": "Coal",
+      "tamilMeaning": "நிலக்கரி",
+      "example": "Coal is burned to produce electricity.",
+      "exampleTamil": "மின்சாரம் உற்பத்தி செய்ய நிலக்கரி எரிக்கப்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "petroleum",
+      "name": "Petroleum",
+      "tamilMeaning": "பெட்ரோலியம்",
+      "example": "Petroleum is used to make fuel.",
+      "exampleTamil": "எரிபொருள் தயாரிக்க பெட்ரோலியம் பயன்படுத்தப்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "natural_gas",
+      "name": "Natural Gas",
+      "tamilMeaning": "இயற்கை எரிவாயு",
+      "example": "Natural gas is used for cooking.",
+      "exampleTamil": "சமையலுக்கு இயற்கை எரிவாயு பயன்படுத்தப்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "conservation",
+      "name": "Conservation",
+      "tamilMeaning": "பாதுகாப்பு (இயற்கை வளம்)",
+      "example": "Water conservation is important in summer.",
+      "exampleTamil": "கோடையில் நீர் பாதுகாப்பு முக்கியம்.",
+      "audio": null
+    },
+    {
+      "id": "preservation",
+      "name": "Preservation",
+      "tamilMeaning": "பேணுகை",
+      "example": "Preservation of forests is essential.",
+      "exampleTamil": "காடுகளின் பேணுகை அவசியமானது.",
+      "audio": null
+    },
+    {
+      "id": "sustainability",
+      "name": "Sustainability",
+      "tamilMeaning": "நிலைத்தன்மை",
+      "example": "Sustainability ensures resources for the future.",
+      "exampleTamil": "நிலைத்தன்மை எதிர்காலத்திற்கான வளங்களை உறுதி செய்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "green_living",
+      "name": "Green Living",
+      "tamilMeaning": "பசுமை வாழ்க்கை முறை",
+      "example": "They follow a green living lifestyle.",
+      "exampleTamil": "அவர்கள் ஒரு பசுமை வாழ்க்கை முறையை பின்பற்றுகின்றனர்.",
+      "audio": null
+    },
+    {
+      "id": "eco_friendly",
+      "name": "Eco-Friendly",
+      "tamilMeaning": "சுற்றுச்சூழல் நட்பு",
+      "example": "She uses eco-friendly products.",
+      "exampleTamil": "அவள் சுற்றுச்சூழல் நட்பு பொருட்களை பயன்படுத்துகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "carbon_footprint",
+      "name": "Carbon Footprint",
+      "tamilMeaning": "கார்பன் தடம்",
+      "example": "Reduce your carbon footprint by walking more.",
+      "exampleTamil": "அதிகம் நடப்பதன் மூலம் உங்கள் கார்பன் தடத்தை குறைக்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "tree",
+      "name": "Tree",
+      "tamilMeaning": "மரம்",
+      "example": "They planted a tree in the garden.",
+      "exampleTamil": "அவர்கள் தோட்டத்தில் ஒரு மரத்தை நட்டனர்.",
+      "audio": null
+    },
+    {
+      "id": "plant",
+      "name": "Plant",
+      "tamilMeaning": "செடி",
+      "example": "Water the plant every day.",
+      "exampleTamil": "ஒவ்வொரு நாளும் செடிக்கு தண்ணீர் ஊற்றுங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "flower",
+      "name": "Flower",
+      "tamilMeaning": "பூ",
+      "example": "The flower bloomed beautifully.",
+      "exampleTamil": "பூ அழகாக மலர்ந்தது.",
+      "audio": null
+    },
+    {
+      "id": "seed",
+      "name": "Seed",
+      "tamilMeaning": "விதை",
+      "example": "She planted the seed in the soil.",
+      "exampleTamil": "அவள் மண்ணில் விதையை நட்டாள்.",
+      "audio": null
+    },
+    {
+      "id": "soil",
+      "name": "Soil",
+      "tamilMeaning": "மண்",
+      "example": "Fertile soil grows healthy crops.",
+      "exampleTamil": "வளமான மண் ஆரோக்கியமான பயிர்களை வளர்க்கும்.",
+      "audio": null
+    },
+    {
+      "id": "fertilizer",
+      "name": "Fertilizer",
+      "tamilMeaning": "உரம் (இரசாயன உரம்)",
+      "example": "He used fertilizer for better growth.",
+      "exampleTamil": "சிறந்த வளர்ச்சிக்காக அவன் உரத்தை பயன்படுத்தினான்.",
+      "audio": null
+    },
+    {
+      "id": "organic_farming",
+      "name": "Organic Farming",
+      "tamilMeaning": "இயற்கை வேளாண்மை",
+      "example": "Organic farming avoids chemical pesticides.",
+      "exampleTamil": "இயற்கை வேளாண்மை இரசாயன பூச்சிக்கொல்லிகளை தவிர்க்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "deforestation",
+      "name": "Deforestation",
+      "tamilMeaning": "காடழிப்பு",
+      "example": "Deforestation destroys animal habitats.",
+      "exampleTamil": "காடழிப்பு விலங்கு வாழ்விடங்களை அழிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "afforestation",
+      "name": "Afforestation",
+      "tamilMeaning": "காடு வளர்ப்பு",
+      "example": "Afforestation helps restore green cover.",
+      "exampleTamil": "காடு வளர்ப்பு பசுமை மூடியை மீட்டெடுக்க உதவுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "reforestation",
+      "name": "Reforestation",
+      "tamilMeaning": "மறுகாடாக்கம்",
+      "example": "Reforestation projects plant new trees.",
+      "exampleTamil": "மறுகாடாக்கம் திட்டங்கள் புதிய மரங்களை நடுகின்றன.",
+      "audio": null
+    },
+    {
+      "id": "endangered_species",
+      "name": "Endangered Species",
+      "tamilMeaning": "அழிந்துவரும் இனங்கள்",
+      "example": "Tigers are an endangered species.",
+      "exampleTamil": "புலிகள் அழிந்துவரும் இனங்களில் ஒன்று.",
+      "audio": null
+    },
+    {
+      "id": "extinction",
+      "name": "Extinction",
+      "tamilMeaning": "அழிவு",
+      "example": "Many species face extinction today.",
+      "exampleTamil": "இன்று பல இனங்கள் அழிவை எதிர்கொள்கின்றன.",
+      "audio": null
+    },
+    {
+      "id": "conservation_area",
+      "name": "Conservation Area",
+      "tamilMeaning": "பாதுகாப்பு பகுதி",
+      "example": "This forest is a protected conservation area.",
+      "exampleTamil": "இந்த காடு ஒரு பாதுகாக்கப்பட்ட பாதுகாப்பு பகுதி ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "national_park",
+      "name": "National Park",
+      "tamilMeaning": "தேசிய பூங்கா",
+      "example": "They visited the national park last month.",
+      "exampleTamil": "அவர்கள் கடந்த மாதம் தேசிய பூங்காவிற்கு சென்றனர்.",
+      "audio": null
+    },
+    {
+      "id": "wildlife_sanctuary",
+      "name": "Wildlife Sanctuary",
+      "tamilMeaning": "வனவிலங்கு காப்பகம்",
+      "example": "The wildlife sanctuary protects rare animals.",
+      "exampleTamil": "வனவிலங்கு காப்பகம் அரிய விலங்குகளை பாதுகாக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "marine_life",
+      "name": "Marine Life",
+      "tamilMeaning": "கடல்வாழ் உயிரினங்கள்",
+      "example": "Marine life thrives in coral reefs.",
+      "exampleTamil": "கடல்வாழ் உயிரினங்கள் பவளப்பாறைகளில் செழிக்கின்றன.",
+      "audio": null
+    },
+    {
+      "id": "coral_reef",
+      "name": "Coral Reef",
+      "tamilMeaning": "பவளப்பாறை",
+      "example": "The coral reef is full of colorful fish.",
+      "exampleTamil": "பவளப்பாறை வண்ணமயமான மீன்களால் நிறைந்துள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "drought",
+      "name": "Drought",
+      "tamilMeaning": "வறட்சி",
+      "example": "The region suffered a severe drought.",
+      "exampleTamil": "அப்பகுதி கடுமையான வறட்சியை சந்தித்தது.",
+      "audio": null
+    },
+    {
+      "id": "flood",
+      "name": "Flood",
+      "tamilMeaning": "வெள்ளம்",
+      "example": "The flood damaged many homes.",
+      "exampleTamil": "வெள்ளம் பல வீடுகளை சேதப்படுத்தியது.",
+      "audio": null
+    },
+    {
+      "id": "cyclone",
+      "name": "Cyclone",
+      "tamilMeaning": "புயல்",
+      "example": "The cyclone hit the coastal region.",
+      "exampleTamil": "புயல் கடலோர பகுதியை தாக்கியது.",
+      "audio": null
+    },
+    {
+      "id": "hurricane",
+      "name": "Hurricane",
+      "tamilMeaning": "சூறாவளி",
+      "example": "The hurricane caused massive destruction.",
+      "exampleTamil": "சூறாவளி பெரும் அழிவை ஏற்படுத்தியது.",
+      "audio": null
+    },
+    {
+      "id": "tornado",
+      "name": "Tornado",
+      "tamilMeaning": "சுழல்காற்று",
+      "example": "The tornado destroyed several buildings.",
+      "exampleTamil": "சுழல்காற்று பல கட்டிடங்களை அழித்தது.",
+      "audio": null
+    },
+    {
+      "id": "earthquake",
+      "name": "Earthquake",
+      "tamilMeaning": "நிலநடுக்கம்",
+      "example": "The earthquake damaged many buildings.",
+      "exampleTamil": "நிலநடுக்கம் பல கட்டிடங்களை சேதப்படுத்தியது.",
+      "audio": null
+    },
+    {
+      "id": "volcano",
+      "name": "Volcano",
+      "tamilMeaning": "எரிமலை",
+      "example": "The volcano erupted suddenly.",
+      "exampleTamil": "எரிமலை திடீரென வெடித்தது.",
+      "audio": null
+    },
+    {
+      "id": "tsunami",
+      "name": "Tsunami",
+      "tamilMeaning": "சுனாமி",
+      "example": "The tsunami hit the coastal area.",
+      "exampleTamil": "சுனாமி கடலோர பகுதியை தாக்கியது.",
+      "audio": null
+    },
+    {
+      "id": "rain",
+      "name": "Rain",
+      "tamilMeaning": "மழை",
+      "example": "The rain cooled the hot weather.",
+      "exampleTamil": "மழை வெப்பமான வானிலையை குளிர்வித்தது.",
+      "audio": null
+    },
+    {
+      "id": "snow",
+      "name": "Snow",
+      "tamilMeaning": "பனி",
+      "example": "The mountains are covered with snow.",
+      "exampleTamil": "மலைகள் பனியால் மூடப்பட்டுள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "sunlight",
+      "name": "Sunlight",
+      "tamilMeaning": "சூரிய ஒளி",
+      "example": "Plants need sunlight to grow.",
+      "exampleTamil": "செடிகளுக்கு வளர சூரிய ஒளி தேவை.",
+      "audio": null
+    },
+    {
+      "id": "temperature",
+      "name": "Temperature",
+      "tamilMeaning": "வெப்பநிலை",
+      "example": "Check the temperature before going out.",
+      "exampleTamil": "வெளியே செல்லும் முன் வெப்பநிலையை சரிபார்க்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "humidity",
+      "name": "Humidity",
+      "tamilMeaning": "ஈரப்பதம்",
+      "example": "The humidity is high in the coastal city.",
+      "exampleTamil": "கடலோர நகரத்தில் ஈரப்பதம் அதிகமாக உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "wind",
+      "name": "Wind",
+      "tamilMeaning": "காற்று",
+      "example": "The wind blew the leaves away.",
+      "exampleTamil": "காற்று இலைகளை அடித்துச் சென்றது.",
+      "audio": null
+    },
+    {
+      "id": "water_cycle",
+      "name": "Water Cycle",
+      "tamilMeaning": "நீர் சுழற்சி",
+      "example": "The water cycle includes evaporation and rain.",
+      "exampleTamil": "நீர் சுழற்சியில் ஆவியாதல் மற்றும் மழை அடங்கும்.",
+      "audio": null
+    },
+    {
+      "id": "food_chain",
+      "name": "Food Chain",
+      "tamilMeaning": "உணவுச் சங்கிலி",
+      "example": "Every animal is part of a food chain.",
+      "exampleTamil": "ஒவ்வொரு விலங்கும் ஒரு உணவுச் சங்கிலியின் பகுதியாகும்.",
+      "audio": null
+    },
+    {
+      "id": "food_web",
+      "name": "Food Web",
+      "tamilMeaning": "உணவு வலை",
+      "example": "The food web shows many food chains connected.",
+      "exampleTamil": "உணவு வலை பல உணவுச் சங்கிலிகள் இணைந்திருப்பதை காட்டுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "natural_resource",
+      "name": "Natural Resource",
+      "tamilMeaning": "இயற்கை வளம்",
+      "example": "Water is a precious natural resource.",
+      "exampleTamil": "நீர் ஒரு விலைமதிப்பற்ற இயற்கை வளம் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "environmental_protection",
+      "name": "Environmental Protection",
+      "tamilMeaning": "சுற்றுச்சூழல் பாதுகாப்பு",
+      "example": "Environmental protection is everyone's responsibility.",
+      "exampleTamil": "சுற்றுச்சூழல் பாதுகாப்பு அனைவரின் பொறுப்பு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "greenhouse_effect",
+      "name": "Greenhouse Effect",
+      "tamilMeaning": "பசுமை இல்ல விளைவு",
+      "example": "The greenhouse effect warms the earth.",
+      "exampleTamil": "பசுமை இல்ல விளைவு பூமியை வெப்பமாக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "sustainable_development",
+      "name": "Sustainable Development",
+      "tamilMeaning": "நிலையான வளர்ச்சி",
+      "example": "Sustainable development balances growth and environment.",
+      "exampleTamil": "நிலையான வளர்ச்சி வளர்ச்சியையும் சுற்றுச்சூழலையும் சமநிலைப்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "earth_day",
+      "name": "Earth Day",
+      "tamilMeaning": "புவி தினம்",
+      "example": "Earth Day is celebrated every April.",
+      "exampleTamil": "புவி தினம் ஒவ்வொரு ஏப்ரலிலும் கொண்டாடப்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "zero_waste",
+      "name": "Zero Waste",
+      "tamilMeaning": "பூஜ்ஜிய கழிவு",
+      "example": "She follows a zero waste lifestyle.",
+      "exampleTamil": "அவள் ஒரு பூஜ்ஜிய கழிவு வாழ்க்கை முறையை பின்பற்றுகிறாள்.",
+      "audio": null
+    }
+  ]
+}

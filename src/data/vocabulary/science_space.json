@@ -1,0 +1,790 @@
+{
+  "id": "science_space",
+  "name": "Science & Space",
+  "items": [
+    {
+      "id": "science",
+      "name": "Science",
+      "tamilMeaning": "அறிவியல்",
+      "example": "She loves studying science.",
+      "exampleTamil": "அவள் அறிவியல் படிப்பதை விரும்புகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "scientist",
+      "name": "Scientist",
+      "tamilMeaning": "விஞ்ஞானி",
+      "example": "The scientist discovered a new element.",
+      "exampleTamil": "விஞ்ஞானி ஒரு புதிய தனிமத்தை கண்டுபிடித்தார்.",
+      "audio": null
+    },
+    {
+      "id": "research",
+      "name": "Research",
+      "tamilMeaning": "ஆராய்ச்சி",
+      "example": "She conducts research in AI.",
+      "exampleTamil": "அவள் செயற்கை நுண்ணறிவில் ஆராய்ச்சி செய்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "discovery",
+      "name": "Discovery",
+      "tamilMeaning": "கண்டுபிடிப்பு",
+      "example": "This was an important scientific discovery.",
+      "exampleTamil": "இது ஒரு முக்கியமான அறிவியல் கண்டுபிடிப்பு.",
+      "audio": null
+    },
+    {
+      "id": "experiment",
+      "name": "Experiment",
+      "tamilMeaning": "சோதனை",
+      "example": "The scientist ran an experiment.",
+      "exampleTamil": "விஞ்ஞானி ஒரு சோதனையை நடத்தினார்.",
+      "audio": null
+    },
+    {
+      "id": "observation",
+      "name": "Observation",
+      "tamilMeaning": "அவதானிப்பு",
+      "example": "Careful observation led to the discovery.",
+      "exampleTamil": "கவனமான அவதானிப்பு கண்டுபிடிப்புக்கு வழிவகுத்தது.",
+      "audio": null
+    },
+    {
+      "id": "hypothesis",
+      "name": "Hypothesis",
+      "tamilMeaning": "கருதுகோள்",
+      "example": "He tested his hypothesis in the lab.",
+      "exampleTamil": "அவன் தனது கருதுகோளை ஆய்வகத்தில் சோதித்தான்.",
+      "audio": null
+    },
+    {
+      "id": "theory",
+      "name": "Theory",
+      "tamilMeaning": "கோட்பாடு",
+      "example": "Einstein's theory changed physics.",
+      "exampleTamil": "ஐன்ஸ்டீனின் கோட்பாடு இயற்பியலை மாற்றியது.",
+      "audio": null
+    },
+    {
+      "id": "law",
+      "name": "Scientific Law",
+      "tamilMeaning": "அறிவியல் விதி",
+      "example": "Newton's law explains motion.",
+      "exampleTamil": "நியூட்டனின் விதி இயக்கத்தை விளக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "evidence",
+      "name": "Evidence",
+      "tamilMeaning": "சான்று",
+      "example": "The evidence supports the theory.",
+      "exampleTamil": "சான்று கோட்பாட்டை ஆதரிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "analysis",
+      "name": "Analysis",
+      "tamilMeaning": "பகுப்பாய்வு",
+      "example": "The analysis took several weeks.",
+      "exampleTamil": "பகுப்பாய்வு பல வாரங்கள் எடுத்தது.",
+      "audio": null
+    },
+    {
+      "id": "laboratory",
+      "name": "Laboratory",
+      "tamilMeaning": "ஆய்வகம்",
+      "example": "The sample was sent to the laboratory.",
+      "exampleTamil": "மாதிரி ஆய்வகத்திற்கு அனுப்பப்பட்டது.",
+      "audio": null
+    },
+    {
+      "id": "microscope",
+      "name": "Microscope",
+      "tamilMeaning": "நுண்ணோக்கி",
+      "example": "She viewed the cells under a microscope.",
+      "exampleTamil": "அவள் நுண்ணோக்கியின் கீழ் செல்களை பார்த்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "telescope",
+      "name": "Telescope",
+      "tamilMeaning": "தொலைநோக்கி",
+      "example": "He observed the stars through a telescope.",
+      "exampleTamil": "அவன் தொலைநோக்கி மூலம் நட்சத்திரங்களை பார்த்தான்.",
+      "audio": null
+    },
+    {
+      "id": "measurement",
+      "name": "Measurement",
+      "tamilMeaning": "அளவீடு",
+      "example": "Accurate measurement is essential in science.",
+      "exampleTamil": "துல்லியமான அளவீடு அறிவியலில் அவசியம்.",
+      "audio": null
+    },
+    {
+      "id": "physics",
+      "name": "Physics",
+      "tamilMeaning": "இயற்பியல்",
+      "example": "He studies physics at university.",
+      "exampleTamil": "அவன் பல்கலைக்கழகத்தில் இயற்பியல் படிக்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "chemistry",
+      "name": "Chemistry",
+      "tamilMeaning": "வேதியியல்",
+      "example": "She enjoys chemistry experiments.",
+      "exampleTamil": "அவள் வேதியியல் சோதனைகளை ரசிக்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "biology",
+      "name": "Biology",
+      "tamilMeaning": "உயிரியல்",
+      "example": "Biology explains living organisms.",
+      "exampleTamil": "உயிரியல் உயிரினங்களை விளக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "astronomy",
+      "name": "Astronomy",
+      "tamilMeaning": "வானியல்",
+      "example": "He is passionate about astronomy.",
+      "exampleTamil": "அவனுக்கு வானியலில் ஆர்வம் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "geology",
+      "name": "Geology",
+      "tamilMeaning": "புவியியல்",
+      "example": "She studies rocks in geology class.",
+      "exampleTamil": "அவள் புவியியல் வகுப்பில் பாறைகளை படிக்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "ecology",
+      "name": "Ecology",
+      "tamilMeaning": "சூழலியல்",
+      "example": "Ecology studies living organisms and environment.",
+      "exampleTamil": "சூழலியல் உயிரினங்களையும் சூழலையும் ஆய்வு செய்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "genetics",
+      "name": "Genetics",
+      "tamilMeaning": "மரபியல்",
+      "example": "Genetics explains inherited traits.",
+      "exampleTamil": "மரபியல் பரம்பரை பண்புகளை விளக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "atom",
+      "name": "Atom",
+      "tamilMeaning": "அணு",
+      "example": "An atom is the smallest unit of matter.",
+      "exampleTamil": "அணு பொருளின் மிகச்சிறிய அலகு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "molecule",
+      "name": "Molecule",
+      "tamilMeaning": "மூலக்கூறு",
+      "example": "Water is made of molecules.",
+      "exampleTamil": "தண்ணீர் மூலக்கூறுகளால் ஆனது.",
+      "audio": null
+    },
+    {
+      "id": "element",
+      "name": "Element",
+      "tamilMeaning": "தனிமம்",
+      "example": "Oxygen is a chemical element.",
+      "exampleTamil": "ஆக்சிஜன் ஒரு வேதியியல் தனிமம்.",
+      "audio": null
+    },
+    {
+      "id": "compound",
+      "name": "Compound",
+      "tamilMeaning": "சேர்மம்",
+      "example": "Salt is a chemical compound.",
+      "exampleTamil": "உப்பு ஒரு வேதியியல் சேர்மம்.",
+      "audio": null
+    },
+    {
+      "id": "reaction",
+      "name": "Chemical Reaction",
+      "tamilMeaning": "வேதி வினை",
+      "example": "This chemical reaction produces heat.",
+      "exampleTamil": "இந்த வேதி வினை வெப்பத்தை உருவாக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "energy",
+      "name": "Energy",
+      "tamilMeaning": "ஆற்றல்",
+      "example": "Solar panels generate energy.",
+      "exampleTamil": "சூரிய மின் பலகைகள் ஆற்றலை உருவாக்குகின்றன.",
+      "audio": null
+    },
+    {
+      "id": "force",
+      "name": "Force",
+      "tamilMeaning": "விசை",
+      "example": "Gravity is a force that pulls objects down.",
+      "exampleTamil": "ஈர்ப்பு விசை பொருட்களை கீழே இழுக்கும் ஒரு விசை.",
+      "audio": null
+    },
+    {
+      "id": "gravity",
+      "name": "Gravity",
+      "tamilMeaning": "ஈர்ப்பு விசை",
+      "example": "Gravity keeps us on the ground.",
+      "exampleTamil": "ஈர்ப்பு விசை நம்மை தரையில் வைத்திருக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "motion",
+      "name": "Motion",
+      "tamilMeaning": "இயக்கம்",
+      "example": "The ball is in motion.",
+      "exampleTamil": "பந்து இயக்கத்தில் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "velocity",
+      "name": "Velocity",
+      "tamilMeaning": "திசைவேகம்",
+      "example": "The car's velocity increased quickly.",
+      "exampleTamil": "காரின் திசைவேகம் விரைவாக அதிகரித்தது.",
+      "audio": null
+    },
+    {
+      "id": "acceleration",
+      "name": "Acceleration",
+      "tamilMeaning": "முடுக்கம்",
+      "example": "The car's acceleration was smooth.",
+      "exampleTamil": "காரின் முடுக்கம் மென்மையாக இருந்தது.",
+      "audio": null
+    },
+    {
+      "id": "mass",
+      "name": "Mass",
+      "tamilMeaning": "நிறை",
+      "example": "The mass of the object is 5 kg.",
+      "exampleTamil": "பொருளின் நிறை 5 கிலோ ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "weight",
+      "name": "Weight",
+      "tamilMeaning": "எடை",
+      "example": "His weight increased after the holidays.",
+      "exampleTamil": "விடுமுறைக்குப் பிறகு அவனது எடை அதிகரித்தது.",
+      "audio": null
+    },
+    {
+      "id": "temperature",
+      "name": "Temperature",
+      "tamilMeaning": "வெப்பநிலை",
+      "example": "Check his temperature with a thermometer.",
+      "exampleTamil": "அவனது வெப்பநிலையை தெர்மாமீட்டர் கொண்டு சரிபார்க்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "pressure",
+      "name": "Pressure",
+      "tamilMeaning": "அழுத்தம்",
+      "example": "Air pressure changes with altitude.",
+      "exampleTamil": "உயரத்திற்கு ஏற்ப காற்று அழுத்தம் மாறுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "electricity",
+      "name": "Electricity",
+      "tamilMeaning": "மின்சாரம்",
+      "example": "Electricity powers our homes.",
+      "exampleTamil": "மின்சாரம் நமது வீடுகளை இயக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "magnetism",
+      "name": "Magnetism",
+      "tamilMeaning": "காந்தவியல்",
+      "example": "Magnetism attracts iron objects.",
+      "exampleTamil": "காந்தவியல் இரும்பு பொருட்களை ஈர்க்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "light",
+      "name": "Light",
+      "tamilMeaning": "ஒளி",
+      "example": "Light travels faster than sound.",
+      "exampleTamil": "ஒலியை விட ஒளி வேகமாக பயணிக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "sound",
+      "name": "Sound",
+      "tamilMeaning": "ஒலி",
+      "example": "Sound travels through air.",
+      "exampleTamil": "ஒலி காற்றின் வழியாக பயணிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "wave",
+      "name": "Wave",
+      "tamilMeaning": "அலை",
+      "example": "Light behaves as a wave and particle.",
+      "exampleTamil": "ஒளி அலையாகவும் துகளாகவும் செயல்படும்.",
+      "audio": null
+    },
+    {
+      "id": "radiation",
+      "name": "Radiation",
+      "tamilMeaning": "கதிர்வீச்சு",
+      "example": "The sun emits radiation.",
+      "exampleTamil": "சூரியன் கதிர்வீச்சை வெளியிடுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "planet",
+      "name": "Planet",
+      "tamilMeaning": "கோள்",
+      "example": "Earth is our home planet.",
+      "exampleTamil": "பூமி நமது சொந்த கோள் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "earth",
+      "name": "Earth",
+      "tamilMeaning": "பூமி",
+      "example": "Earth is the third planet from the sun.",
+      "exampleTamil": "பூமி சூரியனில் இருந்து மூன்றாவது கோள் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "moon",
+      "name": "Moon",
+      "tamilMeaning": "சந்திரன்",
+      "example": "The moon orbits the earth.",
+      "exampleTamil": "சந்திரன் பூமியை சுற்றி வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "sun",
+      "name": "Sun",
+      "tamilMeaning": "சூரியன்",
+      "example": "The sun gives us light and heat.",
+      "exampleTamil": "சூரியன் நமக்கு ஒளியும் வெப்பமும் தருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "solar_system",
+      "name": "Solar System",
+      "tamilMeaning": "சூரிய குடும்பம்",
+      "example": "Our solar system has eight planets.",
+      "exampleTamil": "நமது சூரிய குடும்பத்தில் எட்டு கோள்கள் உள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "galaxy",
+      "name": "Galaxy",
+      "tamilMeaning": "அண்டம்",
+      "example": "Our galaxy is called the Milky Way.",
+      "exampleTamil": "நமது அண்டம் பால்வெளி என்று அழைக்கப்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "milky_way",
+      "name": "Milky Way",
+      "tamilMeaning": "பால்வெளி",
+      "example": "The Milky Way contains billions of stars.",
+      "exampleTamil": "பால்வெளியில் பில்லியன் கணக்கான நட்சத்திரங்கள் உள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "star",
+      "name": "Star",
+      "tamilMeaning": "நட்சத்திரம்",
+      "example": "The star twinkled in the night sky.",
+      "exampleTamil": "இரவு வானில் நட்சத்திரம் மின்னியது.",
+      "audio": null
+    },
+    {
+      "id": "constellation",
+      "name": "Constellation",
+      "tamilMeaning": "நட்சத்திர கூட்டம்",
+      "example": "He identified a constellation in the sky.",
+      "exampleTamil": "அவன் வானில் ஒரு நட்சத்திர கூட்டத்தை அடையாளம் கண்டான்.",
+      "audio": null
+    },
+    {
+      "id": "comet",
+      "name": "Comet",
+      "tamilMeaning": "வால்நட்சத்திரம்",
+      "example": "The comet was visible for weeks.",
+      "exampleTamil": "வால்நட்சத்திரம் பல வாரங்களுக்கு தெரிந்தது.",
+      "audio": null
+    },
+    {
+      "id": "asteroid",
+      "name": "Asteroid",
+      "tamilMeaning": "சிறுகோள்",
+      "example": "An asteroid passed near the earth.",
+      "exampleTamil": "ஒரு சிறுகோள் பூமிக்கு அருகில் கடந்து சென்றது.",
+      "audio": null
+    },
+    {
+      "id": "meteor",
+      "name": "Meteor",
+      "tamilMeaning": "விண்கல்",
+      "example": "They watched a meteor shower.",
+      "exampleTamil": "அவர்கள் ஒரு விண்கல் மழையை பார்த்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "meteorite",
+      "name": "Meteorite",
+      "tamilMeaning": "விழுங்கல்",
+      "example": "The meteorite landed in the desert.",
+      "exampleTamil": "விழுங்கல் பாலைவனத்தில் விழுந்தது.",
+      "audio": null
+    },
+    {
+      "id": "orbit",
+      "name": "Orbit",
+      "tamilMeaning": "சுற்றுப்பாதை",
+      "example": "The satellite is in orbit around earth.",
+      "exampleTamil": "செயற்கைக்கோள் பூமியை சுற்றும் பாதையில் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "rotation",
+      "name": "Rotation",
+      "tamilMeaning": "சுழற்சி",
+      "example": "Earth's rotation causes day and night.",
+      "exampleTamil": "பூமியின் சுழற்சி பகல் இரவை ஏற்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "revolution",
+      "name": "Revolution",
+      "tamilMeaning": "சுற்றுகை",
+      "example": "Earth's revolution around the sun takes a year.",
+      "exampleTamil": "சூரியனை சுற்றி பூமியின் சுற்றுகைக்கு ஒரு வருடம் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "eclipse",
+      "name": "Eclipse",
+      "tamilMeaning": "கிரகணம்",
+      "example": "They watched the solar eclipse together.",
+      "exampleTamil": "அவர்கள் சூரிய கிரகணத்தை ஒன்றாக பார்த்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "black_hole",
+      "name": "Black Hole",
+      "tamilMeaning": "கருந்துளை",
+      "example": "A black hole absorbs everything nearby.",
+      "exampleTamil": "ஒரு கருந்துளை அருகிலுள்ள அனைத்தையும் உறிஞ்சும்.",
+      "audio": null
+    },
+    {
+      "id": "nebula",
+      "name": "Nebula",
+      "tamilMeaning": "நெபுலா (விண்மீன் மேகம்)",
+      "example": "The nebula glowed in deep space.",
+      "exampleTamil": "நெபுலா ஆழ்ந்த விண்வெளியில் ஒளிர்ந்தது.",
+      "audio": null
+    },
+    {
+      "id": "satellite",
+      "name": "Satellite",
+      "tamilMeaning": "செயற்கைக்கோள்",
+      "example": "The satellite orbits the earth.",
+      "exampleTamil": "செயற்கைக்கோள் பூமியை சுற்றி வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "space_station",
+      "name": "Space Station",
+      "tamilMeaning": "விண்வெளி நிலையம்",
+      "example": "Astronauts live on the space station.",
+      "exampleTamil": "விண்வெளி வீரர்கள் விண்வெளி நிலையத்தில் வாழ்கின்றனர்.",
+      "audio": null
+    },
+    {
+      "id": "spacecraft",
+      "name": "Spacecraft",
+      "tamilMeaning": "விண்கலம்",
+      "example": "The spacecraft landed safely.",
+      "exampleTamil": "விண்கலம் பாதுகாப்பாக தரையிறங்கியது.",
+      "audio": null
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "tamilMeaning": "ராக்கெட்",
+      "example": "The rocket launched into space.",
+      "exampleTamil": "ராக்கெட் விண்வெளிக்கு ஏவப்பட்டது.",
+      "audio": null
+    },
+    {
+      "id": "launch",
+      "name": "Launch",
+      "tamilMeaning": "ஏவுதல்",
+      "example": "The rocket launch was successful.",
+      "exampleTamil": "ராக்கெட் ஏவுதல் வெற்றிகரமாக இருந்தது.",
+      "audio": null
+    },
+    {
+      "id": "astronaut",
+      "name": "Astronaut",
+      "tamilMeaning": "விண்வெளி வீரர்",
+      "example": "The astronaut walked on the moon.",
+      "exampleTamil": "விண்வெளி வீரர் சந்திரனில் நடந்தார்.",
+      "audio": null
+    },
+    {
+      "id": "cosmonaut",
+      "name": "Cosmonaut",
+      "tamilMeaning": "கோஸ்மோநாட்",
+      "example": "The cosmonaut trained for years.",
+      "exampleTamil": "கோஸ்மோநாட் பல ஆண்டுகள் பயிற்சி பெற்றார்.",
+      "audio": null
+    },
+    {
+      "id": "mission",
+      "name": "Space Mission",
+      "tamilMeaning": "விண்வெளி பணி",
+      "example": "The space mission was a success.",
+      "exampleTamil": "விண்வெளி பணி வெற்றிகரமாக இருந்தது.",
+      "audio": null
+    },
+    {
+      "id": "exploration",
+      "name": "Exploration",
+      "tamilMeaning": "ஆய்வுப்பயணம்",
+      "example": "Space exploration continues to advance.",
+      "exampleTamil": "விண்வெளி ஆய்வுப்பயணம் தொடர்ந்து முன்னேறி வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "vacuum",
+      "name": "Vacuum",
+      "tamilMeaning": "வெற்றிடம்",
+      "example": "Space is mostly a vacuum.",
+      "exampleTamil": "விண்வெளி பெரும்பாலும் ஒரு வெற்றிடமாகும்.",
+      "audio": null
+    },
+    {
+      "id": "universe",
+      "name": "Universe",
+      "tamilMeaning": "பிரபஞ்சம்",
+      "example": "The universe is vast and mysterious.",
+      "exampleTamil": "பிரபஞ்சம் பரந்ததும் மர்மமானதும் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "cosmos",
+      "name": "Cosmos",
+      "tamilMeaning": "அண்டவெளி",
+      "example": "The cosmos contains countless galaxies.",
+      "exampleTamil": "அண்டவெளியில் எண்ணற்ற அண்டங்கள் உள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "gravity_wave",
+      "name": "Gravitational Wave",
+      "tamilMeaning": "ஈர்ப்பு அலை",
+      "example": "Scientists detected a gravitational wave.",
+      "exampleTamil": "விஞ்ஞானிகள் ஒரு ஈர்ப்பு அலையை கண்டறிந்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "dark_matter",
+      "name": "Dark Matter",
+      "tamilMeaning": "இருள் பொருள்",
+      "example": "Dark matter cannot be seen directly.",
+      "exampleTamil": "இருள் பொருளை நேரடியாக பார்க்க முடியாது.",
+      "audio": null
+    },
+    {
+      "id": "dark_energy",
+      "name": "Dark Energy",
+      "tamilMeaning": "இருள் ஆற்றல்",
+      "example": "Dark energy causes the universe to expand.",
+      "exampleTamil": "இருள் ஆற்றல் பிரபஞ்சத்தை விரிவடையச் செய்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "quantum",
+      "name": "Quantum",
+      "tamilMeaning": "குவாண்டம்",
+      "example": "Quantum physics is complex and fascinating.",
+      "exampleTamil": "குவாண்டம் இயற்பியல் சிக்கலானதும் ஈர்க்கக்கூடியதும் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "relativity",
+      "name": "Relativity",
+      "tamilMeaning": "சார்பியல் கோட்பாடு",
+      "example": "Einstein developed the theory of relativity.",
+      "exampleTamil": "ஐன்ஸ்டீன் சார்பியல் கோட்பாட்டை உருவாக்கினார்.",
+      "audio": null
+    },
+    {
+      "id": "ecosystem",
+      "name": "Ecosystem",
+      "tamilMeaning": "சுற்றுச்சூழல் அமைப்பு",
+      "example": "The forest is a rich ecosystem.",
+      "exampleTamil": "காடு ஒரு வளமான சுற்றுச்சூழல் அமைப்பு.",
+      "audio": null
+    },
+    {
+      "id": "organism",
+      "name": "Organism",
+      "tamilMeaning": "உயிரினம்",
+      "example": "Every organism needs energy to survive.",
+      "exampleTamil": "ஒவ்வொரு உயிரினத்திற்கும் உயிர்வாழ ஆற்றல் தேவை.",
+      "audio": null
+    },
+    {
+      "id": "cell",
+      "name": "Cell",
+      "tamilMeaning": "செல்",
+      "example": "The cell is the basic unit of life.",
+      "exampleTamil": "செல் உயிரின் அடிப்படை அலகு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "dna",
+      "name": "DNA",
+      "tamilMeaning": "டிஎன்ஏ",
+      "example": "DNA carries genetic information.",
+      "exampleTamil": "டிஎன்ஏ மரபணு தகவலை சுமந்து செல்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "evolution",
+      "name": "Evolution",
+      "tamilMeaning": "பரிணாமம்",
+      "example": "Darwin proposed the theory of evolution.",
+      "exampleTamil": "டார்வின் பரிணாம கோட்பாட்டை முன்மொழிந்தார்.",
+      "audio": null
+    },
+    {
+      "id": "fossil",
+      "name": "Fossil",
+      "tamilMeaning": "புதைபடிவம்",
+      "example": "They found a dinosaur fossil.",
+      "exampleTamil": "அவர்கள் ஒரு டைனோசர் புதைபடிவத்தை கண்டனர்.",
+      "audio": null
+    },
+    {
+      "id": "volcano",
+      "name": "Volcano",
+      "tamilMeaning": "எரிமலை",
+      "example": "The volcano erupted suddenly.",
+      "exampleTamil": "எரிமலை திடீரென வெடித்தது.",
+      "audio": null
+    },
+    {
+      "id": "earthquake",
+      "name": "Earthquake",
+      "tamilMeaning": "நிலநடுக்கம்",
+      "example": "The earthquake damaged many buildings.",
+      "exampleTamil": "நிலநடுக்கம் பல கட்டிடங்களை சேதப்படுத்தியது.",
+      "audio": null
+    },
+    {
+      "id": "tsunami",
+      "name": "Tsunami",
+      "tamilMeaning": "சுனாமி",
+      "example": "The tsunami hit the coastal area.",
+      "exampleTamil": "சுனாமி கடலோர பகுதியை தாக்கியது.",
+      "audio": null
+    },
+    {
+      "id": "climate",
+      "name": "Climate",
+      "tamilMeaning": "காலநிலை",
+      "example": "Climate change affects the whole world.",
+      "exampleTamil": "காலநிலை மாற்றம் முழு உலகையும் பாதிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "weather",
+      "name": "Weather",
+      "tamilMeaning": "வானிலை",
+      "example": "The weather is pleasant today.",
+      "exampleTamil": "இன்று வானிலை இனிமையாக உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "atmosphere",
+      "name": "Atmosphere",
+      "tamilMeaning": "வளிமண்டலம்",
+      "example": "The atmosphere protects earth from radiation.",
+      "exampleTamil": "வளிமண்டலம் பூமியை கதிர்வீச்சில் இருந்து பாதுகாக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "ozone_layer",
+      "name": "Ozone Layer",
+      "tamilMeaning": "ஓசோன் படை",
+      "example": "The ozone layer blocks harmful UV rays.",
+      "exampleTamil": "ஓசோன் படை தீங்கு விளைவிக்கும் புற ஊதா கதிர்களை தடுக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "renewable_energy",
+      "name": "Renewable Energy",
+      "tamilMeaning": "புதுப்பிக்கத்தக்க எரிசக்தி",
+      "example": "Renewable energy reduces pollution.",
+      "exampleTamil": "புதுப்பிக்கத்தக்க எரிசக்தி மாசுபாட்டை குறைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "solar_energy",
+      "name": "Solar Energy",
+      "tamilMeaning": "சூரிய ஆற்றல்",
+      "example": "Solar energy is clean and renewable.",
+      "exampleTamil": "சூரிய ஆற்றல் தூய்மையானதும் புதுப்பிக்கத்தக்கதும் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "wind_energy",
+      "name": "Wind Energy",
+      "tamilMeaning": "காற்று ஆற்றல்",
+      "example": "Wind energy powers many homes.",
+      "exampleTamil": "காற்று ஆற்றல் பல வீடுகளை இயக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "hydroelectric_power",
+      "name": "Hydroelectric Power",
+      "tamilMeaning": "நீர்மின் சக்தி",
+      "example": "Hydroelectric power uses flowing water.",
+      "exampleTamil": "நீர்மின் சக்தி ஓடும் நீரை பயன்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "nuclear_energy",
+      "name": "Nuclear Energy",
+      "tamilMeaning": "அணு ஆற்றல்",
+      "example": "Nuclear energy produces a lot of power.",
+      "exampleTamil": "அணு ஆற்றல் அதிக மின்சக்தியை உற்பத்தி செய்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "innovation",
+      "name": "Scientific Innovation",
+      "tamilMeaning": "அறிவியல் புதுமை",
+      "example": "Scientific innovation improves our lives.",
+      "exampleTamil": "அறிவியல் புதுமை நமது வாழ்க்கையை மேம்படுத்துகிறது.",
+      "audio": null
+    }
+  ]
+}

@@ -1,0 +1,798 @@
+{
+  "id": "digital_life",
+  "name": "Digital Life & Internet",
+  "items": [
+    {
+      "id": "internet",
+      "name": "Internet",
+      "tamilMeaning": "இணையம்",
+      "example": "He browses the internet every day.",
+      "exampleTamil": "அவன் தினமும் இணையத்தில் உலாவுகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "website",
+      "name": "Website",
+      "tamilMeaning": "இணையதளம்",
+      "example": "She created a website for her business.",
+      "exampleTamil": "அவள் தனது வணிகத்திற்காக ஒரு இணையதளத்தை உருவாக்கினாள்.",
+      "audio": null
+    },
+    {
+      "id": "webpage",
+      "name": "Webpage",
+      "tamilMeaning": "இணையப்பக்கம்",
+      "example": "This webpage loads slowly.",
+      "exampleTamil": "இந்த இணையப்பக்கம் மெதுவாக ஏற்றப்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "browser",
+      "name": "Browser",
+      "tamilMeaning": "உலாவி",
+      "example": "He uses Chrome as his browser.",
+      "exampleTamil": "அவன் குரோமை தனது உலாவியாக பயன்படுத்துகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "search_engine",
+      "name": "Search Engine",
+      "tamilMeaning": "தேடுபொறி",
+      "example": "Google is a popular search engine.",
+      "exampleTamil": "கூகுள் ஒரு பிரபலமான தேடுபொறி.",
+      "audio": null
+    },
+    {
+      "id": "url",
+      "name": "URL",
+      "tamilMeaning": "யூஆர்எல்",
+      "example": "Type the URL in the address bar.",
+      "exampleTamil": "முகவரி பட்டியில் யூஆர்எல்-ஐ தட்டச்சு செய்யுங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "domain",
+      "name": "Domain",
+      "tamilMeaning": "களம் பெயர்",
+      "example": "He registered a new domain name.",
+      "exampleTamil": "அவன் ஒரு புதிய களம் பெயரை பதிவு செய்தான்.",
+      "audio": null
+    },
+    {
+      "id": "hosting",
+      "name": "Hosting",
+      "tamilMeaning": "புரவலம்",
+      "example": "She pays monthly for web hosting.",
+      "exampleTamil": "அவள் இணைய புரவலத்திற்கு மாதந்தோறும் கட்டணம் செலுத்துகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "homepage",
+      "name": "Homepage",
+      "tamilMeaning": "முகப்புப் பக்கம்",
+      "example": "The homepage shows the latest news.",
+      "exampleTamil": "முகப்புப் பக்கம் சமீபத்திய செய்திகளை காட்டுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "dashboard",
+      "name": "Dashboard",
+      "tamilMeaning": "கட்டுப்பாட்டு பலகை",
+      "example": "He checks the sales dashboard daily.",
+      "exampleTamil": "அவன் தினமும் விற்பனை கட்டுப்பாட்டு பலகையை சரிபார்க்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "profile",
+      "name": "Profile",
+      "tamilMeaning": "சுயவிவரம்",
+      "example": "She updated her profile picture.",
+      "exampleTamil": "அவள் தனது சுயவிவர படத்தை புதுப்பித்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "account",
+      "name": "Account",
+      "tamilMeaning": "கணக்கு",
+      "example": "He created a new email account.",
+      "exampleTamil": "அவன் ஒரு புதிய மின்னஞ்சல் கணக்கை உருவாக்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "username",
+      "name": "Username",
+      "tamilMeaning": "பயனர் பெயர்",
+      "example": "Enter your username to login.",
+      "exampleTamil": "உள்நுழைய உங்கள் பயனர் பெயரை உள்ளிடவும்.",
+      "audio": null
+    },
+    {
+      "id": "password",
+      "name": "Password",
+      "tamilMeaning": "கடவுச்சொல்",
+      "example": "Use a strong password for your account.",
+      "exampleTamil": "உங்கள் கணக்கிற்கு ஒரு வலுவான கடவுச்சொல்லை பயன்படுத்துங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "login",
+      "name": "Login",
+      "tamilMeaning": "உள்நுழைவு",
+      "example": "He forgot his login details.",
+      "exampleTamil": "அவன் தனது உள்நுழைவு விவரங்களை மறந்துவிட்டான்.",
+      "audio": null
+    },
+    {
+      "id": "logout",
+      "name": "Logout",
+      "tamilMeaning": "வெளியேறு",
+      "example": "Always logout after using a public computer.",
+      "exampleTamil": "பொது கணினியை பயன்படுத்திய பிறகு எப்போதும் வெளியேறவும்.",
+      "audio": null
+    },
+    {
+      "id": "signup",
+      "name": "Sign Up",
+      "tamilMeaning": "பதிவு செய்",
+      "example": "She signed up for a new account.",
+      "exampleTamil": "அவள் ஒரு புதிய கணக்கிற்கு பதிவு செய்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "authentication",
+      "name": "Authentication",
+      "tamilMeaning": "அங்கீகாரம்",
+      "example": "Two-factor authentication adds extra security.",
+      "exampleTamil": "இரு-காரணி அங்கீகாரம் கூடுதல் பாதுகாப்பை சேர்க்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "verification",
+      "name": "Verification",
+      "tamilMeaning": "சரிபார்ப்பு",
+      "example": "Email verification is required to continue.",
+      "exampleTamil": "தொடர மின்னஞ்சல் சரிபார்ப்பு தேவை.",
+      "audio": null
+    },
+    {
+      "id": "otp",
+      "name": "OTP",
+      "tamilMeaning": "ஒரு முறை கடவுச்சொல் (OTP)",
+      "example": "He entered the OTP sent to his phone.",
+      "exampleTamil": "அவன் தனது போனுக்கு அனுப்பப்பட்ட OTP-ஐ உள்ளிட்டான்.",
+      "audio": null
+    },
+    {
+      "id": "captcha",
+      "name": "CAPTCHA",
+      "tamilMeaning": "காப்ட்சா",
+      "example": "Solve the CAPTCHA to proceed.",
+      "exampleTamil": "தொடர காப்ட்சாவை தீர்க்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "tamilMeaning": "மின்னஞ்சல்",
+      "example": "She sent an email to her manager.",
+      "exampleTamil": "அவள் தனது மேலாளருக்கு மின்னஞ்சல் அனுப்பினாள்.",
+      "audio": null
+    },
+    {
+      "id": "inbox",
+      "name": "Inbox",
+      "tamilMeaning": "உள்வரும் பெட்டி",
+      "example": "His inbox is full of unread messages.",
+      "exampleTamil": "அவனது உள்வரும் பெட்டியில் படிக்காத செய்திகள் நிறைந்துள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "attachment",
+      "name": "Attachment",
+      "tamilMeaning": "இணைப்பு",
+      "example": "He forgot to add the attachment.",
+      "exampleTamil": "அவன் இணைப்பை சேர்க்க மறந்துவிட்டான்.",
+      "audio": null
+    },
+    {
+      "id": "notification",
+      "name": "Notification",
+      "tamilMeaning": "அறிவிப்பு",
+      "example": "She received a notification about the update.",
+      "exampleTamil": "அவள் புதுப்பிப்பு பற்றிய அறிவிப்பை பெற்றாள்.",
+      "audio": null
+    },
+    {
+      "id": "message",
+      "name": "Message",
+      "tamilMeaning": "செய்தி",
+      "example": "He sent a message to his friend.",
+      "exampleTamil": "அவன் தனது நண்பருக்கு ஒரு செய்தி அனுப்பினான்.",
+      "audio": null
+    },
+    {
+      "id": "chat",
+      "name": "Chat",
+      "tamilMeaning": "அரட்டை",
+      "example": "They chat every evening.",
+      "exampleTamil": "அவர்கள் ஒவ்வொரு மாலையும் அரட்டையடிக்கின்றனர்.",
+      "audio": null
+    },
+    {
+      "id": "video_call",
+      "name": "Video Call",
+      "tamilMeaning": "வீடியோ அழைப்பு",
+      "example": "She made a video call to her family.",
+      "exampleTamil": "அவள் தனது குடும்பத்திற்கு வீடியோ அழைப்பு செய்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "voice_call",
+      "name": "Voice Call",
+      "tamilMeaning": "குரல் அழைப்பு",
+      "example": "He prefers a voice call over text.",
+      "exampleTamil": "அவன் உரையைவிட குரல் அழைப்பை விரும்புகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "social_media",
+      "name": "Social Media",
+      "tamilMeaning": "சமூக ஊடகம்",
+      "example": "She spends hours on social media.",
+      "exampleTamil": "அவள் சமூக ஊடகத்தில் மணிக்கணக்கில் செலவிடுகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "post",
+      "name": "Post",
+      "tamilMeaning": "பதிவு",
+      "example": "He shared a post about his trip.",
+      "exampleTamil": "அவன் தனது பயணம் பற்றி ஒரு பதிவை பகிர்ந்தான்.",
+      "audio": null
+    },
+    {
+      "id": "comment",
+      "name": "Comment",
+      "tamilMeaning": "கருத்து",
+      "example": "She left a comment on the photo.",
+      "exampleTamil": "அவள் புகைப்படத்தில் ஒரு கருத்தை பதிவு செய்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "like",
+      "name": "Like",
+      "tamilMeaning": "விருப்பம்",
+      "example": "He gave a like to the video.",
+      "exampleTamil": "அவன் வீடியோவிற்கு விருப்பம் தெரிவித்தான்.",
+      "audio": null
+    },
+    {
+      "id": "share",
+      "name": "Share",
+      "tamilMeaning": "பகிர்வு",
+      "example": "She shared the article with her friends.",
+      "exampleTamil": "அவள் தனது நண்பர்களுடன் கட்டுரையை பகிர்ந்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "follow",
+      "name": "Follow",
+      "tamilMeaning": "பின்தொடர்",
+      "example": "He decided to follow the page.",
+      "exampleTamil": "அவன் அந்த பக்கத்தை பின்தொடர முடிவு செய்தான்.",
+      "audio": null
+    },
+    {
+      "id": "follower",
+      "name": "Follower",
+      "tamilMeaning": "பின்தொடர்பவர்",
+      "example": "She has thousands of followers.",
+      "exampleTamil": "அவளுக்கு ஆயிரக்கணக்கான பின்தொடர்பவர்கள் உள்ளனர்.",
+      "audio": null
+    },
+    {
+      "id": "hashtag",
+      "name": "Hashtag",
+      "tamilMeaning": "ஹேஷ்டேக்",
+      "example": "He added a trending hashtag to his post.",
+      "exampleTamil": "அவன் தனது பதிவில் ஒரு டிரெண்டிங் ஹேஷ்டேக்கை சேர்த்தான்.",
+      "audio": null
+    },
+    {
+      "id": "mention",
+      "name": "Mention",
+      "tamilMeaning": "குறிப்பிடுதல்",
+      "example": "She mentioned her friend in the comment.",
+      "exampleTamil": "அவள் கருத்தில் தனது நண்பரை குறிப்பிட்டாள்.",
+      "audio": null
+    },
+    {
+      "id": "story",
+      "name": "Story",
+      "tamilMeaning": "ஸ்டோரி",
+      "example": "He posted a story on Instagram.",
+      "exampleTamil": "அவன் இன்ஸ்டாகிராமில் ஒரு ஸ்டோரியை பதிவிட்டான்.",
+      "audio": null
+    },
+    {
+      "id": "reel",
+      "name": "Reel",
+      "tamilMeaning": "ரீல்",
+      "example": "She made a funny reel yesterday.",
+      "exampleTamil": "அவள் நேற்று ஒரு வேடிக்கையான ரீலை உருவாக்கினாள்.",
+      "audio": null
+    },
+    {
+      "id": "livestream",
+      "name": "Livestream",
+      "tamilMeaning": "நேரலை ஒளிபரப்பு",
+      "example": "He watched the livestream of the match.",
+      "exampleTamil": "அவன் போட்டியின் நேரலை ஒளிபரப்பை பார்த்தான்.",
+      "audio": null
+    },
+    {
+      "id": "podcast",
+      "name": "Podcast",
+      "tamilMeaning": "பாட்காஸ்ட்",
+      "example": "She listens to a podcast during her commute.",
+      "exampleTamil": "அவள் பயணத்தின் போது ஒரு பாட்காஸ்ட்டை கேட்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "blog",
+      "name": "Blog",
+      "tamilMeaning": "வலைப்பதிவு",
+      "example": "He writes a blog about travel.",
+      "exampleTamil": "அவன் பயணம் பற்றி ஒரு வலைப்பதிவு எழுதுகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "vlog",
+      "name": "Vlog",
+      "tamilMeaning": "விளாக்",
+      "example": "She uploads a vlog every week.",
+      "exampleTamil": "அவள் ஒவ்வொரு வாரமும் ஒரு விளாக்கை பதிவேற்றுகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "content",
+      "name": "Content",
+      "tamilMeaning": "உள்ளடக்கம்",
+      "example": "He creates content for social media.",
+      "exampleTamil": "அவன் சமூக ஊடகத்திற்கு உள்ளடக்கத்தை உருவாக்குகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "creator",
+      "name": "Creator",
+      "tamilMeaning": "உருவாக்குநர்",
+      "example": "She is a popular content creator.",
+      "exampleTamil": "அவள் ஒரு பிரபலமான உள்ளடக்க உருவாக்குநர்.",
+      "audio": null
+    },
+    {
+      "id": "subscriber",
+      "name": "Subscriber",
+      "tamilMeaning": "சந்தாதாரர்",
+      "example": "His channel has many subscribers.",
+      "exampleTamil": "அவனது சேனலுக்கு பல சந்தாதாரர்கள் உள்ளனர்.",
+      "audio": null
+    },
+    {
+      "id": "streaming",
+      "name": "Streaming",
+      "tamilMeaning": "ஸ்ட்ரீமிங்",
+      "example": "She enjoys streaming movies online.",
+      "exampleTamil": "அவள் ஆன்லைனில் திரைப்படங்களை ஸ்ட்ரீமிங் செய்வதை ரசிக்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "download",
+      "name": "Download",
+      "tamilMeaning": "பதிவிறக்கம்",
+      "example": "He downloaded the file quickly.",
+      "exampleTamil": "அவன் கோப்பை விரைவாக பதிவிறக்கம் செய்தான்.",
+      "audio": null
+    },
+    {
+      "id": "upload",
+      "name": "Upload",
+      "tamilMeaning": "பதிவேற்றம்",
+      "example": "She uploaded the photos to the cloud.",
+      "exampleTamil": "அவள் புகைப்படங்களை கிளவுட்டிற்கு பதிவேற்றினாள்.",
+      "audio": null
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud",
+      "tamilMeaning": "கிளவுட்",
+      "example": "He stores his files in the cloud.",
+      "exampleTamil": "அவன் தனது கோப்புகளை கிளவுட்டில் சேமிக்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "backup",
+      "name": "Backup",
+      "tamilMeaning": "காப்புப்பிரதி",
+      "example": "Always keep a backup of your data.",
+      "exampleTamil": "எப்போதும் உங்கள் தரவின் காப்புப்பிரதியை வைத்திருங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "sync",
+      "name": "Sync",
+      "tamilMeaning": "ஒத்திசைவு",
+      "example": "His phone syncs with his laptop.",
+      "exampleTamil": "அவனது போன் அவனது மடிக்கணினியுடன் ஒத்திசைகிறது.",
+      "audio": null
+    },
+    {
+      "id": "storage",
+      "name": "Storage",
+      "tamilMeaning": "சேமிப்பகம்",
+      "example": "He needs more storage for his photos.",
+      "exampleTamil": "அவனுக்கு தனது புகைப்படங்களுக்கு கூடுதல் சேமிப்பகம் தேவை.",
+      "audio": null
+    },
+    {
+      "id": "file",
+      "name": "File",
+      "tamilMeaning": "கோப்பு",
+      "example": "She saved the file on her desktop.",
+      "exampleTamil": "அவள் கோப்பை தனது டெஸ்க்டாப்பில் சேமித்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "folder",
+      "name": "Folder",
+      "tamilMeaning": "கோப்புறை",
+      "example": "He created a new folder for the project.",
+      "exampleTamil": "அவன் திட்டத்திற்காக ஒரு புதிய கோப்புறையை உருவாக்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "document",
+      "name": "Document",
+      "tamilMeaning": "ஆவணம்",
+      "example": "She edited the document carefully.",
+      "exampleTamil": "அவள் ஆவணத்தை கவனமாக திருத்தினாள்.",
+      "audio": null
+    },
+    {
+      "id": "pdf",
+      "name": "PDF",
+      "tamilMeaning": "பிடிஎஃப்",
+      "example": "He converted the file to PDF.",
+      "exampleTamil": "அவன் கோப்பை பிடிஎஃப் ஆக மாற்றினான்.",
+      "audio": null
+    },
+    {
+      "id": "spreadsheet",
+      "name": "Spreadsheet",
+      "tamilMeaning": "விரிதாள்",
+      "example": "She maintains her budget in a spreadsheet.",
+      "exampleTamil": "அவள் தனது வரவு செலவை ஒரு விரிதாளில் பராமரிக்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "presentation",
+      "name": "Presentation",
+      "tamilMeaning": "விளக்கக்காட்சி",
+      "example": "He prepared a presentation for the meeting.",
+      "exampleTamil": "அவன் கூட்டத்திற்காக ஒரு விளக்கக்காட்சியை தயார் செய்தான்.",
+      "audio": null
+    },
+    {
+      "id": "image",
+      "name": "Image",
+      "tamilMeaning": "படம்",
+      "example": "She edited the image before posting.",
+      "exampleTamil": "அவள் பதிவிடும் முன் படத்தை திருத்தினாள்.",
+      "audio": null
+    },
+    {
+      "id": "photo",
+      "name": "Photo",
+      "tamilMeaning": "புகைப்படம்",
+      "example": "He took a photo of the sunset.",
+      "exampleTamil": "அவன் சூரிய அஸ்தமனத்தின் புகைப்படம் எடுத்தான்.",
+      "audio": null
+    },
+    {
+      "id": "video",
+      "name": "Video",
+      "tamilMeaning": "வீடியோ",
+      "example": "She watched a video tutorial.",
+      "exampleTamil": "அவள் ஒரு வீடியோ பயிற்சியை பார்த்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "audio",
+      "name": "Audio",
+      "tamilMeaning": "ஒலி",
+      "example": "He recorded an audio message.",
+      "exampleTamil": "அவன் ஒரு ஒலி செய்தியை பதிவு செய்தான்.",
+      "audio": null
+    },
+    {
+      "id": "screenshot",
+      "name": "Screenshot",
+      "tamilMeaning": "திரைப்பிடிப்பு",
+      "example": "She took a screenshot of the error.",
+      "exampleTamil": "அவள் பிழையின் திரைப்பிடிப்பை எடுத்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "screen_recording",
+      "name": "Screen Recording",
+      "tamilMeaning": "திரை பதிவு",
+      "example": "He made a screen recording for the tutorial.",
+      "exampleTamil": "அவன் பயிற்சிக்காக ஒரு திரை பதிவு செய்தான்.",
+      "audio": null
+    },
+    {
+      "id": "app",
+      "name": "App",
+      "tamilMeaning": "செயலி",
+      "example": "She downloaded a new app.",
+      "exampleTamil": "அவள் ஒரு புதிய செயலியை பதிவிறக்கம் செய்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "software",
+      "name": "Software",
+      "tamilMeaning": "மென்பொருள்",
+      "example": "This software helps manage finances.",
+      "exampleTamil": "இந்த மென்பொருள் நிதியை நிர்வகிக்க உதவுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "update",
+      "name": "Update",
+      "tamilMeaning": "புதுப்பிப்பு",
+      "example": "He installed the latest update.",
+      "exampleTamil": "அவன் சமீபத்திய புதுப்பிப்பை நிறுவினான்.",
+      "audio": null
+    },
+    {
+      "id": "install",
+      "name": "Install",
+      "tamilMeaning": "நிறுவு",
+      "example": "She installed the app on her phone.",
+      "exampleTamil": "அவள் தனது போனில் செயலியை நிறுவினாள்.",
+      "audio": null
+    },
+    {
+      "id": "uninstall",
+      "name": "Uninstall",
+      "tamilMeaning": "நீக்கு (நிறுவல் நீக்கம்)",
+      "example": "He uninstalled the unused app.",
+      "exampleTamil": "அவன் பயன்படுத்தாத செயலியை நிறுவல் நீக்கம் செய்தான்.",
+      "audio": null
+    },
+    {
+      "id": "settings",
+      "name": "Settings",
+      "tamilMeaning": "அமைப்புகள்",
+      "example": "She changed the settings on her phone.",
+      "exampleTamil": "அவள் தனது போனின் அமைப்புகளை மாற்றினாள்.",
+      "audio": null
+    },
+    {
+      "id": "privacy",
+      "name": "Privacy",
+      "tamilMeaning": "தனியுரிமை",
+      "example": "He values his online privacy.",
+      "exampleTamil": "அவன் தனது ஆன்லைன் தனியுரிமையை மதிக்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "security",
+      "name": "Security",
+      "tamilMeaning": "பாதுகாப்பு",
+      "example": "Strong passwords improve security.",
+      "exampleTamil": "வலுவான கடவுச்சொற்கள் பாதுகாப்பை மேம்படுத்தும்.",
+      "audio": null
+    },
+    {
+      "id": "firewall",
+      "name": "Firewall",
+      "tamilMeaning": "தீ சுவர்",
+      "example": "The firewall blocks unwanted traffic.",
+      "exampleTamil": "தீ சுவர் தேவையற்ற போக்குவரத்தை தடுக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "antivirus",
+      "name": "Antivirus",
+      "tamilMeaning": "வைரஸ் தடுப்பான்",
+      "example": "He installed antivirus software.",
+      "exampleTamil": "அவன் வைரஸ் தடுப்பான் மென்பொருளை நிறுவினான்.",
+      "audio": null
+    },
+    {
+      "id": "malware",
+      "name": "Malware",
+      "tamilMeaning": "தீம்பொருள்",
+      "example": "The malware damaged his computer.",
+      "exampleTamil": "தீம்பொருள் அவனது கணினியை சேதப்படுத்தியது.",
+      "audio": null
+    },
+    {
+      "id": "phishing",
+      "name": "Phishing",
+      "tamilMeaning": "ஃபிஷிங்",
+      "example": "She avoided a phishing email.",
+      "exampleTamil": "அவள் ஒரு ஃபிஷிங் மின்னஞ்சலை தவிர்த்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "spam",
+      "name": "Spam",
+      "tamilMeaning": "ஸ்பேம்",
+      "example": "His inbox is full of spam.",
+      "exampleTamil": "அவனது உள்வரும் பெட்டி ஸ்பேமால் நிறைந்துள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "cookie",
+      "name": "Cookie",
+      "tamilMeaning": "குக்கீ (இணைய தரவு)",
+      "example": "The website uses cookies to track visitors.",
+      "exampleTamil": "இணையதளம் பார்வையாளர்களை கண்காணிக்க குக்கீகளை பயன்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "cache",
+      "name": "Cache",
+      "tamilMeaning": "கேச்",
+      "example": "Clearing the cache fixed the issue.",
+      "exampleTamil": "கேச்சை அழிப்பது சிக்கலை சரிசெய்தது.",
+      "audio": null
+    },
+    {
+      "id": "wifi",
+      "name": "Wi-Fi",
+      "tamilMeaning": "வைஃபை",
+      "example": "The office has fast Wi-Fi.",
+      "exampleTamil": "அலுவலகத்தில் வேகமான வைஃபை உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "mobile_data",
+      "name": "Mobile Data",
+      "tamilMeaning": "மொபைல் தரவு",
+      "example": "He used mobile data to browse.",
+      "exampleTamil": "அவன் உலாவ மொபைல் தரவை பயன்படுத்தினான்.",
+      "audio": null
+    },
+    {
+      "id": "hotspot",
+      "name": "Hotspot",
+      "tamilMeaning": "ஹாட்ஸ்பாட்",
+      "example": "She shared her hotspot with a friend.",
+      "exampleTamil": "அவள் தனது ஹாட்ஸ்பாட்டை ஒரு நண்பருடன் பகிர்ந்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "bluetooth",
+      "name": "Bluetooth",
+      "tamilMeaning": "புளூடூத்",
+      "example": "He connected his headphones via Bluetooth.",
+      "exampleTamil": "அவன் புளூடூத் மூலம் தனது ஹெட்போன்களை இணைத்தான்.",
+      "audio": null
+    },
+    {
+      "id": "qr_code",
+      "name": "QR Code",
+      "tamilMeaning": "க்யூஆர் குறியீடு",
+      "example": "Scan the QR code to pay.",
+      "exampleTamil": "பணம் செலுத்த க்யூஆர் குறியீட்டை ஸ்கேன் செய்யவும்.",
+      "audio": null
+    },
+    {
+      "id": "digital_wallet",
+      "name": "Digital Wallet",
+      "tamilMeaning": "டிஜிட்டல் பணப்பை",
+      "example": "He pays using a digital wallet.",
+      "exampleTamil": "அவன் ஒரு டிஜிட்டல் பணப்பை பயன்படுத்தி பணம் செலுத்துகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "online_payment",
+      "name": "Online Payment",
+      "tamilMeaning": "ஆன்லைன் கட்டணம்",
+      "example": "She made an online payment for the order.",
+      "exampleTamil": "அவள் ஆர்டருக்கு ஆன்லைன் கட்டணம் செலுத்தினாள்.",
+      "audio": null
+    },
+    {
+      "id": "ecommerce",
+      "name": "E-commerce",
+      "tamilMeaning": "மின் வணிகம்",
+      "example": "He runs an e-commerce business.",
+      "exampleTamil": "அவன் ஒரு மின் வணிக வணிகத்தை நடத்துகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "artificial_intelligence",
+      "name": "Artificial Intelligence",
+      "tamilMeaning": "செயற்கை நுண்ணறிவு",
+      "example": "Artificial intelligence is changing industries.",
+      "exampleTamil": "செயற்கை நுண்ணறிவு தொழில்களை மாற்றி வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "chatbot",
+      "name": "Chatbot",
+      "tamilMeaning": "அரட்டை போட்",
+      "example": "The chatbot answered his question instantly.",
+      "exampleTamil": "அரட்டை போட் அவனது கேள்விக்கு உடனடியாக பதிலளித்தது.",
+      "audio": null
+    },
+    {
+      "id": "virtual_assistant",
+      "name": "Virtual Assistant",
+      "tamilMeaning": "மெய்நிகர் உதவியாளர்",
+      "example": "She uses a virtual assistant to set reminders.",
+      "exampleTamil": "அவள் நினைவூட்டல்களை அமைக்க ஒரு மெய்நிகர் உதவியாளரை பயன்படுத்துகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "smart_device",
+      "name": "Smart Device",
+      "tamilMeaning": "ஸ்மார்ட் சாதனம்",
+      "example": "He controls his home with smart devices.",
+      "exampleTamil": "அவன் ஸ்மார்ட் சாதனங்கள் மூலம் தனது வீட்டை கட்டுப்படுத்துகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "internet_of_things",
+      "name": "Internet of Things",
+      "tamilMeaning": "பொருள்களின் இணையம்",
+      "example": "Internet of Things connects smart devices.",
+      "exampleTamil": "பொருள்களின் இணையம் ஸ்மார்ட் சாதனங்களை இணைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "digital_identity",
+      "name": "Digital Identity",
+      "tamilMeaning": "டிஜிட்டல் அடையாளம்",
+      "example": "Protecting your digital identity is important.",
+      "exampleTamil": "உங்கள் டிஜிட்டல் அடையாளத்தை பாதுகாப்பது முக்கியம்.",
+      "audio": null
+    },
+    {
+      "id": "online_community",
+      "name": "Online Community",
+      "tamilMeaning": "ஆன்லைன் சமூகம்",
+      "example": "She joined an online community for writers.",
+      "exampleTamil": "அவள் எழுத்தாளர்களுக்கான ஆன்லைன் சமூகத்தில் இணைந்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "digital_marketing",
+      "name": "Digital Marketing",
+      "tamilMeaning": "டிஜிட்டல் மார்க்கெட்டிங்",
+      "example": "He works in digital marketing.",
+      "exampleTamil": "அவன் டிஜிட்டல் மார்க்கெட்டிங்கில் பணிபுரிகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "analytics",
+      "name": "Analytics",
+      "tamilMeaning": "பகுப்பாய்வு",
+      "example": "Analytics helps in decision making.",
+      "exampleTamil": "பகுப்பாய்வு முடிவெடுப்பதற்கு உதவும்.",
+      "audio": null
+    },
+    {
+      "id": "trending",
+      "name": "Trending",
+      "tamilMeaning": "டிரெண்டிங்",
+      "example": "This topic is trending online.",
+      "exampleTamil": "இந்த தலைப்பு ஆன்லைனில் டிரெண்டிங் ஆக உள்ளது.",
+      "audio": null
+    }
+  ]
+}
