@@ -1,0 +1,798 @@
+{
+  "id": "health_healthcare",
+  "name": "Health & Healthcare",
+  "items": [
+    {
+      "id": "health",
+      "name": "Health",
+      "tamilMeaning": "ஆரோக்கியம்",
+      "example": "Health is very important.",
+      "exampleTamil": "ஆரோக்கியம் மிகவும் முக்கியமானது.",
+      "audio": null
+    },
+    {
+      "id": "healthcare",
+      "name": "Healthcare",
+      "tamilMeaning": "சுகாதார பராமரிப்பு",
+      "example": "Good healthcare saves lives.",
+      "exampleTamil": "நல்ல சுகாதார பராமரிப்பு உயிர்களை காப்பாற்றும்.",
+      "audio": null
+    },
+    {
+      "id": "wellness",
+      "name": "Wellness",
+      "tamilMeaning": "நல்வாழ்வு",
+      "example": "She focuses on her wellness.",
+      "exampleTamil": "அவள் தனது நல்வாழ்வில் கவனம் செலுத்துகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "fitness",
+      "name": "Fitness",
+      "tamilMeaning": "உடற்தகுதி",
+      "example": "He goes to the gym for fitness.",
+      "exampleTamil": "அவன் உடற்தகுதிக்காக ஜிம் செல்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "nutrition",
+      "name": "Nutrition",
+      "tamilMeaning": "ஊட்டச்சத்து",
+      "example": "Good nutrition keeps you strong.",
+      "exampleTamil": "நல்ல ஊட்டச்சத்து உங்களை பலமாக வைக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "diet",
+      "name": "Diet",
+      "tamilMeaning": "உணவுமுறை",
+      "example": "She follows a healthy diet.",
+      "exampleTamil": "அவள் ஒரு ஆரோக்கியமான உணவுமுறையை பின்பற்றுகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "exercise",
+      "name": "Exercise",
+      "tamilMeaning": "உடற்பயிற்சி",
+      "example": "Daily exercise improves health.",
+      "exampleTamil": "தினசரி உடற்பயிற்சி ஆரோக்கியத்தை மேம்படுத்தும்.",
+      "audio": null
+    },
+    {
+      "id": "workout",
+      "name": "Workout",
+      "tamilMeaning": "பயிற்சி",
+      "example": "He does a workout every morning.",
+      "exampleTamil": "அவன் ஒவ்வொரு காலையிலும் பயிற்சி செய்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "hospital",
+      "name": "Hospital",
+      "tamilMeaning": "மருத்துவமனை",
+      "example": "She was admitted to the hospital.",
+      "exampleTamil": "அவள் மருத்துவமனையில் அனுமதிக்கப்பட்டாள்.",
+      "audio": null
+    },
+    {
+      "id": "clinic",
+      "name": "Clinic",
+      "tamilMeaning": "மருத்துவ நிலையம்",
+      "example": "He visited a small clinic nearby.",
+      "exampleTamil": "அவன் அருகிலுள்ள ஒரு சிறிய மருத்துவ நிலையத்திற்கு சென்றான்.",
+      "audio": null
+    },
+    {
+      "id": "doctor",
+      "name": "Doctor",
+      "tamilMeaning": "மருத்துவர்",
+      "example": "The doctor examined the patient.",
+      "exampleTamil": "மருத்துவர் நோயாளியை பரிசோதித்தார்.",
+      "audio": null
+    },
+    {
+      "id": "physician",
+      "name": "Physician",
+      "tamilMeaning": "இயற்பியல் மருத்துவர்",
+      "example": "She consulted a physician for her fever.",
+      "exampleTamil": "அவள் காய்ச்சலுக்காக ஒரு மருத்துவரிடம் ஆலோசனை பெற்றாள்.",
+      "audio": null
+    },
+    {
+      "id": "surgeon",
+      "name": "Surgeon",
+      "tamilMeaning": "அறுவை சிகிச்சை மருத்துவர்",
+      "example": "The surgeon performed the operation.",
+      "exampleTamil": "அறுவை சிகிச்சை மருத்துவர் அறுவை சிகிச்சையை செய்தார்.",
+      "audio": null
+    },
+    {
+      "id": "nurse",
+      "name": "Nurse",
+      "tamilMeaning": "செவிலியர்",
+      "example": "The nurse took care of the patient.",
+      "exampleTamil": "செவிலியர் நோயாளியை கவனித்துக் கொண்டார்.",
+      "audio": null
+    },
+    {
+      "id": "pharmacist",
+      "name": "Pharmacist",
+      "tamilMeaning": "மருந்தாளர்",
+      "example": "The pharmacist gave the medicine.",
+      "exampleTamil": "மருந்தாளர் மருந்தை வழங்கினார்.",
+      "audio": null
+    },
+    {
+      "id": "therapist",
+      "name": "Therapist",
+      "tamilMeaning": "சிகிச்சையாளர்",
+      "example": "He met a therapist for his back pain.",
+      "exampleTamil": "அவன் முதுகுவலிக்காக ஒரு சிகிச்சையாளரை சந்தித்தான்.",
+      "audio": null
+    },
+    {
+      "id": "dentist",
+      "name": "Dentist",
+      "tamilMeaning": "பல் மருத்துவர்",
+      "example": "She visited the dentist for a checkup.",
+      "exampleTamil": "அவள் பரிசோதனைக்காக பல் மருத்துவரை சந்தித்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "patient",
+      "name": "Patient",
+      "tamilMeaning": "நோயாளி",
+      "example": "The patient is recovering well.",
+      "exampleTamil": "நோயாளி நன்றாக குணமடைந்து வருகிறார்.",
+      "audio": null
+    },
+    {
+      "id": "appointment",
+      "name": "Appointment",
+      "tamilMeaning": "சந்திப்பு நேரம்",
+      "example": "He booked an appointment with the doctor.",
+      "exampleTamil": "அவன் மருத்துவரிடம் ஒரு சந்திப்பு நேரம் ஒதுக்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "diagnosis",
+      "name": "Diagnosis",
+      "tamilMeaning": "நோய் கண்டறிதல்",
+      "example": "The diagnosis confirmed the illness.",
+      "exampleTamil": "நோய் கண்டறிதல் நோயை உறுதிப்படுத்தியது.",
+      "audio": null
+    },
+    {
+      "id": "treatment",
+      "name": "Treatment",
+      "tamilMeaning": "சிகிச்சை",
+      "example": "He is undergoing treatment for his condition.",
+      "exampleTamil": "அவன் தனது நிலைமைக்கு சிகிச்சை பெற்று வருகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "therapy",
+      "name": "Therapy",
+      "tamilMeaning": "சிகிச்சை முறை",
+      "example": "She attends physical therapy weekly.",
+      "exampleTamil": "அவள் வாரந்தோறும் உடல் சிகிச்சை முறைக்கு செல்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "medicine",
+      "name": "Medicine",
+      "tamilMeaning": "மருந்து",
+      "example": "Take this medicine twice a day.",
+      "exampleTamil": "இந்த மருந்தை நாளுக்கு இரண்டு முறை எடுத்துக்கொள்ளுங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "tablet",
+      "name": "Tablet",
+      "tamilMeaning": "மாத்திரை",
+      "example": "He took a tablet for his headache.",
+      "exampleTamil": "அவன் தலைவலிக்காக ஒரு மாத்திரையை எடுத்துக்கொண்டான்.",
+      "audio": null
+    },
+    {
+      "id": "capsule",
+      "name": "Capsule",
+      "tamilMeaning": "காப்சூல்",
+      "example": "She swallowed the capsule with water.",
+      "exampleTamil": "அவள் தண்ணீருடன் காப்சூலை விழுங்கினாள்.",
+      "audio": null
+    },
+    {
+      "id": "syrup",
+      "name": "Syrup",
+      "tamilMeaning": "சிரப்",
+      "example": "The child drank cough syrup.",
+      "exampleTamil": "குழந்தை இருமல் சிரப்பை குடித்தது.",
+      "audio": null
+    },
+    {
+      "id": "injection",
+      "name": "Injection",
+      "tamilMeaning": "ஊசி மருந்து",
+      "example": "The nurse gave him an injection.",
+      "exampleTamil": "செவிலியர் அவனுக்கு ஒரு ஊசி மருந்தை கொடுத்தார்.",
+      "audio": null
+    },
+    {
+      "id": "vaccine",
+      "name": "Vaccine",
+      "tamilMeaning": "தடுப்பூசி",
+      "example": "The child received the vaccine.",
+      "exampleTamil": "குழந்தை தடுப்பூசியை பெற்றது.",
+      "audio": null
+    },
+    {
+      "id": "prescription",
+      "name": "Prescription",
+      "tamilMeaning": "மருந்து சீட்டு",
+      "example": "The doctor wrote a prescription.",
+      "exampleTamil": "மருத்துவர் ஒரு மருந்து சீட்டை எழுதினார்.",
+      "audio": null
+    },
+    {
+      "id": "pharmacy",
+      "name": "Pharmacy",
+      "tamilMeaning": "மருந்தகம்",
+      "example": "She bought medicine from the pharmacy.",
+      "exampleTamil": "அவள் மருந்தகத்தில் இருந்து மருந்து வாங்கினாள்.",
+      "audio": null
+    },
+    {
+      "id": "ambulance",
+      "name": "Ambulance",
+      "tamilMeaning": "ஆம்புலன்ஸ்",
+      "example": "The ambulance arrived quickly.",
+      "exampleTamil": "ஆம்புலன்ஸ் விரைவாக வந்தது.",
+      "audio": null
+    },
+    {
+      "id": "emergency",
+      "name": "Emergency",
+      "tamilMeaning": "அவசர நிலை",
+      "example": "Call for help in an emergency.",
+      "exampleTamil": "அவசர நிலையில் உதவிக்கு அழையுங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "first_aid",
+      "name": "First Aid",
+      "tamilMeaning": "முதலுதவி",
+      "example": "He gave first aid to the injured man.",
+      "exampleTamil": "அவன் காயமடைந்தவருக்கு முதலுதவி வழங்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "blood",
+      "name": "Blood",
+      "tamilMeaning": "இரத்தம்",
+      "example": "He donated blood at the camp.",
+      "exampleTamil": "அவன் முகாமில் இரத்தம் தானம் செய்தான்.",
+      "audio": null
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "tamilMeaning": "இதயம்",
+      "example": "The heart pumps blood through the body.",
+      "exampleTamil": "இதயம் உடலெங்கும் இரத்தத்தை செலுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "brain",
+      "name": "Brain",
+      "tamilMeaning": "மூளை",
+      "example": "The brain controls the body.",
+      "exampleTamil": "மூளை உடலை கட்டுப்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "lung",
+      "name": "Lung",
+      "tamilMeaning": "நுரையீரல்",
+      "example": "Smoking damages the lungs.",
+      "exampleTamil": "புகைபிடித்தல் நுரையீரலை சேதப்படுத்தும்.",
+      "audio": null
+    },
+    {
+      "id": "liver",
+      "name": "Liver",
+      "tamilMeaning": "கல்லீரல்",
+      "example": "The liver filters toxins from blood.",
+      "exampleTamil": "கல்லீரல் இரத்தத்தில் இருந்து நச்சுகளை வடிகட்டுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "kidney",
+      "name": "Kidney",
+      "tamilMeaning": "சிறுநீரகம்",
+      "example": "The kidney removes waste from the body.",
+      "exampleTamil": "சிறுநீரகம் உடலில் இருந்து கழிவுகளை அகற்றுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "bone",
+      "name": "Bone",
+      "tamilMeaning": "எலும்பு",
+      "example": "He fractured a bone in his leg.",
+      "exampleTamil": "அவன் தனது காலில் ஒரு எலும்பை முறித்துக் கொண்டான்.",
+      "audio": null
+    },
+    {
+      "id": "muscle",
+      "name": "Muscle",
+      "tamilMeaning": "தசை",
+      "example": "Exercise builds muscle strength.",
+      "exampleTamil": "உடற்பயிற்சி தசை வலிமையை உருவாக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "skin",
+      "name": "Skin",
+      "tamilMeaning": "தோல்",
+      "example": "Apply this cream on the skin.",
+      "exampleTamil": "இந்த கிரீமை தோலில் தடவவும்.",
+      "audio": null
+    },
+    {
+      "id": "eye",
+      "name": "Eye",
+      "tamilMeaning": "கண்",
+      "example": "She has good eyesight.",
+      "exampleTamil": "அவளுக்கு நல்ல கண் பார்வை உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "ear",
+      "name": "Ear",
+      "tamilMeaning": "காது",
+      "example": "He has an ear infection.",
+      "exampleTamil": "அவனுக்கு காது தொற்று உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "nose",
+      "name": "Nose",
+      "tamilMeaning": "மூக்கு",
+      "example": "His nose is blocked due to cold.",
+      "exampleTamil": "சளியால் அவனது மூக்கு அடைத்துள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "mouth",
+      "name": "Mouth",
+      "tamilMeaning": "வாய்",
+      "example": "Open your mouth for the checkup.",
+      "exampleTamil": "பரிசோதனைக்காக உங்கள் வாயை திறங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "tooth",
+      "name": "Tooth",
+      "tamilMeaning": "பல்",
+      "example": "He has a decayed tooth.",
+      "exampleTamil": "அவனுக்கு ஒரு பல் அழுகி உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "fever",
+      "name": "Fever",
+      "tamilMeaning": "காய்ச்சல்",
+      "example": "The child has a high fever.",
+      "exampleTamil": "குழந்தைக்கு அதிக காய்ச்சல் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "cold",
+      "name": "Cold",
+      "tamilMeaning": "சளி",
+      "example": "She caught a cold last week.",
+      "exampleTamil": "அவள் கடந்த வாரம் சளி பிடித்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "cough",
+      "name": "Cough",
+      "tamilMeaning": "இருமல்",
+      "example": "He has a bad cough.",
+      "exampleTamil": "அவனுக்கு கடுமையான இருமல் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "headache",
+      "name": "Headache",
+      "tamilMeaning": "தலைவலி",
+      "example": "She has a severe headache.",
+      "exampleTamil": "அவளுக்கு கடுமையான தலைவலி உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "stomachache",
+      "name": "Stomachache",
+      "tamilMeaning": "வயிற்று வலி",
+      "example": "He has a stomachache after eating.",
+      "exampleTamil": "சாப்பிட்ட பிறகு அவனுக்கு வயிற்று வலி உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "sore_throat",
+      "name": "Sore Throat",
+      "tamilMeaning": "தொண்டை வலி",
+      "example": "She has a sore throat and cough.",
+      "exampleTamil": "அவளுக்கு தொண்டை வலியும் இருமலும் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "infection",
+      "name": "Infection",
+      "tamilMeaning": "தொற்று",
+      "example": "The wound got infected.",
+      "exampleTamil": "காயத்தில் தொற்று ஏற்பட்டது.",
+      "audio": null
+    },
+    {
+      "id": "allergy",
+      "name": "Allergy",
+      "tamilMeaning": "ஒவ்வாமை",
+      "example": "He has an allergy to dust.",
+      "exampleTamil": "அவனுக்கு தூசிக்கு ஒவ்வாமை உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "virus",
+      "name": "Virus",
+      "tamilMeaning": "வைரஸ்",
+      "example": "The virus spreads quickly.",
+      "exampleTamil": "வைரஸ் வேகமாக பரவுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "bacteria",
+      "name": "Bacteria",
+      "tamilMeaning": "பாக்டீரியா",
+      "example": "Bacteria caused the infection.",
+      "exampleTamil": "பாக்டீரியா தொற்றை ஏற்படுத்தியது.",
+      "audio": null
+    },
+    {
+      "id": "disease",
+      "name": "Disease",
+      "tamilMeaning": "நோய்",
+      "example": "This disease is curable.",
+      "exampleTamil": "இந்த நோய் குணப்படுத்தக்கூடியது.",
+      "audio": null
+    },
+    {
+      "id": "illness",
+      "name": "Illness",
+      "tamilMeaning": "உடல்நலக்குறைவு",
+      "example": "He recovered from his illness.",
+      "exampleTamil": "அவன் தனது உடல்நலக்குறைவில் இருந்து குணமடைந்தான்.",
+      "audio": null
+    },
+    {
+      "id": "injury",
+      "name": "Injury",
+      "tamilMeaning": "காயம்",
+      "example": "He suffered a minor injury.",
+      "exampleTamil": "அவனுக்கு ஒரு சிறிய காயம் ஏற்பட்டது.",
+      "audio": null
+    },
+    {
+      "id": "fracture",
+      "name": "Fracture",
+      "tamilMeaning": "எலும்பு முறிவு",
+      "example": "She has a fracture in her arm.",
+      "exampleTamil": "அவளது கையில் எலும்பு முறிவு உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "burn",
+      "name": "Burn",
+      "tamilMeaning": "தீக்காயம்",
+      "example": "He got a burn on his hand.",
+      "exampleTamil": "அவனது கையில் தீக்காயம் ஏற்பட்டது.",
+      "audio": null
+    },
+    {
+      "id": "wound",
+      "name": "Wound",
+      "tamilMeaning": "காயம்",
+      "example": "Clean the wound before bandaging.",
+      "exampleTamil": "கட்டுப்போடும் முன் காயத்தை சுத்தம் செய்யவும்.",
+      "audio": null
+    },
+    {
+      "id": "pain",
+      "name": "Pain",
+      "tamilMeaning": "வலி",
+      "example": "She feels pain in her back.",
+      "exampleTamil": "அவளுக்கு முதுகில் வலி உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "swelling",
+      "name": "Swelling",
+      "tamilMeaning": "வீக்கம்",
+      "example": "There is swelling around the injury.",
+      "exampleTamil": "காயத்தைச் சுற்றி வீக்கம் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "bleeding",
+      "name": "Bleeding",
+      "tamilMeaning": "இரத்தப்போக்கு",
+      "example": "Stop the bleeding with a bandage.",
+      "exampleTamil": "கட்டுத்துணி கொண்டு இரத்தப்போக்கை நிறுத்துங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "recovery",
+      "name": "Recovery",
+      "tamilMeaning": "குணமடைதல்",
+      "example": "His recovery is progressing well.",
+      "exampleTamil": "அவனது குணமடைதல் நன்றாக முன்னேறி வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "operation",
+      "name": "Operation",
+      "tamilMeaning": "அறுவை சிகிச்சை",
+      "example": "He underwent an operation yesterday.",
+      "exampleTamil": "அவன் நேற்று ஒரு அறுவை சிகிச்சைக்கு உட்பட்டான்.",
+      "audio": null
+    },
+    {
+      "id": "surgery",
+      "name": "Surgery",
+      "tamilMeaning": "அறுவை சிகிச்சை",
+      "example": "The surgery was successful.",
+      "exampleTamil": "அறுவை சிகிச்சை வெற்றிகரமாக நடந்தது.",
+      "audio": null
+    },
+    {
+      "id": "checkup",
+      "name": "Checkup",
+      "tamilMeaning": "மருத்துவ பரிசோதனை",
+      "example": "She goes for a regular checkup.",
+      "exampleTamil": "அவள் வழக்கமான மருத்துவ பரிசோதனைக்கு செல்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "medical_test",
+      "name": "Medical Test",
+      "tamilMeaning": "மருத்துவ பரிசோதனை",
+      "example": "He underwent several medical tests.",
+      "exampleTamil": "அவன் பல மருத்துவ பரிசோதனைகளுக்கு உட்பட்டான்.",
+      "audio": null
+    },
+    {
+      "id": "xray",
+      "name": "X-Ray",
+      "tamilMeaning": "எக்ஸ்-ரே",
+      "example": "The doctor ordered an X-ray.",
+      "exampleTamil": "மருத்துவர் ஒரு எக்ஸ்-ரே எடுக்க பரிந்துரைத்தார்.",
+      "audio": null
+    },
+    {
+      "id": "scan",
+      "name": "Scan",
+      "tamilMeaning": "ஸ்கேன்",
+      "example": "She had a scan done for her injury.",
+      "exampleTamil": "அவள் தனது காயத்திற்காக ஒரு ஸ்கேன் எடுத்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "ultrasound",
+      "name": "Ultrasound",
+      "tamilMeaning": "அல்ட்ராசவுண்ட்",
+      "example": "The ultrasound showed no problem.",
+      "exampleTamil": "அல்ட்ராசவுண்ட் எந்த பிரச்சனையும் இல்லை என்று காட்டியது.",
+      "audio": null
+    },
+    {
+      "id": "mri",
+      "name": "MRI",
+      "tamilMeaning": "எம்ஆர்ஐ",
+      "example": "He got an MRI scan for his knee.",
+      "exampleTamil": "அவன் தனது முழங்காலுக்காக எம்ஆர்ஐ ஸ்கேன் எடுத்தான்.",
+      "audio": null
+    },
+    {
+      "id": "ct_scan",
+      "name": "CT Scan",
+      "tamilMeaning": "சிடி ஸ்கேன்",
+      "example": "The CT scan revealed the fracture.",
+      "exampleTamil": "சிடி ஸ்கேன் எலும்பு முறிவை வெளிப்படுத்தியது.",
+      "audio": null
+    },
+    {
+      "id": "laboratory",
+      "name": "Laboratory",
+      "tamilMeaning": "ஆய்வகம்",
+      "example": "The sample was sent to the laboratory.",
+      "exampleTamil": "மாதிரி ஆய்வகத்திற்கு அனுப்பப்பட்டது.",
+      "audio": null
+    },
+    {
+      "id": "blood_test",
+      "name": "Blood Test",
+      "tamilMeaning": "இரத்த பரிசோதனை",
+      "example": "She had a blood test this morning.",
+      "exampleTamil": "அவள் இன்று காலை ஒரு இரத்த பரிசோதனை செய்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "urine_test",
+      "name": "Urine Test",
+      "tamilMeaning": "சிறுநீர் பரிசோதனை",
+      "example": "The doctor asked for a urine test.",
+      "exampleTamil": "மருத்துவர் ஒரு சிறுநீர் பரிசோதனையை கேட்டார்.",
+      "audio": null
+    },
+    {
+      "id": "oxygen",
+      "name": "Oxygen",
+      "tamilMeaning": "ஆக்ஸிஜன்",
+      "example": "The patient needed extra oxygen.",
+      "exampleTamil": "நோயாளிக்கு கூடுதல் ஆக்ஸிஜன் தேவைப்பட்டது.",
+      "audio": null
+    },
+    {
+      "id": "pulse",
+      "name": "Pulse",
+      "tamilMeaning": "நாடித்துடிப்பு",
+      "example": "The nurse checked his pulse.",
+      "exampleTamil": "செவிலியர் அவனது நாடித்துடிப்பை சரிபார்த்தார்.",
+      "audio": null
+    },
+    {
+      "id": "blood_pressure",
+      "name": "Blood Pressure",
+      "tamilMeaning": "இரத்த அழுத்தம்",
+      "example": "His blood pressure is normal.",
+      "exampleTamil": "அவனது இரத்த அழுத்தம் இயல்பாக உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "temperature",
+      "name": "Temperature",
+      "tamilMeaning": "வெப்பநிலை",
+      "example": "Check his temperature with a thermometer.",
+      "exampleTamil": "அவனது வெப்பநிலையை தெர்மாமீட்டர் கொண்டு சரிபார்க்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "mental_health",
+      "name": "Mental Health",
+      "tamilMeaning": "மனநலம்",
+      "example": "Mental health is as important as physical health.",
+      "exampleTamil": "உடல் ஆரோக்கியம் போலவே மனநலமும் முக்கியம்.",
+      "audio": null
+    },
+    {
+      "id": "stress",
+      "name": "Stress",
+      "tamilMeaning": "மன அழுத்தம்",
+      "example": "Work causes him a lot of stress.",
+      "exampleTamil": "வேலை அவனுக்கு அதிக மன அழுத்தத்தை ஏற்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "anxiety",
+      "name": "Anxiety",
+      "tamilMeaning": "கவலை நோய்",
+      "example": "She feels anxiety before exams.",
+      "exampleTamil": "தேர்வுக்கு முன் அவளுக்கு கவலை நோய் ஏற்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "depression",
+      "name": "Depression",
+      "tamilMeaning": "மனச்சோர்வு",
+      "example": "He is being treated for depression.",
+      "exampleTamil": "அவன் மனச்சோர்விற்கு சிகிச்சை பெற்று வருகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "tamilMeaning": "தூக்கம்",
+      "example": "Good sleep improves health.",
+      "exampleTamil": "நல்ல தூக்கம் ஆரோக்கியத்தை மேம்படுத்தும்.",
+      "audio": null
+    },
+    {
+      "id": "hydration",
+      "name": "Hydration",
+      "tamilMeaning": "நீர்ச்சத்து",
+      "example": "Hydration is important in summer.",
+      "exampleTamil": "கோடையில் நீர்ச்சத்து முக்கியம்.",
+      "audio": null
+    },
+    {
+      "id": "hygiene",
+      "name": "Hygiene",
+      "tamilMeaning": "சுகாதாரம்",
+      "example": "Personal hygiene prevents illness.",
+      "exampleTamil": "தனிப்பட்ட சுகாதாரம் நோயை தடுக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "sanitation",
+      "name": "Sanitation",
+      "tamilMeaning": "சுத்தம் மற்றும் தூய்மை",
+      "example": "Good sanitation reduces disease spread.",
+      "exampleTamil": "நல்ல சுத்தம் மற்றும் தூய்மை நோய் பரவலை குறைக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "mask",
+      "name": "Mask",
+      "tamilMeaning": "முககவசம்",
+      "example": "Wear a mask in crowded places.",
+      "exampleTamil": "கூட்டமான இடங்களில் முககவசம் அணியுங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "gloves",
+      "name": "Gloves",
+      "tamilMeaning": "கையுறை",
+      "example": "The doctor wore gloves during the checkup.",
+      "exampleTamil": "மருத்துவர் பரிசோதனையின் போது கையுறை அணிந்தார்.",
+      "audio": null
+    },
+    {
+      "id": "bandage",
+      "name": "Bandage",
+      "tamilMeaning": "கட்டுத்துணி",
+      "example": "She wrapped a bandage around the wound.",
+      "exampleTamil": "அவள் காயத்தைச் சுற்றி கட்டுத்துணியை கட்டினாள்.",
+      "audio": null
+    },
+    {
+      "id": "wheelchair",
+      "name": "Wheelchair",
+      "tamilMeaning": "சக்கர நாற்காலி",
+      "example": "He moves around in a wheelchair.",
+      "exampleTamil": "அவன் சக்கர நாற்காலியில் நகர்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "crutches",
+      "name": "Crutches",
+      "tamilMeaning": "ஊன்றுகோல்",
+      "example": "She walks with crutches after surgery.",
+      "exampleTamil": "அறுவை சிகிச்சைக்குப் பிறகு அவள் ஊன்றுகோலுடன் நடக்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "health_insurance",
+      "name": "Health Insurance",
+      "tamilMeaning": "சுகாதார காப்பீடு",
+      "example": "He has health insurance for his family.",
+      "exampleTamil": "அவனுக்கு தனது குடும்பத்திற்கு சுகாதார காப்பீடு உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "medical_record",
+      "name": "Medical Record",
+      "tamilMeaning": "மருத்துவ பதிவு",
+      "example": "The hospital keeps his medical record.",
+      "exampleTamil": "மருத்துவமனை அவனது மருத்துவ பதிவை வைத்திருக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "discharge",
+      "name": "Discharge",
+      "tamilMeaning": "மருத்துவமனையிலிருந்து வெளியேற்றம்",
+      "example": "She was given discharge after recovery.",
+      "exampleTamil": "குணமடைந்த பிறகு அவளுக்கு மருத்துவமனையிலிருந்து வெளியேற்றம் வழங்கப்பட்டது",
+      "audio": null
+    }
+  ]
+}

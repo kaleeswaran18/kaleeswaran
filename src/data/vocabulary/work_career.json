@@ -1,0 +1,366 @@
+{
+  "id": "work_career",
+  "name": "Work & Career",
+  "items": [
+    {
+      "id": "job",
+      "name": "Job",
+      "tamilMeaning": "வேலை",
+      "example": "She found a job at a software company.",
+      "exampleTamil": "அவள் ஒரு மென்பொருள் நிறுவனத்தில் வேலை கண்டுபிடித்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "work",
+      "name": "Work",
+      "tamilMeaning": "வேலை / பணி",
+      "example": "He goes to work early every morning.",
+      "exampleTamil": "அவன் தினமும் காலையில் சீக்கிரம் வேலைக்கு செல்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "career",
+      "name": "Career",
+      "tamilMeaning": "தொழில் வாழ்க்கை",
+      "example": "She built a successful career in medicine.",
+      "exampleTamil": "அவள் மருத்துவத்துறையில் ஒரு வெற்றிகரமான தொழில் வாழ்க்கையை உருவாக்கினாள்.",
+      "audio": null
+    },
+    {
+      "id": "office",
+      "name": "Office",
+      "tamilMeaning": "அலுவலகம்",
+      "example": "The office opens at nine in the morning.",
+      "exampleTamil": "அலுவலகம் காலை ஒன்பது மணிக்கு திறக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "salary",
+      "name": "Salary",
+      "tamilMeaning": "சம்பளம்",
+      "example": "His salary increases every year.",
+      "exampleTamil": "அவனுடைய சம்பளம் ஒவ்வொரு ஆண்டும் அதிகரிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "employee",
+      "name": "Employee",
+      "tamilMeaning": "ஊழியர்",
+      "example": "Every employee received a bonus this year.",
+      "exampleTamil": "இந்த ஆண்டு ஒவ்வொரு ஊழியருக்கும் போனஸ் கிடைத்தது.",
+      "audio": null
+    },
+    {
+      "id": "employer",
+      "name": "Employer",
+      "tamilMeaning": "முதலாளி / வேலை அளிப்பவர்",
+      "example": "The employer offered good working conditions.",
+      "exampleTamil": "முதலாளி நல்ல வேலை நிலைமைகளை வழங்கினார்.",
+      "audio": null
+    },
+    {
+      "id": "boss",
+      "name": "Boss",
+      "tamilMeaning": "முதலாளி / மேலதிகாரி",
+      "example": "My boss appreciated my hard work.",
+      "exampleTamil": "என் மேலதிகாரி என் கடின உழைப்பை பாராட்டினார்.",
+      "audio": null
+    },
+    {
+      "id": "colleague",
+      "name": "Colleague",
+      "tamilMeaning": "சக பணியாளர்",
+      "example": "My colleague helped me finish the report.",
+      "exampleTamil": "என் சக பணியாளர் அறிக்கையை முடிக்க எனக்கு உதவினார்.",
+      "audio": null
+    },
+    {
+      "id": "manager",
+      "name": "Manager",
+      "tamilMeaning": "மேலாளர்",
+      "example": "The manager scheduled a team meeting.",
+      "exampleTamil": "மேலாளர் ஒரு குழு கூட்டத்தை திட்டமிட்டார்.",
+      "audio": null
+    },
+    {
+      "id": "interview",
+      "name": "Interview",
+      "tamilMeaning": "நேர்காணல்",
+      "example": "I have a job interview tomorrow.",
+      "exampleTamil": "எனக்கு நாளை வேலை நேர்காணல் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "resume",
+      "name": "Resume",
+      "tamilMeaning": "சுயவிவரப் பட்டியல்",
+      "example": "She updated her resume before applying.",
+      "exampleTamil": "அவள் விண்ணப்பிக்கும் முன் தன் சுயவிவரப் பட்டியலை புதுப்பித்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "promotion",
+      "name": "Promotion",
+      "tamilMeaning": "பதவி உயர்வு",
+      "example": "He received a promotion after two years.",
+      "exampleTamil": "அவன் இரண்டு ஆண்டுகளுக்குப் பிறகு பதவி உயர்வு பெற்றான்.",
+      "audio": null
+    },
+    {
+      "id": "meeting",
+      "name": "Meeting",
+      "tamilMeaning": "கூட்டம்",
+      "example": "The meeting starts at ten o'clock.",
+      "exampleTamil": "கூட்டம் பத்து மணிக்கு தொடங்கும்.",
+      "audio": null
+    },
+    {
+      "id": "deadline",
+      "name": "Deadline",
+      "tamilMeaning": "கடைசி தேதி",
+      "example": "We must submit the report before the deadline.",
+      "exampleTamil": "கடைசி தேதிக்கு முன் அறிக்கையை சமர்ப்பிக்க வேண்டும்.",
+      "audio": null
+    },
+    {
+      "id": "project",
+      "name": "Project",
+      "tamilMeaning": "திட்டம்",
+      "example": "Our team completed the project on time.",
+      "exampleTamil": "எங்கள் குழு திட்டத்தை நேரத்திற்கு முடித்தது.",
+      "audio": null
+    },
+    {
+      "id": "team",
+      "name": "Team",
+      "tamilMeaning": "குழு",
+      "example": "Our team worked together to solve the problem.",
+      "exampleTamil": "எங்கள் குழு பிரச்சினையை தீர்க்க ஒன்றாக வேலை செய்தது.",
+      "audio": null
+    },
+    {
+      "id": "skill",
+      "name": "Skill",
+      "tamilMeaning": "திறமை",
+      "example": "Communication is an important skill at work.",
+      "exampleTamil": "தொடர்பு திறமை வேலையில் மிக முக்கியமானது.",
+      "audio": null
+    },
+    {
+      "id": "experience",
+      "name": "Experience",
+      "tamilMeaning": "அனுபவம்",
+      "example": "He has five years of experience in marketing.",
+      "exampleTamil": "அவனுக்கு சந்தைப்படுத்தலில் ஐந்து ஆண்டு அனுபவம் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "qualification",
+      "name": "Qualification",
+      "tamilMeaning": "தகுதி",
+      "example": "A degree is a basic qualification for this job.",
+      "exampleTamil": "இந்த வேலைக்கு பட்டப்படிப்பு ஒரு அடிப்படை தகுதியாகும்.",
+      "audio": null
+    },
+    {
+      "id": "degree",
+      "name": "Degree",
+      "tamilMeaning": "பட்டம்",
+      "example": "She completed her degree in computer science.",
+      "exampleTamil": "அவள் கணினி அறிவியலில் தன் பட்டப்படிப்பை முடித்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "training",
+      "name": "Training",
+      "tamilMeaning": "பயிற்சி",
+      "example": "New employees attend training for a week.",
+      "exampleTamil": "புதிய ஊழியர்கள் ஒரு வாரம் பயிற்சியில் பங்கேற்பார்கள்.",
+      "audio": null
+    },
+    {
+      "id": "internship",
+      "name": "Internship",
+      "tamilMeaning": "பயிற்சிப் பணி",
+      "example": "He completed his internship at a bank.",
+      "exampleTamil": "அவன் ஒரு வங்கியில் தன் பயிற்சிப் பணியை முடித்தான்.",
+      "audio": null
+    },
+    {
+      "id": "contract",
+      "name": "Contract",
+      "tamilMeaning": "ஒப்பந்தம்",
+      "example": "She signed a one-year contract with the company.",
+      "exampleTamil": "அவள் நிறுவனத்துடன் ஒரு ஆண்டு ஒப்பந்தத்தில் கையெழுத்திட்டாள்.",
+      "audio": null
+    },
+    {
+      "id": "resignation",
+      "name": "Resignation",
+      "tamilMeaning": "பணி நீக்க கடிதம் / ராஜினாமா",
+      "example": "He submitted his resignation letter yesterday.",
+      "exampleTamil": "அவன் நேற்று தன் ராஜினாமா கடிதத்தை சமர்ப்பித்தான்.",
+      "audio": null
+    },
+    {
+      "id": "retirement",
+      "name": "Retirement",
+      "tamilMeaning": "ஓய்வு பெறுதல்",
+      "example": "He is planning for retirement next year.",
+      "exampleTamil": "அவன் அடுத்த ஆண்டு ஓய்வு பெற திட்டமிட்டுள்ளான்.",
+      "audio": null
+    },
+    {
+      "id": "workplace",
+      "name": "Workplace",
+      "tamilMeaning": "பணியிடம்",
+      "example": "A friendly workplace improves productivity.",
+      "exampleTamil": "நட்பான பணியிடம் உற்பத்தித்திறனை மேம்படுத்தும்.",
+      "audio": null
+    },
+    {
+      "id": "profession",
+      "name": "Profession",
+      "tamilMeaning": "தொழில்",
+      "example": "Teaching is a noble profession.",
+      "exampleTamil": "கற்பித்தல் ஒரு உன்னதமான தொழில்.",
+      "audio": null
+    },
+    {
+      "id": "occupation",
+      "name": "Occupation",
+      "tamilMeaning": "தொழில் / பணி",
+      "example": "Please state your occupation on the form.",
+      "exampleTamil": "படிவத்தில் உங்கள் தொழிலைக் குறிப்பிடவும்.",
+      "audio": null
+    },
+    {
+      "id": "business",
+      "name": "Business",
+      "tamilMeaning": "வணிகம்",
+      "example": "She started her own business last year.",
+      "exampleTamil": "அவள் கடந்த ஆண்டு தன் சொந்த வணிகத்தை தொடங்கினாள்.",
+      "audio": null
+    },
+    {
+      "id": "company",
+      "name": "Company",
+      "tamilMeaning": "நிறுவனம்",
+      "example": "He works for a multinational company.",
+      "exampleTamil": "அவன் ஒரு பன்னாட்டு நிறுவனத்தில் பணிபுரிகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "department",
+      "name": "Department",
+      "tamilMeaning": "துறை",
+      "example": "She works in the marketing department.",
+      "exampleTamil": "அவள் சந்தைப்படுத்தல் துறையில் பணிபுரிகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "task",
+      "name": "Task",
+      "tamilMeaning": "பணி / வேலை",
+      "example": "He finished the task before lunch.",
+      "exampleTamil": "அவன் மதிய உணவுக்கு முன் பணியை முடித்தான்.",
+      "audio": null
+    },
+    {
+      "id": "responsibility",
+      "name": "Responsibility",
+      "tamilMeaning": "பொறுப்பு",
+      "example": "She takes full responsibility for the project.",
+      "exampleTamil": "அவள் திட்டத்திற்கு முழுப் பொறுப்பையும் ஏற்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "leave",
+      "name": "Leave",
+      "tamilMeaning": "விடுப்பு",
+      "example": "He applied for a week's leave.",
+      "exampleTamil": "அவன் ஒரு வார விடுப்புக்கு விண்ணப்பித்தான்.",
+      "audio": null
+    },
+    {
+      "id": "overtime",
+      "name": "Overtime",
+      "tamilMeaning": "கூடுதல் நேர வேலை",
+      "example": "He earns extra money by working overtime.",
+      "exampleTamil": "அவன் கூடுதல் நேரம் வேலை செய்வதன் மூலம் கூடுதல் பணம் சம்பாதிக்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "income",
+      "name": "Income",
+      "tamilMeaning": "வருமானம்",
+      "example": "Her monthly income has increased.",
+      "exampleTamil": "அவளுடைய மாத வருமானம் அதிகரித்துள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "freelancer",
+      "name": "Freelancer",
+      "tamilMeaning": "தனித்து பணிபுரிபவர்",
+      "example": "She works as a freelancer designing websites.",
+      "exampleTamil": "அவள் இணையதளங்கள் வடிவமைக்கும் ஒரு தனித்து பணிபுரிபவராக பணிபுரிகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "entrepreneur",
+      "name": "Entrepreneur",
+      "tamilMeaning": "தொழில் முனைவோர்",
+      "example": "He became a successful entrepreneur at a young age.",
+      "exampleTamil": "அவன் இளம் வயதிலேயே ஒரு வெற்றிகரமான தொழில் முனைவோராக மாறினான்.",
+      "audio": null
+    },
+    {
+      "id": "startup",
+      "name": "Startup",
+      "tamilMeaning": "புதிய தொழில் நிறுவனம்",
+      "example": "They launched a tech startup last year.",
+      "exampleTamil": "அவர்கள் கடந்த ஆண்டு ஒரு தொழில்நுட்ப புதிய நிறுவனத்தை தொடங்கினர்.",
+      "audio": null
+    },
+    {
+      "id": "client",
+      "name": "Client",
+      "tamilMeaning": "வாடிக்கையாளர்",
+      "example": "We scheduled a call with the client.",
+      "exampleTamil": "நாங்கள் வாடிக்கையாளருடன் ஒரு அழைப்பை திட்டமிட்டோம்.",
+      "audio": null
+    },
+    {
+      "id": "negotiation",
+      "name": "Negotiation",
+      "tamilMeaning": "பேச்சுவார்த்தை",
+      "example": "The salary negotiation went well.",
+      "exampleTamil": "சம்பள பேச்சுவார்த்தை நன்றாக நடந்தது.",
+      "audio": null
+    },
+    {
+      "id": "appointment",
+      "name": "Appointment",
+      "tamilMeaning": "நியமனம் / சந்திப்பு நேரம்",
+      "example": "I have an appointment with the manager at noon.",
+      "exampleTamil": "நண்பகல் மேலாளருடன் எனக்கு ஒரு சந்திப்பு நேரம் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "schedule",
+      "name": "Schedule",
+      "tamilMeaning": "அட்டவணை",
+      "example": "Please check today's work schedule.",
+      "exampleTamil": "இன்றைய வேலை அட்டவணையை சரிபார்க்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "workload",
+      "name": "Workload",
+      "tamilMeaning": "வேலைச்சுமை",
+      "example": "The workload increased during festival season.",
+      "exampleTamil": "பண்டிகை காலத்தில் வேலைச்சுமை அதிகரித்தது.",
+      "audio": null
+    }
+  ]
+}

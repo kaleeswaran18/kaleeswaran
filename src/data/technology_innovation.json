@@ -1,0 +1,790 @@
+{
+  "id": "technology_innovation",
+  "name": "Technology & Innovation",
+  "items": [
+    {
+      "id": "technology",
+      "name": "Technology",
+      "tamilMeaning": "தொழில்நுட்பம்",
+      "example": "Technology changes our daily life.",
+      "exampleTamil": "தொழில்நுட்பம் நமது தினசரி வாழ்க்கையை மாற்றுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "innovation",
+      "name": "Innovation",
+      "tamilMeaning": "புதுமை",
+      "example": "Innovation drives business growth.",
+      "exampleTamil": "புதுமை வணிக வளர்ச்சியை இயக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "computer",
+      "name": "Computer",
+      "tamilMeaning": "கணினி",
+      "example": "He works on a computer all day.",
+      "exampleTamil": "அவன் நாள் முழுவதும் கணினியில் வேலை செய்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "laptop",
+      "name": "Laptop",
+      "tamilMeaning": "மடிக்கணினி",
+      "example": "She carries her laptop to office.",
+      "exampleTamil": "அவள் தனது மடிக்கணினியை அலுவலகத்திற்கு எடுத்துச் செல்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "desktop",
+      "name": "Desktop",
+      "tamilMeaning": "மேசைக் கணினி",
+      "example": "The desktop is faster than the laptop.",
+      "exampleTamil": "மேசைக் கணினி மடிக்கணினியை விட வேகமானது.",
+      "audio": null
+    },
+    {
+      "id": "tablet_device",
+      "name": "Tablet",
+      "tamilMeaning": "டேப்லெட்",
+      "example": "He reads books on his tablet.",
+      "exampleTamil": "அவன் தனது டேப்லெட்டில் புத்தகங்களை படிக்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "smartphone",
+      "name": "Smartphone",
+      "tamilMeaning": "ஸ்மார்ட்போன்",
+      "example": "She uses her smartphone for everything.",
+      "exampleTamil": "அவள் தனது ஸ்மார்ட்போனை எல்லாவற்றிற்கும் பயன்படுத்துகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "smartwatch",
+      "name": "Smartwatch",
+      "tamilMeaning": "ஸ்மார்ட் வாட்ச்",
+      "example": "He tracks his steps with a smartwatch.",
+      "exampleTamil": "அவன் ஸ்மார்ட் வாட்ச் மூலம் தனது நடைபயணத்தை கண்காணிக்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "processor",
+      "name": "Processor",
+      "tamilMeaning": "செயலி",
+      "example": "This laptop has a fast processor.",
+      "exampleTamil": "இந்த மடிக்கணினியில் வேகமான செயலி உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "motherboard",
+      "name": "Motherboard",
+      "tamilMeaning": "மதர்போர்டு",
+      "example": "The motherboard connects all components.",
+      "exampleTamil": "மதர்போர்டு அனைத்து கூறுகளையும் இணைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "memory",
+      "name": "Memory",
+      "tamilMeaning": "நினைவகம்",
+      "example": "This phone has 8GB of memory.",
+      "exampleTamil": "இந்த போனில் 8GB நினைவகம் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "ram",
+      "name": "RAM",
+      "tamilMeaning": "ரேம்",
+      "example": "More RAM improves speed.",
+      "exampleTamil": "அதிக ரேம் வேகத்தை மேம்படுத்தும்.",
+      "audio": null
+    },
+    {
+      "id": "storage",
+      "name": "Storage",
+      "tamilMeaning": "சேமிப்பகம்",
+      "example": "He needs more storage for his photos.",
+      "exampleTamil": "அவனுக்கு தனது புகைப்படங்களுக்கு கூடுதல் சேமிப்பகம் தேவை.",
+      "audio": null
+    },
+    {
+      "id": "ssd",
+      "name": "SSD",
+      "tamilMeaning": "எஸ்எஸ்டி",
+      "example": "SSD makes the computer boot faster.",
+      "exampleTamil": "எஸ்எஸ்டி கணினியை வேகமாக துவங்கச் செய்யும்.",
+      "audio": null
+    },
+    {
+      "id": "hard_drive",
+      "name": "Hard Drive",
+      "tamilMeaning": "ஹார்டு டிரைவ்",
+      "example": "The hard drive stores all his files.",
+      "exampleTamil": "ஹார்டு டிரைவ் அவனது அனைத்து கோப்புகளையும் சேமிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "gpu",
+      "name": "Graphics Card",
+      "tamilMeaning": "கிராபிக்ஸ் கார்டு",
+      "example": "A good graphics card helps gaming.",
+      "exampleTamil": "ஒரு நல்ல கிராபிக்ஸ் கார்டு விளையாட்டுக்கு உதவும்.",
+      "audio": null
+    },
+    {
+      "id": "monitor",
+      "name": "Monitor",
+      "tamilMeaning": "திரை",
+      "example": "He bought a new monitor for his desk.",
+      "exampleTamil": "அவன் தனது மேசைக்கு புதிய திரையை வாங்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "keyboard",
+      "name": "Keyboard",
+      "tamilMeaning": "விசைப்பலகை",
+      "example": "She types fast on the keyboard.",
+      "exampleTamil": "அவள் விசைப்பலகையில் வேகமாக தட்டச்சு செய்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "mouse",
+      "name": "Mouse",
+      "tamilMeaning": "சுட்டி",
+      "example": "The mouse is not working properly.",
+      "exampleTamil": "சுட்டி சரியாக வேலை செய்யவில்லை.",
+      "audio": null
+    },
+    {
+      "id": "printer",
+      "name": "Printer",
+      "tamilMeaning": "அச்சுப்பொறி",
+      "example": "He printed the documents using a printer.",
+      "exampleTamil": "அவன் அச்சுப்பொறி மூலம் ஆவணங்களை அச்சிட்டான்.",
+      "audio": null
+    },
+    {
+      "id": "scanner",
+      "name": "Scanner",
+      "tamilMeaning": "ஸ்கேனர்",
+      "example": "She scanned the file using a scanner.",
+      "exampleTamil": "அவள் ஒரு ஸ்கேனர் மூலம் கோப்பை ஸ்கேன் செய்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "router",
+      "name": "Router",
+      "tamilMeaning": "ரூட்டர்",
+      "example": "The router provides internet at home.",
+      "exampleTamil": "ரூட்டர் வீட்டில் இணையத்தை வழங்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "modem",
+      "name": "Modem",
+      "tamilMeaning": "மோடம்",
+      "example": "The modem connects to the internet line.",
+      "exampleTamil": "மோடம் இணைய இணைப்பு கோட்டுடன் இணைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "wifi",
+      "name": "Wi-Fi",
+      "tamilMeaning": "வைஃபை",
+      "example": "The office has fast Wi-Fi.",
+      "exampleTamil": "அலுவலகத்தில் வேகமான வைஃபை உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "bluetooth",
+      "name": "Bluetooth",
+      "tamilMeaning": "புளூடூத்",
+      "example": "He connected his headphones via Bluetooth.",
+      "exampleTamil": "அவன் புளூடூத் மூலம் தனது ஹெட்போன்களை இணைத்தான்.",
+      "audio": null
+    },
+    {
+      "id": "satellite",
+      "name": "Satellite",
+      "tamilMeaning": "செயற்கைக்கோள்",
+      "example": "The satellite orbits the earth.",
+      "exampleTamil": "செயற்கைக்கோள் பூமியை சுற்றி வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "robot",
+      "name": "Robot",
+      "tamilMeaning": "ரோபோ",
+      "example": "The robot performs repetitive tasks.",
+      "exampleTamil": "ரோபோ மீண்டும் மீண்டும் செய்யும் பணிகளை செய்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "robotics",
+      "name": "Robotics",
+      "tamilMeaning": "ரோபோடிக்ஸ்",
+      "example": "He studies robotics in college.",
+      "exampleTamil": "அவன் கல்லூரியில் ரோபோடிக்ஸ் படிக்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "automation",
+      "name": "Automation",
+      "tamilMeaning": "தன்னியக்கமாக்கல்",
+      "example": "Automation increases factory efficiency.",
+      "exampleTamil": "தன்னியக்கமாக்கல் தொழிற்சாலை திறனை அதிகரிக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "artificial_intelligence",
+      "name": "Artificial Intelligence",
+      "tamilMeaning": "செயற்கை நுண்ணறிவு",
+      "example": "Artificial intelligence is changing industries.",
+      "exampleTamil": "செயற்கை நுண்ணறிவு தொழில்களை மாற்றி வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "machine_learning",
+      "name": "Machine Learning",
+      "tamilMeaning": "இயந்திர கற்றல்",
+      "example": "Machine learning predicts patterns from data.",
+      "exampleTamil": "இயந்திர கற்றல் தரவில் இருந்து முறைகளை கணிக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "deep_learning",
+      "name": "Deep Learning",
+      "tamilMeaning": "ஆழ்ந்த கற்றல்",
+      "example": "Deep learning powers image recognition.",
+      "exampleTamil": "ஆழ்ந்த கற்றல் படம் அடையாளம் காணுதலை இயக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "neural_network",
+      "name": "Neural Network",
+      "tamilMeaning": "நரம்பியல் வலையமைப்பு",
+      "example": "The neural network learns from examples.",
+      "exampleTamil": "நரம்பியல் வலையமைப்பு எடுத்துக்காட்டுகளில் இருந்து கற்றுக்கொள்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "data_science",
+      "name": "Data Science",
+      "tamilMeaning": "தரவு அறிவியல்",
+      "example": "He works in data science field.",
+      "exampleTamil": "அவன் தரவு அறிவியல் துறையில் பணிபுரிகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "big_data",
+      "name": "Big Data",
+      "tamilMeaning": "பெருந்தரவு",
+      "example": "Companies analyze big data for insights.",
+      "exampleTamil": "நிறுவனங்கள் பெருந்தரவை பகுப்பாய்வு செய்து புரிதல்களை பெறுகின்றன.",
+      "audio": null
+    },
+    {
+      "id": "analytics",
+      "name": "Analytics",
+      "tamilMeaning": "பகுப்பாய்வு",
+      "example": "Analytics helps in decision making.",
+      "exampleTamil": "பகுப்பாய்வு முடிவெடுப்பதற்கு உதவும்.",
+      "audio": null
+    },
+    {
+      "id": "algorithm",
+      "name": "Algorithm",
+      "tamilMeaning": "வழிமுறை",
+      "example": "The algorithm sorts the numbers.",
+      "exampleTamil": "வழிமுறை எண்களை வரிசைப்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "programming",
+      "name": "Programming",
+      "tamilMeaning": "நிரலாக்கம்",
+      "example": "He is learning programming.",
+      "exampleTamil": "அவன் நிரலாக்கம் கற்றுக்கொண்டிருக்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "coding",
+      "name": "Coding",
+      "tamilMeaning": "குறியீடு எழுதுதல்",
+      "example": "She spends hours coding every day.",
+      "exampleTamil": "அவள் ஒவ்வொரு நாளும் மணிக்கணக்கில் குறியீடு எழுதுகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "software",
+      "name": "Software",
+      "tamilMeaning": "மென்பொருள்",
+      "example": "This software helps manage finances.",
+      "exampleTamil": "இந்த மென்பொருள் நிதியை நிர்வகிக்க உதவுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "application",
+      "name": "Application",
+      "tamilMeaning": "பயன்பாடு",
+      "example": "He downloaded a new application.",
+      "exampleTamil": "அவன் ஒரு புதிய பயன்பாட்டை பதிவிறக்கம் செய்தான்.",
+      "audio": null
+    },
+    {
+      "id": "operating_system",
+      "name": "Operating System",
+      "tamilMeaning": "இயக்க முறைமை",
+      "example": "Windows is a popular operating system.",
+      "exampleTamil": "விண்டோஸ் ஒரு பிரபலமான இயக்க முறைமை.",
+      "audio": null
+    },
+    {
+      "id": "database",
+      "name": "Database",
+      "tamilMeaning": "தரவுத்தளம்",
+      "example": "The data is stored in a database.",
+      "exampleTamil": "தரவு ஒரு தரவுத்தளத்தில் சேமிக்கப்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "server",
+      "name": "Server",
+      "tamilMeaning": "சேவையகம்",
+      "example": "The website runs on a server.",
+      "exampleTamil": "இணையதளம் ஒரு சேவையகத்தில் இயங்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "cloud_computing",
+      "name": "Cloud Computing",
+      "tamilMeaning": "கிளவுட் கம்ப்யூட்டிங்",
+      "example": "Cloud computing saves storage costs.",
+      "exampleTamil": "கிளவுட் கம்ப்யூட்டிங் சேமிப்பு செலவை மிச்சப்படுத்தும்.",
+      "audio": null
+    },
+    {
+      "id": "virtualization",
+      "name": "Virtualization",
+      "tamilMeaning": "மெய்நிகராக்கம்",
+      "example": "Virtualization runs multiple systems on one machine.",
+      "exampleTamil": "மெய்நிகராக்கம் ஒரே இயந்திரத்தில் பல அமைப்புகளை இயக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "cybersecurity",
+      "name": "Cybersecurity",
+      "tamilMeaning": "இணைய பாதுகாப்பு",
+      "example": "Cybersecurity protects data from hackers.",
+      "exampleTamil": "இணைய பாதுகாப்பு தரவை ஹேக்கர்களிடமிருந்து பாதுகாக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "firewall",
+      "name": "Firewall",
+      "tamilMeaning": "தீ சுவர்",
+      "example": "The firewall blocks unwanted traffic.",
+      "exampleTamil": "தீ சுவர் தேவையற்ற போக்குவரத்தை தடுக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "encryption",
+      "name": "Encryption",
+      "tamilMeaning": "மறைகுறியாக்கம்",
+      "example": "Encryption keeps your data safe.",
+      "exampleTamil": "மறைகுறியாக்கம் உங்கள் தரவை பாதுகாப்பாக வைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "authentication",
+      "name": "Authentication",
+      "tamilMeaning": "அங்கீகாரம்",
+      "example": "Two-factor authentication adds extra security.",
+      "exampleTamil": "இரு-காரணி அங்கீகாரம் கூடுதல் பாதுகாப்பை சேர்க்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "password",
+      "name": "Password",
+      "tamilMeaning": "கடவுச்சொல்",
+      "example": "Use a strong password for your account.",
+      "exampleTamil": "உங்கள் கணக்கிற்கு ஒரு வலுவான கடவுச்சொல்லை பயன்படுத்துங்கள்.",
+      "audio": null
+    },
+    {
+      "id": "biometrics",
+      "name": "Biometrics",
+      "tamilMeaning": "உயிரியல் அளவீடு",
+      "example": "Biometrics uses fingerprints for security.",
+      "exampleTamil": "உயிரியல் அளவீடு பாதுகாப்புக்காக விரல்ரேகைகளை பயன்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "blockchain",
+      "name": "Blockchain",
+      "tamilMeaning": "பிளாக்செயின்",
+      "example": "Blockchain secures digital transactions.",
+      "exampleTamil": "பிளாக்செயின் டிஜிட்டல் பரிவர்த்தனைகளை பாதுகாக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "internet_of_things",
+      "name": "Internet of Things",
+      "tamilMeaning": "பொருள்களின் இணையம்",
+      "example": "Internet of Things connects smart devices.",
+      "exampleTamil": "பொருள்களின் இணையம் ஸ்மார்ட் சாதனங்களை இணைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "embedded_system",
+      "name": "Embedded System",
+      "tamilMeaning": "உட்பொதிந்த அமைப்பு",
+      "example": "Embedded systems control home appliances.",
+      "exampleTamil": "உட்பொதிந்த அமைப்புகள் வீட்டு உபகரணங்களை கட்டுப்படுத்துகின்றன.",
+      "audio": null
+    },
+    {
+      "id": "microcontroller",
+      "name": "Microcontroller",
+      "tamilMeaning": "மைக்ரோகண்ட்ரோலர்",
+      "example": "The microcontroller runs the robot's motors.",
+      "exampleTamil": "மைக்ரோகண்ட்ரோலர் ரோபோவின் மோட்டார்களை இயக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "sensor",
+      "name": "Sensor",
+      "tamilMeaning": "உணரி",
+      "example": "The sensor detects motion nearby.",
+      "exampleTamil": "உணரி அருகிலுள்ள அசைவை கண்டறிகிறது.",
+      "audio": null
+    },
+    {
+      "id": "drone",
+      "name": "Drone",
+      "tamilMeaning": "ட்ரோன்",
+      "example": "The drone captured aerial photos.",
+      "exampleTamil": "ட்ரோன் வான்வழி புகைப்படங்களை எடுத்தது.",
+      "audio": null
+    },
+    {
+      "id": "virtual_reality",
+      "name": "Virtual Reality",
+      "tamilMeaning": "மெய்நிகர் யதார்த்தம்",
+      "example": "Virtual reality creates immersive experiences.",
+      "exampleTamil": "மெய்நிகர் யதார்த்தம் ஆழ்ந்த அனுபவங்களை உருவாக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "augmented_reality",
+      "name": "Augmented Reality",
+      "tamilMeaning": "இணை யதார்த்தம்",
+      "example": "Augmented reality overlays digital images on real world.",
+      "exampleTamil": "இணை யதார்த்தம் டிஜிட்டல் படங்களை உண்மையான உலகில் மேலிடுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "mixed_reality",
+      "name": "Mixed Reality",
+      "tamilMeaning": "கலப்பு யதார்த்தம்",
+      "example": "Mixed reality combines virtual and real objects.",
+      "exampleTamil": "கலப்பு யதார்த்தம் மெய்நிகர் மற்றும் உண்மையான பொருட்களை இணைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "metaverse",
+      "name": "Metaverse",
+      "tamilMeaning": "மெட்டாவர்ஸ்",
+      "example": "The metaverse is a shared virtual world.",
+      "exampleTamil": "மெட்டாவர்ஸ் ஒரு பகிரப்பட்ட மெய்நிகர் உலகம்.",
+      "audio": null
+    },
+    {
+      "id": "quantum_computing",
+      "name": "Quantum Computing",
+      "tamilMeaning": "குவாண்டம் கம்ப்யூட்டிங்",
+      "example": "Quantum computing solves complex problems fast.",
+      "exampleTamil": "குவாண்டம் கம்ப்யூட்டிங் சிக்கலான பிரச்சனைகளை வேகமாக தீர்க்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "semiconductor",
+      "name": "Semiconductor",
+      "tamilMeaning": "அரைக்கடத்தி",
+      "example": "Semiconductors are used in electronic chips.",
+      "exampleTamil": "அரைக்கடத்திகள் மின்னணு சில்லுகளில் பயன்படுத்தப்படுகின்றன.",
+      "audio": null
+    },
+    {
+      "id": "chip",
+      "name": "Chip",
+      "tamilMeaning": "சில்லு",
+      "example": "This chip powers the smartphone.",
+      "exampleTamil": "இந்த சில்லு ஸ்மார்ட்போனை இயக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "firmware",
+      "name": "Firmware",
+      "tamilMeaning": "ஃபார்ம்வேர்",
+      "example": "The firmware update fixed the bug.",
+      "exampleTamil": "ஃபார்ம்வேர் புதுப்பிப்பு பிழையை சரிசெய்தது.",
+      "audio": null
+    },
+    {
+      "id": "api",
+      "name": "API",
+      "tamilMeaning": "ஏபிஐ",
+      "example": "The app uses an API to fetch data.",
+      "exampleTamil": "பயன்பாடு தரவை பெற ஒரு ஏபிஐ பயன்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "framework",
+      "name": "Framework",
+      "tamilMeaning": "கட்டமைப்பு",
+      "example": "He built the app using a framework.",
+      "exampleTamil": "அவன் ஒரு கட்டமைப்பைப் பயன்படுத்தி பயன்பாட்டை உருவாக்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "library",
+      "name": "Library",
+      "tamilMeaning": "நூலகம் (குறியீட்டு நூலகம்)",
+      "example": "This library simplifies coding tasks.",
+      "exampleTamil": "இந்த குறியீட்டு நூலகம் நிரலாக்க பணிகளை எளிதாக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "source_code",
+      "name": "Source Code",
+      "tamilMeaning": "மூலக் குறியீடு",
+      "example": "The source code is available online.",
+      "exampleTamil": "மூலக் குறியீடு ஆன்லைனில் கிடைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "compiler",
+      "name": "Compiler",
+      "tamilMeaning": "தொகுப்பாக்கி",
+      "example": "The compiler converts code to machine language.",
+      "exampleTamil": "தொகுப்பாக்கி குறியீட்டை இயந்திர மொழிக்கு மாற்றுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "debugging",
+      "name": "Debugging",
+      "tamilMeaning": "பிழை திருத்தம்",
+      "example": "He spent hours debugging the program.",
+      "exampleTamil": "அவன் நிரலின் பிழையை திருத்த மணிக்கணக்கில் செலவழித்தான்.",
+      "audio": null
+    },
+    {
+      "id": "deployment",
+      "name": "Deployment",
+      "tamilMeaning": "வரிசைப்படுத்தல்",
+      "example": "The team completed the software deployment.",
+      "exampleTamil": "குழு மென்பொருள் வரிசைப்படுத்தலை முடித்தது.",
+      "audio": null
+    },
+    {
+      "id": "version_control",
+      "name": "Version Control",
+      "tamilMeaning": "பதிப்பு கட்டுப்பாடு",
+      "example": "Git is a popular version control tool.",
+      "exampleTamil": "கிட் ஒரு பிரபலமான பதிப்பு கட்டுப்பாடு கருவி.",
+      "audio": null
+    },
+    {
+      "id": "repository",
+      "name": "Repository",
+      "tamilMeaning": "களஞ்சியம்",
+      "example": "He pushed the code to the repository.",
+      "exampleTamil": "அவன் குறியீட்டை களஞ்சியத்திற்கு அனுப்பினான்.",
+      "audio": null
+    },
+    {
+      "id": "open_source",
+      "name": "Open Source",
+      "tamilMeaning": "திறந்த மூல",
+      "example": "Open source software is free to use.",
+      "exampleTamil": "திறந்த மூல மென்பொருள் பயன்படுத்த இலவசமானது.",
+      "audio": null
+    },
+    {
+      "id": "developer",
+      "name": "Developer",
+      "tamilMeaning": "மென்பொருள் உருவாக்குநர்",
+      "example": "She works as a software developer.",
+      "exampleTamil": "அவள் ஒரு மென்பொருள் உருவாக்குநராக பணிபுரிகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "engineer",
+      "name": "Engineer",
+      "tamilMeaning": "பொறியாளர்",
+      "example": "He is an engineer at a tech company.",
+      "exampleTamil": "அவன் ஒரு தொழில்நுட்ப நிறுவனத்தில் பொறியாளராக உள்ளான்.",
+      "audio": null
+    },
+    {
+      "id": "startup",
+      "name": "Startup",
+      "tamilMeaning": "புதிய தொடக்க நிறுவனம்",
+      "example": "He started his own tech startup.",
+      "exampleTamil": "அவன் தனது சொந்த தொழில்நுட்ப தொடக்க நிறுவனத்தை தொடங்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "prototype",
+      "name": "Prototype",
+      "tamilMeaning": "முன்மாதிரி",
+      "example": "They built a prototype for testing.",
+      "exampleTamil": "அவர்கள் சோதனைக்காக ஒரு முன்மாதிரியை உருவாக்கினர்.",
+      "audio": null
+    },
+    {
+      "id": "invention",
+      "name": "Invention",
+      "tamilMeaning": "கண்டுபிடிப்பு",
+      "example": "The telephone was a great invention.",
+      "exampleTamil": "தொலைபேசி ஒரு சிறந்த கண்டுபிடிப்பு.",
+      "audio": null
+    },
+    {
+      "id": "research",
+      "name": "Research",
+      "tamilMeaning": "ஆராய்ச்சி",
+      "example": "She conducts research in AI.",
+      "exampleTamil": "அவள் செயற்கை நுண்ணறிவில் ஆராய்ச்சி செய்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "experiment",
+      "name": "Experiment",
+      "tamilMeaning": "சோதனை",
+      "example": "The scientist ran an experiment.",
+      "exampleTamil": "விஞ்ஞானி ஒரு சோதனையை நடத்தினார்.",
+      "audio": null
+    },
+    {
+      "id": "breakthrough",
+      "name": "Breakthrough",
+      "tamilMeaning": "முன்னேற்றம் (திருப்புமுனை)",
+      "example": "This was a major breakthrough in medicine.",
+      "exampleTamil": "இது மருத்துவத்தில் ஒரு பெரிய திருப்புமுனை ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "digital_transformation",
+      "name": "Digital Transformation",
+      "tamilMeaning": "டிஜிட்டல் மாற்றம்",
+      "example": "The company is undergoing digital transformation.",
+      "exampleTamil": "நிறுவனம் டிஜிட்டல் மாற்றத்திற்கு உட்பட்டு வருகிறது.",
+      "audio": null
+    },
+    {
+      "id": "smart_city",
+      "name": "Smart City",
+      "tamilMeaning": "ஸ்மார்ட் நகரம்",
+      "example": "Smart cities use technology to improve living.",
+      "exampleTamil": "ஸ்மார்ட் நகரங்கள் வாழ்க்கையை மேம்படுத்த தொழில்நுட்பத்தை பயன்படுத்துகின்றன.",
+      "audio": null
+    },
+    {
+      "id": "renewable_energy",
+      "name": "Renewable Energy",
+      "tamilMeaning": "புதுப்பிக்கத்தக்க எரிசக்தி",
+      "example": "Renewable energy reduces pollution.",
+      "exampleTamil": "புதுப்பிக்கத்தக்க எரிசக்தி மாசுபாட்டை குறைக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "electric_vehicle",
+      "name": "Electric Vehicle",
+      "tamilMeaning": "மின்சார வாகனம்",
+      "example": "He bought an electric vehicle.",
+      "exampleTamil": "அவன் ஒரு மின்சார வாகனத்தை வாங்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "battery",
+      "name": "Battery",
+      "tamilMeaning": "மின்கலம்",
+      "example": "The battery lasts all day.",
+      "exampleTamil": "மின்கலம் நாள் முழுவதும் நீடிக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "solar_panel",
+      "name": "Solar Panel",
+      "tamilMeaning": "சூரிய மின் பலகை",
+      "example": "They installed a solar panel on the roof.",
+      "exampleTamil": "அவர்கள் கூரையில் ஒரு சூரிய மின் பலகையை பொருத்தினர்.",
+      "audio": null
+    },
+    {
+      "id": "wind_turbine",
+      "name": "Wind Turbine",
+      "tamilMeaning": "காற்றாலை",
+      "example": "The wind turbine generates electricity.",
+      "exampleTamil": "காற்றாலை மின்சாரத்தை உருவாக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "innovation_lab",
+      "name": "Innovation Lab",
+      "tamilMeaning": "புதுமை ஆய்வகம்",
+      "example": "The company has an innovation lab.",
+      "exampleTamil": "நிறுவனத்திற்கு ஒரு புதுமை ஆய்வகம் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "patent",
+      "name": "Patent",
+      "tamilMeaning": "காப்புரிமை",
+      "example": "He filed a patent for his invention.",
+      "exampleTamil": "அவன் தனது கண்டுபிடிப்பிற்கு காப்புரிமை பதிவு செய்தான்.",
+      "audio": null
+    },
+    {
+      "id": "prototype_testing",
+      "name": "Prototype Testing",
+      "tamilMeaning": "முன்மாதிரி சோதனை",
+      "example": "Prototype testing revealed some issues.",
+      "exampleTamil": "முன்மாதிரி சோதனை சில சிக்கல்களை வெளிப்படுத்தியது.",
+      "audio": null
+    },
+    {
+      "id": "digital_twin",
+      "name": "Digital Twin",
+      "tamilMeaning": "டிஜிட்டல் இரட்டை",
+      "example": "A digital twin simulates the real machine.",
+      "exampleTamil": "ஒரு டிஜிட்டல் இரட்டை உண்மையான இயந்திரத்தை உருவகப்படுத்துகிறது.",
+      "audio": null
+    },
+    {
+      "id": "edge_computing",
+      "name": "Edge Computing",
+      "tamilMeaning": "எட்ஜ் கம்ப்யூட்டிங்",
+      "example": "Edge computing processes data closer to the source.",
+      "exampleTamil": "எட்ஜ் கம்ப்யூட்டிங் தரவை மூலத்திற்கு அருகில் செயலாக்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "green_technology",
+      "name": "Green Technology",
+      "tamilMeaning": "பசுமை தொழில்நுட்பம்",
+      "example": "Green technology helps protect the environment.",
+      "exampleTamil": "பசுமை தொழில்நுட்பம் சுற்றுச்சூழலை பாதுகாக்க உதவுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "future_technology",
+      "name": "Future Technology",
+      "tamilMeaning": "எதிர்கால தொழில்நுட்பம்",
+      "example": "Future technology will change how we live.",
+      "exampleTamil": "எதிர்கால தொழில்நுட்பம் நாம் வாழும் விதத்தை மாற்றும்.",
+      "audio": null
+    }
+  ]
+}

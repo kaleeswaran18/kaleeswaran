@@ -1,50 +1,98 @@
 {
   "categories": [
     {
-      "id": "language_learning",
-      "name": "Language & Learning",
-      "emoji": "🔤",
-      "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=600&q=80",
+      "id": "personal_life",
+      "name": "Personal Life",
+      "emoji": "🏠",
+      "image": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=600&q=80",
       "subcategories": [
-         {
-    "id": "batch_1",
-    "name": "Batch 1",
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
-    "vocabularyFile": "batch_1.json"
-  },
-  {
-    "id": "batch_2",
-    "name": "Batch 2",
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
-    "vocabularyFile": "batch_2.json"
-  },
-  {
-    "id": "batch_3",
-    "name": "Batch 3",
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
-    "vocabularyFile": "batch_3.json"
-  },
-  {
-    "id": "batch_4",
-    "name": "Batch 4",
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
-    "vocabularyFile": "batch_4.json"
-  },
-  {
-    "id": "batch_5",
-    "name": "Batch 5",
-    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600&q=80",
-    "vocabularyFile": "batch_5.json"
-  }
-        
-    
-   
+        { "id": "family_relationships", "name": "Family & Relationships", "vocabularyFile": "family_relationships.json" },
+        { "id": "work_career", "name": "Work & Career", "vocabularyFile": "work_career.json" },
+        { "id": "education_learning", "name": "Education & Learning", "vocabularyFile": "education_learning.json" },
+        { "id": "travel_tourism", "name": "Travel & Tourism", "vocabularyFile": "travel_tourism.json" },
+        { "id": "food_dining", "name": "Food & Dining", "vocabularyFile": "food_dining.json" },
+        { "id": "shopping", "name": "Shopping", "vocabularyFile": "shopping.json" },
+        { "id": "banking", "name": "Banking", "vocabularyFile": "banking.json" },
+        { "id": "finance_investments", "name": "Finance & Investments", "vocabularyFile": "finance_investments.json" },
+        { "id": "health_healthcare", "name": "Health & Healthcare", "vocabularyFile": "health_healthcare.json" },
+        { "id": "technology_innovation", "name": "Technology & Innovation", "vocabularyFile": "technology_innovation.json" }
+      ]
+    },
+
+    {
+      "id": "knowledge_society",
+      "name": "Knowledge & Society",
+      "emoji": "🌍",
+      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&q=80",
+      "subcategories": [
+        { "id": "digital_life", "name": "Digital Life & Internet", "vocabularyFile": "digital_life.json" },
+        { "id": "science_space", "name": "Science & Space", "vocabularyFile": "science_space.json" },
+        { "id": "mathematics_logic", "name": "Mathematics & Logic", "vocabularyFile": "mathematics_logic.json" },
+        { "id": "environment", "name": "Environment & Sustainability", "vocabularyFile": "environment.json" },
+        { "id": "society", "name": "Society & Social Issues", "vocabularyFile": "society.json" },
+        { "id": "government", "name": "Government & Politics", "vocabularyFile": "government.json" },
+        { "id": "law", "name": "Law & Legal Awareness", "vocabularyFile": "law.json" },
+        { "id": "history", "name": "History & Philosophy", "vocabularyFile": "history.json" },
+        { "id": "culture", "name": "Culture & Traditions", "vocabularyFile": "culture.json" },
+        { "id": "religion", "name": "Religion & Spirituality", "vocabularyFile": "religion.json" }
+      ]
+    },
+
+    {
+      "id": "lifestyle",
+      "name": "Lifestyle",
+      "emoji": "🎨",
+      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&q=80",
+      "subcategories": [
+        { "id": "entertainment", "name": "Entertainment & Media", "vocabularyFile": "entertainment.json" },
+        { "id": "arts", "name": "Arts & Creativity", "vocabularyFile": "arts.json" },
+        { "id": "fashion", "name": "Fashion & Beauty", "vocabularyFile": "fashion.json" },
+        { "id": "sports", "name": "Sports & Fitness", "vocabularyFile": "sports.json" },
+        { "id": "communication", "name": "Communication & Social Skills", "vocabularyFile": "communication.json" },
+        { "id": "personal_development", "name": "Personal Development", "vocabularyFile": "personal_development.json" },
+        { "id": "business", "name": "Business & Entrepreneurship", "vocabularyFile": "business.json" },
+        { "id": "home", "name": "Home & Lifestyle", "vocabularyFile": "home.json" },
+        { "id": "parenting", "name": "Parenting & Child Development", "vocabularyFile": "parenting.json" },
+        { "id": "pets", "name": "Pets & Animal Care", "vocabularyFile": "pets.json" }
+      ]
+    },
+
+    {
+      "id": "practical_skills",
+      "name": "Practical Skills",
+      "emoji": "🛠️",
+      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&q=80",
+      "subcategories": [
+        { "id": "agriculture", "name": "Agriculture & Farming", "vocabularyFile": "agriculture.json" },
+        { "id": "automobiles", "name": "Automobiles & Transportation", "vocabularyFile": "automobiles.json" },
+        { "id": "safety", "name": "Safety & Emergency Preparedness", "vocabularyFile": "safety.json" },
+        { "id": "diy", "name": "DIY & Hobbies", "vocabularyFile": "diy.json" },
+        { "id": "leadership", "name": "Leadership & Management", "vocabularyFile": "leadership.json" },
+        { "id": "productivity", "name": "Productivity & Time Management", "vocabularyFile": "productivity.json" },
+        { "id": "psychology", "name": "Psychology & Human Behavior", "vocabularyFile": "psychology.json" },
+        { "id": "emotional_intelligence", "name": "Emotional Intelligence", "vocabularyFile": "emotional_intelligence.json" },
+        { "id": "critical_thinking", "name": "Critical Thinking & Decision Making", "vocabularyFile": "critical_thinking.json" },
+        { "id": "problem_solving", "name": "Problem Solving", "vocabularyFile": "problem_solving.json" }
+      ]
+    },
+
+    {
+      "id": "professional_skills",
+      "name": "Professional Skills",
+      "emoji": "💼",
+      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=600&q=80",
+      "subcategories": [
+        { "id": "customer_service", "name": "Customer Service & Support", "vocabularyFile": "customer_service.json" },
+        { "id": "sales_marketing", "name": "Sales & Marketing", "vocabularyFile": "sales_marketing.json" },
+        { "id": "negotiation", "name": "Negotiation & Persuasion", "vocabularyFile": "negotiation.json" },
+        { "id": "public_speaking", "name": "Public Speaking & Presentation", "vocabularyFile": "public_speaking.json" },
+        { "id": "networking", "name": "Networking & Professional Relationships", "vocabularyFile": "networking.json" },
+        { "id": "email_business", "name": "Email & Business Writing", "vocabularyFile": "email_business.json" },
+        { "id": "recruitment", "name": "Recruitment & Job Interviews", "vocabularyFile": "recruitment.json" },
+        { "id": "project_management", "name": "Project Management", "vocabularyFile": "project_management.json" },
+        { "id": "innovation", "name": "Innovation & Creativity", "vocabularyFile": "innovation.json" },
+        { "id": "future_skills", "name": "Future Skills", "vocabularyFile": "future_skills.json" }
+      ]
+    }
   ]
 }
-  ]
-}
-
-
-
-
-

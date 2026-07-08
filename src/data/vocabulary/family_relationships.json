@@ -1,0 +1,366 @@
+{
+  "id": "family_relationships",
+  "name": "Family & Relationships",
+  "items": [
+    {
+      "id": "father",
+      "name": "Father",
+      "tamilMeaning": "தந்தை",
+      "example": "My father teaches me valuable life lessons.",
+      "exampleTamil": "என் தந்தை எனக்கு வாழ்க்கையின் மதிப்புமிக்க பாடங்களை கற்பிக்கிறார்.",
+      "audio": null
+    },
+    {
+      "id": "mother",
+      "name": "Mother",
+      "tamilMeaning": "தாய்",
+      "example": "My mother prepares delicious food.",
+      "exampleTamil": "என் தாய் சுவையான உணவை சமைக்கிறார்.",
+      "audio": null
+    },
+    {
+      "id": "brother",
+      "name": "Brother",
+      "tamilMeaning": "சகோதரன்",
+      "example": "My brother helps me with homework.",
+      "exampleTamil": "என் சகோதரன் எனக்கு வீட்டுப்பாடத்தில் உதவுகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "sister",
+      "name": "Sister",
+      "tamilMeaning": "சகோதரி",
+      "example": "My sister enjoys painting.",
+      "exampleTamil": "என் சகோதரி ஓவியம் வரைவதை விரும்புகிறார்.",
+      "audio": null
+    },
+    {
+      "id": "grandfather",
+      "name": "Grandfather",
+      "tamilMeaning": "தாத்தா",
+      "example": "My grandfather tells wonderful stories.",
+      "exampleTamil": "என் தாத்தா அழகான கதைகளைச் சொல்கிறார்.",
+      "audio": null
+    },
+    {
+      "id": "grandmother",
+      "name": "Grandmother",
+      "tamilMeaning": "பாட்டி",
+      "example": "My grandmother makes tasty pickles.",
+      "exampleTamil": "என் பாட்டி சுவையான ஊறுகாய் செய்வார்.",
+      "audio": null
+    },
+    {
+      "id": "uncle",
+      "name": "Uncle",
+      "tamilMeaning": "மாமா / சித்தப்பா / பெரியப்பா",
+      "example": "My uncle gave me a gift for my birthday.",
+      "exampleTamil": "என் மாமா என் பிறந்தநாளுக்கு பரிசு கொடுத்தார்.",
+      "audio": null
+    },
+    {
+      "id": "aunt",
+      "name": "Aunt",
+      "tamilMeaning": "அத்தை / சித்தி / பெரியம்மா",
+      "example": "My aunt lives in the next street.",
+      "exampleTamil": "என் அத்தை அடுத்த தெருவில் வசிக்கிறார்.",
+      "audio": null
+    },
+    {
+      "id": "cousin",
+      "name": "Cousin",
+      "tamilMeaning": "சித்தப்பா/மாமா பிள்ளை (உறவினர்)",
+      "example": "I play cricket with my cousin every weekend.",
+      "exampleTamil": "நான் ஒவ்வொரு வார இறுதியிலும் என் உறவினரோடு கிரிக்கெட் விளையாடுவேன்.",
+      "audio": null
+    },
+    {
+      "id": "nephew",
+      "name": "Nephew",
+      "tamilMeaning": "மருமகன்",
+      "example": "My nephew loves playing video games.",
+      "exampleTamil": "என் மருமகன் வீடியோ கேம் விளையாடுவதை விரும்புகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "niece",
+      "name": "Niece",
+      "tamilMeaning": "மருமகள்",
+      "example": "My niece sings very well.",
+      "exampleTamil": "என் மருமகள் அழகாக பாடுவாள்.",
+      "audio": null
+    },
+    {
+      "id": "son",
+      "name": "Son",
+      "tamilMeaning": "மகன்",
+      "example": "Their son is studying engineering.",
+      "exampleTamil": "அவர்களின் மகன் பொறியியல் படிக்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "daughter",
+      "name": "Daughter",
+      "tamilMeaning": "மகள்",
+      "example": "Their daughter is a doctor now.",
+      "exampleTamil": "அவர்களின் மகள் இப்போது ஒரு மருத்துவர்.",
+      "audio": null
+    },
+    {
+      "id": "husband",
+      "name": "Husband",
+      "tamilMeaning": "கணவன்",
+      "example": "Her husband works as an engineer.",
+      "exampleTamil": "அவளுடைய கணவர் ஒரு பொறியாளராக பணிபுரிகிறார்.",
+      "audio": null
+    },
+    {
+      "id": "wife",
+      "name": "Wife",
+      "tamilMeaning": "மனைவி",
+      "example": "His wife runs a small business.",
+      "exampleTamil": "அவருடைய மனைவி ஒரு சிறு தொழிலை நடத்துகிறார்.",
+      "audio": null
+    },
+    {
+      "id": "family",
+      "name": "Family",
+      "tamilMeaning": "குடும்பம்",
+      "example": "We spend every Sunday with our family.",
+      "exampleTamil": "நாங்கள் ஒவ்வொரு ஞாயிற்றுக்கிழமையும் எங்கள் குடும்பத்துடன் செலவிடுகிறோம்.",
+      "audio": null
+    },
+    {
+      "id": "relatives",
+      "name": "Relatives",
+      "tamilMeaning": "உறவினர்கள்",
+      "example": "Many relatives attended the wedding function.",
+      "exampleTamil": "பல உறவினர்கள் திருமண விழாவிற்கு வந்திருந்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "father_in_law",
+      "name": "Father-in-law",
+      "tamilMeaning": "மாமனார்",
+      "example": "My father-in-law gives great advice about farming.",
+      "exampleTamil": "என் மாமனார் விவசாயம் பற்றி நல்ல ஆலோசனை தருவார்.",
+      "audio": null
+    },
+    {
+      "id": "mother_in_law",
+      "name": "Mother-in-law",
+      "tamilMeaning": "மாமியார்",
+      "example": "My mother-in-law taught me a new recipe.",
+      "exampleTamil": "என் மாமியார் எனக்கு ஒரு புதிய சமையல் முறையைக் கற்றுத்தந்தார்.",
+      "audio": null
+    },
+    {
+      "id": "brother_in_law",
+      "name": "Brother-in-law",
+      "tamilMeaning": "மைத்துனர் / அண்ணன்/தம்பி (மனைவி/கணவன் சகோதரர்)",
+      "example": "My brother-in-law helped me move houses.",
+      "exampleTamil": "என் மைத்துனர் வீடு மாறுவதற்கு உதவினார்.",
+      "audio": null
+    },
+    {
+      "id": "sister_in_law",
+      "name": "Sister-in-law",
+      "tamilMeaning": "மைத்துனி / அண்ணி (சகோதரனின் மனைவி)",
+      "example": "My sister-in-law cooks amazing biryani.",
+      "exampleTamil": "என் அண்ணி அருமையான பிரியாணி சமைப்பார்.",
+      "audio": null
+    },
+    {
+      "id": "son_in_law",
+      "name": "Son-in-law",
+      "tamilMeaning": "மருமகன் (மகளின் கணவன்)",
+      "example": "Their son-in-law is very respectful.",
+      "exampleTamil": "அவர்களின் மருமகன் மிகவும் மரியாதையானவர்.",
+      "audio": null
+    },
+    {
+      "id": "daughter_in_law",
+      "name": "Daughter-in-law",
+      "tamilMeaning": "மருமகள் (மகனின் மனைவி)",
+      "example": "Their daughter-in-law manages the household well.",
+      "exampleTamil": "அவர்களின் மருமகள் வீட்டை நன்றாக நிர்வகிக்கிறார்.",
+      "audio": null
+    },
+    {
+      "id": "grandson",
+      "name": "Grandson",
+      "tamilMeaning": "பேரன்",
+      "example": "Her grandson visits her every summer.",
+      "exampleTamil": "அவளுடைய பேரன் ஒவ்வொரு கோடையிலும் அவளை பார்க்க வருவான்.",
+      "audio": null
+    },
+    {
+      "id": "granddaughter",
+      "name": "Granddaughter",
+      "tamilMeaning": "பேத்தி",
+      "example": "His granddaughter is learning classical dance.",
+      "exampleTamil": "அவருடைய பேத்தி பரதநாட்டியம் கற்றுக்கொள்கிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "parents",
+      "name": "Parents",
+      "tamilMeaning": "பெற்றோர்",
+      "example": "My parents always support my decisions.",
+      "exampleTamil": "என் பெற்றோர் எப்போதும் என் முடிவுகளை ஆதரிக்கிறார்கள்.",
+      "audio": null
+    },
+    {
+      "id": "grandparents",
+      "name": "Grandparents",
+      "tamilMeaning": "தாத்தா பாட்டி",
+      "example": "We visit our grandparents during holidays.",
+      "exampleTamil": "நாங்கள் விடுமுறையின் போது தாத்தா பாட்டியை பார்க்க செல்வோம்.",
+      "audio": null
+    },
+    {
+      "id": "twins",
+      "name": "Twins",
+      "tamilMeaning": "இரட்டையர்",
+      "example": "The twins look exactly alike.",
+      "exampleTamil": "இரட்டையர்கள் இருவரும் ஒரே மாதிரி தெரிகிறார்கள்.",
+      "audio": null
+    },
+    {
+      "id": "widow",
+      "name": "Widow",
+      "tamilMeaning": "விதவை",
+      "example": "The widow raised her children alone.",
+      "exampleTamil": "அந்த விதவை தன் குழந்தைகளை தனியாக வளர்த்தார்.",
+      "audio": null
+    },
+    {
+      "id": "widower",
+      "name": "Widower",
+      "tamilMeaning": "விதவான்",
+      "example": "The widower lives with his son now.",
+      "exampleTamil": "அந்த விதவான் இப்போது தன் மகனுடன் வசிக்கிறார்.",
+      "audio": null
+    },
+    {
+      "id": "fiance",
+      "name": "Fiancé",
+      "tamilMeaning": "நிச்சயிக்கப்பட்ட மணமகன்",
+      "example": "She introduced her fiancé to the family.",
+      "exampleTamil": "அவள் தன் நிச்சயிக்கப்பட்ட மணமகனை குடும்பத்தினருக்கு அறிமுகப்படுத்தினாள்.",
+      "audio": null
+    },
+    {
+      "id": "fiancee",
+      "name": "Fiancée",
+      "tamilMeaning": "நிச்சயிக்கப்பட்ட மணமகள்",
+      "example": "He proposed to his fiancée at the beach.",
+      "exampleTamil": "அவன் தன் நிச்சயிக்கப்பட்ட மணமகளிடம் கடற்கரையில் திருமணத்திற்கு கேட்டான்.",
+      "audio": null
+    },
+    {
+      "id": "spouse",
+      "name": "Spouse",
+      "tamilMeaning": "துணைவர்",
+      "example": "Every decision is made with my spouse.",
+      "exampleTamil": "ஒவ்வொரு முடிவும் என் துணைவருடன் சேர்ந்து எடுக்கப்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "sibling",
+      "name": "Sibling",
+      "tamilMeaning": "உடன்பிறப்பு",
+      "example": "I have two siblings, a brother and a sister.",
+      "exampleTamil": "எனக்கு இரண்டு உடன்பிறப்புகள் உள்ளனர், ஒரு சகோதரனும் ஒரு சகோதரியும்.",
+      "audio": null
+    },
+    {
+      "id": "ancestor",
+      "name": "Ancestor",
+      "tamilMeaning": "மூதாதையர்",
+      "example": "Our ancestors migrated from a nearby village.",
+      "exampleTamil": "எங்கள் மூதாதையர் அருகிலுள்ள ஒரு கிராமத்திலிருந்து குடிபெயர்ந்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "descendant",
+      "name": "Descendant",
+      "tamilMeaning": "வழித்தோன்றல்",
+      "example": "She is a descendant of a famous freedom fighter.",
+      "exampleTamil": "அவள் ஒரு புகழ்பெற்ற சுதந்திரப் போராளியின் வழித்தோன்றல் ஆவாள்.",
+      "audio": null
+    },
+    {
+      "id": "guardian",
+      "name": "Guardian",
+      "tamilMeaning": "பாதுகாவலர்",
+      "example": "Her uncle became her legal guardian after the accident.",
+      "exampleTamil": "விபத்திற்குப் பிறகு அவளுடைய மாமா அவளுடைய சட்டப்பூர்வ பாதுகாவலராக ஆனார்.",
+      "audio": null
+    },
+    {
+      "id": "orphan",
+      "name": "Orphan",
+      "tamilMeaning": "அனாதை",
+      "example": "The orphan was adopted by a kind family.",
+      "exampleTamil": "அந்த அனாதை ஒரு அன்பான குடும்பத்தால் தத்தெடுக்கப்பட்டான்.",
+      "audio": null
+    },
+    {
+      "id": "adoption",
+      "name": "Adoption",
+      "tamilMeaning": "தத்தெடுப்பு",
+      "example": "They completed the adoption process last month.",
+      "exampleTamil": "அவர்கள் கடந்த மாதம் தத்தெடுப்பு செயல்முறையை முடித்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "marriage",
+      "name": "Marriage",
+      "tamilMeaning": "திருமணம்",
+      "example": "Their marriage was celebrated with great joy.",
+      "exampleTamil": "அவர்களின் திருமணம் மிகுந்த மகிழ்ச்சியுடன் கொண்டாடப்பட்டது.",
+      "audio": null
+    },
+    {
+      "id": "wedding",
+      "name": "Wedding",
+      "tamilMeaning": "கல்யாணம்",
+      "example": "We attended a grand wedding last week.",
+      "exampleTamil": "நாங்கள் கடந்த வாரம் ஒரு பிரமாண்டமான கல்யாணத்திற்கு சென்றோம்.",
+      "audio": null
+    },
+    {
+      "id": "engagement",
+      "name": "Engagement",
+      "tamilMeaning": "நிச்சயதார்த்தம்",
+      "example": "Their engagement ceremony was held at the temple.",
+      "exampleTamil": "அவர்களின் நிச்சயதார்த்த விழா கோவிலில் நடைபெற்றது.",
+      "audio": null
+    },
+    {
+      "id": "divorce",
+      "name": "Divorce",
+      "tamilMeaning": "விவாகரத்து",
+      "example": "They decided on divorce after years of disagreement.",
+      "exampleTamil": "பல ஆண்டு கருத்து வேறுபாட்டிற்குப் பிறகு அவர்கள் விவாகரத்து செய்ய முடிவு செய்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "extended_family",
+      "name": "Extended family",
+      "tamilMeaning": "விரிவான குடும்பம்",
+      "example": "Our extended family gathers every festival season.",
+      "exampleTamil": "எங்கள் விரிவான குடும்பம் ஒவ்வொரு பண்டிகை காலத்திலும் ஒன்று கூடும்.",
+      "audio": null
+    },
+    {
+      "id": "nuclear_family",
+      "name": "Nuclear family",
+      "tamilMeaning": "தனிக்குடும்பம்",
+      "example": "They live as a nuclear family in the city.",
+      "exampleTamil": "அவர்கள் நகரத்தில் தனிக்குடும்பமாக வாழ்கின்றனர்.",
+      "audio": null
+    }
+  ]
+}

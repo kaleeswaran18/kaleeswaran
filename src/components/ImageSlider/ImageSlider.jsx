@@ -121,15 +121,26 @@ export default function ImageSlider({ items, categoryName }) {
         }}
       >
         <div
-          className={`image-slider__image-wrap${direction !== 0 ? ` image-slider__image-wrap--enter-${direction > 0 ? 'left' : 'right'}` : ''}`}
+          className={`image-slider__text-wrap${direction !== 0 ? ` image-slider__text-wrap--enter-${direction > 0 ? 'left' : 'right'}` : ''}`}
           key={currentItem.id}
         >
-          <img
-            src={currentItem.image}
-            alt={currentItem.name}
-            className="image-slider__image"
-            draggable={false}
-          />
+          {currentItem.image ? (
+            <img
+              src={currentItem.image}
+              alt={currentItem.name}
+              className="image-slider__image"
+              draggable={false}
+            />
+          ) : (
+            <>
+              {currentItem.tamilMeaning && (
+                <p className="image-slider__tamil">{currentItem.tamilMeaning}</p>
+              )}
+              {currentItem.example && (
+                <p className="image-slider__example">{currentItem.example}</p>
+              )}
+            </>
+          )}
         </div>
 
         <h2 className="image-slider__word" id="current-word">

@@ -1,0 +1,806 @@
+{
+  "id": "finance_investments",
+  "name": "Finance & Investments",
+  "items": [
+    {
+      "id": "finance",
+      "name": "Finance",
+      "tamilMeaning": "நிதி",
+      "example": "He works in finance.",
+      "exampleTamil": "அவன் நிதித் துறையில் பணிபுரிகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "investment",
+      "name": "Investment",
+      "tamilMeaning": "முதலீடு",
+      "example": "She made a good investment.",
+      "exampleTamil": "அவள் ஒரு நல்ல முதலீடு செய்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "investor",
+      "name": "Investor",
+      "tamilMeaning": "முதலீட்டாளர்",
+      "example": "The investor bought shares.",
+      "exampleTamil": "முதலீட்டாளர் பங்குகளை வாங்கினார்.",
+      "audio": null
+    },
+    {
+      "id": "capital",
+      "name": "Capital",
+      "tamilMeaning": "மூலதனம்",
+      "example": "The company needs more capital.",
+      "exampleTamil": "நிறுவனத்திற்கு மேலும் மூலதனம் தேவை.",
+      "audio": null
+    },
+    {
+      "id": "asset",
+      "name": "Asset",
+      "tamilMeaning": "சொத்து",
+      "example": "A house is a valuable asset.",
+      "exampleTamil": "வீடு ஒரு மதிப்புமிக்க சொத்து.",
+      "audio": null
+    },
+    {
+      "id": "liability",
+      "name": "Liability",
+      "tamilMeaning": "கடன் பொறுப்பு",
+      "example": "The loan is a liability.",
+      "exampleTamil": "கடன் ஒரு பொறுப்பு ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "equity",
+      "name": "Equity",
+      "tamilMeaning": "பங்குரிமை",
+      "example": "He owns equity in the company.",
+      "exampleTamil": "அவன் நிறுவனத்தில் பங்குரிமை வைத்துள்ளான்.",
+      "audio": null
+    },
+    {
+      "id": "portfolio",
+      "name": "Portfolio",
+      "tamilMeaning": "முதலீட்டு தொகுப்பு",
+      "example": "Her portfolio includes stocks and bonds.",
+      "exampleTamil": "அவளது முதலீட்டு தொகுப்பில் பங்குகளும் பத்திரங்களும் உள்ளன.",
+      "audio": null
+    },
+    {
+      "id": "wealth",
+      "name": "Wealth",
+      "tamilMeaning": "செல்வம்",
+      "example": "He built his wealth over time.",
+      "exampleTamil": "அவன் காலப்போக்கில் செல்வத்தை உருவாக்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "income",
+      "name": "Income",
+      "tamilMeaning": "வருமானம்",
+      "example": "His monthly income is high.",
+      "exampleTamil": "அவனது மாத வருமானம் அதிகம்.",
+      "audio": null
+    },
+    {
+      "id": "expense",
+      "name": "Expense",
+      "tamilMeaning": "செலவு",
+      "example": "Track your monthly expenses.",
+      "exampleTamil": "உங்கள் மாத செலவுகளை கண்காணிக்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "budget",
+      "name": "Budget",
+      "tamilMeaning": "வரவு செலவுத் திட்டம்",
+      "example": "Make a budget before spending.",
+      "exampleTamil": "செலவு செய்யும் முன் ஒரு வரவு செலவுத் திட்டம் தயாரிக்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "saving",
+      "name": "Saving",
+      "tamilMeaning": "சேமிப்பு",
+      "example": "Saving money is important.",
+      "exampleTamil": "பணம் சேமிப்பது முக்கியம்.",
+      "audio": null
+    },
+    {
+      "id": "profit",
+      "name": "Profit",
+      "tamilMeaning": "லாபம்",
+      "example": "The business made a profit.",
+      "exampleTamil": "வணிகம் லாபம் ஈட்டியது.",
+      "audio": null
+    },
+    {
+      "id": "loss",
+      "name": "Loss",
+      "tamilMeaning": "நஷ்டம்",
+      "example": "They suffered a loss this year.",
+      "exampleTamil": "இந்த ஆண்டு அவர்கள் நஷ்டம் அடைந்தனர்.",
+      "audio": null
+    },
+    {
+      "id": "revenue",
+      "name": "Revenue",
+      "tamilMeaning": "வருவாய்",
+      "example": "Company revenue increased.",
+      "exampleTamil": "நிறுவனத்தின் வருவாய் அதிகரித்தது.",
+      "audio": null
+    },
+    {
+      "id": "dividend",
+      "name": "Dividend",
+      "tamilMeaning": "ஈவுத்தொகை",
+      "example": "Shareholders received a dividend.",
+      "exampleTamil": "பங்குதாரர்கள் ஈவுத்தொகை பெற்றனர்.",
+      "audio": null
+    },
+    {
+      "id": "interest",
+      "name": "Interest",
+      "tamilMeaning": "வட்டி",
+      "example": "The bank pays interest on savings.",
+      "exampleTamil": "வங்கி சேமிப்பிற்கு வட்டி வழங்குகிறது.",
+      "audio": null
+    },
+    {
+      "id": "return",
+      "name": "Return",
+      "tamilMeaning": "வருமான விகிதம்",
+      "example": "The investment gave good returns.",
+      "exampleTamil": "முதலீடு நல்ல வருமான விகிதத்தை தந்தது.",
+      "audio": null
+    },
+    {
+      "id": "yield",
+      "name": "Yield",
+      "tamilMeaning": "மகசூல் விகிதம்",
+      "example": "Bond yield increased this month.",
+      "exampleTamil": "இந்த மாதம் பத்திர மகசூல் விகிதம் அதிகரித்தது.",
+      "audio": null
+    },
+    {
+      "id": "inflation",
+      "name": "Inflation",
+      "tamilMeaning": "பணவீக்கம்",
+      "example": "Inflation raised prices.",
+      "exampleTamil": "பணவீக்கம் விலைகளை உயர்த்தியது.",
+      "audio": null
+    },
+    {
+      "id": "deflation",
+      "name": "Deflation",
+      "tamilMeaning": "பணவாட்டம்",
+      "example": "Deflation lowered prices.",
+      "exampleTamil": "பணவாட்டம் விலைகளை குறைத்தது.",
+      "audio": null
+    },
+    {
+      "id": "recession",
+      "name": "Recession",
+      "tamilMeaning": "பொருளாதார மந்தநிலை",
+      "example": "The country faced a recession.",
+      "exampleTamil": "நாடு பொருளாதார மந்தநிலையை எதிர்கொண்டது.",
+      "audio": null
+    },
+    {
+      "id": "economy",
+      "name": "Economy",
+      "tamilMeaning": "பொருளாதாரம்",
+      "example": "The economy is growing.",
+      "exampleTamil": "பொருளாதாரம் வளர்ச்சி அடைகிறது.",
+      "audio": null
+    },
+    {
+      "id": "market",
+      "name": "Market",
+      "tamilMeaning": "சந்தை",
+      "example": "The stock market rose today.",
+      "exampleTamil": "இன்று பங்குச் சந்தை உயர்ந்தது.",
+      "audio": null
+    },
+    {
+      "id": "stock",
+      "name": "Stock",
+      "tamilMeaning": "பங்கு",
+      "example": "He bought stock in a bank.",
+      "exampleTamil": "அவன் ஒரு வங்கியில் பங்கு வாங்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "share",
+      "name": "Share",
+      "tamilMeaning": "பங்கு",
+      "example": "She owns shares in the company.",
+      "exampleTamil": "அவள் நிறுவனத்தில் பங்குகளை வைத்துள்ளாள்.",
+      "audio": null
+    },
+    {
+      "id": "shareholder",
+      "name": "Shareholder",
+      "tamilMeaning": "பங்குதாரர்",
+      "example": "Shareholders attended the meeting.",
+      "exampleTamil": "பங்குதாரர்கள் கூட்டத்தில் கலந்து கொண்டனர்.",
+      "audio": null
+    },
+    {
+      "id": "bond",
+      "name": "Bond",
+      "tamilMeaning": "பத்திரம்",
+      "example": "Government bonds are safe.",
+      "exampleTamil": "அரசாங்க பத்திரங்கள் பாதுகாப்பானவை.",
+      "audio": null
+    },
+    {
+      "id": "mutual_fund",
+      "name": "Mutual Fund",
+      "tamilMeaning": "பரஸ்பர நிதி",
+      "example": "He invests in mutual funds.",
+      "exampleTamil": "அவன் பரஸ்பர நிதிகளில் முதலீடு செய்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "index_fund",
+      "name": "Index Fund",
+      "tamilMeaning": "குறியீட்டு நிதி",
+      "example": "Index funds track the market.",
+      "exampleTamil": "குறியீட்டு நிதிகள் சந்தையை பின்பற்றும்.",
+      "audio": null
+    },
+    {
+      "id": "etf",
+      "name": "ETF",
+      "tamilMeaning": "பரிமாற்ற வர்த்தக நிதி (ETF)",
+      "example": "ETFs trade like stocks.",
+      "exampleTamil": "ETF-கள் பங்குகள் போல வர்த்தகம் செய்யப்படும்.",
+      "audio": null
+    },
+    {
+      "id": "sip",
+      "name": "SIP",
+      "tamilMeaning": "முறையான முதலீட்டுத் திட்டம் (SIP)",
+      "example": "He starts a SIP every month.",
+      "exampleTamil": "அவன் ஒவ்வொரு மாதமும் SIP தொடங்குகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "lumpsum",
+      "name": "Lumpsum",
+      "tamilMeaning": "ஒரே தொகை முதலீடு",
+      "example": "She invested a lumpsum amount.",
+      "exampleTamil": "அவள் ஒரே தொகையாக முதலீடு செய்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "broker",
+      "name": "Broker",
+      "tamilMeaning": "தரகர்",
+      "example": "The broker helped him buy shares.",
+      "exampleTamil": "தரகர் அவனுக்கு பங்குகள் வாங்க உதவினார்.",
+      "audio": null
+    },
+    {
+      "id": "brokerage",
+      "name": "Brokerage",
+      "tamilMeaning": "தரகு நிறுவனம்",
+      "example": "He opened an account with a brokerage.",
+      "exampleTamil": "அவன் ஒரு தரகு நிறுவனத்தில் கணக்கு திறந்தான்.",
+      "audio": null
+    },
+    {
+      "id": "trading",
+      "name": "Trading",
+      "tamilMeaning": "வர்த்தகம்",
+      "example": "He does daily trading.",
+      "exampleTamil": "அவன் தினசரி வர்த்தகம் செய்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "exchange",
+      "name": "Exchange",
+      "tamilMeaning": "பரிவர்த்தனை மையம்",
+      "example": "Shares are traded on the exchange.",
+      "exampleTamil": "பங்குகள் பரிவர்த்தனை மையத்தில் வர்த்தகம் செய்யப்படும்.",
+      "audio": null
+    },
+    {
+      "id": "bull_market",
+      "name": "Bull Market",
+      "tamilMeaning": "காளைச் சந்தை",
+      "example": "Investors are happy in a bull market.",
+      "exampleTamil": "காளைச் சந்தையில் முதலீட்டாளர்கள் மகிழ்ச்சியாக உள்ளனர்.",
+      "audio": null
+    },
+    {
+      "id": "bear_market",
+      "name": "Bear Market",
+      "tamilMeaning": "கரடிச் சந்தை",
+      "example": "Prices fall in a bear market.",
+      "exampleTamil": "கரடிச் சந்தையில் விலைகள் குறையும்.",
+      "audio": null
+    },
+    {
+      "id": "volatility",
+      "name": "Volatility",
+      "tamilMeaning": "நிலையின்மை",
+      "example": "The market showed high volatility.",
+      "exampleTamil": "சந்தை அதிக நிலையின்மையை காட்டியது.",
+      "audio": null
+    },
+    {
+      "id": "risk",
+      "name": "Risk",
+      "tamilMeaning": "ஆபத்து",
+      "example": "High returns come with high risk.",
+      "exampleTamil": "அதிக வருமானத்திற்கு அதிக ஆபத்து உண்டு.",
+      "audio": null
+    },
+    {
+      "id": "reward",
+      "name": "Reward",
+      "tamilMeaning": "வெகுமதி",
+      "example": "Investing has risk and reward.",
+      "exampleTamil": "முதலீட்டில் ஆபத்தும் வெகுமதியும் உண்டு.",
+      "audio": null
+    },
+    {
+      "id": "diversification",
+      "name": "Diversification",
+      "tamilMeaning": "பன்முகப்படுத்தல்",
+      "example": "Diversification reduces risk.",
+      "exampleTamil": "பன்முகப்படுத்தல் ஆபத்தை குறைக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "allocation",
+      "name": "Asset Allocation",
+      "tamilMeaning": "சொத்து பங்கீடு",
+      "example": "Proper asset allocation is important.",
+      "exampleTamil": "சரியான சொத்து பங்கீடு முக்கியம்.",
+      "audio": null
+    },
+    {
+      "id": "valuation",
+      "name": "Valuation",
+      "tamilMeaning": "மதிப்பீடு",
+      "example": "The company's valuation increased.",
+      "exampleTamil": "நிறுவனத்தின் மதிப்பீடு அதிகரித்தது.",
+      "audio": null
+    },
+    {
+      "id": "liquidity",
+      "name": "Liquidity",
+      "tamilMeaning": "பணப்புழக்கம்",
+      "example": "Cash has high liquidity.",
+      "exampleTamil": "பணத்திற்கு அதிக பணப்புழக்கம் உண்டு.",
+      "audio": null
+    },
+    {
+      "id": "cash_flow",
+      "name": "Cash Flow",
+      "tamilMeaning": "பணப்பாய்ச்சல்",
+      "example": "The business has positive cash flow.",
+      "exampleTamil": "வணிகத்திற்கு நேர்மறை பணப்பாய்ச்சல் உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "net_worth",
+      "name": "Net Worth",
+      "tamilMeaning": "நிகர மதிப்பு",
+      "example": "His net worth grew this year.",
+      "exampleTamil": "இந்த ஆண்டு அவனது நிகர மதிப்பு அதிகரித்தது.",
+      "audio": null
+    },
+    {
+      "id": "financial_goal",
+      "name": "Financial Goal",
+      "tamilMeaning": "நிதி இலக்கு",
+      "example": "Set a clear financial goal.",
+      "exampleTamil": "தெளிவான நிதி இலக்கை நிர்ணயிக்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "retirement",
+      "name": "Retirement",
+      "tamilMeaning": "ஓய்வு காலம்",
+      "example": "He is planning for retirement.",
+      "exampleTamil": "அவன் ஓய்வு காலத்திற்கு திட்டமிடுகிறான்.",
+      "audio": null
+    },
+    {
+      "id": "pension",
+      "name": "Pension",
+      "tamilMeaning": "ஓய்வூதியம்",
+      "example": "She receives a monthly pension.",
+      "exampleTamil": "அவள் மாதாந்திர ஓய்வூதியம் பெறுகிறாள்.",
+      "audio": null
+    },
+    {
+      "id": "annuity",
+      "name": "Annuity",
+      "tamilMeaning": "ஆண்டுத் தொகை திட்டம்",
+      "example": "He bought an annuity plan.",
+      "exampleTamil": "அவன் ஒரு ஆண்டுத் தொகை திட்டத்தை வாங்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "insurance_policy",
+      "name": "Insurance Policy",
+      "tamilMeaning": "காப்பீட்டு பாலிசி",
+      "example": "He renewed his insurance policy.",
+      "exampleTamil": "அவன் தனது காப்பீட்டு பாலிசியை புதுப்பித்தான்.",
+      "audio": null
+    },
+    {
+      "id": "emergency_fund",
+      "name": "Emergency Fund",
+      "tamilMeaning": "அவசர நிதி",
+      "example": "Keep an emergency fund ready.",
+      "exampleTamil": "அவசர நிதியை தயாராக வைக்கவும்.",
+      "audio": null
+    },
+    {
+      "id": "tax",
+      "name": "Tax",
+      "tamilMeaning": "வரி",
+      "example": "He paid his tax on time.",
+      "exampleTamil": "அவன் தனது வரியை சரியான நேரத்தில் செலுத்தினான்.",
+      "audio": null
+    },
+    {
+      "id": "tax_return",
+      "name": "Tax Return",
+      "tamilMeaning": "வரி அறிக்கை",
+      "example": "File your tax return every year.",
+      "exampleTamil": "ஒவ்வொரு ஆண்டும் வரி அறிக்கையை தாக்கல் செய்யவும்.",
+      "audio": null
+    },
+    {
+      "id": "tax_saving",
+      "name": "Tax Saving",
+      "tamilMeaning": "வரி சேமிப்பு",
+      "example": "Invest in tax saving schemes.",
+      "exampleTamil": "வரி சேமிப்பு திட்டங்களில் முதலீடு செய்யவும்.",
+      "audio": null
+    },
+    {
+      "id": "gst",
+      "name": "GST",
+      "tamilMeaning": "சரக்கு மற்றும் சேவை வரி (GST)",
+      "example": "GST applies to most goods.",
+      "exampleTamil": "பெரும்பாலான பொருட்களுக்கு GST பொருந்தும்.",
+      "audio": null
+    },
+    {
+      "id": "tds",
+      "name": "TDS",
+      "tamilMeaning": "மூலத்தில் வரி கழிப்பு (TDS)",
+      "example": "TDS is deducted from salary.",
+      "exampleTamil": "சம்பளத்தில் இருந்து TDS கழிக்கப்படும்.",
+      "audio": null
+    },
+    {
+      "id": "financial_year",
+      "name": "Financial Year",
+      "tamilMeaning": "நிதியாண்டு",
+      "example": "The financial year ends in March.",
+      "exampleTamil": "நிதியாண்டு மார்ச் மாதத்தில் முடிவடையும்.",
+      "audio": null
+    },
+    {
+      "id": "balance_sheet",
+      "name": "Balance Sheet",
+      "tamilMeaning": "இருப்புநிலைக் குறிப்பு",
+      "example": "The balance sheet shows assets and liabilities.",
+      "exampleTamil": "இருப்புநிலைக் குறிப்பு சொத்துகள் மற்றும் கடன்களை காட்டும்.",
+      "audio": null
+    },
+    {
+      "id": "income_statement",
+      "name": "Income Statement",
+      "tamilMeaning": "வருமான அறிக்கை",
+      "example": "The income statement shows profit.",
+      "exampleTamil": "வருமான அறிக்கை லாபத்தை காட்டும்.",
+      "audio": null
+    },
+    {
+      "id": "audit",
+      "name": "Audit",
+      "tamilMeaning": "தணிக்கை",
+      "example": "The company undergoes an annual audit.",
+      "exampleTamil": "நிறுவனம் ஆண்டுதோறும் தணிக்கைக்கு உட்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "accounting",
+      "name": "Accounting",
+      "tamilMeaning": "கணக்கியல்",
+      "example": "He studied accounting in college.",
+      "exampleTamil": "அவன் கல்லூரியில் கணக்கியல் படித்தான்.",
+      "audio": null
+    },
+    {
+      "id": "bookkeeping",
+      "name": "Bookkeeping",
+      "tamilMeaning": "கணக்கு பதிவு",
+      "example": "Bookkeeping keeps records accurate.",
+      "exampleTamil": "கணக்கு பதிவு பதிவுகளை துல்லியமாக வைக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "depreciation",
+      "name": "Depreciation",
+      "tamilMeaning": "தேய்மானம்",
+      "example": "The car's value fell due to depreciation.",
+      "exampleTamil": "தேய்மானம் காரணமாக காரின் மதிப்பு குறைந்தது.",
+      "audio": null
+    },
+    {
+      "id": "amortization",
+      "name": "Amortization",
+      "tamilMeaning": "கடன் தவணை செலுத்துதல்",
+      "example": "Loan amortization spreads payments.",
+      "exampleTamil": "கடன் தவணை செலுத்துதல் பணத்தை பிரித்து செலுத்தும்.",
+      "audio": null
+    },
+    {
+      "id": "forecast",
+      "name": "Forecast",
+      "tamilMeaning": "முன்னறிவிப்பு",
+      "example": "The forecast predicts growth.",
+      "exampleTamil": "முன்னறிவிப்பு வளர்ச்சியை கணிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "forecasting",
+      "name": "Financial Forecasting",
+      "tamilMeaning": "நிதி முன்னறிவிப்பு",
+      "example": "Financial forecasting helps planning.",
+      "exampleTamil": "நிதி முன்னறிவிப்பு திட்டமிடலுக்கு உதவும்.",
+      "audio": null
+    },
+    {
+      "id": "valuation_model",
+      "name": "Valuation Model",
+      "tamilMeaning": "மதிப்பீட்டு மாதிரி",
+      "example": "Analysts use a valuation model.",
+      "exampleTamil": "ஆய்வாளர்கள் மதிப்பீட்டு மாதிரியை பயன்படுத்துகின்றனர்.",
+      "audio": null
+    },
+    {
+      "id": "compound_interest",
+      "name": "Compound Interest",
+      "tamilMeaning": "கூட்டு வட்டி",
+      "example": "Compound interest grows money faster.",
+      "exampleTamil": "கூட்டு வட்டி பணத்தை வேகமாக வளர்க்கும்.",
+      "audio": null
+    },
+    {
+      "id": "simple_interest",
+      "name": "Simple Interest",
+      "tamilMeaning": "தனி வட்டி",
+      "example": "Simple interest is easy to calculate.",
+      "exampleTamil": "தனி வட்டியை கணக்கிடுவது எளிது.",
+      "audio": null
+    },
+    {
+      "id": "credit",
+      "name": "Credit",
+      "tamilMeaning": "கடன் வசதி",
+      "example": "He has good credit.",
+      "exampleTamil": "அவனுக்கு நல்ல கடன் தகுதி உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "debt",
+      "name": "Debt",
+      "tamilMeaning": "கடன்",
+      "example": "She paid off her debt.",
+      "exampleTamil": "அவள் தனது கடனை அடைத்தாள்.",
+      "audio": null
+    },
+    {
+      "id": "creditor",
+      "name": "Creditor",
+      "tamilMeaning": "கடன் வழங்குனர்",
+      "example": "The creditor demanded payment.",
+      "exampleTamil": "கடன் வழங்குனர் பணம் கேட்டார்.",
+      "audio": null
+    },
+    {
+      "id": "debtor",
+      "name": "Debtor",
+      "tamilMeaning": "கடன்காரர்",
+      "example": "The debtor repaid the loan.",
+      "exampleTamil": "கடன்காரர் கடனை திருப்பி செலுத்தினார்.",
+      "audio": null
+    },
+    {
+      "id": "bankruptcy",
+      "name": "Bankruptcy",
+      "tamilMeaning": "திவாலா நிலை",
+      "example": "The company filed for bankruptcy.",
+      "exampleTamil": "நிறுவனம் திவாலா நிலைக்கு விண்ணப்பித்தது.",
+      "audio": null
+    },
+    {
+      "id": "solvency",
+      "name": "Solvency",
+      "tamilMeaning": "கடன் தீர்க்கும் திறன்",
+      "example": "Solvency shows financial health.",
+      "exampleTamil": "கடன் தீர்க்கும் திறன் நிதி நிலையை காட்டும்.",
+      "audio": null
+    },
+    {
+      "id": "credit_rating",
+      "name": "Credit Rating",
+      "tamilMeaning": "கடன் தரவரிசை",
+      "example": "His credit rating is excellent.",
+      "exampleTamil": "அவனது கடன் தரவரிசை சிறப்பாக உள்ளது.",
+      "audio": null
+    },
+    {
+      "id": "financial_planning",
+      "name": "Financial Planning",
+      "tamilMeaning": "நிதி திட்டமிடல்",
+      "example": "Financial planning secures the future.",
+      "exampleTamil": "நிதி திட்டமிடல் எதிர்காலத்தை பாதுகாக்கும்.",
+      "audio": null
+    },
+    {
+      "id": "financial_freedom",
+      "name": "Financial Freedom",
+      "tamilMeaning": "நிதி சுதந்திரம்",
+      "example": "He achieved financial freedom early.",
+      "exampleTamil": "அவன் சீக்கிரமே நிதி சுதந்திரத்தை அடைந்தான்.",
+      "audio": null
+    },
+    {
+      "id": "passive_income",
+      "name": "Passive Income",
+      "tamilMeaning": "செயலற்ற வருமானம்",
+      "example": "Rent is a passive income source.",
+      "exampleTamil": "வாடகை ஒரு செயலற்ற வருமான ஆதாரம்.",
+      "audio": null
+    },
+    {
+      "id": "active_income",
+      "name": "Active Income",
+      "tamilMeaning": "செயல்பாட்டு வருமானம்",
+      "example": "Salary is active income.",
+      "exampleTamil": "சம்பளம் செயல்பாட்டு வருமானம் ஆகும்.",
+      "audio": null
+    },
+    {
+      "id": "real_estate",
+      "name": "Real Estate",
+      "tamilMeaning": "ரியல் எஸ்டேட் (நிலம் சொத்து)",
+      "example": "He invests in real estate.",
+      "exampleTamil": "அவன் ரியல் எஸ்டேட்டில் முதலீடு செய்கிறான்.",
+      "audio": null
+    },
+    {
+      "id": "gold",
+      "name": "Gold",
+      "tamilMeaning": "தங்கம்",
+      "example": "Gold prices rose this week.",
+      "exampleTamil": "இந்த வாரம் தங்க விலை உயர்ந்தது.",
+      "audio": null
+    },
+    {
+      "id": "silver",
+      "name": "Silver",
+      "tamilMeaning": "வெள்ளி",
+      "example": "She bought silver coins.",
+      "exampleTamil": "அவள் வெள்ளி நாணயங்களை வாங்கினாள்.",
+      "audio": null
+    },
+    {
+      "id": "commodity",
+      "name": "Commodity",
+      "tamilMeaning": "பண்டம்",
+      "example": "Oil is a valuable commodity.",
+      "exampleTamil": "எண்ணெய் ஒரு மதிப்புமிக்க பண்டம்.",
+      "audio": null
+    },
+    {
+      "id": "cryptocurrency",
+      "name": "Cryptocurrency",
+      "tamilMeaning": "கிரிப்டோகரன்சி",
+      "example": "Cryptocurrency is highly volatile.",
+      "exampleTamil": "கிரிப்டோகரன்சி அதிக நிலையின்மை கொண்டது.",
+      "audio": null
+    },
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "tamilMeaning": "பிட்காயின்",
+      "example": "He bought Bitcoin last year.",
+      "exampleTamil": "அவன் கடந்த ஆண்டு பிட்காயின் வாங்கினான்.",
+      "audio": null
+    },
+    {
+      "id": "ethereum",
+      "name": "Ethereum",
+      "tamilMeaning": "எத்தீரியம்",
+      "example": "Ethereum supports smart contracts.",
+      "exampleTamil": "எத்தீரியம் ஸ்மார்ட் ஒப்பந்தங்களை ஆதரிக்கிறது.",
+      "audio": null
+    },
+    {
+      "id": "digital_asset",
+      "name": "Digital Asset",
+      "tamilMeaning": "டிஜிட்டல் சொத்து",
+      "example": "Cryptocurrency is a digital asset.",
+      "exampleTamil": "கிரிப்டோகரன்சி ஒரு டிஜிட்டல் சொத்து.",
+      "audio": null
+    },
+    {
+      "id": "hedge",
+      "name": "Hedge",
+      "tamilMeaning": "பாதுகாப்பு முதலீடு",
+      "example": "Gold is used as a hedge against inflation.",
+      "exampleTamil": "பணவீக்கத்திற்கு எதிராக தங்கம் ஒரு பாதுகாப்பு முதலீடாக பயன்படுகிறது.",
+      "audio": null
+    },
+    {
+      "id": "derivative",
+      "name": "Derivative",
+      "tamilMeaning": "வழித்தோன்றல் கருவி",
+      "example": "Futures are a type of derivative.",
+      "exampleTamil": "ஃப்யூச்சர்ஸ் ஒரு வகை வழித்தோன்றல் கருவி.",
+      "audio": null
+    },
+    {
+      "id": "future_contract",
+      "name": "Future Contract",
+      "tamilMeaning": "எதிர்கால ஒப்பந்தம்",
+      "example": "He traded a future contract.",
+      "exampleTamil": "அவன் ஒரு எதிர்கால ஒப்பந்தத்தை வர்த்தகம் செய்தான்.",
+      "audio": null
+    },
+    {
+      "id": "option_contract",
+      "name": "Option Contract",
+      "tamilMeaning": "விருப்ப ஒப்பந்தம்",
+      "example": "She bought an option contract.",
+      "exampleTamil": "அவள் ஒரு விருப்ப ஒப்பந்தத்தை வாங்கினாள்.",
+      "audio": null
+    },
+    {
+      "id": "fund_manager",
+      "name": "Fund Manager",
+      "tamilMeaning": "நிதி மேலாளர்",
+      "example": "The fund manager handles investments.",
+      "exampleTamil": "நிதி மேலாளர் முதலீடுகளை நிர்வகிக்கிறார்.",
+      "audio": null
+    },
+    {
+      "id": "financial_advisor",
+      "name": "Financial Advisor",
+      "tamilMeaning": "நிதி ஆலோசகர்",
+      "example": "He consulted a financial advisor.",
+      "exampleTamil": "அவன் ஒரு நிதி ஆலோசகரிடம் ஆலோசனை பெற்றான்.",
+      "audio": null
+    },
+    {
+      "id": "economic_growth",
+      "name": "Economic Growth",
+      "tamilMeaning": "பொருளாதார வளர்ச்சி",
+      "example": "Economic growth improves living standards.",
+      "exampleTamil": "பொருளாதார வளர்ச்சி வாழ்க்கைத் தரத்தை மேம்படுத்தும்.",
+      "audio": null
+    },
+    {
+      "id": "bank_account",
+      "name": "Bank Account",
+      "tamilMeaning": "வங்கிக் கணக்கு",
+      "example": "He has a bank account in two banks.",
+      "exampleTamil": "அவனுக்கு இரண்டு வங்கிகளில் வங்கிக் கணக்கு உள்ளது.",
+      "audio": null
+    }
+  ]
+}
