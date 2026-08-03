@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import './CategoryCard.css';
 
 export default function CategoryCard({ to, name, image, onClick }) {
+  console.log("CategoryCard props:", { to, name, image, onClick });
   const content = (
     <>
       <div className="category-card__image-wrap">

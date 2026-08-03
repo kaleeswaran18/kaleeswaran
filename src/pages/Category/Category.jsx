@@ -25,7 +25,7 @@ export default function Category() {
               key={sub.id}
               to={`/learn/${categoryId}/${sub.id}`}
               name={sub.name}
-              image={sub.image}
+              image={sub.emoji}
             />
           ))}
         </FocusGrid>

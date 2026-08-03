@@ -1,0 +1,162 @@
+[
+  {
+    "id": "an_001",
+    "name": "an",
+    "tamilMeaning": "ஒரு (உயிரெழுத்தால் தொடங்கும் சொல்லுக்கு முன் வரும் article)",
+    "example": "She has an umbrella.",
+    "exampleTamil": "அவளிடம் ஒரு குடை உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "an_002",
+    "name": "ban",
+    "tamilMeaning": "தடை செய்",
+    "example": "The school banned mobile phones.",
+    "exampleTamil": "பள்ளி மொபைல் போன்களைத் தடை செய்தது.",
+    "audio": ""
+  },
+  {
+    "id": "an_003",
+    "name": "can",
+    "tamilMeaning": "முடியும்",
+    "example": "I can swim.",
+    "exampleTamil": "என்னால் நீந்த முடியும்.",
+    "audio": ""
+  },
+  {
+    "id": "an_004",
+    "name": "fan",
+    "tamilMeaning": "விசிறி",
+    "example": "Turn on the fan.",
+    "exampleTamil": "விசிறியை இயக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "an_005",
+    "name": "man",
+    "tamilMeaning": "ஆண்",
+    "example": "The man is smiling.",
+    "exampleTamil": "அந்த ஆண் சிரிக்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "an_006",
+    "name": "pan",
+    "tamilMeaning": "வாணலி",
+    "example": "Heat the pan.",
+    "exampleTamil": "வாணலியை சூடாக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "an_007",
+    "name": "ran",
+    "tamilMeaning": "ஓடினான்",
+    "example": "The boy ran fast.",
+    "exampleTamil": "சிறுவன் வேகமாக ஓடினான்.",
+    "audio": ""
+  },
+  {
+    "id": "an_008",
+    "name": "tan",
+    "tamilMeaning": "இளம்பழுப்பு நிறம்",
+    "example": "She wore a tan jacket.",
+    "exampleTamil": "அவள் இளம்பழுப்பு நிற ஜாக்கெட் அணிந்திருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "an_009",
+    "name": "van",
+    "tamilMeaning": "வேன்",
+    "example": "The van is parked outside.",
+    "exampleTamil": "வேன் வெளியே நிறுத்தப்பட்டுள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "an_010",
+    "name": "clan",
+    "tamilMeaning": "குலம்",
+    "example": "The clan gathered together.",
+    "exampleTamil": "குலத்தினர் ஒன்று கூடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "an_011",
+    "name": "plan",
+    "tamilMeaning": "திட்டம்",
+    "example": "We made a good plan.",
+    "exampleTamil": "நாங்கள் ஒரு நல்ல திட்டம் செய்தோம்.",
+    "audio": ""
+  },
+  {
+    "id": "an_012",
+    "name": "than",
+    "tamilMeaning": "விட",
+    "example": "She is taller than me.",
+    "exampleTamil": "அவள் என்னைவிட உயரமானவள்.",
+    "audio": ""
+  },
+  {
+    "id": "an_013",
+    "name": "scan",
+    "tamilMeaning": "ஸ்கேன் செய்",
+    "example": "Please scan the document.",
+    "exampleTamil": "தயவுசெய்து ஆவணத்தை ஸ்கேன் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "an_014",
+    "name": "span",
+    "tamilMeaning": "கால அளவு",
+    "example": "The bridge has a long span.",
+    "exampleTamil": "அந்தப் பாலம் நீண்ட இடைவெளியைக் கொண்டுள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "an_015",
+    "name": "stand",
+    "tamilMeaning": "நில்",
+    "example": "Please stand in a line.",
+    "exampleTamil": "தயவுசெய்து வரிசையில் நில்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "an_016",
+    "name": "grand",
+    "tamilMeaning": "பிரமாண்டமான",
+    "example": "They live in a grand house.",
+    "exampleTamil": "அவர்கள் பிரமாண்டமான வீட்டில் வசிக்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "an_017",
+    "name": "human",
+    "tamilMeaning": "மனிதன்",
+    "example": "Humans need water to live.",
+    "exampleTamil": "மனிதர்களுக்கு வாழ தண்ணீர் தேவை.",
+    "audio": ""
+  },
+  {
+    "id": "an_018",
+    "name": "urban",
+    "tamilMeaning": "நகர்ப்புற",
+    "example": "Urban areas are crowded.",
+    "exampleTamil": "நகர்ப்புற பகுதிகள் நெரிசலாக உள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "an_019",
+    "name": "veteran",
+    "tamilMeaning": "அனுபவமிக்கவர்",
+    "example": "He is a veteran teacher.",
+    "exampleTamil": "அவர் அனுபவமிக்க ஆசிரியர்.",
+    "audio": ""
+  },
+  {
+    "id": "an_020",
+    "name": "artisan",
+    "tamilMeaning": "கைவினைஞர்",
+    "example": "The artisan made beautiful pots.",
+    "exampleTamil": "கைவினைஞர் அழகான மண்பானைகளை செய்தார்.",
+    "audio": ""
+  }
+]

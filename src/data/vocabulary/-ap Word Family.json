@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ap_001",
+    "name": "gap",
+    "tamilMeaning": "இடைவெளி",
+    "example": "There is a gap in the fence.",
+    "exampleTamil": "வேலியில் ஒரு இடைவெளி உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ap_002",
+    "name": "cap",
+    "tamilMeaning": "தொப்பி",
+    "example": "He is wearing a red cap.",
+    "exampleTamil": "அவன் சிவப்பு தொப்பி அணிந்திருக்கிறான்.",
+    "audio": ""
+  },
+  {
+    "id": "ap_003",
+    "name": "lap",
+    "tamilMeaning": "மடி",
+    "example": "The baby sat on her lap.",
+    "exampleTamil": "குழந்தை அவளுடைய மடியில் அமர்ந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ap_004",
+    "name": "map",
+    "tamilMeaning": "வரைபடம்",
+    "example": "Look at the map.",
+    "exampleTamil": "வரைபடத்தைப் பார்.",
+    "audio": ""
+  },
+  {
+    "id": "ap_005",
+    "name": "nap",
+    "tamilMeaning": "சிறிய தூக்கம்",
+    "example": "The baby took a nap.",
+    "exampleTamil": "குழந்தை சிறிது நேரம் தூங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ap_006",
+    "name": "sap",
+    "tamilMeaning": "மரச்சாறு",
+    "example": "Sap flows from the tree.",
+    "exampleTamil": "மரத்திலிருந்து சாறு வெளியேறுகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ap_007",
+    "name": "tap",
+    "tamilMeaning": "குழாய்",
+    "example": "Turn off the tap.",
+    "exampleTamil": "குழாயை மூடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ap_008",
+    "name": "tap",
+    "tamilMeaning": "மெதுவாக தட்டு",
+    "example": "Tap the screen once.",
+    "exampleTamil": "திரையை ஒரு முறை மெதுவாகத் தட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ap_009",
+    "name": "rap",
+    "tamilMeaning": "வேகமாக தட்டு",
+    "example": "He gave a rap on the door.",
+    "exampleTamil": "அவன் கதவை வேகமாகத் தட்டினான்.",
+    "audio": ""
+  },
+  {
+    "id": "ap_010",
+    "name": "zap",
+    "tamilMeaning": "மின்சாரத்தால் தாக்கு",
+    "example": "The bug was zapped.",
+    "exampleTamil": "பூச்சி மின்சாரத்தால் தாக்கப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ap_011",
+    "name": "clap",
+    "tamilMeaning": "கைத்தட்டு",
+    "example": "Everyone began to clap.",
+    "exampleTamil": "அனைவரும் கைத்தட்டத் தொடங்கினர்.",
+    "audio": ""
+  },
+  {
+    "id": "ap_012",
+    "name": "flap",
+    "tamilMeaning": "படபடவென்று அசை",
+    "example": "The bird flapped its wings.",
+    "exampleTamil": "பறவை தனது சிறகுகளை அசைத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ap_013",
+    "name": "slap",
+    "tamilMeaning": "அறை",
+    "example": "Do not slap others.",
+    "exampleTamil": "மற்றவர்களை அறையாதே.",
+    "audio": ""
+  },
+  {
+    "id": "ap_014",
+    "name": "snap",
+    "tamilMeaning": "ஒடித்து விடு",
+    "example": "The stick snapped.",
+    "exampleTamil": "குச்சி உடைந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ap_015",
+    "name": "trap",
+    "tamilMeaning": "பொறி",
+    "example": "The mouse was caught in a trap.",
+    "exampleTamil": "எலி ஒரு பொறியில் சிக்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ap_016",
+    "name": "wrap",
+    "tamilMeaning": "சுற்றி மூடு",
+    "example": "Wrap the gift carefully.",
+    "exampleTamil": "பரிசைப் கவனமாக சுற்றி மூடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ap_017",
+    "name": "scrap",
+    "tamilMeaning": "சிறு துண்டு",
+    "example": "Do not waste even a scrap of paper.",
+    "exampleTamil": "ஒரு சிறு காகிதத் துண்டையும் வீணாக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ap_018",
+    "name": "strap",
+    "tamilMeaning": "பட்டை",
+    "example": "Tighten the bag strap.",
+    "exampleTamil": "பையின் பட்டையை இறுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ap_019",
+    "name": "cheap",
+    "tamilMeaning": "மலிவான",
+    "example": "This shirt is cheap.",
+    "exampleTamil": "இந்த சட்டை மலிவானது.",
+    "audio": ""
+  },
+  {
+    "id": "ap_020",
+    "name": "leap",
+    "tamilMeaning": "துள்ளி குதி",
+    "example": "The deer made a big leap.",
+    "exampleTamil": "மான் பெரிய துள்ளல் போட்டது.",
+    "audio": ""
+  }
+]

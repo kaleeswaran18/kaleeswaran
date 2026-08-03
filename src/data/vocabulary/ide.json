@@ -1,0 +1,242 @@
+[
+  {
+    "id": "ide_001",
+    "name": "ride",
+    "tamilMeaning": "சவாரி செய்",
+    "example": "I ride my bike every day.",
+    "exampleTamil": "நான் தினமும் என் மிதிவண்டியில் சவாரி செய்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_002",
+    "name": "side",
+    "tamilMeaning": "பக்கம்",
+    "example": "Stand on my side.",
+    "exampleTamil": "என் பக்கத்தில் நில்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_003",
+    "name": "hide",
+    "tamilMeaning": "ஒளி",
+    "example": "The boy hid behind the door.",
+    "exampleTamil": "சிறுவன் கதவுக்குப் பின்னால் ஒளிந்தான்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_004",
+    "name": "wide",
+    "tamilMeaning": "அகலமான",
+    "example": "The river is wide.",
+    "exampleTamil": "ஆறு அகலமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ide_005",
+    "name": "guide",
+    "tamilMeaning": "வழிகாட்டு",
+    "example": "She will guide you.",
+    "exampleTamil": "அவள் உங்களுக்கு வழிகாட்டுவாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_006",
+    "name": "glide",
+    "tamilMeaning": "சீராக வழுக்கு",
+    "example": "The bird glided across the sky.",
+    "exampleTamil": "பறவை வானில் சீராக பறந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ide_007",
+    "name": "slide",
+    "tamilMeaning": "வழுக்கு / சறுக்கு",
+    "example": "The children played on the slide.",
+    "exampleTamil": "குழந்தைகள் சறுக்குப் பாதையில் விளையாடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_008",
+    "name": "pride",
+    "tamilMeaning": "பெருமை",
+    "example": "He takes pride in his work.",
+    "exampleTamil": "அவர் தனது வேலையில் பெருமை கொள்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_009",
+    "name": "bride",
+    "tamilMeaning": "மணமகள்",
+    "example": "The bride looked happy.",
+    "exampleTamil": "மணமகள் மகிழ்ச்சியாக இருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_010",
+    "name": "inside",
+    "tamilMeaning": "உள்ளே",
+    "example": "Please come inside.",
+    "exampleTamil": "தயவுசெய்து உள்ளே வாருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_011",
+    "name": "outside",
+    "tamilMeaning": "வெளியே",
+    "example": "The kids are playing outside.",
+    "exampleTamil": "குழந்தைகள் வெளியே விளையாடுகிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_012",
+    "name": "beside",
+    "tamilMeaning": "அருகில்",
+    "example": "Sit beside me.",
+    "exampleTamil": "என் அருகில் உட்கார்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_013",
+    "name": "alongside",
+    "tamilMeaning": "அருகில் இணைந்து",
+    "example": "She walked alongside her friend.",
+    "exampleTamil": "அவள் தனது நண்பருடன் அருகருகே நடந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_014",
+    "name": "worldwide",
+    "tamilMeaning": "உலகம் முழுவதும்",
+    "example": "The app is used worldwide.",
+    "exampleTamil": "இந்த செயலி உலகம் முழுவதும் பயன்படுத்தப்படுகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ide_015",
+    "name": "nationwide",
+    "tamilMeaning": "நாடு முழுவதும்",
+    "example": "The service is available nationwide.",
+    "exampleTamil": "இந்த சேவை நாடு முழுவதும் கிடைக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ide_016",
+    "name": "countryside",
+    "tamilMeaning": "கிராமப்புறம்",
+    "example": "They live in the countryside.",
+    "exampleTamil": "அவர்கள் கிராமப்புறத்தில் வாழ்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_017",
+    "name": "seaside",
+    "tamilMeaning": "கடற்கரை பகுதி",
+    "example": "We spent a day at the seaside.",
+    "exampleTamil": "நாங்கள் ஒரு நாள் கடற்கரையில் கழித்தோம்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_018",
+    "name": "roadside",
+    "tamilMeaning": "சாலையோரம்",
+    "example": "There is a shop by the roadside.",
+    "exampleTamil": "சாலையோரத்தில் ஒரு கடை உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ide_019",
+    "name": "hillside",
+    "tamilMeaning": "மலையோரம்",
+    "example": "The house is on the hillside.",
+    "exampleTamil": "அந்த வீடு மலையோரத்தில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ide_020",
+    "name": "mountainside",
+    "tamilMeaning": "மலைச்சரிவு",
+    "example": "Trees covered the mountainside.",
+    "exampleTamil": "மலைச்சரிவு முழுவதும் மரங்கள் இருந்தன.",
+    "audio": ""
+  },
+  {
+    "id": "ide_021",
+    "name": "bedside",
+    "tamilMeaning": "படுக்கையின் அருகில்",
+    "example": "Keep the lamp on the bedside table.",
+    "exampleTamil": "விளக்கை படுக்கை அருகிலுள்ள மேசையில் வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_022",
+    "name": "fireside",
+    "tamilMeaning": "நெருப்பறை அருகில்",
+    "example": "The family sat by the fireside.",
+    "exampleTamil": "குடும்பம் நெருப்பறை அருகில் அமர்ந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ide_023",
+    "name": "backside",
+    "tamilMeaning": "பின்புறம்",
+    "example": "Write your name on the backside.",
+    "exampleTamil": "பின்புறத்தில் உங்கள் பெயரை எழுதுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_024",
+    "name": "wayside",
+    "tamilMeaning": "பாதையோரம்",
+    "example": "Flowers grew by the wayside.",
+    "exampleTamil": "பாதையோரத்தில் பூக்கள் வளர்ந்தன.",
+    "audio": ""
+  },
+  {
+    "id": "ide_025",
+    "name": "landslide",
+    "tamilMeaning": "நிலச்சரிவு",
+    "example": "The landslide blocked the road.",
+    "exampleTamil": "நிலச்சரிவு சாலையை மறைத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ide_026",
+    "name": "ringside",
+    "tamilMeaning": "வளையத்துக்கு அருகிலுள்ள இடம்",
+    "example": "He got a ringside seat.",
+    "exampleTamil": "அவருக்கு வளையத்துக்கு அருகிலுள்ள இருக்கை கிடைத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ide_027",
+    "name": "poolside",
+    "tamilMeaning": "நீச்சல் குளத்தின் ஓரம்",
+    "example": "They relaxed by the poolside.",
+    "exampleTamil": "அவர்கள் நீச்சல் குளத்தின் ஓரத்தில் ஓய்வெடுத்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_028",
+    "name": "dockside",
+    "tamilMeaning": "துறைமுக ஓரம்",
+    "example": "The workers gathered at the dockside.",
+    "exampleTamil": "தொழிலாளர்கள் துறைமுக ஓரத்தில் கூடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "ide_029",
+    "name": "cliffside",
+    "tamilMeaning": "பாறைச்சரிவு ஓரம்",
+    "example": "The hotel stands on the cliffside.",
+    "exampleTamil": "அந்த விடுதி பாறைச்சரிவு ஓரத்தில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ide_030",
+    "name": "seaward side",
+    "tamilMeaning": "கடலை நோக்கிய பக்கம்",
+    "example": "The windows face the seaward side.",
+    "exampleTamil": "ஜன்னல்கள் கடலை நோக்கிய பக்கத்தை நோக்கி உள்ளன.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ad_001",
+    "name": "ad",
+    "tamilMeaning": "விளம்பரம்",
+    "example": "I saw an ad on TV.",
+    "exampleTamil": "நான் தொலைக்காட்சியில் ஒரு விளம்பரத்தை பார்த்தேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ad_002",
+    "name": "bad",
+    "tamilMeaning": "மோசமான",
+    "example": "The weather is bad today.",
+    "exampleTamil": "இன்று வானிலை மோசமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ad_003",
+    "name": "dad",
+    "tamilMeaning": "அப்பா",
+    "example": "My dad is at work.",
+    "exampleTamil": "என் அப்பா வேலைக்கு சென்றுள்ளார்.",
+    "audio": ""
+  },
+  {
+    "id": "ad_004",
+    "name": "fad",
+    "tamilMeaning": "தற்காலிக மோகம்",
+    "example": "That fashion was only a fad.",
+    "exampleTamil": "அந்த ஃபேஷன் ஒரு தற்காலிக மோகம் மட்டுமே.",
+    "audio": ""
+  },
+  {
+    "id": "ad_005",
+    "name": "had",
+    "tamilMeaning": "இருந்தது / வைத்திருந்தான்",
+    "example": "She had a new bag.",
+    "exampleTamil": "அவளிடம் ஒரு புதிய பை இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ad_006",
+    "name": "lad",
+    "tamilMeaning": "இளைஞன்",
+    "example": "The lad smiled at us.",
+    "exampleTamil": "அந்த இளைஞன் எங்களைப் பார்த்து சிரித்தான்.",
+    "audio": ""
+  },
+  {
+    "id": "ad_007",
+    "name": "mad",
+    "tamilMeaning": "கோபமான",
+    "example": "Don't be mad at me.",
+    "exampleTamil": "என்மேல் கோபப்படாதே.",
+    "audio": ""
+  },
+  {
+    "id": "ad_008",
+    "name": "pad",
+    "tamilMeaning": "எழுதும் தாள்",
+    "example": "Write it on the pad.",
+    "exampleTamil": "அதை எழுதும் தாளில் எழுதுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ad_009",
+    "name": "rad",
+    "tamilMeaning": "அருமையான (informal)",
+    "example": "That bike looks rad.",
+    "exampleTamil": "அந்த மிதிவண்டி அருமையாக இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ad_010",
+    "name": "sad",
+    "tamilMeaning": "சோகமான",
+    "example": "She felt sad yesterday.",
+    "exampleTamil": "அவள் நேற்று சோகமாக இருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ad_011",
+    "name": "glad",
+    "tamilMeaning": "மகிழ்ச்சியான",
+    "example": "I am glad to see you.",
+    "exampleTamil": "உங்களைப் பார்த்ததில் எனக்கு மகிழ்ச்சி.",
+    "audio": ""
+  },
+  {
+    "id": "ad_012",
+    "name": "brad",
+    "tamilMeaning": "சிறிய ஆணி",
+    "example": "Use a brad to fix the frame.",
+    "exampleTamil": "சட்டத்தை பொருத்த சிறிய ஆணியைப் பயன்படுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ad_013",
+    "name": "clad",
+    "tamilMeaning": "அணிந்த",
+    "example": "The workers were clad in safety gear.",
+    "exampleTamil": "தொழிலாளர்கள் பாதுகாப்பு உடை அணிந்திருந்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ad_014",
+    "name": "grad",
+    "tamilMeaning": "பட்டதாரி (informal)",
+    "example": "She is a college grad.",
+    "exampleTamil": "அவள் ஒரு கல்லூரி பட்டதாரி.",
+    "audio": ""
+  },
+  {
+    "id": "ad_015",
+    "name": "nomad",
+    "tamilMeaning": "நாடோடி",
+    "example": "The nomad moved from place to place.",
+    "exampleTamil": "அந்த நாடோடி இடம் இடமாகச் சென்றான்.",
+    "audio": ""
+  },
+  {
+    "id": "ad_016",
+    "name": "salad",
+    "tamilMeaning": "சாலட்",
+    "example": "She ate a fresh salad.",
+    "exampleTamil": "அவள் புதிய சாலட்டை சாப்பிட்டாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ad_017",
+    "name": "dryad",
+    "tamilMeaning": "மர தேவதை",
+    "example": "The story mentioned a dryad.",
+    "exampleTamil": "அந்தக் கதையில் ஒரு மர தேவதை பற்றி கூறப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ad_018",
+    "name": "ballad",
+    "tamilMeaning": "கதைப்பாடல்",
+    "example": "He sang a beautiful ballad.",
+    "exampleTamil": "அவர் அழகான கதைப்பாடலைப் பாடினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ad_019",
+    "name": "ironclad",
+    "tamilMeaning": "உறுதியான",
+    "example": "They made an ironclad agreement.",
+    "exampleTamil": "அவர்கள் உறுதியான ஒப்பந்தம் செய்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ad_020",
+    "name": "bread",
+    "tamilMeaning": "ரொட்டி",
+    "example": "We bought fresh bread.",
+    "exampleTamil": "நாங்கள் புதிய ரொட்டி வாங்கினோம்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "at_001",
+    "name": "at",
+    "tamilMeaning": "இல் / அருகில்",
+    "example": "She is at home.",
+    "exampleTamil": "அவள் வீட்டில் இருக்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "at_002",
+    "name": "bat",
+    "tamilMeaning": "வௌவால்",
+    "example": "A bat flies at night.",
+    "exampleTamil": "வௌவால் இரவில் பறக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "at_003",
+    "name": "cat",
+    "tamilMeaning": "பூனை",
+    "example": "The cat is sleeping.",
+    "exampleTamil": "பூனை தூங்கிக்கொண்டிருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "at_004",
+    "name": "fat",
+    "tamilMeaning": "பருமனான",
+    "example": "The pig is fat.",
+    "exampleTamil": "பன்றி பருமனாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "at_005",
+    "name": "hat",
+    "tamilMeaning": "தொப்பி",
+    "example": "He wears a blue hat.",
+    "exampleTamil": "அவன் நீல நிறத் தொப்பி அணிந்திருக்கிறான்.",
+    "audio": ""
+  },
+  {
+    "id": "at_006",
+    "name": "mat",
+    "tamilMeaning": "பாய்",
+    "example": "The mat is clean.",
+    "exampleTamil": "பாய் சுத்தமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "at_007",
+    "name": "pat",
+    "tamilMeaning": "மெதுவாக தட்டு",
+    "example": "Pat the dog gently.",
+    "exampleTamil": "நாயை மெதுவாகத் தட்டு.",
+    "audio": ""
+  },
+  {
+    "id": "at_008",
+    "name": "rat",
+    "tamilMeaning": "எலி",
+    "example": "The rat ran away.",
+    "exampleTamil": "எலி ஓடிவிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "at_009",
+    "name": "sat",
+    "tamilMeaning": "உட்கார்ந்தான்",
+    "example": "She sat on the chair.",
+    "exampleTamil": "அவள் நாற்காலியில் உட்கார்ந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "at_010",
+    "name": "chat",
+    "tamilMeaning": "உரையாடு",
+    "example": "We had a nice chat.",
+    "exampleTamil": "நாங்கள் இனிமையாக உரையாடினோம்.",
+    "audio": ""
+  },
+  {
+    "id": "at_011",
+    "name": "flat",
+    "tamilMeaning": "சமமான / அடுக்குமாடி வீடு",
+    "example": "They live in a flat.",
+    "exampleTamil": "அவர்கள் ஒரு அடுக்குமாடி வீட்டில் வசிக்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "at_012",
+    "name": "that",
+    "tamilMeaning": "அது",
+    "example": "That is my book.",
+    "exampleTamil": "அது என் புத்தகம்.",
+    "audio": ""
+  },
+  {
+    "id": "at_013",
+    "name": "brat",
+    "tamilMeaning": "முரட்டுக் குழந்தை",
+    "example": "The spoiled brat refused to listen.",
+    "exampleTamil": "செல்லமாக வளர்க்கப்பட்ட குழந்தை கேட்க மறுத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "at_014",
+    "name": "gnat",
+    "tamilMeaning": "சிறிய ஈ",
+    "example": "A gnat flew near my face.",
+    "exampleTamil": "ஒரு சிறிய ஈ என் முகம் அருகே பறந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "at_015",
+    "name": "scat",
+    "tamilMeaning": "போ! (விலங்குகளை விரட்டும் சொல்)",
+    "example": "Scat! Go away!",
+    "exampleTamil": "போ! இங்கிருந்து போ!",
+    "audio": ""
+  },
+  {
+    "id": "at_016",
+    "name": "spat",
+    "tamilMeaning": "துப்பினான்",
+    "example": "He spat on the ground.",
+    "exampleTamil": "அவன் தரையில் துப்பினான்.",
+    "audio": ""
+  },
+  {
+    "id": "at_017",
+    "name": "splat",
+    "tamilMeaning": "பளார் என்று விழும் சத்தம்",
+    "example": "The tomato fell with a splat.",
+    "exampleTamil": "தக்காளி பளார் என்று விழுந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "at_018",
+    "name": "combat",
+    "tamilMeaning": "போர்",
+    "example": "The soldiers entered combat.",
+    "exampleTamil": "வீரர்கள் போரில் ஈடுபட்டனர்.",
+    "audio": ""
+  },
+  {
+    "id": "at_019",
+    "name": "format",
+    "tamilMeaning": "வடிவமைப்பு",
+    "example": "Please use the correct format.",
+    "exampleTamil": "சரியான வடிவமைப்பைப் பயன்படுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "at_020",
+    "name": "habitat",
+    "tamilMeaning": "வாழ்விடம்",
+    "example": "Forests are the habitat of many animals.",
+    "exampleTamil": "காடுகள் பல விலங்குகளின் வாழ்விடமாகும்.",
+    "audio": ""
+  }
+]

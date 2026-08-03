@@ -21,19 +21,34 @@ export default function Learning() {
     async function load() {
       try {
         const result = await getVocabularyItems(categoryId, subcategoryId);
+
+        console.log("getVocabularyItems result:", result);
+
         if (!cancelled) {
-          if (result) setData(result);
-          else setError(true);
+          if (result) {
+            setData(result);
+          } else {
+            setError(true);
+          }
         }
-      } catch {
-        if (!cancelled) setError(true);
+      } catch (err) {
+        console.error("Loading error:", err);
+
+        if (!cancelled) {
+          setError(true);
+        }
       } finally {
-        if (!cancelled) setLoading(false);
+        if (!cancelled) {
+          setLoading(false);
+        }
       }
     }
 
     load();
-    return () => { cancelled = true; };
+
+    return () => {
+      cancelled = true;
+    };
   }, [categoryId, subcategoryId]);
 
   if (error) {
@@ -54,14 +69,39 @@ export default function Learning() {
     );
   }
 
+  // Safe values
+  const items = data?.vocabulary ?? [];
+  const subcategoryName = data?.subcategory?.name ?? "Vocabulary";
+
+  console.log("Items:", items);
+
+  if (items.length === 0) {
+    return (
+      <div className="learning-page" ref={pageRef}>
+        <PageHeader
+          title={subcategoryName}
+          backTo={`/category/${categoryId}`}
+          backLabel="Back to category"
+        />
+        <div className="learning-page__loading">
+          <h3>No vocabulary items found.</h3>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div className="learning-page" ref={pageRef}>
       <PageHeader
-        title={data.subcategory.name}
+        title={subcategoryName}
         backTo={`/category/${categoryId}`}
         backLabel="Back to category"
       />
-      <ImageSlider items={data.items} categoryName={data.subcategory.name} />
+
+      <ImageSlider
+        items={items}
+        categoryName={subcategoryName}
+      />
     </div>
   );
 }

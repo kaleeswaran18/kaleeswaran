@@ -1,98 +1,1196 @@
 {
   "categories": [
     {
-      "id": "personal_life",
-      "name": "Personal Life",
-      "emoji": "🏠",
+      "id": "Actions Vocabulary",
+      "name": "Actions Vocabulary",
+      "emoji": "🏃",
       "image": "https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=600&q=80",
       "subcategories": [
-        { "id": "family_relationships", "name": "Family & Relationships", "vocabularyFile": "family_relationships.json" },
-        { "id": "work_career", "name": "Work & Career", "vocabularyFile": "work_career.json" },
-        { "id": "education_learning", "name": "Education & Learning", "vocabularyFile": "education_learning.json" },
-        { "id": "travel_tourism", "name": "Travel & Tourism", "vocabularyFile": "travel_tourism.json" },
-        { "id": "food_dining", "name": "Food & Dining", "vocabularyFile": "food_dining.json" },
-        { "id": "shopping", "name": "Shopping", "vocabularyFile": "shopping.json" },
-        { "id": "banking", "name": "Banking", "vocabularyFile": "banking.json" },
-        { "id": "finance_investments", "name": "Finance & Investments", "vocabularyFile": "finance_investments.json" },
-        { "id": "health_healthcare", "name": "Health & Healthcare", "vocabularyFile": "health_healthcare.json" },
-        { "id": "technology_innovation", "name": "Technology & Innovation", "vocabularyFile": "technology_innovation.json" }
+        {
+          "id": "Eye Actions",
+          "name": "Eye Actions",
+          "emoji": "👁️",
+          "vocabularyFile": "Eye Actions.json"
+        },
+        {
+          "id": "Mouth Actions",
+          "name": "Mouth Actions",
+          "emoji": "👄",
+          "vocabularyFile": "Mouth Actions.json"
+        },
+        {
+          "id": "Ear Actions",
+          "name": "Ear Actions",
+          "emoji": "👂",
+          "vocabularyFile": "Ear Actions.json"
+        },
+        {
+          "id": "Nose Actions",
+          "name": "Nose Actions",
+          "emoji": "👃",
+          "vocabularyFile": "Nose Actions.json"
+        },
+        {
+          "id": "Face Actions",
+          "name": "Face Actions",
+          "emoji": "😊",
+          "vocabularyFile": "Face Actions.json"
+        },
+        {
+          "id": "Head Actions",
+          "name": "Head Actions",
+          "emoji": "🗣️",
+          "vocabularyFile": "Head Actions.json"
+        },
+        {
+          "id": "Neck Actions",
+          "name": "Neck Actions",
+          "emoji": "🦒",
+          "vocabularyFile": "Neck Actions.json"
+        },
+        {
+          "id": "Shoulder Actions",
+          "name": "Shoulder Actions",
+          "emoji": "🤷",
+          "vocabularyFile": "Shoulder Actions.json"
+        },
+        {
+          "id": "Arm Actions",
+          "name": "Arm Actions",
+          "emoji": "💪",
+          "vocabularyFile": "Arm Actions.json"
+        },
+        {
+          "id": "Elbow Actions",
+          "name": "Elbow Actions",
+          "emoji": "🦾",
+          "vocabularyFile": "Elbow Actions.json"
+        },
+        {
+          "id": "Hand Actions",
+          "name": "Hand Actions",
+          "emoji": "✋",
+          "vocabularyFile": "Hand Actions.json"
+        },
+        {
+          "id": "Finger Actions",
+          "name": "Finger Actions",
+          "emoji": "🖐️",
+          "vocabularyFile": "Finger Actions.json"
+        },
+        {
+          "id": "Thumb Actions",
+          "name": "Thumb Actions",
+          "emoji": "👍",
+          "vocabularyFile": "Thumb Actions.json"
+        },
+        {
+          "id": "Leg Actions",
+          "name": "Leg Actions",
+          "emoji": "🦵",
+          "vocabularyFile": "Leg Actions.json"
+        },
+        {
+          "id": "Knee Actions",
+          "name": "Knee Actions",
+          "emoji": "🦿",
+          "vocabularyFile": "Knee Actions.json"
+        },
+        {
+          "id": "Foot Actions",
+          "name": "Foot Actions",
+          "emoji": "🦶",
+          "vocabularyFile": "Foot Actions.json"
+        },
+        {
+          "id": "Toe Actions",
+          "name": "Toe Actions",
+          "emoji": "🦶",
+          "vocabularyFile": "Toe Actions.json"
+        },
+        {
+          "id": "Whole Body Actions",
+          "name": "Whole Body Actions",
+          "emoji": "🧍",
+          "vocabularyFile": "Whole Body Actions.json"
+        },
+        {
+          "id": "Movement Actions",
+          "name": "Movement Actions",
+          "emoji": "🏃",
+          "vocabularyFile": "Movement Actions.json"
+        },
+        {
+          "id": "Daily Routine Actions",
+          "name": "Daily Routine Actions",
+          "emoji": "🌅",
+          "vocabularyFile": "Daily Routine Actions.json"
+        },
+        {
+          "id": "Eating Actions",
+          "name": "Eating Actions",
+          "emoji": "🍽️",
+          "vocabularyFile": "Eating Actions.json"
+        },
+        {
+          "id": "Drinking Actions",
+          "name": "Drinking Actions",
+          "emoji": "🥤",
+          "vocabularyFile": "Drinking Actions.json"
+        },
+        {
+          "id": "Cooking Actions",
+          "name": "Cooking Actions",
+          "emoji": "🍳",
+          "vocabularyFile": "Cooking Actions.json"
+        },
+        {
+          "id": "Baking Actions",
+          "name": "Baking Actions",
+          "emoji": "🥐",
+          "vocabularyFile": "Baking Actions.json"
+        },
+        {
+          "id": "Cleaning Actions",
+          "name": "Cleaning Actions",
+          "emoji": "🧹",
+          "vocabularyFile": "Cleaning Actions.json"
+        },
+        {
+          "id": "Washing Actions",
+          "name": "Washing Actions",
+          "emoji": "🧺",
+          "vocabularyFile": "Washing Actions.json"
+        },
+        {
+          "id": "Bathing Actions",
+          "name": "Bathing Actions",
+          "emoji": "🛁",
+          "vocabularyFile": "Bathing Actions.json"
+        },
+        {
+          "id": "Dressing Actions",
+          "name": "Dressing Actions",
+          "emoji": "👕",
+          "vocabularyFile": "Dressing Actions.json"
+        },
+        {
+          "id": "Grooming Actions",
+          "name": "Grooming Actions",
+          "emoji": "💇",
+          "vocabularyFile": "Grooming Actions.json"
+        },
+        {
+          "id": "Sleeping Actions",
+          "name": "Sleeping Actions",
+          "emoji": "😴",
+          "vocabularyFile": "Sleeping Actions.json"
+        },
+        {
+          "id": "Learning Actions",
+          "name": "Learning Actions",
+          "emoji": "📚",
+          "vocabularyFile": "Learning Actions.json"
+        },
+        {
+          "id": "Reading Actions",
+          "name": "Reading Actions",
+          "emoji": "📖",
+          "vocabularyFile": "Reading Actions.json"
+        },
+        {
+          "id": "Writing Actions",
+          "name": "Writing Actions",
+          "emoji": "✍️",
+          "vocabularyFile": "Writing Actions.json"
+        },
+        {
+          "id": "Drawing Actions",
+          "name": "Drawing Actions",
+          "emoji": "🎨",
+          "vocabularyFile": "Drawing Actions.json"
+        },
+        {
+          "id": "Painting Actions",
+          "name": "Painting Actions",
+          "emoji": "🖌️",
+          "vocabularyFile": "Painting Actions.json"
+        },
+        {
+          "id": "Craft Actions",
+          "name": "Craft Actions",
+          "emoji": "✂️",
+          "vocabularyFile": "Craft Actions.json"
+        },
+        {
+          "id": "Paper Actions",
+          "name": "Paper Actions",
+          "emoji": "📄",
+          "vocabularyFile": "Paper Actions.json"
+        },
+        {
+          "id": "Toy Actions",
+          "name": "Toy Actions",
+          "emoji": "🧸",
+          "vocabularyFile": "Toy Actions.json"
+        },
+        {
+          "id": "Play Actions",
+          "name": "Play Actions",
+          "emoji": "🎠",
+          "vocabularyFile": "Play Actions.json"
+        },
+        {
+          "id": "Sports Actions",
+          "name": "Sports Actions",
+          "emoji": "⚽",
+          "vocabularyFile": "Sports Actions.json"
+        },
+        {
+          "id": "Exercise Actions",
+          "name": "Exercise Actions",
+          "emoji": "🏋️",
+          "vocabularyFile": "Exercise Actions.json"
+        },
+        {
+          "id": "Dance Actions",
+          "name": "Dance Actions",
+          "emoji": "💃",
+          "vocabularyFile": "Dance Actions.json"
+        },
+        {
+          "id": "Music Actions",
+          "name": "Music Actions",
+          "emoji": "🎵",
+          "vocabularyFile": "Music Actions.json"
+        },
+        {
+          "id": "Communication Actions",
+          "name": "Communication Actions",
+          "emoji": "💬",
+          "vocabularyFile": "Communication Actions.json"
+        },
+        {
+          "id": "Social Actions",
+          "name": "Social Actions",
+          "emoji": "🤝",
+          "vocabularyFile": "Social Actions.json"
+        },
+        {
+          "id": "Emotion Actions",
+          "name": "Emotion Actions",
+          "emoji": "😢",
+          "vocabularyFile": "Emotion Actions.json"
+        },
+        {
+          "id": "Thinking Actions",
+          "name": "Thinking Actions",
+          "emoji": "🧠",
+          "vocabularyFile": "Thinking Actions.json"
+        },
+        {
+          "id": "Computer Actions",
+          "name": "Computer Actions",
+          "emoji": "💻",
+          "vocabularyFile": "Computer Actions.json"
+        },
+        {
+          "id": "Mobile Phone Actions",
+          "name": "Mobile Phone Actions",
+          "emoji": "📱",
+          "vocabularyFile": "Mobile Phone Actions.json"
+        },
+        {
+          "id": "Camera Actions",
+          "name": "Camera Actions",
+          "emoji": "📷",
+          "vocabularyFile": "Camera Actions.json"
+        },
+        {
+          "id": "Driving Actions",
+          "name": "Driving Actions",
+          "emoji": "🚗",
+          "vocabularyFile": "Driving Actions.json"
+        },
+        {
+          "id": "Travel Actions",
+          "name": "Travel Actions",
+          "emoji": "✈️",
+          "vocabularyFile": "Travel Actions.json"
+        },
+        {
+          "id": "Shopping Actions",
+          "name": "Shopping Actions",
+          "emoji": "🛒",
+          "vocabularyFile": "Shopping Actions.json"
+        },
+        {
+          "id": "Gardening Actions",
+          "name": "Gardening Actions",
+          "emoji": "🌱",
+          "vocabularyFile": "Gardening Actions.json"
+        },
+        {
+          "id": "Farming Actions",
+          "name": "Farming Actions",
+          "emoji": "🚜",
+          "vocabularyFile": "Farming Actions.json"
+        },
+        {
+          "id": "Building Actions",
+          "name": "Building Actions",
+          "emoji": "🏗️",
+          "vocabularyFile": "Building Actions.json"
+        },
+        {
+          "id": "Repair Actions",
+          "name": "Repair Actions",
+          "emoji": "🔧",
+          "vocabularyFile": "Repair Actions.json"
+        },
+        {
+          "id": "Office Actions",
+          "name": "Office Actions",
+          "emoji": "🏢",
+          "vocabularyFile": "Office Actions.json"
+        },
+        {
+          "id": "School Actions",
+          "name": "School Actions",
+          "emoji": "🏫",
+          "vocabularyFile": "School Actions.json"
+        },
+        {
+          "id": "Kitchen Actions",
+          "name": "Kitchen Actions",
+          "emoji": "🍳",
+          "vocabularyFile": "Kitchen Actions.json"
+        },
+        {
+          "id": "Bathroom Actions",
+          "name": "Bathroom Actions",
+          "emoji": "🚿",
+          "vocabularyFile": "Bathroom Actions.json"
+        },
+        {
+          "id": "Bedroom Actions",
+          "name": "Bedroom Actions",
+          "emoji": "🛏️",
+          "vocabularyFile": "Bedroom Actions.json"
+        },
+        {
+          "id": "Household Actions",
+          "name": "Household Actions",
+          "emoji": "🏠",
+          "vocabularyFile": "Household Actions.json"
+        },
+        {
+          "id": "Nature Actions",
+          "name": "Nature Actions",
+          "emoji": "🌿",
+          "vocabularyFile": "Nature Actions.json"
+        },
+        {
+          "id": "Weather Actions",
+          "name": "Weather Actions",
+          "emoji": "🌦️",
+          "vocabularyFile": "Weather Actions.json"
+        },
+        {
+          "id": "Animal Actions",
+          "name": "Animal Actions",
+          "emoji": "🐾",
+          "vocabularyFile": "Animal Actions.json"
+        },
+        {
+          "id": "Bird Actions",
+          "name": "Bird Actions",
+          "emoji": "🐦",
+          "vocabularyFile": "Bird Actions.json"
+        },
+        {
+          "id": "Fish & Sea Animal Actions",
+          "name": "Fish & Sea Animal Actions",
+          "emoji": "🐟",
+          "vocabularyFile": "Fish & Sea Animal Actions.json"
+        },
+        {
+          "id": "Insect Actions",
+          "name": "Insect Actions",
+          "emoji": "🐝",
+          "vocabularyFile": "Insect Actions.json"
+        },
+        {
+          "id": "Safety Actions",
+          "name": "Safety Actions",
+          "emoji": "⚠️",
+          "vocabularyFile": "Safety Actions.json"
+        }
       ]
     },
-
     {
-      "id": "knowledge_society",
-      "name": "Knowledge & Society",
-      "emoji": "🌍",
-      "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=600&q=80",
-      "subcategories": [
-        { "id": "digital_life", "name": "Digital Life & Internet", "vocabularyFile": "digital_life.json" },
-        { "id": "science_space", "name": "Science & Space", "vocabularyFile": "science_space.json" },
-        { "id": "mathematics_logic", "name": "Mathematics & Logic", "vocabularyFile": "mathematics_logic.json" },
-        { "id": "environment", "name": "Environment & Sustainability", "vocabularyFile": "environment.json" },
-        { "id": "society", "name": "Society & Social Issues", "vocabularyFile": "society.json" },
-        { "id": "government", "name": "Government & Politics", "vocabularyFile": "government.json" },
-        { "id": "law", "name": "Law & Legal Awareness", "vocabularyFile": "law.json" },
-        { "id": "history", "name": "History & Philosophy", "vocabularyFile": "history.json" },
-        { "id": "culture", "name": "Culture & Traditions", "vocabularyFile": "culture.json" },
-        { "id": "religion", "name": "Religion & Spirituality", "vocabularyFile": "religion.json" }
-      ]
+  "id": "WordFamilies",
+  "name": "WordFamilies",
+  "emoji": "🔤",
+  "image": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=600&q=80",
+  "subcategories": [
+      {
+          "id": "directions",
+          "name": "Directions",
+          "image": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?w=600&q=80",
+          "vocabularyFile": "directions.json"
+        },
+    {
+      "id": "-ide Word Family",
+      "name": "-ide Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "ide.json"
     },
-
     {
-      "id": "lifestyle",
-      "name": "Lifestyle",
-      "emoji": "🎨",
-      "image": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=600&q=80",
-      "subcategories": [
-        { "id": "entertainment", "name": "Entertainment & Media", "vocabularyFile": "entertainment.json" },
-        { "id": "arts", "name": "Arts & Creativity", "vocabularyFile": "arts.json" },
-        { "id": "fashion", "name": "Fashion & Beauty", "vocabularyFile": "fashion.json" },
-        { "id": "sports", "name": "Sports & Fitness", "vocabularyFile": "sports.json" },
-        { "id": "communication", "name": "Communication & Social Skills", "vocabularyFile": "communication.json" },
-        { "id": "personal_development", "name": "Personal Development", "vocabularyFile": "personal_development.json" },
-        { "id": "business", "name": "Business & Entrepreneurship", "vocabularyFile": "business.json" },
-        { "id": "home", "name": "Home & Lifestyle", "vocabularyFile": "home.json" },
-        { "id": "parenting", "name": "Parenting & Child Development", "vocabularyFile": "parenting.json" },
-        { "id": "pets", "name": "Pets & Animal Care", "vocabularyFile": "pets.json" }
-      ]
+      "id": "-ing Word Family",
+      "name": "-ing Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ing Word Family.json"
     },
-
     {
-      "id": "practical_skills",
-      "name": "Practical Skills",
-      "emoji": "🛠️",
-      "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=600&q=80",
-      "subcategories": [
-        { "id": "agriculture", "name": "Agriculture & Farming", "vocabularyFile": "agriculture.json" },
-        { "id": "automobiles", "name": "Automobiles & Transportation", "vocabularyFile": "automobiles.json" },
-        { "id": "safety", "name": "Safety & Emergency Preparedness", "vocabularyFile": "safety.json" },
-        { "id": "diy", "name": "DIY & Hobbies", "vocabularyFile": "diy.json" },
-        { "id": "leadership", "name": "Leadership & Management", "vocabularyFile": "leadership.json" },
-        { "id": "productivity", "name": "Productivity & Time Management", "vocabularyFile": "productivity.json" },
-        { "id": "psychology", "name": "Psychology & Human Behavior", "vocabularyFile": "psychology.json" },
-        { "id": "emotional_intelligence", "name": "Emotional Intelligence", "vocabularyFile": "emotional_intelligence.json" },
-        { "id": "critical_thinking", "name": "Critical Thinking & Decision Making", "vocabularyFile": "critical_thinking.json" },
-        { "id": "problem_solving", "name": "Problem Solving", "vocabularyFile": "problem_solving.json" }
-      ]
+      "id": "-at Word Family",
+      "name": "-at Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-at Word Family.json"
     },
-
     {
-      "id": "professional_skills",
-      "name": "Professional Skills",
-      "emoji": "💼",
-      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=600&q=80",
-      "subcategories": [
-        { "id": "customer_service", "name": "Customer Service & Support", "vocabularyFile": "customer_service.json" },
-        { "id": "sales_marketing", "name": "Sales & Marketing", "vocabularyFile": "sales_marketing.json" },
-        { "id": "negotiation", "name": "Negotiation & Persuasion", "vocabularyFile": "negotiation.json" },
-        { "id": "public_speaking", "name": "Public Speaking & Presentation", "vocabularyFile": "public_speaking.json" },
-        { "id": "networking", "name": "Networking & Professional Relationships", "vocabularyFile": "networking.json" },
-        { "id": "email_business", "name": "Email & Business Writing", "vocabularyFile": "email_business.json" },
-        { "id": "recruitment", "name": "Recruitment & Job Interviews", "vocabularyFile": "recruitment.json" },
-        { "id": "project_management", "name": "Project Management", "vocabularyFile": "project_management.json" },
-        { "id": "innovation", "name": "Innovation & Creativity", "vocabularyFile": "innovation.json" },
-        { "id": "future_skills", "name": "Future Skills", "vocabularyFile": "future_skills.json" }
-      ]
+      "id": "-an Word Family",
+      "name": "-an Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-an Word Family.json"
+    },
+    {
+      "id": "-ap Word Family",
+      "name": "-ap Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ap Word Family.json"
+    },
+    {
+      "id": "-ad Word Family",
+      "name": "-ad Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ad Word Family.json"
+    },
+    {
+      "id": "-ag Word Family",
+      "name": "-ag Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ag Word Family.json"
+    },
+    {
+      "id": "-ig Word Family",
+      "name": "-ig Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ig Word Family.json"
+    },
+    {
+      "id": "-ip Word Family",
+      "name": "-ip Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ip Word Family.json"
+    },
+    {
+      "id": "-it Word Family",
+      "name": "-it Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-it Word Family.json"
+    },
+    {
+      "id": "-op Word Family",
+      "name": "-op Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-op Word Family.json"
+    },
+    {
+      "id": "-og Word Family",
+      "name": "-og Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-og Word Family.json"
+    },
+    {
+      "id": "-ay Word Family",
+      "name": "-ay Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ay Word Family.json"
+    },
+    {
+      "id": "-ail Word Family",
+      "name": "-ail Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ail Word Family.json"
+    },
+    {
+      "id": "-ain Word Family",
+      "name": "-ain Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ain Word Family.json"
+    },
+    {
+      "id": "-ake Word Family",
+      "name": "-ake Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ake Word Family.json"
+    },
+    {
+      "id": "-ame Word Family",
+      "name": "-ame Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ame Word Family.json"
+    },
+    {
+      "id": "-ate Word Family",
+      "name": "-ate Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ate Word Family.json"
+    },
+    {
+      "id": "-ave Word Family",
+      "name": "-ave Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ave Word Family.json"
+    },
+    {
+      "id": "-eep Word Family",
+      "name": "-eep Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-eep Word Family.json"
+    },
+    {
+      "id": "-eed Word Family",
+      "name": "-eed Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-eed Word Family.json"
+    },
+    {
+      "id": "-ight Word Family",
+      "name": "-ight Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ight Word Family.json"
+    },
+    {
+      "id": "-ick Word Family",
+      "name": "-ick Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ick Word Family.json"
+    },
+    {
+      "id": "-ock Word Family",
+      "name": "-ock Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ock Word Family.json"
+    },
+    {
+      "id": "-ot Word Family",
+      "name": "-ot Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ot Word Family.json"
+    },
+    {
+      "id": "-ug Word Family",
+      "name": "-ug Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ug Word Family.json"
+    },
+    {
+      "id": "-un Word Family",
+      "name": "-un Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-un Word Family.json"
+    },
+    {
+      "id": "-ut Word Family",
+      "name": "-ut Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ut Word Family.json"
+    },
+    {
+      "id": "-oke Word Family",
+      "name": "-oke Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-oke Word Family.json"
+    },
+    {
+      "id": "-ore Word Family",
+      "name": "-ore Word Family",
+      "emoji": "🔤",
+      "vocabularyFile": "-ore Word Family.json"
+    },
+     {
+    "id": "-en Word Family",
+    "name": "-en Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-en Word Family.json"
+  },
+  {
+    "id": "-et Word Family",
+    "name": "-et Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-et Word Family.json"
+  },
+  {
+    "id": "-ell Word Family",
+    "name": "-ell Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ell Word Family.json"
+  },
+  {
+    "id": "-est Word Family",
+    "name": "-est Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-est Word Family.json"
+  },
+  {
+    "id": "-ill Word Family",
+    "name": "-ill Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ill Word Family.json"
+  },
+  {
+    "id": "-ash Word Family",
+    "name": "-ash Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ash Word Family.json"
+  },
+  {
+    "id": "-ink Word Family",
+    "name": "-ink Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ink Word Family.json"
+  },
+  {
+    "id": "-ank Word Family",
+    "name": "-ank Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ank Word Family.json"
+  },
+  {
+    "id": "-ump Word Family",
+    "name": "-ump Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ump Word Family.json"
+  },
+  {
+    "id": "-ust Word Family",
+    "name": "-ust Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ust Word Family.json"
+  },
+  {
+    "id": "-unk Word Family",
+    "name": "-unk Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-unk Word Family.json"
+  },
+  {
+    "id": "-ine Word Family",
+    "name": "-ine Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ine Word Family.json"
+  },
+  {
+    "id": "-ime Word Family",
+    "name": "-ime Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ime Word Family.json"
+  },
+  {
+    "id": "-one Word Family",
+    "name": "-one Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-one Word Family.json"
+  },
+  {
+    "id": "-ole Word Family",
+    "name": "-ole Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ole Word Family.json"
+  },
+  {
+    "id": "-ook Word Family",
+    "name": "-ook Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ook Word Family.json"
+  },
+  {
+    "id": "-oon Word Family",
+    "name": "-oon Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-oon Word Family.json"
+  },
+  {
+    "id": "-ound Word Family",
+    "name": "-ound Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-ound Word Family.json"
+  },
+  {
+    "id": "-oud Word Family",
+    "name": "-oud Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-oud Word Family.json"
+  },
+  {
+    "id": "-all Word Family",
+    "name": "-all Word Family",
+    "emoji": "🔤",
+    "vocabularyFile": "-all Word Family.json"
+  },
+  {
+    "id": "-ow Word Family (long o)",
+    "name": "-ow Word Family (long o)",
+    "emoji": "🔤",
+    "vocabularyFile": "-ow Word Family (long o).json"
+  },
+  {
+    "id": "-ow Word Family (ow sound)",
+    "name": "-ow Word Family (ow sound)",
+    "emoji": "🔤",
+    "vocabularyFile": "-ow Word Family (ow sound).json"
+  }
+    
+  ]
+  
+  
+},
+{
+  "id": "Phrases",
+  "name": "Phrases",
+  "emoji": "💬",
+  "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=600&q=80",
+  "subcategories": [
+    {
+      "id": "Opinion Phrases",
+      "name": "Opinion Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Opinion Phrases.json"
+    },
+    {
+      "id": "Addition Phrases",
+      "name": "Addition Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Addition Phrases.json"
+    },
+    {
+      "id": "Contrast Phrases",
+      "name": "Contrast Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Contrast Phrases.json"
+    },
+    {
+      "id": "Cause & Effect Phrases",
+      "name": "Cause & Effect Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Cause & Effect Phrases.json"
+    },
+    {
+      "id": "Sequence Phrases",
+      "name": "Sequence Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Sequence Phrases.json"
+    },
+    {
+      "id": "Time Phrases",
+      "name": "Time Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Time Phrases.json"
+    },
+    {
+      "id": "Comparison Phrases",
+      "name": "Comparison Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Comparison Phrases.json"
+    },
+    {
+      "id": "Conclusion Phrases",
+      "name": "Conclusion Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Conclusion Phrases.json"
+    },
+    {
+      "id": "Example Phrases",
+      "name": "Example Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Example Phrases.json"
+    },
+    {
+      "id": "Emphasis Phrases",
+      "name": "Emphasis Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Emphasis Phrases.json"
+    },
+    {
+      "id": "Condition Phrases",
+      "name": "Condition Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Condition Phrases.json"
+    },
+    {
+      "id": "Agreement & Disagreement Phrases",
+      "name": "Agreement & Disagreement Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Agreement & Disagreement Phrases.json"
+    },
+    {
+      "id": "Clarification Phrases",
+      "name": "Clarification Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Clarification Phrases.json"
+    },
+    {
+      "id": "Digression Phrases",
+      "name": "Digression Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Digression Phrases.json"
+    },
+    {
+      "id": "Greeting & Small Talk Phrases",
+      "name": "Greeting & Small Talk Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Greeting & Small Talk Phrases.json"
+    },
+    {
+      "id": "Polite Request Phrases",
+      "name": "Polite Request Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Polite Request Phrases.json"
+    },
+    {
+      "id": "Suggestion Phrases",
+      "name": "Suggestion Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Suggestion Phrases.json"
+    },
+    {
+      "id": "Apology Phrases",
+      "name": "Apology Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Apology Phrases.json"
+    },
+    {
+      "id": "Reaction & Surprise Phrases",
+      "name": "Reaction & Surprise Phrases",
+      "emoji": "💬",
+      "vocabularyFile": "Reaction & Surprise Phrases.json"
     }
+  ]
+},
+{
+  "id": "Prepositions",
+  "name": "Prepositions",
+  "emoji": "📍",
+  "image": "https://images.unsplash.com/photo-1509228468518-180dd4864904?w=600&q=80",
+  "subcategories": [
+    {
+      "id": "Place Prepositions",
+      "name": "Place Prepositions",
+      "emoji": "📍",
+      "vocabularyFile": "Place Prepositions.json"
+    },
+    {
+      "id": "Time Prepositions",
+      "name": "Time Prepositions",
+      "emoji": "📍",
+      "vocabularyFile": "Time Prepositions.json"
+    },
+    {
+      "id": "Direction & Movement Prepositions",
+      "name": "Direction & Movement Prepositions",
+      "emoji": "📍",
+      "vocabularyFile": "Direction & Movement Prepositions.json"
+    },
+    {
+      "id": "Manner & Instrument Prepositions",
+      "name": "Manner & Instrument Prepositions",
+      "emoji": "📍",
+      "vocabularyFile": "Manner & Instrument Prepositions.json"
+    },
+    {
+      "id": "Comparison Prepositions",
+      "name": "Comparison Prepositions",
+      "emoji": "📍",
+      "vocabularyFile": "Comparison Prepositions.json"
+    },
+    {
+      "id": "Compound Prepositions",
+      "name": "Compound Prepositions",
+      "emoji": "📍",
+      "vocabularyFile": "Compound Prepositions.json"
+    }
+  ]
+},
+{
+  "id": "Idioms",
+  "name": "Idioms",
+  "emoji": "🎭",
+  "image": "https://images.unsplash.com/photo-1544396821-4dd40b938ad3?w=600&q=80",
+  "subcategories": [
+    {
+      "id": "Emotion Idioms",
+      "name": "Emotion Idioms",
+      "emoji": "🎭",
+      "vocabularyFile": "Emotion Idioms.json"
+    },
+    {
+      "id": "Money Idioms",
+      "name": "Money Idioms",
+      "emoji": "🎭",
+      "vocabularyFile": "Money Idioms.json"
+    },
+    {
+      "id": "Time Idioms",
+      "name": "Time Idioms",
+      "emoji": "🎭",
+      "vocabularyFile": "Time Idioms.json"
+    },
+    {
+      "id": "Food Idioms",
+      "name": "Food Idioms",
+      "emoji": "🎭",
+      "vocabularyFile": "Food Idioms.json"
+    },
+    {
+      "id": "Animal Idioms",
+      "name": "Animal Idioms",
+      "emoji": "🎭",
+      "vocabularyFile": "Animal Idioms.json"
+    },
+    {
+      "id": "Body Idioms",
+      "name": "Body Idioms",
+      "emoji": "🎭",
+      "vocabularyFile": "Body Idioms.json"
+    },
+    {
+      "id": "Weather Idioms",
+      "name": "Weather Idioms",
+      "emoji": "🎭",
+      "vocabularyFile": "Weather Idioms.json"
+    },
+    {
+      "id": "Color Idioms",
+      "name": "Color Idioms",
+      "emoji": "🎭",
+      "vocabularyFile": "Color Idioms.json"
+    }
+  ]
+},
+{
+  "id": "generaltopic",
+  "name": "generaltopic",
+  "emoji": "🎭",
+  "image": "https://images.unsplash.com/photo-1544396821-4dd40b938ad3?w=600&q=80",
+  "subcategories": [
+    { "id": "Animals", "name": "Animals", "emoji": "🐾", "vocabularyFile": "Animals.json" },
+    { "id": "Birds", "name": "Birds", "emoji": "🐦", "vocabularyFile": "Birds.json" },
+    { "id": "Fish", "name": "Fish", "emoji": "🐟", "vocabularyFile": "Fish.json" },
+    { "id": "Insects", "name": "Insects", "emoji": "🐝", "vocabularyFile": "Insects.json" },
+    { "id": "Reptiles", "name": "Reptiles", "emoji": "🦎", "vocabularyFile": "Reptiles.json" },
+    { "id": "Amphibians", "name": "Amphibians", "emoji": "🐸", "vocabularyFile": "Amphibians.json" },
+    { "id": "Fruits", "name": "Fruits", "emoji": "🍎", "vocabularyFile": "Fruits.json" },
+    { "id": "Vegetables", "name": "Vegetables", "emoji": "🥦", "vocabularyFile": "Vegetables.json" },
+    { "id": "Food", "name": "Food", "emoji": "🍽️", "vocabularyFile": "Food.json" },
+    { "id": "Drinks", "name": "Drinks", "emoji": "🥤", "vocabularyFile": "Drinks.json" },
+    { "id": "Flowers", "name": "Flowers", "emoji": "🌸", "vocabularyFile": "Flowers.json" },
+    { "id": "Trees", "name": "Trees", "emoji": "🌳", "vocabularyFile": "Trees.json" },
+    { "id": "Plants", "name": "Plants", "emoji": "🌱", "vocabularyFile": "Plants.json" },
+    { "id": "BodyParts", "name": "Body Parts", "emoji": "🦴", "vocabularyFile": "BodyParts.json" },
+    { "id": "Clothes", "name": "Clothes", "emoji": "👕", "vocabularyFile": "Clothes.json" },
+    { "id": "Accessories", "name": "Accessories", "emoji": "👜", "vocabularyFile": "Accessories.json" },
+    { "id": "Vehicles", "name": "Vehicles", "emoji": "🚗", "vocabularyFile": "Vehicles.json" },
+    { "id": "Places", "name": "Places", "emoji": "📍", "vocabularyFile": "Places.json" },
+    { "id": "Family", "name": "Family", "emoji": "👨‍👩‍👧‍👦", "vocabularyFile": "Family.json" },
+    { "id": "Emotions", "name": "Emotions", "emoji": "😊", "vocabularyFile": "Emotions.json" },
+    { "id": "Actions", "name": "Actions", "emoji": "🏃", "vocabularyFile": "Actions.json" },
+    { "id": "Colors", "name": "Colors", "emoji": "🎨", "vocabularyFile": "Colors.json" },
+    { "id": "Shapes", "name": "Shapes", "emoji": "🔺", "vocabularyFile": "Shapes.json" },
+    { "id": "Numbers", "name": "Numbers", "emoji": "🔢", "vocabularyFile": "Numbers.json" },
+    { "id": "Alphabet", "name": "Alphabet", "emoji": "🔤", "vocabularyFile": "Alphabet.json" },
+    { "id": "Phonics", "name": "Phonics", "emoji": "🗣️", "vocabularyFile": "Phonics.json" },
+    { "id": "Opposites", "name": "Opposites", "emoji": "↔️", "vocabularyFile": "Opposites.json" },
+    { "id": "Comparisons", "name": "Comparisons", "emoji": "⚖️", "vocabularyFile": "Comparisons.json" },
+    { "id": "Nature", "name": "Nature", "emoji": "🏞️", "vocabularyFile": "Nature.json" },
+    { "id": "Weather", "name": "Weather", "emoji": "☀️", "vocabularyFile": "Weather.json" },
+    { "id": "Seasons", "name": "Seasons", "emoji": "🍂", "vocabularyFile": "Seasons.json" },
+    { "id": "Sports", "name": "Sports", "emoji": "⚽", "vocabularyFile": "Sports.json" },
+    { "id": "Games", "name": "Games", "emoji": "🎮", "vocabularyFile": "Games.json" },
+    { "id": "MusicalInstruments", "name": "Musical Instruments", "emoji": "🎸", "vocabularyFile": "MusicalInstruments.json" },
+    { "id": "Jobs", "name": "Jobs", "emoji": "💼", "vocabularyFile": "Jobs.json" },
+    { "id": "School", "name": "School", "emoji": "🏫", "vocabularyFile": "School.json" },
+    { "id": "Home", "name": "Home", "emoji": "🏠", "vocabularyFile": "Home.json" },
+    { "id": "Furniture", "name": "Furniture", "emoji": "🛋️", "vocabularyFile": "Furniture.json" },
+    { "id": "Kitchen", "name": "Kitchen", "emoji": "🍳", "vocabularyFile": "Kitchen.json" },
+    { "id": "Bathroom", "name": "Bathroom", "emoji": "🚿", "vocabularyFile": "Bathroom.json" },
+    { "id": "Technology", "name": "Technology", "emoji": "💻", "vocabularyFile": "Technology.json" },
+    { "id": "Tools", "name": "Tools", "emoji": "🔧", "vocabularyFile": "Tools.json" },
+    { "id": "Materials", "name": "Materials", "emoji": "🧱", "vocabularyFile": "Materials.json" },
+    { "id": "Directions", "name": "Directions", "emoji": "🧭", "vocabularyFile": "Directions.json" },
+    { "id": "Time", "name": "Time", "emoji": "⏰", "vocabularyFile": "Time.json" },
+    { "id": "Days", "name": "Days", "emoji": "📅", "vocabularyFile": "Days.json" },
+    { "id": "Months", "name": "Months", "emoji": "🗓️", "vocabularyFile": "Months.json" },
+    { "id": "Safety", "name": "Safety", "emoji": "🦺", "vocabularyFile": "Safety.json" },
+    { "id": "Money", "name": "Money", "emoji": "💰", "vocabularyFile": "Money.json" },
+    { "id": "Symbols", "name": "Symbols", "emoji": "🔣", "vocabularyFile": "Symbols.json" },
+    { "id": "Flags", "name": "Flags", "emoji": "🏳️", "vocabularyFile": "Flags.json" }
+  ]
+},
+{
+  "id": "generaltopic2",
+  "name": "generaltopic2",
+  "emoji": "📚",
+  "image": "https://images.unsplash.com/photo-1544396821-4dd40b938ad3?w=600&q=80",
+  "subcategories": [
+    { "id": "Politics", "name": "Politics & Elections", "emoji": "🗳️", "vocabularyFile": "Politics.json" },
+    { "id": "Law", "name": "Law & Legal Terms", "emoji": "⚖️", "vocabularyFile": "Law.json" },
+    { "id": "History", "name": "History & Heritage", "emoji": "🏛️", "vocabularyFile": "History.json" },
+    { "id": "Idioms", "name": "Idioms", "emoji": "💬", "vocabularyFile": "Idioms.json" },
+    { "id": "PhrasalVerbs", "name": "Phrasal Verbs", "emoji": "🔁", "vocabularyFile": "PhrasalVerbs.json" },
+    { "id": "PersonalityTraits", "name": "Personality Traits", "emoji": "🧑‍🎤", "vocabularyFile": "PersonalityTraits.json" },
+    { "id": "Virtues", "name": "Virtues / Positive Qualities", "emoji": "🌟", "vocabularyFile": "Virtues.json" },
+    { "id": "Vices", "name": "Vices / Negative Qualities", "emoji": "🚫", "vocabularyFile": "Vices.json" },
+    { "id": "AdvancedAdjectives", "name": "Advanced Descriptive Adjectives", "emoji": "📝", "vocabularyFile": "AdvancedAdjectives.json" },
+    { "id": "Academic", "name": "Academic & Discourse", "emoji": "🎓", "vocabularyFile": "Academic.json" },
+    { "id": "PhysicalActions", "name": "Physical Actions / Verbs", "emoji": "🏃‍♂️", "vocabularyFile": "PhysicalActions.json" },
+    { "id": "BodyInjuryHealth", "name": "Body, Injury & Health", "emoji": "🩹", "vocabularyFile": "BodyInjuryHealth.json" },
+    { "id": "GrammarWords", "name": "Adverbs, Connectors & Grammar Words", "emoji": "🔤", "vocabularyFile": "GrammarWords.json" },
+    { "id": "BusinessFinance", "name": "Business & Finance", "emoji": "💼", "vocabularyFile": "BusinessFinance.json" },
+    { "id": "Religion", "name": "Religion & Spirituality", "emoji": "🛕", "vocabularyFile": "Religion.json" },
+    { "id": "ScienceTechnology", "name": "Science & Technology", "emoji": "🔬", "vocabularyFile": "ScienceTechnology.json" },
+    { "id": "MedicalHealth", "name": "Medical / Health", "emoji": "🏥", "vocabularyFile": "MedicalHealth.json" },
+    { "id": "PsychologyMind", "name": "Psychology & Mind", "emoji": "🧠", "vocabularyFile": "PsychologyMind.json" },
+    { "id": "PhilosophyEthics", "name": "Philosophy & Ethics", "emoji": "🤔", "vocabularyFile": "PhilosophyEthics.json" },
+    { "id": "ArtLiterature", "name": "Art & Literature", "emoji": "🎭", "vocabularyFile": "ArtLiterature.json" },
+    { "id": "MediaCommunication", "name": "Media & Communication", "emoji": "📰", "vocabularyFile": "MediaCommunication.json" },
+    { "id": "MilitaryWarfare", "name": "Military & Warfare", "emoji": "🪖", "vocabularyFile": "MilitaryWarfare.json" },
+    { "id": "SpaceAstronomy", "name": "Space & Astronomy", "emoji": "🪐", "vocabularyFile": "SpaceAstronomy.json" },
+    { "id": "Mathematics", "name": "Mathematics", "emoji": "➗", "vocabularyFile": "Mathematics.json" },
+    { "id": "Linguistics", "name": "Linguistics & Language", "emoji": "🗣️", "vocabularyFile": "Linguistics.json" },
+    { "id": "HumanRights", "name": "Human Rights & Society", "emoji": "🤝", "vocabularyFile": "HumanRights.json" },
+    { "id": "TravelTourism", "name": "Travel & Tourism", "emoji": "✈️", "vocabularyFile": "TravelTourism.json" },
+    { "id": "Shopping", "name": "Shopping", "emoji": "🛍️", "vocabularyFile": "Shopping.json" },
+    { "id": "CrimeSociety", "name": "Crime & Society", "emoji": "🚔", "vocabularyFile": "CrimeSociety.json" },
+    { "id": "Internet", "name": "Technology & Internet", "emoji": "🌐", "vocabularyFile": "Internet.json" },
+    { "id": "RestaurantFood", "name": "Restaurant & Food Ordering", "emoji": "🍽️", "vocabularyFile": "RestaurantFood.json" },
+    { "id": "BankingMoney", "name": "Banking & Money", "emoji": "🏦", "vocabularyFile": "BankingMoney.json" },
+    { "id": "OfficeWorkplace", "name": "Office & Workplace", "emoji": "🏢", "vocabularyFile": "OfficeWorkplace.json" },
+    { "id": "InterviewJob", "name": "Interview & Job", "emoji": "🧑‍💼", "vocabularyFile": "InterviewJob.json" },
+    { "id": "AirportFlight", "name": "Airport & Flight", "emoji": "🛫", "vocabularyFile": "AirportFlight.json" },
+    { "id": "Hotel", "name": "Hotel", "emoji": "🏨", "vocabularyFile": "Hotel.json" },
+    { "id": "SocialMedia", "name": "Social Media", "emoji": "📱", "vocabularyFile": "SocialMedia.json" },
+    { "id": "PhoneCall", "name": "Phone/Call Conversation", "emoji": "☎️", "vocabularyFile": "PhoneCall.json" },
+    { "id": "DailyRoutine", "name": "Daily Routine", "emoji": "🕐", "vocabularyFile": "DailyRoutine.json" },
+    { "id": "TrafficTransport", "name": "Traffic & Transport", "emoji": "🚦", "vocabularyFile": "TrafficTransport.json" },
+    { "id": "HomeCleaning", "name": "Home Cleaning", "emoji": "🧹", "vocabularyFile": "HomeCleaning.json" },
+    { "id": "FashionStyle", "name": "Fashion & Style", "emoji": "👗", "vocabularyFile": "FashionStyle.json" },
+    { "id": "SizeMeasurement", "name": "Size & Measurement", "emoji": "📏", "vocabularyFile": "SizeMeasurement.json" },
+    { "id": "TimeSequence", "name": "Time & Sequence", "emoji": "⏳", "vocabularyFile": "TimeSequence.json" },
+   
+    { "id": "Conjunctions", "name": "Conjunctions", "emoji": "🔗", "vocabularyFile": "Conjunctions.json" },
+    { "id": "NegativeExpressions", "name": "Negative Expressions", "emoji": "❌", "vocabularyFile": "NegativeExpressions.json" },
+    { "id": "Miscellaneous", "name": "Miscellaneous", "emoji": "🧩", "vocabularyFile": "Miscellaneous.json" }
+  ]
+},{
+  "id": "prefix and suffix",
+  "name": "prefix and suffix",
+  "emoji": "📚",
+  "image": "https://images.unsplash.com/photo-1544396821-4dd40b938ad3?w=600&q=80",
+  "subcategories": [
+    { "id": "Un", "name": "Un-", "emoji": "🔡", "vocabularyFile": "Un.json" },
+    { "id": "Dis", "name": "Dis-", "emoji": "🔡", "vocabularyFile": "Dis.json" },
+    { "id": "Mis", "name": "Mis-", "emoji": "🔡", "vocabularyFile": "Mis.json" },
+    { "id": "In", "name": "In-", "emoji": "🔡", "vocabularyFile": "In.json" },
+    { "id": "Im", "name": "Im-", "emoji": "🔡", "vocabularyFile": "Im.json" },
+    { "id": "Ir", "name": "Ir-", "emoji": "🔡", "vocabularyFile": "Ir.json" },
+    { "id": "Il", "name": "Il-", "emoji": "🔡", "vocabularyFile": "Il.json" },
+    { "id": "Non", "name": "Non-", "emoji": "🔡", "vocabularyFile": "Non.json" },
+    { "id": "Over", "name": "Over-", "emoji": "🔡", "vocabularyFile": "Over.json" },
+    { "id": "Under", "name": "Under-", "emoji": "🔡", "vocabularyFile": "Under.json" },
+    { "id": "Re", "name": "Re-", "emoji": "🔡", "vocabularyFile": "Re.json" },
+    { "id": "Pre", "name": "Pre-", "emoji": "🔡", "vocabularyFile": "Pre.json" },
+    { "id": "Post", "name": "Post-", "emoji": "🔡", "vocabularyFile": "Post.json" },
+    { "id": "Inter", "name": "Inter-", "emoji": "🔡", "vocabularyFile": "Inter.json" },
+    { "id": "Super", "name": "Super-", "emoji": "🔡", "vocabularyFile": "Super.json" },
+    { "id": "Sub", "name": "Sub-", "emoji": "🔡", "vocabularyFile": "Sub.json" },
+    { "id": "Semi", "name": "Semi-", "emoji": "🔡", "vocabularyFile": "Semi.json" },
+    { "id": "Anti", "name": "Anti-", "emoji": "🔡", "vocabularyFile": "Anti.json" },
+    { "id": "Co", "name": "Co-", "emoji": "🔡", "vocabularyFile": "Co.json" },
+    { "id": "Auto", "name": "Auto-", "emoji": "🔡", "vocabularyFile": "Auto.json" },
+    { "id": "Micro", "name": "Micro-", "emoji": "🔡", "vocabularyFile": "Micro.json" },
+    { "id": "Macro", "name": "Macro-", "emoji": "🔡", "vocabularyFile": "Macro.json" },
+    { "id": "Multi", "name": "Multi-", "emoji": "🔡", "vocabularyFile": "Multi.json" },
+    { "id": "Bi", "name": "Bi-", "emoji": "🔡", "vocabularyFile": "Bi.json" },
+    { "id": "Tri", "name": "Tri-", "emoji": "🔡", "vocabularyFile": "Tri.json" },
+    { "id": "Mono", "name": "Mono-", "emoji": "🔡", "vocabularyFile": "Mono.json" },
+    { "id": "De", "name": "De-", "emoji": "🔡", "vocabularyFile": "De.json" },
+    { "id": "Ex", "name": "Ex-", "emoji": "🔡", "vocabularyFile": "Ex.json" },
+    { "id": "EnEm", "name": "En-/Em-", "emoji": "🔡", "vocabularyFile": "EnEm.json" },
+    { "id": "Fore", "name": "Fore-", "emoji": "🔡", "vocabularyFile": "Fore.json" },
+    { "id": "Mid", "name": "Mid-", "emoji": "🔡", "vocabularyFile": "Mid.json" },
+    { "id": "Out", "name": "Out-", "emoji": "🔡", "vocabularyFile": "Out.json" },
+    { "id": "Up", "name": "Up-", "emoji": "🔡", "vocabularyFile": "Up.json" },
+    { "id": "Down", "name": "Down-", "emoji": "🔡", "vocabularyFile": "Down.json" },
+    { "id": "Extra", "name": "Extra-", "emoji": "🔡", "vocabularyFile": "Extra.json" },
+    { "id": "Trans", "name": "Trans-", "emoji": "🔡", "vocabularyFile": "Trans.json" },
+    { "id": "Uni", "name": "Uni-", "emoji": "🔡", "vocabularyFile": "Uni.json" },
+    { "id": "Poly", "name": "Poly-", "emoji": "🔡", "vocabularyFile": "Poly.json" },
+    { "id": "Hyper", "name": "Hyper-", "emoji": "🔡", "vocabularyFile": "Hyper.json" },
+    { "id": "Hypo", "name": "Hypo-", "emoji": "🔡", "vocabularyFile": "Hypo.json" },
+    { "id": "Ambi", "name": "Ambi-", "emoji": "🔡", "vocabularyFile": "Ambi.json" },
+    { "id": "Circum", "name": "Circum-", "emoji": "🔡", "vocabularyFile": "Circum.json" },
+    { "id": "Contra", "name": "Contra-", "emoji": "🔡", "vocabularyFile": "Contra.json" },
+    { "id": "Equi", "name": "Equi-", "emoji": "🔡", "vocabularyFile": "Equi.json" },
+    { "id": "Neo", "name": "Neo-", "emoji": "🔡", "vocabularyFile": "Neo.json" },
+    { "id": "Pseudo", "name": "Pseudo-", "emoji": "🔡", "vocabularyFile": "Pseudo.json" },
+    { "id": "Ful", "name": "-ful", "emoji": "🔠", "vocabularyFile": "Ful.json" },
+    { "id": "Less", "name": "-less", "emoji": "🔠", "vocabularyFile": "Less.json" },
+    { "id": "AbleIble", "name": "-able / -ible", "emoji": "🔠", "vocabularyFile": "AbleIble.json" },
+    { "id": "Ment", "name": "-ment", "emoji": "🔠", "vocabularyFile": "Ment.json" },
+    { "id": "Ness", "name": "-ness", "emoji": "🔠", "vocabularyFile": "Ness.json" },
+    { "id": "TionSion", "name": "-tion / -sion", "emoji": "🔠", "vocabularyFile": "TionSion.json" },
+    { "id": "ErOr", "name": "-er / -or", "emoji": "🔠", "vocabularyFile": "ErOr.json" },
+    { "id": "Ly", "name": "-ly", "emoji": "🔠", "vocabularyFile": "Ly.json" },
+    { "id": "Ish", "name": "-ish", "emoji": "🔠", "vocabularyFile": "Ish.json" },
+    { "id": "Y", "name": "-y", "emoji": "🔠", "vocabularyFile": "Y.json" },
+    { "id": "Al", "name": "-al", "emoji": "🔠", "vocabularyFile": "Al.json" },
+    { "id": "Ic", "name": "-ic", "emoji": "🔠", "vocabularyFile": "Ic.json" },
+    { "id": "Ive", "name": "-ive", "emoji": "🔠", "vocabularyFile": "Ive.json" },
+    { "id": "Ous", "name": "-ous", "emoji": "🔠", "vocabularyFile": "Ous.json" },
+    { "id": "AnceEnce", "name": "-ance / -ence", "emoji": "🔠", "vocabularyFile": "AnceEnce.json" },
+    { "id": "ItyTy", "name": "-ity / -ty", "emoji": "🔠", "vocabularyFile": "ItyTy.json" },
+    { "id": "IzeIse", "name": "-ize / -ise", "emoji": "🔠", "vocabularyFile": "IzeIse.json" },
+    { "id": "Ify", "name": "-ify", "emoji": "🔠", "vocabularyFile": "Ify.json" },
+    { "id": "Ward", "name": "-ward", "emoji": "🔠", "vocabularyFile": "Ward.json" },
+    { "id": "Hood", "name": "-hood", "emoji": "🔠", "vocabularyFile": "Hood.json" },
+    { "id": "Ship", "name": "-ship", "emoji": "🔠", "vocabularyFile": "Ship.json" },
+    { "id": "Ism", "name": "-ism", "emoji": "🔠", "vocabularyFile": "Ism.json" },
+    { "id": "Ist", "name": "-ist", "emoji": "🔠", "vocabularyFile": "Ist.json" },
+    { "id": "Ology", "name": "-ology", "emoji": "🔠", "vocabularyFile": "Ology.json" },
+    { "id": "Graphy", "name": "-graphy", "emoji": "🔠", "vocabularyFile": "Graphy.json" },
+    { "id": "Logy", "name": "-logy", "emoji": "🔠", "vocabularyFile": "Logy.json" },
+    { "id": "Age", "name": "-age", "emoji": "🔠", "vocabularyFile": "Age.json" },
+    { "id": "En", "name": "-en", "emoji": "🔠", "vocabularyFile": "En.json" },
+    { "id": "Dom", "name": "-dom", "emoji": "🔠", "vocabularyFile": "Dom.json" }
+  ]
+},{
+  "id": "everyday_spoken_english",
+  "name": "Everyday Spoken English Expressions",
+  "emoji": "🗣️",
+  "image": "https://images.unsplash.com/photo-1544396821-4dd40b938ad3?w=600&q=80",
+  "subcategories": [
+    { "id": "NegativeExpressions", "name": "Negative Expressions (No/Don't phrases)", "emoji": "❌", "vocabularyFile": "NegativeExpressions.json" },
+    { "id": "SpeakingTongue", "name": "Speaking & Tongue-related Phrases", "emoji": "👅", "vocabularyFile": "SpeakingTongue.json" },
+    { "id": "FunCasual", "name": "Fun & Casual Expressions", "emoji": "😄", "vocabularyFile": "FunCasual.json" },
+    { "id": "CalmingReassurance", "name": "Calming & Reassurance Phrases", "emoji": "🧘", "vocabularyFile": "CalmingReassurance.json" },
+    { "id": "WarningCaution", "name": "Warning & Caution Phrases", "emoji": "⚠️", "vocabularyFile": "WarningCaution.json" },
+    { "id": "AgreementDisagreement", "name": "Agreement & Disagreement Phrases", "emoji": "🤝", "vocabularyFile": "AgreementDisagreement.json" },
+    { "id": "GreetingParting", "name": "Greeting & Parting Expressions", "emoji": "👋", "vocabularyFile": "GreetingParting.json" },
+    { "id": "SurpriseReaction", "name": "Surprise & Reaction Expressions", "emoji": "😲", "vocabularyFile": "SurpriseReaction.json" }
+  ]
+}
+
   ]
 }
