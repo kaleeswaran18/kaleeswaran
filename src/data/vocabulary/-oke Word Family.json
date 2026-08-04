@@ -1,0 +1,122 @@
+[
+  {
+    "id": "oke_001",
+    "name": "coke",
+    "tamilMeaning": "கோக் (எரிபொருள்)",
+    "example": "Coke is used in steel production.",
+    "exampleTamil": "எஃகு உற்பத்தியில் கோக் பயன்படுத்தப்படுகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "oke_002",
+    "name": "joke",
+    "tamilMeaning": "நகைச்சுவை",
+    "example": "He told a funny joke.",
+    "exampleTamil": "அவர் ஒரு நகைச்சுவையான கதையைச் சொன்னார்.",
+    "audio": ""
+  },
+  {
+    "id": "oke_003",
+    "name": "poke",
+    "tamilMeaning": "குத்து",
+    "example": "Don't poke the balloon.",
+    "exampleTamil": "பலூனை குத்தாதே.",
+    "audio": ""
+  },
+  {
+    "id": "oke_004",
+    "name": "woke",
+    "tamilMeaning": "விழித்தான்",
+    "example": "She woke up early.",
+    "exampleTamil": "அவள் அதிகாலையில் விழித்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "oke_005",
+    "name": "yoke",
+    "tamilMeaning": "நுகத்தடி",
+    "example": "The farmer placed a yoke on the oxen.",
+    "exampleTamil": "விவசாயி மாடுகளுக்கு நுகத்தடியை மாட்டினார்.",
+    "audio": ""
+  },
+  {
+    "id": "oke_006",
+    "name": "broke",
+    "tamilMeaning": "உடைந்தது",
+    "example": "The glass broke yesterday.",
+    "exampleTamil": "கண்ணாடி நேற்று உடைந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "oke_007",
+    "name": "choke",
+    "tamilMeaning": "மூச்சுத்திணறு",
+    "example": "He began to choke on the food.",
+    "exampleTamil": "உணவு காரணமாக அவருக்கு மூச்சுத்திணறல் ஏற்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "oke_008",
+    "name": "smoke",
+    "tamilMeaning": "புகை",
+    "example": "Smoke filled the room.",
+    "exampleTamil": "அறை முழுவதும் புகை நிரம்பியது.",
+    "audio": ""
+  },
+  {
+    "id": "oke_009",
+    "name": "spoke",
+    "tamilMeaning": "பேசினான்",
+    "example": "She spoke politely.",
+    "exampleTamil": "அவள் மரியாதையாகப் பேசினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "oke_010",
+    "name": "stoke",
+    "tamilMeaning": "தீயை மூட்டு",
+    "example": "He stoked the fire.",
+    "exampleTamil": "அவர் தீயை மூட்டினார்.",
+    "audio": ""
+  },
+  {
+    "id": "oke_011",
+    "name": "stroke",
+    "tamilMeaning": "தடவு / பக்கவாதம்",
+    "example": "She gently stroked the cat.",
+    "exampleTamil": "அவள் பூனையை மெதுவாகத் தடவினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "oke_012",
+    "name": "croak",
+    "tamilMeaning": "கரகரப்பாக ஒலி எழுப்பு",
+    "example": "The frog began to croak.",
+    "exampleTamil": "தவளை கரகரப்பாக ஒலி எழுப்பியது.",
+    "audio": ""
+  },
+  {
+    "id": "oke_013",
+    "name": "cloak",
+    "tamilMeaning": "மேலங்கி",
+    "example": "The traveler wore a cloak.",
+    "exampleTamil": "பயணி ஒரு மேலங்கி அணிந்திருந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "oke_014",
+    "name": "evoke",
+    "tamilMeaning": "தூண்டு / நினைவூட்டு",
+    "example": "The song evoked happy memories.",
+    "exampleTamil": "அந்தப் பாடல் இனிய நினைவுகளைத் தூண்டியது.",
+    "audio": ""
+  },
+  {
+    "id": "oke_015",
+    "name": "provoke",
+    "tamilMeaning": "தூண்டிவிடு",
+    "example": "His words provoked anger.",
+    "exampleTamil": "அவரது வார்த்தைகள் கோபத்தைத் தூண்டின.",
+    "audio": ""
+  }
+]

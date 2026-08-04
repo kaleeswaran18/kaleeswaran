@@ -1,0 +1,42 @@
+[
+  {
+    "id": "elbow_001",
+    "name": "bend",
+    "tamilMeaning": "முழங்கையை மடி",
+    "example": "Bend your elbow slowly.",
+    "exampleTamil": "உங்கள் முழங்கையை மெதுவாக மடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "elbow_002",
+    "name": "straighten",
+    "tamilMeaning": "முழங்கையை நேராக்கு",
+    "example": "Straighten your elbow.",
+    "exampleTamil": "உங்கள் முழங்கையை நேராக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "elbow_003",
+    "name": "flex",
+    "tamilMeaning": "முழங்கையை மடக்கு",
+    "example": "Flex your elbow gently.",
+    "exampleTamil": "உங்கள் முழங்கையை மெதுவாக மடக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "elbow_004",
+    "name": "extend",
+    "tamilMeaning": "முழங்கையை நீட்டு",
+    "example": "Extend your elbow fully.",
+    "exampleTamil": "உங்கள் முழங்கையை முழுவதுமாக நீட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "elbow_005",
+    "name": "rest",
+    "tamilMeaning": "முழங்கையை ஊன்றி வை",
+    "example": "Rest your elbow on the table.",
+    "exampleTamil": "உங்கள் முழங்கையை மேசையின் மீது ஊன்றி வையுங்கள்.",
+    "audio": ""
+  }
+]

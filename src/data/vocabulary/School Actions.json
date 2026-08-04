@@ -1,0 +1,82 @@
+[
+  {
+    "id": "school_001",
+    "name": "attend",
+    "tamilMeaning": "வருகை தா",
+    "example": "Attend school every day.",
+    "exampleTamil": "தினமும் பள்ளிக்கு வருகை தாருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "school_002",
+    "name": "enroll",
+    "tamilMeaning": "சேர்க்கை பெறு",
+    "example": "She enrolled in a new school.",
+    "exampleTamil": "அவள் புதிய பள்ளியில் சேர்ந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "school_003",
+    "name": "participate",
+    "tamilMeaning": "பங்கேறு",
+    "example": "Participate in the science fair.",
+    "exampleTamil": "அறிவியல் கண்காட்சியில் பங்கேற்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "school_004",
+    "name": "recite",
+    "tamilMeaning": "ஒப்புவி",
+    "example": "Recite the poem in class.",
+    "exampleTamil": "வகுப்பில் கவிதையை ஒப்புவியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "school_005",
+    "name": "graduate",
+    "tamilMeaning": "பட்டம் பெறு",
+    "example": "She graduated from high school.",
+    "exampleTamil": "அவள் உயர்நிலைப் பள்ளியில் பட்டம் பெற்றாள்.",
+    "audio": ""
+  },
+  {
+    "id": "school_006",
+    "name": "revise",
+    "tamilMeaning": "மறுபடி படி",
+    "example": "Revise the lessons before the exam.",
+    "exampleTamil": "தேர்வுக்கு முன் பாடங்களை மறுபடி படியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "school_007",
+    "name": "submit",
+    "tamilMeaning": "ஒப்படை",
+    "example": "Submit your homework on time.",
+    "exampleTamil": "உங்கள் வீட்டுப்பாடத்தை சரியான நேரத்தில் ஒப்படையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "school_008",
+    "name": "assemble",
+    "tamilMeaning": "காலை கூட்டத்தில் ஒன்று சேர்",
+    "example": "Students assembled in the playground.",
+    "exampleTamil": "மாணவர்கள் விளையாட்டு மைதானத்தில் ஒன்று சேர்ந்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "school_009",
+    "name": "raise",
+    "tamilMeaning": "கையை உயர்த்து",
+    "example": "Raise your hand before speaking.",
+    "exampleTamil": "பேசுவதற்கு முன் உங்கள் கையை உயர்த்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "school_010",
+    "name": "graduate",
+    "tamilMeaning": "படிப்பை முடித்து பட்டம் பெறு",
+    "example": "He graduated with good marks.",
+    "exampleTamil": "அவர் நல்ல மதிப்பெண்களுடன் படிப்பை முடித்தார்.",
+    "audio": ""
+  }
+]

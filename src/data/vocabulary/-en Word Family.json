@@ -1,0 +1,122 @@
+[
+  {
+    "id": "en_001",
+    "name": "den",
+    "tamilMeaning": "விலங்கின் இருப்பிடம்",
+    "example": "The lion rested in its den.",
+    "exampleTamil": "சிங்கம் தனது இருப்பிடத்தில் ஓய்வெடுத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "en_002",
+    "name": "fen",
+    "tamilMeaning": "சதுப்பு நிலம்",
+    "example": "Many birds live in the fen.",
+    "exampleTamil": "பல பறவைகள் சதுப்பு நிலத்தில் வாழ்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "en_003",
+    "name": "hen",
+    "tamilMeaning": "பெட்டைக்கோழி",
+    "example": "The hen laid an egg.",
+    "exampleTamil": "பெட்டைக்கோழி ஒரு முட்டை இட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "en_004",
+    "name": "ken",
+    "tamilMeaning": "அறிவு / புரிதல்",
+    "example": "That is beyond my ken.",
+    "exampleTamil": "அது என் புரிதலுக்கு அப்பாற்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "en_005",
+    "name": "men",
+    "tamilMeaning": "ஆண்கள்",
+    "example": "The men worked together.",
+    "exampleTamil": "ஆண்கள் ஒன்றாக வேலை செய்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "en_006",
+    "name": "pen",
+    "tamilMeaning": "பேனா",
+    "example": "This is my blue pen.",
+    "exampleTamil": "இது என் நீல நிற பேனா.",
+    "audio": ""
+  },
+  {
+    "id": "en_007",
+    "name": "ten",
+    "tamilMeaning": "பத்து",
+    "example": "I have ten pencils.",
+    "exampleTamil": "என்னிடம் பத்து பென்சில்கள் உள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "en_008",
+    "name": "then",
+    "tamilMeaning": "பிறகு",
+    "example": "Finish your homework, then play.",
+    "exampleTamil": "முதலில் வீட்டுப்பாடத்தை முடி, பிறகு விளையாடு.",
+    "audio": ""
+  },
+  {
+    "id": "en_009",
+    "name": "when",
+    "tamilMeaning": "எப்போது",
+    "example": "When will you come?",
+    "exampleTamil": "நீ எப்போது வருவாய்?",
+    "audio": ""
+  },
+  {
+    "id": "en_010",
+    "name": "wren",
+    "tamilMeaning": "ஒரு சிறிய பறவை",
+    "example": "The wren sang beautifully.",
+    "exampleTamil": "அந்த சிறிய பறவை அழகாகப் பாடியது.",
+    "audio": ""
+  },
+  {
+    "id": "en_011",
+    "name": "green",
+    "tamilMeaning": "பச்சை",
+    "example": "The leaves are green.",
+    "exampleTamil": "இலைகள் பச்சை நிறமாக உள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "en_012",
+    "name": "screen",
+    "tamilMeaning": "திரை",
+    "example": "The screen is very bright.",
+    "exampleTamil": "திரை மிகவும் பிரகாசமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "en_013",
+    "name": "queen",
+    "tamilMeaning": "ராணி",
+    "example": "The queen greeted the people.",
+    "exampleTamil": "ராணி மக்களை வரவேற்றார்.",
+    "audio": ""
+  },
+  {
+    "id": "en_014",
+    "name": "garden",
+    "tamilMeaning": "தோட்டம்",
+    "example": "The children played in the garden.",
+    "exampleTamil": "குழந்தைகள் தோட்டத்தில் விளையாடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "en_015",
+    "name": "golden",
+    "tamilMeaning": "தங்க நிறமான",
+    "example": "The sky looked golden.",
+    "exampleTamil": "வானம் தங்க நிறமாகத் தெரிந்தது.",
+    "audio": ""
+  }
+]

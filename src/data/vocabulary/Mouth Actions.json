@@ -1,0 +1,122 @@
+[
+  {
+    "id": "mouth_001",
+    "name": "eat",
+    "tamilMeaning": "சாப்பிடு",
+    "example": "Eat your breakfast.",
+    "exampleTamil": "உங்கள் காலை உணவை சாப்பிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_002",
+    "name": "drink",
+    "tamilMeaning": "குடி",
+    "example": "Drink plenty of water.",
+    "exampleTamil": "நிறைய தண்ணீர் குடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_003",
+    "name": "chew",
+    "tamilMeaning": "மென்று சாப்பிடு",
+    "example": "Chew your food well.",
+    "exampleTamil": "உணவை நன்றாக மென்று சாப்பிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_004",
+    "name": "bite",
+    "tamilMeaning": "கடி",
+    "example": "Don't bite your nails.",
+    "exampleTamil": "உங்கள் நகங்களைக் கடிக்காதீர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_005",
+    "name": "swallow",
+    "tamilMeaning": "விழுங்கு",
+    "example": "Swallow the medicine with water.",
+    "exampleTamil": "மருந்தை தண்ணீருடன் விழுங்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_006",
+    "name": "lick",
+    "tamilMeaning": "நக்கு",
+    "example": "The cat licked its paw.",
+    "exampleTamil": "பூனை தனது காலைப் நக்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_007",
+    "name": "sip",
+    "tamilMeaning": "சிறிது சிறிதாக குடி",
+    "example": "Sip the hot tea slowly.",
+    "exampleTamil": "சூடான தேநீரை மெதுவாகக் குடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_008",
+    "name": "suck",
+    "tamilMeaning": "உறிஞ்சு",
+    "example": "The baby sucked the bottle.",
+    "exampleTamil": "குழந்தை பால் பாட்டிலை உறிஞ்சியது.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_009",
+    "name": "blow",
+    "tamilMeaning": "ஊது",
+    "example": "Blow out the candles.",
+    "exampleTamil": "மெழுகுவர்த்திகளை ஊதி அணையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_010",
+    "name": "kiss",
+    "tamilMeaning": "முத்தமிடு",
+    "example": "The mother kissed her baby.",
+    "exampleTamil": "அம்மா தனது குழந்தைக்கு முத்தமிட்டார்.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_011",
+    "name": "smile",
+    "tamilMeaning": "புன்னகை செய்",
+    "example": "Smile at everyone.",
+    "exampleTamil": "அனைவரிடமும் புன்னகையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_012",
+    "name": "laugh",
+    "tamilMeaning": "சிரி",
+    "example": "The children laughed happily.",
+    "exampleTamil": "குழந்தைகள் மகிழ்ச்சியாகச் சிரித்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_013",
+    "name": "cry",
+    "tamilMeaning": "அழு",
+    "example": "The baby began to cry.",
+    "exampleTamil": "குழந்தை அழத் தொடங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_014",
+    "name": "yawn",
+    "tamilMeaning": "கொட்டாவி விடு",
+    "example": "He yawned before bed.",
+    "exampleTamil": "தூங்குவதற்கு முன் அவர் கொட்டாவி விட்டார்.",
+    "audio": ""
+  },
+  {
+    "id": "mouth_015",
+    "name": "whistle",
+    "tamilMeaning": "விசில் அடி",
+    "example": "He whistled a happy tune.",
+    "exampleTamil": "அவர் மகிழ்ச்சியாக விசில் அடித்தார்.",
+    "audio": ""
+  }
+]

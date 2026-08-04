@@ -1,0 +1,154 @@
+[
+  {
+    "id": "ank_001",
+    "name": "ank",
+    "tamilMeaning": "❌ தனியாக பயன்படும் ஆங்கிலச் சொல் அல்ல",
+    "example": "",
+    "exampleTamil": "",
+    "audio": ""
+  },
+  {
+    "id": "ank_002",
+    "name": "bank",
+    "tamilMeaning": "வங்கி / கரை",
+    "example": "She deposited money in the bank.",
+    "exampleTamil": "அவள் வங்கியில் பணம் செலுத்தினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ank_003",
+    "name": "dank",
+    "tamilMeaning": "ஈரப்பதமான",
+    "example": "The cave was dark and dank.",
+    "exampleTamil": "அந்த குகை இருண்டும் ஈரப்பதமாகவும் இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ank_004",
+    "name": "frank",
+    "tamilMeaning": "வெளிப்படையான",
+    "example": "She gave a frank opinion.",
+    "exampleTamil": "அவள் வெளிப்படையான கருத்தைக் கூறினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ank_005",
+    "name": "hank",
+    "tamilMeaning": "நூல் சுருள்",
+    "example": "He bought a hank of rope.",
+    "exampleTamil": "அவர் ஒரு கயிறு சுருளை வாங்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ank_006",
+    "name": "rank",
+    "tamilMeaning": "தரம் / பதவி",
+    "example": "She secured first rank.",
+    "exampleTamil": "அவள் முதல் தரவரிசையைப் பெற்றாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ank_007",
+    "name": "tank",
+    "tamilMeaning": "தொட்டி",
+    "example": "The water tank is full.",
+    "exampleTamil": "தண்ணீர் தொட்டி நிரம்பியுள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ank_008",
+    "name": "yank",
+    "tamilMeaning": "பலமாக இழு",
+    "example": "Don't yank the cable.",
+    "exampleTamil": "கம்பியை பலமாக இழுக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ank_009",
+    "name": "blank",
+    "tamilMeaning": "வெற்று",
+    "example": "Write your name in the blank space.",
+    "exampleTamil": "வெற்றிடத்தில் உங்கள் பெயரை எழுதுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ank_010",
+    "name": "clank",
+    "tamilMeaning": "கணகண ஒலி",
+    "example": "The chains made a loud clank.",
+    "exampleTamil": "சங்கிலிகள் கணகண என்று ஒலித்தன.",
+    "audio": ""
+  },
+  {
+    "id": "ank_011",
+    "name": "crank",
+    "tamilMeaning": "கைப்பிடி / சுழற்று",
+    "example": "Turn the crank slowly.",
+    "exampleTamil": "கைப்பிடியை மெதுவாகச் சுழற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ank_012",
+    "name": "drank",
+    "tamilMeaning": "குடித்தான்",
+    "example": "He drank a glass of milk.",
+    "exampleTamil": "அவர் ஒரு குவளை பால் குடித்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ank_013",
+    "name": "flank",
+    "tamilMeaning": "பக்கவாட்டு",
+    "example": "The horse was injured on its flank.",
+    "exampleTamil": "குதிரையின் பக்கவாட்டில் காயம் ஏற்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ank_014",
+    "name": "plank",
+    "tamilMeaning": "பலகை",
+    "example": "Walk carefully on the wooden plank.",
+    "exampleTamil": "மரப்பலகையில் கவனமாக நடக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "ank_015",
+    "name": "prank",
+    "tamilMeaning": "குறும்பு",
+    "example": "The children played a harmless prank.",
+    "exampleTamil": "குழந்தைகள் தீங்கில்லாத ஒரு குறும்பு செய்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ank_016",
+    "name": "shank",
+    "tamilMeaning": "காலின் கீழ்ப்பகுதி",
+    "example": "The horse injured its shank.",
+    "exampleTamil": "குதிரையின் காலின் கீழ்ப்பகுதியில் காயம் ஏற்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ank_017",
+    "name": "spank",
+    "tamilMeaning": "அடி",
+    "example": "Parents should not spank children.",
+    "exampleTamil": "பெற்றோர் குழந்தைகளை அடிக்கக் கூடாது.",
+    "audio": ""
+  },
+  {
+    "id": "ank_018",
+    "name": "thank",
+    "tamilMeaning": "நன்றி கூறு",
+    "example": "Please thank your teacher.",
+    "exampleTamil": "தயவுசெய்து உங்கள் ஆசிரியருக்கு நன்றி கூறுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ank_019",
+    "name": "swank",
+    "tamilMeaning": "ஆடம்பரம்",
+    "example": "The hotel looked very swank.",
+    "exampleTamil": "அந்த ஹோட்டல் மிகவும் ஆடம்பரமாக இருந்தது.",
+    "audio": ""
+  }
+]

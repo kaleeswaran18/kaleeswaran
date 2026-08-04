@@ -1,0 +1,146 @@
+[
+  {
+    "id": "one_001",
+    "name": "bone",
+    "tamilMeaning": "எலும்பு",
+    "example": "The dog buried a bone.",
+    "exampleTamil": "நாய் ஒரு எலும்பைப் புதைத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "one_002",
+    "name": "cone",
+    "tamilMeaning": "கூம்பு வடிவம்",
+    "example": "She ate an ice cream cone.",
+    "exampleTamil": "அவள் ஐஸ்கிரீம் கோனை சாப்பிட்டாள்.",
+    "audio": ""
+  },
+  {
+    "id": "one_003",
+    "name": "done",
+    "tamilMeaning": "முடிந்தது",
+    "example": "My homework is done.",
+    "exampleTamil": "என் வீட்டுப்பாடம் முடிந்துவிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "one_004",
+    "name": "gone",
+    "tamilMeaning": "சென்றுவிட்டது",
+    "example": "The bus has gone.",
+    "exampleTamil": "பேருந்து சென்றுவிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "one_005",
+    "name": "lone",
+    "tamilMeaning": "தனியான",
+    "example": "A lone tree stood in the field.",
+    "exampleTamil": "வயலில் ஒரு தனி மரம் நின்றது.",
+    "audio": ""
+  },
+  {
+    "id": "one_006",
+    "name": "none",
+    "tamilMeaning": "ஒன்றுமில்லை",
+    "example": "None of the answers is correct.",
+    "exampleTamil": "பதில்களில் எதுவும் சரியல்ல.",
+    "audio": ""
+  },
+  {
+    "id": "one_007",
+    "name": "tone",
+    "tamilMeaning": "தொனி",
+    "example": "Use a polite tone.",
+    "exampleTamil": "மரியாதையான தொனியைப் பயன்படுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "one_008",
+    "name": "zone",
+    "tamilMeaning": "பகுதி",
+    "example": "This is a school zone.",
+    "exampleTamil": "இது பள்ளிப் பகுதி.",
+    "audio": ""
+  },
+  {
+    "id": "one_009",
+    "name": "phone",
+    "tamilMeaning": "தொலைபேசி",
+    "example": "My phone is ringing.",
+    "exampleTamil": "என் தொலைபேசி ஒலிக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "one_010",
+    "name": "stone",
+    "tamilMeaning": "கல்",
+    "example": "The boy threw a stone.",
+    "exampleTamil": "சிறுவன் ஒரு கல்லை எறிந்தான்.",
+    "audio": ""
+  },
+  {
+    "id": "one_011",
+    "name": "clone",
+    "tamilMeaning": "நகல் உருவாக்கு",
+    "example": "Scientists cloned the plant.",
+    "exampleTamil": "அறிவியலாளர்கள் அந்த செடியை நகலாக உருவாக்கினர்.",
+    "audio": ""
+  },
+  {
+    "id": "one_012",
+    "name": "drone",
+    "tamilMeaning": "ட்ரோன்",
+    "example": "The drone captured aerial photos.",
+    "exampleTamil": "ட்ரோன் வான்வழி புகைப்படங்களை எடுத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "one_013",
+    "name": "prone",
+    "tamilMeaning": "எளிதில் பாதிக்கப்படக்கூடிய",
+    "example": "Children are prone to colds.",
+    "exampleTamil": "குழந்தைகள் எளிதில் சளி பிடிக்கக்கூடியவர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "one_014",
+    "name": "throne",
+    "tamilMeaning": "அரியணை",
+    "example": "The king sat on the throne.",
+    "exampleTamil": "அரசர் அரியணையில் அமர்ந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "one_015",
+    "name": "alone",
+    "tamilMeaning": "தனியாக",
+    "example": "She stayed home alone.",
+    "exampleTamil": "அவள் வீட்டில் தனியாக இருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "one_016",
+    "name": "anyone",
+    "tamilMeaning": "யாராவது",
+    "example": "Can anyone help me?",
+    "exampleTamil": "யாராவது எனக்கு உதவ முடியுமா?",
+    "audio": ""
+  },
+  {
+    "id": "one_017",
+    "name": "everyone",
+    "tamilMeaning": "அனைவரும்",
+    "example": "Everyone enjoyed the show.",
+    "exampleTamil": "அனைவரும் நிகழ்ச்சியை ரசித்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "one_018",
+    "name": "someone",
+    "tamilMeaning": "யாரோ ஒருவர்",
+    "example": "Someone knocked on the door.",
+    "exampleTamil": "யாரோ ஒருவர் கதவைத் தட்டினார்.",
+    "audio": ""
+  }
+]

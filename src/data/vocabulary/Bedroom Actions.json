@@ -1,0 +1,66 @@
+[
+  {
+    "id": "bedroom_001",
+    "name": "make the bed",
+    "tamilMeaning": "படுக்கையை ஒழுங்குபடுத்து",
+    "example": "Make the bed every morning.",
+    "exampleTamil": "தினமும் காலை படுக்கையை ஒழுங்குபடுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bedroom_002",
+    "name": "tuck in",
+    "tamilMeaning": "போர்வையை நன்றாக போர்த்து வை",
+    "example": "She tucked in the child before bedtime.",
+    "exampleTamil": "தூங்குவதற்கு முன் அவள் குழந்தைக்கு போர்வையை நன்றாக போர்த்தினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "bedroom_003",
+    "name": "change",
+    "tamilMeaning": "மாற்று",
+    "example": "Change the bed sheets.",
+    "exampleTamil": "படுக்கை விரிப்புகளை மாற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bedroom_004",
+    "name": "spread",
+    "tamilMeaning": "விரி",
+    "example": "Spread the blanket on the bed.",
+    "exampleTamil": "போர்வையை படுக்கையில் விரியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bedroom_005",
+    "name": "cover",
+    "tamilMeaning": "மூடு",
+    "example": "Cover yourself with a blanket.",
+    "exampleTamil": "போர்வையால் உங்களை மூடிக்கொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bedroom_006",
+    "name": "set",
+    "tamilMeaning": "அமை",
+    "example": "Set the alarm before sleeping.",
+    "exampleTamil": "தூங்குவதற்கு முன் அலாரத்தை அமைக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bedroom_007",
+    "name": "draw",
+    "tamilMeaning": "இழுத்து மூடு",
+    "example": "Draw the curtains before bedtime.",
+    "exampleTamil": "தூங்குவதற்கு முன் திரைச்சீலைகளை இழுத்து மூடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bedroom_008",
+    "name": "open",
+    "tamilMeaning": "திற",
+    "example": "Open the bedroom window.",
+    "exampleTamil": "படுக்கையறை ஜன்னலைத் திறக்கவும்.",
+    "audio": ""
+  }
+]

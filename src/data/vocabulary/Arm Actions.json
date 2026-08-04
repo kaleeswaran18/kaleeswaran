@@ -1,0 +1,74 @@
+[
+  {
+    "id": "arm_001",
+    "name": "lift",
+    "tamilMeaning": "கையை உயர்த்து",
+    "example": "Lift your arm slowly.",
+    "exampleTamil": "உங்கள் கையை மெதுவாக உயர்த்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "arm_002",
+    "name": "lower",
+    "tamilMeaning": "கையை இறக்கு",
+    "example": "Lower your arm gently.",
+    "exampleTamil": "உங்கள் கையை மெதுவாக இறக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "arm_003",
+    "name": "stretch",
+    "tamilMeaning": "கையை நீட்டு",
+    "example": "Stretch your arm forward.",
+    "exampleTamil": "உங்கள் கையை முன்னால் நீட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "arm_004",
+    "name": "bend",
+    "tamilMeaning": "கையை மடி",
+    "example": "Bend your arm at the elbow.",
+    "exampleTamil": "உங்கள் கையை முழங்கையில் மடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "arm_005",
+    "name": "extend",
+    "tamilMeaning": "கையை முழுவதும் நீட்டு",
+    "example": "Extend your arm to reach the book.",
+    "exampleTamil": "புத்தகத்தை எடுக்க உங்கள் கையை முழுவதும் நீட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "arm_006",
+    "name": "swing",
+    "tamilMeaning": "கையை வீசி அசை",
+    "example": "Swing your arms while walking.",
+    "exampleTamil": "நடக்கும்போது உங்கள் கைகளை வீசி அசையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "arm_007",
+    "name": "cross",
+    "tamilMeaning": "கைகளை குறுக்காக வை",
+    "example": "He crossed his arms.",
+    "exampleTamil": "அவர் தனது கைகளை குறுக்காக வைத்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "arm_008",
+    "name": "fold",
+    "tamilMeaning": "கைகளை மடக்கு",
+    "example": "Fold your arms and wait.",
+    "exampleTamil": "உங்கள் கைகளை மடக்கி காத்திருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "arm_009",
+    "name": "wave",
+    "tamilMeaning": "கையை அசைத்து வாழ்த்து",
+    "example": "She waved her arm to say goodbye.",
+    "exampleTamil": "விடைபெற அவள் கையை அசைத்தாள்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "exercise_001",
+    "name": "exercise",
+    "tamilMeaning": "உடற்பயிற்சி செய்",
+    "example": "Exercise every day.",
+    "exampleTamil": "தினமும் உடற்பயிற்சி செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "exercise_002",
+    "name": "warm up",
+    "tamilMeaning": "உடலை தயார் செய்",
+    "example": "Warm up before exercising.",
+    "exampleTamil": "உடற்பயிற்சிக்கு முன் உடலை தயார் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "exercise_003",
+    "name": "push up",
+    "tamilMeaning": "புஷ்-அப் செய்",
+    "example": "He did twenty push-ups.",
+    "exampleTamil": "அவர் இருபது புஷ்-அப் செய்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "exercise_004",
+    "name": "plank",
+    "tamilMeaning": "பிளாங்க் நிலையைப் பிடி",
+    "example": "Hold a plank for one minute.",
+    "exampleTamil": "ஒரு நிமிடம் பிளாங்க் நிலையில் இருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "exercise_005",
+    "name": "lunge",
+    "tamilMeaning": "லஞ்ச் பயிற்சி செய்",
+    "example": "Do ten lunges on each leg.",
+    "exampleTamil": "ஒவ்வொரு காலிலும் பத்து லஞ்ச் பயிற்சிகள் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "exercise_006",
+    "name": "lift weights",
+    "tamilMeaning": "எடையைத் தூக்கு",
+    "example": "She lifts weights at the gym.",
+    "exampleTamil": "அவள் உடற்பயிற்சி கூடத்தில் எடையைத் தூக்குகிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "exercise_007",
+    "name": "cool down",
+    "tamilMeaning": "உடலை தளர்த்து",
+    "example": "Cool down after your workout.",
+    "exampleTamil": "உடற்பயிற்சிக்குப் பிறகு உடலை தளர்த்துங்கள்.",
+    "audio": ""
+  }
+]

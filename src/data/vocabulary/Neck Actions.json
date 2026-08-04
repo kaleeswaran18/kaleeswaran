@@ -1,0 +1,42 @@
+[
+  {
+    "id": "neck_001",
+    "name": "bend",
+    "tamilMeaning": "கழுத்தை வளை",
+    "example": "Bend your neck slowly.",
+    "exampleTamil": "உங்கள் கழுத்தை மெதுவாக வளையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "neck_002",
+    "name": "stretch",
+    "tamilMeaning": "கழுத்தை நீட்டு",
+    "example": "Stretch your neck gently.",
+    "exampleTamil": "உங்கள் கழுத்தை மெதுவாக நீட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "neck_003",
+    "name": "rotate",
+    "tamilMeaning": "கழுத்தைச் சுழற்று",
+    "example": "Rotate your neck carefully.",
+    "exampleTamil": "உங்கள் கழுத்தை கவனமாகச் சுழற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "neck_004",
+    "name": "twist",
+    "tamilMeaning": "கழுத்தைத் திருக்கு",
+    "example": "Don't twist your neck suddenly.",
+    "exampleTamil": "உங்கள் கழுத்தை திடீரெனத் திருக்காதீர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "neck_005",
+    "name": "crane",
+    "tamilMeaning": "கழுத்தை நீட்டி எட்டிப் பார்",
+    "example": "He craned his neck to see the stage.",
+    "exampleTamil": "மேடையைப் பார்க்க அவர் கழுத்தை நீட்டினார்.",
+    "audio": ""
+  }
+]

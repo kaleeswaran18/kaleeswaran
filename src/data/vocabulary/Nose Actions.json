@@ -1,0 +1,74 @@
+[
+  {
+    "id": "nose_001",
+    "name": "smell",
+    "tamilMeaning": "முகர்",
+    "example": "Smell the flowers.",
+    "exampleTamil": "பூக்களை முகர்ந்து பாருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "nose_002",
+    "name": "sniff",
+    "tamilMeaning": "மோப்பம் பிடி",
+    "example": "The dog sniffed the bag.",
+    "exampleTamil": "நாய் பையை மோப்பம் பிடித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "nose_003",
+    "name": "breathe",
+    "tamilMeaning": "மூச்சுவிடு",
+    "example": "Breathe through your nose.",
+    "exampleTamil": "மூக்கின் வழியாக மூச்சுவிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "nose_004",
+    "name": "inhale",
+    "tamilMeaning": "மூச்சை உள்ளிழு",
+    "example": "Inhale deeply.",
+    "exampleTamil": "ஆழமாக மூச்சை உள்ளிழுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "nose_005",
+    "name": "exhale",
+    "tamilMeaning": "மூச்சை வெளியே விடு",
+    "example": "Exhale slowly.",
+    "exampleTamil": "மூச்சை மெதுவாக வெளியே விடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "nose_006",
+    "name": "sneeze",
+    "tamilMeaning": "தும்மு",
+    "example": "He sneezed loudly.",
+    "exampleTamil": "அவர் சத்தமாக தும்மினார்.",
+    "audio": ""
+  },
+  {
+    "id": "nose_007",
+    "name": "snort",
+    "tamilMeaning": "மூக்கால் சத்தமாக மூச்சுவிடு",
+    "example": "The horse snorted loudly.",
+    "exampleTamil": "குதிரை மூக்கால் சத்தமாக மூச்சுவிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "nose_008",
+    "name": "blow",
+    "tamilMeaning": "மூக்கைச் சிந்து",
+    "example": "Blow your nose with a tissue.",
+    "exampleTamil": "டிஷ்யூவால் உங்கள் மூக்கைச் சிந்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "nose_009",
+    "name": "flare",
+    "tamilMeaning": "மூக்குத்துளைகளை விரிவாக்கு",
+    "example": "His nostrils flared in anger.",
+    "exampleTamil": "கோபத்தில் அவரது மூக்குத்துளைகள் விரிந்தன.",
+    "audio": ""
+  }
+]

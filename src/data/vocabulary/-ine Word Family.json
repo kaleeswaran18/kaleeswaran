@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ine_001",
+    "name": "fine",
+    "tamilMeaning": "நல்ல / சிறந்த",
+    "example": "I feel fine today.",
+    "exampleTamil": "நான் இன்று நன்றாக இருக்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ine_002",
+    "name": "line",
+    "tamilMeaning": "கோடு",
+    "example": "Draw a straight line.",
+    "exampleTamil": "ஒரு நேரான கோட்டை வரையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ine_003",
+    "name": "mine",
+    "tamilMeaning": "என்னுடையது",
+    "example": "This book is mine.",
+    "exampleTamil": "இந்த புத்தகம் என்னுடையது.",
+    "audio": ""
+  },
+  {
+    "id": "ine_004",
+    "name": "nine",
+    "tamilMeaning": "ஒன்பது",
+    "example": "There are nine apples.",
+    "exampleTamil": "ஒன்பது ஆப்பிள்கள் உள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "ine_005",
+    "name": "pine",
+    "tamilMeaning": "பைன் மரம்",
+    "example": "The pine tree is tall.",
+    "exampleTamil": "பைன் மரம் உயரமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ine_006",
+    "name": "vine",
+    "tamilMeaning": "கொடி",
+    "example": "The vine climbed the fence.",
+    "exampleTamil": "கொடி வேலியில் படர்ந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ine_007",
+    "name": "dine",
+    "tamilMeaning": "உணவருந்து",
+    "example": "We dined together.",
+    "exampleTamil": "நாங்கள் ஒன்றாக உணவருந்தினோம்.",
+    "audio": ""
+  },
+  {
+    "id": "ine_008",
+    "name": "shine",
+    "tamilMeaning": "ஒளிர்",
+    "example": "The stars shine brightly.",
+    "exampleTamil": "நட்சத்திரங்கள் பிரகாசமாக ஒளிர்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "ine_009",
+    "name": "spine",
+    "tamilMeaning": "முதுகெலும்பு",
+    "example": "The spine supports the body.",
+    "exampleTamil": "முதுகெலும்பு உடலைத் தாங்குகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ine_010",
+    "name": "twine",
+    "tamilMeaning": "கயிறு",
+    "example": "Tie the box with twine.",
+    "exampleTamil": "பெட்டியை கயிறால் கட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ine_011",
+    "name": "whine",
+    "tamilMeaning": "முணுமுணு",
+    "example": "Don't whine about small problems.",
+    "exampleTamil": "சிறிய விஷயங்களுக்கு முணுமுணுக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ine_012",
+    "name": "brine",
+    "tamilMeaning": "உப்புநீர்",
+    "example": "The fish was kept in brine.",
+    "exampleTamil": "மீன் உப்புநீரில் வைக்கப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ine_013",
+    "name": "decline",
+    "tamilMeaning": "குறை / மறுத்துவிடு",
+    "example": "He declined the invitation.",
+    "exampleTamil": "அவர் அழைப்பை மறுத்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ine_014",
+    "name": "outline",
+    "tamilMeaning": "வெளிக்கோடு",
+    "example": "Draw the outline first.",
+    "exampleTamil": "முதலில் வெளிக்கோட்டை வரையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ine_015",
+    "name": "airline",
+    "tamilMeaning": "விமான நிறுவனம்",
+    "example": "The airline announced the flight.",
+    "exampleTamil": "விமான நிறுவனம் பயண அறிவிப்பை வெளியிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ine_016",
+    "name": "guideline",
+    "tamilMeaning": "வழிகாட்டுதல்",
+    "example": "Follow the safety guidelines.",
+    "exampleTamil": "பாதுகாப்பு வழிகாட்டுதல்களைப் பின்பற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ine_017",
+    "name": "headline",
+    "tamilMeaning": "தலைப்பு செய்தி",
+    "example": "The headline caught my attention.",
+    "exampleTamil": "தலைப்பு செய்தி என் கவனத்தை ஈர்த்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ine_018",
+    "name": "lifeline",
+    "tamilMeaning": "உயிர்காக்கும் உதவி",
+    "example": "The bridge became a lifeline for the village.",
+    "exampleTamil": "அந்த பாலம் கிராமத்திற்கு உயிர்காக்கும் உதவியாக அமைந்தது.",
+    "audio": ""
+  }
+]

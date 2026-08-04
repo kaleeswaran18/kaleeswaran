@@ -1,0 +1,98 @@
+[
+  {
+    "id": "eye_001",
+    "name": "look",
+    "tamilMeaning": "பார்",
+    "example": "Look at the board.",
+    "exampleTamil": "பலகையைப் பாருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eye_002",
+    "name": "watch",
+    "tamilMeaning": "கவனித்துப் பார்",
+    "example": "Watch the movie carefully.",
+    "exampleTamil": "திரைப்படத்தை கவனமாகப் பாருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eye_003",
+    "name": "stare",
+    "tamilMeaning": "உற்றுப் பார்",
+    "example": "Don't stare at people.",
+    "exampleTamil": "மக்களை உற்றுப் பார்க்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "eye_004",
+    "name": "glance",
+    "tamilMeaning": "ஒரு பார்வை விடு",
+    "example": "She glanced at her watch.",
+    "exampleTamil": "அவள் தனது கடிகாரத்தை ஒரு பார்வை பார்த்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "eye_005",
+    "name": "peek",
+    "tamilMeaning": "எட்டிப் பார்",
+    "example": "Don't peek through the door.",
+    "exampleTamil": "கதவு வழியாக எட்டிப் பார்க்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "eye_006",
+    "name": "gaze",
+    "tamilMeaning": "உற்றுநோக்கு",
+    "example": "They gazed at the stars.",
+    "exampleTamil": "அவர்கள் நட்சத்திரங்களை உற்றுநோக்கினர்.",
+    "audio": ""
+  },
+  {
+    "id": "eye_007",
+    "name": "blink",
+    "tamilMeaning": "கண் இமை",
+    "example": "Blink your eyes gently.",
+    "exampleTamil": "உங்கள் கண்களை மெதுவாக இமையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eye_008",
+    "name": "wink",
+    "tamilMeaning": "கண் சிமிட்டு",
+    "example": "She winked at her friend.",
+    "exampleTamil": "அவள் தனது நண்பருக்குக் கண் சிமிட்டினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "eye_009",
+    "name": "squint",
+    "tamilMeaning": "கண்களைச் சுருக்கு",
+    "example": "He squinted in the bright sunlight.",
+    "exampleTamil": "கடுமையான வெயிலில் அவர் கண்களைச் சுருக்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "eye_010",
+    "name": "ogle",
+    "tamilMeaning": "ஆசையுடன் உற்றுப் பார்",
+    "example": "He ogled the expensive car.",
+    "exampleTamil": "அவர் விலையுயர்ந்த காரை ஆசையுடன் உற்றுப் பார்த்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "eye_011",
+    "name": "gawk",
+    "tamilMeaning": "வியப்புடன் வெறித்துப் பார்",
+    "example": "The tourists gawked at the waterfall.",
+    "exampleTamil": "சுற்றுலாப் பயணிகள் நீர்வீழ்ச்சியை வியப்புடன் வெறித்துப் பார்த்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "eye_012",
+    "name": "glare",
+    "tamilMeaning": "கோபமாக முறைத்துப் பார்",
+    "example": "She glared at him.",
+    "exampleTamil": "அவள் அவரை கோபமாக முறைத்துப் பார்த்தாள்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ate_001",
+    "name": "ate",
+    "tamilMeaning": "சாப்பிட்டான் / சாப்பிட்டது",
+    "example": "She ate an apple.",
+    "exampleTamil": "அவள் ஒரு ஆப்பிளை சாப்பிட்டாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_002",
+    "name": "date",
+    "tamilMeaning": "தேதி",
+    "example": "Write today's date.",
+    "exampleTamil": "இன்றைய தேதியை எழுதுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_003",
+    "name": "fate",
+    "tamilMeaning": "விதி",
+    "example": "No one knows their fate.",
+    "exampleTamil": "யாருக்கும் தங்கள் விதி தெரியாது.",
+    "audio": ""
+  },
+  {
+    "id": "ate_004",
+    "name": "gate",
+    "tamilMeaning": "வாயில்",
+    "example": "The gate is open.",
+    "exampleTamil": "வாயில் திறந்துள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ate_005",
+    "name": "hate",
+    "tamilMeaning": "வெறுப்பு",
+    "example": "Do not hate anyone.",
+    "exampleTamil": "யாரையும் வெறுக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ate_006",
+    "name": "late",
+    "tamilMeaning": "தாமதமான",
+    "example": "He was late for school.",
+    "exampleTamil": "அவர் பள்ளிக்கு தாமதமாக வந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_007",
+    "name": "mate",
+    "tamilMeaning": "நண்பர் / துணைவர்",
+    "example": "He is my classmate.",
+    "exampleTamil": "அவர் என் வகுப்புத் தோழர்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_008",
+    "name": "rate",
+    "tamilMeaning": "விகிதம் / மதிப்பீடு செய்",
+    "example": "Please rate this app.",
+    "exampleTamil": "இந்த செயலிக்கு மதிப்பீடு அளிக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_009",
+    "name": "safe",
+    "tamilMeaning": "பாதுகாப்பான",
+    "example": "This place is safe.",
+    "exampleTamil": "இந்த இடம் பாதுகாப்பானது.",
+    "audio": ""
+  },
+  {
+    "id": "ate_010",
+    "name": "skate",
+    "tamilMeaning": "ஸ்கேட் செய்",
+    "example": "The children love to skate.",
+    "exampleTamil": "குழந்தைகள் ஸ்கேட் செய்ய விரும்புகிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_011",
+    "name": "plate",
+    "tamilMeaning": "தட்டு",
+    "example": "The food is on the plate.",
+    "exampleTamil": "உணவு தட்டில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ate_012",
+    "name": "crate",
+    "tamilMeaning": "மரப்பெட்டி",
+    "example": "The apples are in the crate.",
+    "exampleTamil": "ஆப்பிள்கள் மரப்பெட்டியில் உள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "ate_013",
+    "name": "grate",
+    "tamilMeaning": "துருவு",
+    "example": "Grate the cheese.",
+    "exampleTamil": "பாலாடைக்கட்டியைத் துருவுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_014",
+    "name": "state",
+    "tamilMeaning": "மாநிலம்",
+    "example": "Tamil Nadu is a state.",
+    "exampleTamil": "தமிழ்நாடு ஒரு மாநிலம்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_015",
+    "name": "create",
+    "tamilMeaning": "உருவாக்கு",
+    "example": "Create a new folder.",
+    "exampleTamil": "ஒரு புதிய கோப்புறையை உருவாக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_016",
+    "name": "update",
+    "tamilMeaning": "புதுப்பி",
+    "example": "Update the application.",
+    "exampleTamil": "செயலியைப் புதுப்பிக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_017",
+    "name": "donate",
+    "tamilMeaning": "நன்கொடை அளி",
+    "example": "People donated books.",
+    "exampleTamil": "மக்கள் புத்தகங்களை நன்கொடையாக அளித்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_018",
+    "name": "educate",
+    "tamilMeaning": "கல்வி கற்பி",
+    "example": "Teachers educate students.",
+    "exampleTamil": "ஆசிரியர்கள் மாணவர்களுக்கு கல்வி கற்பிக்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_019",
+    "name": "celebrate",
+    "tamilMeaning": "கொண்டாடு",
+    "example": "We celebrate festivals together.",
+    "exampleTamil": "நாம் பண்டிகைகளை ஒன்றாகக் கொண்டாடுகிறோம்.",
+    "audio": ""
+  },
+  {
+    "id": "ate_020",
+    "name": "graduate",
+    "tamilMeaning": "பட்டம் பெறு",
+    "example": "She will graduate this year.",
+    "exampleTamil": "அவள் இந்த ஆண்டு பட்டம் பெறுவாள்.",
+    "audio": ""
+  }
+]

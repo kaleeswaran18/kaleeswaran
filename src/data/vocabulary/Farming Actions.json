@@ -1,0 +1,74 @@
+[
+  {
+    "id": "farm_001",
+    "name": "plow",
+    "tamilMeaning": "நிலத்தை உழு",
+    "example": "The farmer plowed the field.",
+    "exampleTamil": "விவசாயி வயலை உழுதார்.",
+    "audio": ""
+  },
+  {
+    "id": "farm_002",
+    "name": "sow",
+    "tamilMeaning": "விதை விதை",
+    "example": "Farmers sow seeds before the rainy season.",
+    "exampleTamil": "மழைக்காலத்திற்கு முன் விவசாயிகள் விதைகளை விதைக்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "farm_003",
+    "name": "cultivate",
+    "tamilMeaning": "பயிரிடு",
+    "example": "They cultivate rice in this village.",
+    "exampleTamil": "இந்த கிராமத்தில் அவர்கள் நெல் பயிரிடுகிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "farm_004",
+    "name": "irrigate",
+    "tamilMeaning": "நீர்ப்பாசனம் செய்",
+    "example": "Irrigate the field regularly.",
+    "exampleTamil": "வயலுக்கு தவறாமல் நீர்ப்பாசனம் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "farm_005",
+    "name": "harvest",
+    "tamilMeaning": "அறுவடை செய்",
+    "example": "The farmers harvested the crops.",
+    "exampleTamil": "விவசாயிகள் பயிர்களை அறுவடை செய்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "farm_006",
+    "name": "reap",
+    "tamilMeaning": "கதிர் அறு",
+    "example": "They reaped the wheat carefully.",
+    "exampleTamil": "அவர்கள் கோதுமைக் கதிர்களை கவனமாக அறுத்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "farm_007",
+    "name": "thresh",
+    "tamilMeaning": "தானியத்தைப் பிரி",
+    "example": "Thresh the harvested rice.",
+    "exampleTamil": "அறுவடை செய்த நெல்லிலிருந்து தானியத்தைப் பிரியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "farm_008",
+    "name": "winnow",
+    "tamilMeaning": "பதரை தூற்று",
+    "example": "Winnow the grain after threshing.",
+    "exampleTamil": "தானியத்தைப் பிரித்த பிறகு பதரைத் தூற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "farm_009",
+    "name": "graze",
+    "tamilMeaning": "மேயவிடு",
+    "example": "The farmer grazed the cattle in the field.",
+    "exampleTamil": "விவசாயி மாடுகளை வயலில் மேயவிட்டார்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ear_001",
+    "name": "hear",
+    "tamilMeaning": "கேள்",
+    "example": "I can hear the birds singing.",
+    "exampleTamil": "பறவைகள் பாடுவதை என்னால் கேட்க முடிகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ear_002",
+    "name": "listen",
+    "tamilMeaning": "கவனமாக கேள்",
+    "example": "Listen to your teacher.",
+    "exampleTamil": "உங்கள் ஆசிரியரை கவனமாகக் கேளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ear_003",
+    "name": "overhear",
+    "tamilMeaning": "தற்செயலாக கேள்",
+    "example": "I overheard their conversation.",
+    "exampleTamil": "அவர்களின் உரையாடலை நான் தற்செயலாகக் கேட்டேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ear_004",
+    "name": "eavesdrop",
+    "tamilMeaning": "ஒட்டுக்கேள்",
+    "example": "Don't eavesdrop on others.",
+    "exampleTamil": "மற்றவர்களின் பேச்சை ஒட்டுக்கேட்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ear_005",
+    "name": "attend",
+    "tamilMeaning": "கவனமாகக் கேள்",
+    "example": "Please attend to the announcement.",
+    "exampleTamil": "அறிவிப்பை கவனமாகக் கேளுங்கள்.",
+    "audio": ""
+  }
+]

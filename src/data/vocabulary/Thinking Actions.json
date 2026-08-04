@@ -1,0 +1,82 @@
+[
+  {
+    "id": "think_001",
+    "name": "think",
+    "tamilMeaning": "சிந்தி",
+    "example": "Think before you speak.",
+    "exampleTamil": "பேசுவதற்கு முன் சிந்தியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "think_002",
+    "name": "remember",
+    "tamilMeaning": "நினைவில் வை",
+    "example": "Remember your homework.",
+    "exampleTamil": "உங்கள் வீட்டுப்பாடத்தை நினைவில் வைத்துக்கொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "think_003",
+    "name": "forget",
+    "tamilMeaning": "மற",
+    "example": "Don't forget your bag.",
+    "exampleTamil": "உங்கள் பையை மறந்துவிடாதீர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "think_004",
+    "name": "imagine",
+    "tamilMeaning": "கற்பனை செய்",
+    "example": "Imagine living on the moon.",
+    "exampleTamil": "நிலாவில் வாழ்வதாகக் கற்பனை செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "think_005",
+    "name": "decide",
+    "tamilMeaning": "முடிவு செய்",
+    "example": "Decide what you want to do.",
+    "exampleTamil": "நீங்கள் என்ன செய்ய விரும்புகிறீர்கள் என்று முடிவு செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "think_006",
+    "name": "guess",
+    "tamilMeaning": "ஊகி சொல்",
+    "example": "Guess the answer.",
+    "exampleTamil": "பதிலை ஊகித்துச் சொல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "think_007",
+    "name": "plan",
+    "tamilMeaning": "திட்டமிடு",
+    "example": "Plan your day carefully.",
+    "exampleTamil": "உங்கள் நாளை கவனமாக திட்டமிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "think_008",
+    "name": "concentrate",
+    "tamilMeaning": "கவனம் செலுத்து",
+    "example": "Concentrate on your work.",
+    "exampleTamil": "உங்கள் வேலையில் கவனம் செலுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "think_009",
+    "name": "analyze",
+    "tamilMeaning": "பகுப்பாய்வு செய்",
+    "example": "Analyze the problem carefully.",
+    "exampleTamil": "பிரச்சினையை கவனமாக பகுப்பாய்வு செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "think_010",
+    "name": "reason",
+    "tamilMeaning": "காரணம் ஆராய்",
+    "example": "Reason before making a decision.",
+    "exampleTamil": "முடிவு எடுப்பதற்கு முன் காரணத்தை ஆராயுங்கள்.",
+    "audio": ""
+  }
+]

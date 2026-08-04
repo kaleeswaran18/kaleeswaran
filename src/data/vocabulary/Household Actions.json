@@ -1,0 +1,66 @@
+[
+  {
+    "id": "household_001",
+    "name": "arrange",
+    "tamilMeaning": "அடுக்கி ஒழுங்குபடுத்து",
+    "example": "Arrange the books on the shelf.",
+    "exampleTamil": "புத்தகங்களை அலமாரியில் ஒழுங்காக அடுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "household_002",
+    "name": "tidy",
+    "tamilMeaning": "நேர்த்தியாக ஒழுங்குபடுத்து",
+    "example": "Tidy your room before dinner.",
+    "exampleTamil": "இரவு உணவுக்கு முன் உங்கள் அறையை நேர்த்தியாக ஒழுங்குபடுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "household_003",
+    "name": "store",
+    "tamilMeaning": "சேமித்து வை",
+    "example": "Store the blankets in the cupboard.",
+    "exampleTamil": "போர்வைகளை அலமாரியில் சேமித்து வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "household_004",
+    "name": "move",
+    "tamilMeaning": "நகர்த்து",
+    "example": "Move the chair to the corner.",
+    "exampleTamil": "நாற்காலியை மூலையில் நகர்த்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "household_005",
+    "name": "carry",
+    "tamilMeaning": "தூக்கிச் செல்",
+    "example": "Carry the laundry basket.",
+    "exampleTamil": "துணிக்கூடையைத் தூக்கிச் செல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "household_006",
+    "name": "lift",
+    "tamilMeaning": "தூக்கு",
+    "example": "Lift the heavy box carefully.",
+    "exampleTamil": "கனமான பெட்டியை கவனமாகத் தூக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "household_007",
+    "name": "decorate",
+    "tamilMeaning": "அலங்கரி",
+    "example": "Decorate the house for the festival.",
+    "exampleTamil": "விழாவிற்காக வீட்டை அலங்கரியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "household_008",
+    "name": "replace",
+    "tamilMeaning": "மாற்றி வை",
+    "example": "Replace the empty water bottle.",
+    "exampleTamil": "காலியான தண்ணீர் பாட்டிலை மாற்றி வையுங்கள்.",
+    "audio": ""
+  }
+]

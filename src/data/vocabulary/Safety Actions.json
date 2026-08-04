@@ -1,0 +1,82 @@
+[
+  {
+    "id": "safety_001",
+    "name": "protect",
+    "tamilMeaning": "பாதுகா",
+    "example": "Protect your head with a helmet.",
+    "exampleTamil": "ஹெல்மெட் அணிந்து உங்கள் தலையைப் பாதுகாக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "safety_002",
+    "name": "fasten",
+    "tamilMeaning": "இறுக்கமாக அணி",
+    "example": "Fasten your seat belt.",
+    "exampleTamil": "உங்கள் சீட் பெல்ட்டை இறுக்கமாக அணியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "safety_003",
+    "name": "lock",
+    "tamilMeaning": "பூட்டு",
+    "example": "Lock the door before leaving.",
+    "exampleTamil": "வெளியே செல்லும் முன் கதவைப் பூட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "safety_004",
+    "name": "unlock",
+    "tamilMeaning": "பூட்டைத் திற",
+    "example": "Unlock the emergency exit.",
+    "exampleTamil": "அவசர வெளியேறும் கதவைத் திறக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "safety_005",
+    "name": "warn",
+    "tamilMeaning": "எச்சரி",
+    "example": "Warn others about the danger.",
+    "exampleTamil": "ஆபத்தைப் பற்றி மற்றவர்களை எச்சரியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "safety_006",
+    "name": "rescue",
+    "tamilMeaning": "மீட்டு",
+    "example": "The firefighters rescued the family.",
+    "exampleTamil": "தீயணைப்பு வீரர்கள் குடும்பத்தை மீட்டனர்.",
+    "audio": ""
+  },
+  {
+    "id": "safety_007",
+    "name": "evacuate",
+    "tamilMeaning": "பாதுகாப்பான இடத்திற்கு வெளியேற்று",
+    "example": "Evacuate the building immediately.",
+    "exampleTamil": "உடனடியாக கட்டிடத்திலிருந்து பாதுகாப்பாக வெளியேறுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "safety_008",
+    "name": "report",
+    "tamilMeaning": "தெரிவி",
+    "example": "Report the accident to the police.",
+    "exampleTamil": "விபத்தை காவல்துறைக்கு தெரிவியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "safety_009",
+    "name": "avoid",
+    "tamilMeaning": "தவிர்",
+    "example": "Avoid touching hot objects.",
+    "exampleTamil": "சூடான பொருட்களைத் தொடுவதைத் தவிர்க்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "safety_010",
+    "name": "inspect",
+    "tamilMeaning": "சோதனை செய்",
+    "example": "Inspect the equipment before use.",
+    "exampleTamil": "பயன்படுத்துவதற்கு முன் கருவிகளைச் சோதனை செய்யுங்கள்.",
+    "audio": ""
+  }
+]

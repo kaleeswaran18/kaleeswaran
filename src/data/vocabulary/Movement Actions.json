@@ -1,0 +1,98 @@
+[
+  {
+    "id": "movement_001",
+    "name": "walk",
+    "tamilMeaning": "நட",
+    "example": "Walk to school.",
+    "exampleTamil": "பள்ளிக்கு நடந்து செல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "movement_002",
+    "name": "run",
+    "tamilMeaning": "ஓடு",
+    "example": "Run as fast as you can.",
+    "exampleTamil": "முடிந்த அளவு வேகமாக ஓடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "movement_003",
+    "name": "jog",
+    "tamilMeaning": "மெதுவாக ஓடு",
+    "example": "They jog every morning.",
+    "exampleTamil": "அவர்கள் தினமும் காலை மெதுவாக ஓடுகிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "movement_004",
+    "name": "sprint",
+    "tamilMeaning": "முழு வேகத்தில் ஓடு",
+    "example": "The athlete sprinted to the finish line.",
+    "exampleTamil": "வீரர் இறுதிக்கோட்டை நோக்கி முழு வேகத்தில் ஓடினார்.",
+    "audio": ""
+  },
+  {
+    "id": "movement_005",
+    "name": "jump",
+    "tamilMeaning": "குதி",
+    "example": "Jump over the puddle.",
+    "exampleTamil": "தண்ணீர் தேங்கிய இடத்தைத் தாண்டி குதியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "movement_006",
+    "name": "hop",
+    "tamilMeaning": "ஒரு காலில் குதி",
+    "example": "Hop on one foot.",
+    "exampleTamil": "ஒரு காலில் குதியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "movement_007",
+    "name": "skip",
+    "tamilMeaning": "துள்ளி நட",
+    "example": "The girl skipped happily.",
+    "exampleTamil": "சிறுமி மகிழ்ச்சியுடன் துள்ளி நடந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "movement_008",
+    "name": "crawl",
+    "tamilMeaning": "தவழ்",
+    "example": "The baby crawled across the floor.",
+    "exampleTamil": "குழந்தை தரையில் தவழ்ந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "movement_009",
+    "name": "climb",
+    "tamilMeaning": "ஏறு",
+    "example": "Climb the stairs carefully.",
+    "exampleTamil": "படிக்கட்டில் கவனமாக ஏறுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "movement_010",
+    "name": "descend",
+    "tamilMeaning": "இறங்கு",
+    "example": "Descend the hill slowly.",
+    "exampleTamil": "மலையிலிருந்து மெதுவாக இறங்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "movement_011",
+    "name": "slide",
+    "tamilMeaning": "வழுக்கு",
+    "example": "The child slid down the slide.",
+    "exampleTamil": "குழந்தை சறுக்கில் வழுக்கி இறங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "movement_012",
+    "name": "march",
+    "tamilMeaning": "அணிவகுத்து நட",
+    "example": "The soldiers marched together.",
+    "exampleTamil": "வீரர்கள் அணிவகுத்து நடந்தனர்.",
+    "audio": ""
+  }
+]

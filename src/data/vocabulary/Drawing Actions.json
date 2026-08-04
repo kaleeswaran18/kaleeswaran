@@ -1,0 +1,50 @@
+[
+  {
+    "id": "draw_001",
+    "name": "draw",
+    "tamilMeaning": "வரை",
+    "example": "Draw a house.",
+    "exampleTamil": "ஒரு வீட்டை வரையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "draw_002",
+    "name": "sketch",
+    "tamilMeaning": "வரைவு வரை",
+    "example": "Sketch a tree with a pencil.",
+    "exampleTamil": "பென்சிலால் ஒரு மரத்தின் வரைவை வரையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "draw_003",
+    "name": "trace",
+    "tamilMeaning": "மேல்பதித்து வரை",
+    "example": "Trace the letters carefully.",
+    "exampleTamil": "எழுத்துகளின் மேல் கவனமாக வரையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "draw_004",
+    "name": "doodle",
+    "tamilMeaning": "கிறுக்கு",
+    "example": "He doodled in his notebook.",
+    "exampleTamil": "அவர் தனது நோட்டுப் புத்தகத்தில் கிறுக்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "draw_005",
+    "name": "outline",
+    "tamilMeaning": "வெளிக்கோடு வரை",
+    "example": "Outline the shape first.",
+    "exampleTamil": "முதலில் வடிவத்தின் வெளிக்கோட்டை வரையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "draw_006",
+    "name": "shade",
+    "tamilMeaning": "நிழலிடு",
+    "example": "Shade the mountain lightly.",
+    "exampleTamil": "மலையில் மெதுவாக நிழலிடுங்கள்.",
+    "audio": ""
+  }
+]

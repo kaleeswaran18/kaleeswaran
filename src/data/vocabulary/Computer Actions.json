@@ -1,0 +1,90 @@
+[
+  {
+    "id": "computer_001",
+    "name": "type",
+    "tamilMeaning": "தட்டச்சு செய்",
+    "example": "Type your password.",
+    "exampleTamil": "உங்கள் கடவுச்சொல்லை தட்டச்சு செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "computer_002",
+    "name": "click",
+    "tamilMeaning": "கிளிக் செய்",
+    "example": "Click the OK button.",
+    "exampleTamil": "OK பொத்தானைக் கிளிக் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "computer_003",
+    "name": "double-click",
+    "tamilMeaning": "இருமுறை கிளிக் செய்",
+    "example": "Double-click the folder.",
+    "exampleTamil": "கோப்புறையை இருமுறை கிளிக் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "computer_004",
+    "name": "drag",
+    "tamilMeaning": "இழுத்து நகர்த்து",
+    "example": "Drag the file to the folder.",
+    "exampleTamil": "கோப்பை கோப்புறைக்குள் இழுத்து நகர்த்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "computer_005",
+    "name": "drop",
+    "tamilMeaning": "விடு",
+    "example": "Drop the file here.",
+    "exampleTamil": "கோப்பை இங்கே விடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "computer_006",
+    "name": "copy",
+    "tamilMeaning": "நகலெடு",
+    "example": "Copy the selected text.",
+    "exampleTamil": "தேர்ந்தெடுத்த உரையை நகலெடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "computer_007",
+    "name": "paste",
+    "tamilMeaning": "ஒட்டு",
+    "example": "Paste the text into the document.",
+    "exampleTamil": "உரையை ஆவணத்தில் ஒட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "computer_008",
+    "name": "save",
+    "tamilMeaning": "சேமி",
+    "example": "Save your work.",
+    "exampleTamil": "உங்கள் வேலையை சேமியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "computer_009",
+    "name": "print",
+    "tamilMeaning": "அச்சிடு",
+    "example": "Print the document.",
+    "exampleTamil": "ஆவணத்தை அச்சிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "computer_010",
+    "name": "upload",
+    "tamilMeaning": "பதிவேற்று",
+    "example": "Upload your assignment.",
+    "exampleTamil": "உங்கள் ஒப்படைப்பைப் பதிவேற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "computer_011",
+    "name": "download",
+    "tamilMeaning": "பதிவிறக்கு",
+    "example": "Download the file.",
+    "exampleTamil": "கோப்பைப் பதிவிறக்குங்கள்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "kitchen_001",
+    "name": "serve",
+    "tamilMeaning": "பரிமாறு",
+    "example": "Serve the food while it is hot.",
+    "exampleTamil": "உணவை சூடாக இருக்கும்போதே பரிமாறுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "kitchen_002",
+    "name": "set",
+    "tamilMeaning": "மேசையைத் தயார் செய்",
+    "example": "Set the dining table.",
+    "exampleTamil": "சாப்பாட்டு மேசையைத் தயார் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "kitchen_003",
+    "name": "clear",
+    "tamilMeaning": "மேசையை காலி செய்",
+    "example": "Clear the table after dinner.",
+    "exampleTamil": "இரவு உணவுக்குப் பிறகு மேசையை காலி செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "kitchen_004",
+    "name": "rinse",
+    "tamilMeaning": "அலசு",
+    "example": "Rinse the dishes before washing.",
+    "exampleTamil": "பாத்திரங்களைக் கழுவுவதற்கு முன் அலசுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "kitchen_005",
+    "name": "drain",
+    "tamilMeaning": "நீரை வடிகட்டு",
+    "example": "Drain the cooked pasta.",
+    "exampleTamil": "வேகவைத்த பாஸ்தாவின் நீரை வடிகட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "kitchen_006",
+    "name": "store",
+    "tamilMeaning": "சேமித்து வை",
+    "example": "Store the leftovers in the refrigerator.",
+    "exampleTamil": "மீதமுள்ள உணவை குளிர்சாதனப் பெட்டியில் சேமித்து வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "kitchen_007",
+    "name": "refrigerate",
+    "tamilMeaning": "குளிர்சாதனப் பெட்டியில் வை",
+    "example": "Refrigerate the milk.",
+    "exampleTamil": "பாலை குளிர்சாதனப் பெட்டியில் வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "kitchen_008",
+    "name": "microwave",
+    "tamilMeaning": "மைக்ரோவேவில் சூடாக்கு",
+    "example": "Microwave the food for two minutes.",
+    "exampleTamil": "உணவை இரண்டு நிமிடங்கள் மைக்ரோவேவில் சூடாக்குங்கள்.",
+    "audio": ""
+  }
+]

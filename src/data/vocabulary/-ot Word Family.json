@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ot_001",
+    "name": "bot",
+    "tamilMeaning": "தானியங்கி மென்பொருள்",
+    "example": "The bot replied instantly.",
+    "exampleTamil": "பாட் உடனடியாக பதிலளித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ot_002",
+    "name": "cot",
+    "tamilMeaning": "கட்டில்",
+    "example": "The baby is sleeping in the cot.",
+    "exampleTamil": "குழந்தை கட்டிலில் தூங்குகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ot_003",
+    "name": "dot",
+    "tamilMeaning": "புள்ளி",
+    "example": "Put a dot at the end.",
+    "exampleTamil": "முடிவில் ஒரு புள்ளி வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ot_004",
+    "name": "got",
+    "tamilMeaning": "பெற்றான் / கிடைத்தது",
+    "example": "I got a new phone.",
+    "exampleTamil": "எனக்கு ஒரு புதிய தொலைபேசி கிடைத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ot_005",
+    "name": "hot",
+    "tamilMeaning": "சூடான",
+    "example": "The coffee is hot.",
+    "exampleTamil": "காபி சூடாக இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ot_006",
+    "name": "jot",
+    "tamilMeaning": "சுருக்கமாக எழுது",
+    "example": "Jot down the notes.",
+    "exampleTamil": "குறிப்புகளை சுருக்கமாக எழுதுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ot_007",
+    "name": "lot",
+    "tamilMeaning": "நிறைய",
+    "example": "We have a lot of work.",
+    "exampleTamil": "எங்களுக்கு நிறைய வேலை உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ot_008",
+    "name": "not",
+    "tamilMeaning": "இல்லை",
+    "example": "This is not my book.",
+    "exampleTamil": "இது என்னுடைய புத்தகம் இல்லை.",
+    "audio": ""
+  },
+  {
+    "id": "ot_009",
+    "name": "pot",
+    "tamilMeaning": "பானை",
+    "example": "The flowers are in a pot.",
+    "exampleTamil": "பூக்கள் ஒரு பானையில் உள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "ot_010",
+    "name": "rot",
+    "tamilMeaning": "அழுகு",
+    "example": "The fruit began to rot.",
+    "exampleTamil": "பழம் அழுகத் தொடங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ot_011",
+    "name": "tot",
+    "tamilMeaning": "சிறு குழந்தை",
+    "example": "The little tot smiled happily.",
+    "exampleTamil": "சிறு குழந்தை மகிழ்ச்சியாக சிரித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ot_012",
+    "name": "blot",
+    "tamilMeaning": "கறை",
+    "example": "There is a blot on the paper.",
+    "exampleTamil": "காகிதத்தில் ஒரு கறை உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ot_013",
+    "name": "clot",
+    "tamilMeaning": "இரத்தக் கட்டி",
+    "example": "The doctor checked for a blood clot.",
+    "exampleTamil": "மருத்துவர் இரத்தக் கட்டியை பரிசோதித்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ot_014",
+    "name": "plot",
+    "tamilMeaning": "கதைக்களம் / நிலம்",
+    "example": "The movie has an interesting plot.",
+    "exampleTamil": "அந்த திரைப்படத்தின் கதைக்களம் சுவாரஸ்யமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ot_015",
+    "name": "shot",
+    "tamilMeaning": "சுடுதல் / ஊசி",
+    "example": "He got a flu shot.",
+    "exampleTamil": "அவர் காய்ச்சல் தடுப்பூசி போட்டுக்கொண்டார்.",
+    "audio": ""
+  },
+  {
+    "id": "ot_016",
+    "name": "slot",
+    "tamilMeaning": "இடைவெளி / ஸ்லாட்",
+    "example": "Insert the card into the slot.",
+    "exampleTamil": "அட்டையை ஸ்லாட்டில் செலுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ot_017",
+    "name": "spot",
+    "tamilMeaning": "இடம் / புள்ளி",
+    "example": "This is a good picnic spot.",
+    "exampleTamil": "இது சுற்றுலாவுக்கு நல்ல இடம்.",
+    "audio": ""
+  },
+  {
+    "id": "ot_018",
+    "name": "knot",
+    "tamilMeaning": "முடிச்சு",
+    "example": "Tie a tight knot.",
+    "exampleTamil": "இறுக்கமாக முடிச்சு போடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ot_019",
+    "name": "forgot",
+    "tamilMeaning": "மறந்துவிட்டான்",
+    "example": "I forgot my keys.",
+    "exampleTamil": "நான் என் சாவியை மறந்துவிட்டேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ot_020",
+    "name": "apricot",
+    "tamilMeaning": "அப்ரிகாட் பழம்",
+    "example": "She ate a dried apricot.",
+    "exampleTamil": "அவள் உலர்ந்த அப்ரிகாட் பழத்தை சாப்பிட்டாள்.",
+    "audio": ""
+  }
+]

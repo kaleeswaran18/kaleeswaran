@@ -1,0 +1,162 @@
+[
+  {
+    "id": "op_001",
+    "name": "bop",
+    "tamilMeaning": "லேசாக அடி",
+    "example": "He gave the ball a bop.",
+    "exampleTamil": "அவன் பந்தை லேசாக அடித்தான்.",
+    "audio": ""
+  },
+  {
+    "id": "op_002",
+    "name": "cop",
+    "tamilMeaning": "காவலர் (informal)",
+    "example": "The cop helped the child.",
+    "exampleTamil": "காவலர் குழந்தைக்கு உதவினார்.",
+    "audio": ""
+  },
+  {
+    "id": "op_003",
+    "name": "hop",
+    "tamilMeaning": "துள்ளி குதி",
+    "example": "The rabbit can hop fast.",
+    "exampleTamil": "முயல் வேகமாக துள்ளிக் குதிக்கும்.",
+    "audio": ""
+  },
+  {
+    "id": "op_004",
+    "name": "mop",
+    "tamilMeaning": "துடைப்பான்",
+    "example": "Use a mop to clean the floor.",
+    "exampleTamil": "தரையை சுத்தம் செய்ய துடைப்பானைப் பயன்படுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "op_005",
+    "name": "pop",
+    "tamilMeaning": "பட் என்று வெடி",
+    "example": "The balloon went pop.",
+    "exampleTamil": "பலூன் பட் என்று வெடித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "op_006",
+    "name": "top",
+    "tamilMeaning": "மேற்பகுதி",
+    "example": "The book is on the top shelf.",
+    "exampleTamil": "புத்தகம் மேலுள்ள அலமாரியில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "op_007",
+    "name": "drop",
+    "tamilMeaning": "விழு",
+    "example": "Do not drop the glass.",
+    "exampleTamil": "கண்ணாடி டம்ளரை கீழே விடாதே.",
+    "audio": ""
+  },
+  {
+    "id": "op_008",
+    "name": "chop",
+    "tamilMeaning": "நறுக்கு",
+    "example": "Chop the vegetables.",
+    "exampleTamil": "காய்கறிகளை நறுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "op_009",
+    "name": "crop",
+    "tamilMeaning": "பயிர்",
+    "example": "The farmers grew rice as their main crop.",
+    "exampleTamil": "விவசாயிகள் நெல்லை முக்கிய பயிராக வளர்த்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "op_010",
+    "name": "prop",
+    "tamilMeaning": "தாங்கும் பொருள்",
+    "example": "Use a prop to support the door.",
+    "exampleTamil": "கதவைத் தாங்க ஒரு தாங்குபொருளைப் பயன்படுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "op_011",
+    "name": "shop",
+    "tamilMeaning": "கடை",
+    "example": "She works in a shoe shop.",
+    "exampleTamil": "அவள் ஒரு காலணி கடையில் வேலை செய்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "op_012",
+    "name": "stop",
+    "tamilMeaning": "நிறுத்து",
+    "example": "Please stop the car.",
+    "exampleTamil": "தயவுசெய்து காரை நிறுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "op_013",
+    "name": "clop",
+    "tamilMeaning": "குதிரை குளம்பொலி",
+    "example": "We heard the clop of horses.",
+    "exampleTamil": "குதிரைகளின் குளம்பொலியைக் கேட்டோம்.",
+    "audio": ""
+  },
+  {
+    "id": "op_014",
+    "name": "flop",
+    "tamilMeaning": "தோல்வி",
+    "example": "The movie was a flop.",
+    "exampleTamil": "அந்த திரைப்படம் தோல்வியடைந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "op_015",
+    "name": "plop",
+    "tamilMeaning": "பொத் என்று விழு",
+    "example": "The stone fell into the pond with a plop.",
+    "exampleTamil": "கல் குளத்தில் பொத் என்று விழுந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "op_016",
+    "name": "slop",
+    "tamilMeaning": "சிந்திவிடு",
+    "example": "Do not slop the milk.",
+    "exampleTamil": "பாலை சிந்தாதே.",
+    "audio": ""
+  },
+  {
+    "id": "op_017",
+    "name": "slop",
+    "tamilMeaning": "நீர்த்த உணவு",
+    "example": "The pigs were fed slop.",
+    "exampleTamil": "பன்றிகளுக்கு நீர்த்த உணவு கொடுக்கப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "op_018",
+    "name": "swap",
+    "tamilMeaning": "பரிமாறிக்கொள்",
+    "example": "Let's swap our seats.",
+    "exampleTamil": "நாம் நமது இருக்கைகளை மாற்றிக்கொள்வோம்.",
+    "audio": ""
+  },
+  {
+    "id": "op_019",
+    "name": "whoop",
+    "tamilMeaning": "உரக்கக் கத்து",
+    "example": "The children gave a whoop of joy.",
+    "exampleTamil": "குழந்தைகள் மகிழ்ச்சியில் உரக்கக் கத்தினர்.",
+    "audio": ""
+  },
+  {
+    "id": "op_020",
+    "name": "loop",
+    "tamilMeaning": "வளையம்",
+    "example": "Tie the rope in a loop.",
+    "exampleTamil": "கயிற்றை வளையமாகக் கட்டுங்கள்.",
+    "audio": ""
+  }
+]

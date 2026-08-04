@@ -1,0 +1,130 @@
+[
+  {
+    "id": "ound_001",
+    "name": "bound",
+    "tamilMeaning": "கட்டுப்பட்ட / பிணைக்கப்பட்ட",
+    "example": "The books were bound in leather.",
+    "exampleTamil": "புத்தகங்கள் தோலால் கட்டப்பட்டிருந்தன.",
+    "audio": ""
+  },
+  {
+    "id": "ound_002",
+    "name": "found",
+    "tamilMeaning": "கண்டுபிடித்தான்",
+    "example": "I found my keys.",
+    "exampleTamil": "நான் என் சாவிகளைக் கண்டுபிடித்தேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ound_003",
+    "name": "ground",
+    "tamilMeaning": "தரை",
+    "example": "The ball fell to the ground.",
+    "exampleTamil": "பந்து தரையில் விழுந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ound_004",
+    "name": "hound",
+    "tamilMeaning": "வேட்டை நாய்",
+    "example": "The hound followed the scent.",
+    "exampleTamil": "வேட்டை நாய் மணத்தைப் பின்தொடர்ந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ound_005",
+    "name": "mound",
+    "tamilMeaning": "மேடு",
+    "example": "The children climbed the mound.",
+    "exampleTamil": "குழந்தைகள் மேட்டில் ஏறினர்.",
+    "audio": ""
+  },
+  {
+    "id": "ound_006",
+    "name": "pound",
+    "tamilMeaning": "பவுண்டு / பலமாக அடி",
+    "example": "He pounded on the door.",
+    "exampleTamil": "அவர் கதவை பலமாகத் தட்டினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ound_007",
+    "name": "round",
+    "tamilMeaning": "வட்டமான",
+    "example": "The table is round.",
+    "exampleTamil": "மேசை வட்டமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ound_008",
+    "name": "sound",
+    "tamilMeaning": "ஒலி",
+    "example": "I heard a strange sound.",
+    "exampleTamil": "நான் ஒரு விசித்திரமான ஒலியைக் கேட்டேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ound_009",
+    "name": "wound",
+    "tamilMeaning": "காயம்",
+    "example": "The wound healed quickly.",
+    "exampleTamil": "காயம் விரைவாக ஆறியது.",
+    "audio": ""
+  },
+  {
+    "id": "ound_010",
+    "name": "around",
+    "tamilMeaning": "சுற்றிலும்",
+    "example": "The children ran around the park.",
+    "exampleTamil": "குழந்தைகள் பூங்காவைச் சுற்றி ஓடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "ound_011",
+    "name": "compound",
+    "tamilMeaning": "கூட்டு / வளாகம்",
+    "example": "Water is a chemical compound.",
+    "exampleTamil": "தண்ணீர் ஒரு வேதியியல் சேர்மம்.",
+    "audio": ""
+  },
+  {
+    "id": "ound_012",
+    "name": "confound",
+    "tamilMeaning": "குழப்பமடையச் செய்",
+    "example": "The question confounded everyone.",
+    "exampleTamil": "அந்த கேள்வி அனைவரையும் குழப்பியது.",
+    "audio": ""
+  },
+  {
+    "id": "ound_013",
+    "name": "rebound",
+    "tamilMeaning": "திரும்பி பாய்",
+    "example": "The ball rebounded off the wall.",
+    "exampleTamil": "பந்து சுவரில் பட்டு திரும்பிப் பாய்ந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ound_014",
+    "name": "surround",
+    "tamilMeaning": "சூழ்ந்து கொள்",
+    "example": "Trees surround the lake.",
+    "exampleTamil": "ஏரியை மரங்கள் சூழ்ந்துள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "ound_015",
+    "name": "background",
+    "tamilMeaning": "பின்னணி",
+    "example": "The photo has a blue background.",
+    "exampleTamil": "அந்தப் புகைப்படத்திற்கு நீல பின்னணி உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ound_016",
+    "name": "playground",
+    "tamilMeaning": "விளையாட்டு மைதானம்",
+    "example": "The children are in the playground.",
+    "exampleTamil": "குழந்தைகள் விளையாட்டு மைதானத்தில் உள்ளனர்.",
+    "audio": ""
+  }
+]

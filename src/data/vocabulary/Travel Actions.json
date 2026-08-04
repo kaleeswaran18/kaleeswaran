@@ -1,0 +1,82 @@
+[
+  {
+    "id": "travel_001",
+    "name": "travel",
+    "tamilMeaning": "பயணம் செய்",
+    "example": "We travel by train.",
+    "exampleTamil": "நாங்கள் ரயிலில் பயணம் செய்கிறோம்.",
+    "audio": ""
+  },
+  {
+    "id": "travel_002",
+    "name": "pack",
+    "tamilMeaning": "பொருட்களை அடுக்கு",
+    "example": "Pack your clothes for the trip.",
+    "exampleTamil": "பயணத்திற்காக உங்கள் ஆடைகளை அடுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "travel_003",
+    "name": "unpack",
+    "tamilMeaning": "பொருட்களை வெளியே எடு",
+    "example": "Unpack your bags after arriving.",
+    "exampleTamil": "வந்த பிறகு உங்கள் பைகளைத் திறந்து பொருட்களை எடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "travel_004",
+    "name": "book",
+    "tamilMeaning": "முன்பதிவு செய்",
+    "example": "Book your train tickets online.",
+    "exampleTamil": "உங்கள் ரயில் டிக்கெட்டுகளை இணையத்தில் முன்பதிவு செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "travel_005",
+    "name": "check in",
+    "tamilMeaning": "பதிவு செய்",
+    "example": "Check in at the airport.",
+    "exampleTamil": "விமான நிலையத்தில் பதிவு செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "travel_006",
+    "name": "board",
+    "tamilMeaning": "வாகனத்தில் ஏறு",
+    "example": "Board the train on time.",
+    "exampleTamil": "சரியான நேரத்தில் ரயிலில் ஏறுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "travel_007",
+    "name": "depart",
+    "tamilMeaning": "புறப்படு",
+    "example": "The bus departs at 8 a.m.",
+    "exampleTamil": "பேருந்து காலை 8 மணிக்கு புறப்படுகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "travel_008",
+    "name": "arrive",
+    "tamilMeaning": "வந்துசேர்",
+    "example": "We arrived safely.",
+    "exampleTamil": "நாங்கள் பாதுகாப்பாக வந்துசேர்ந்தோம்.",
+    "audio": ""
+  },
+  {
+    "id": "travel_009",
+    "name": "explore",
+    "tamilMeaning": "சுற்றிப்பார்",
+    "example": "Explore the new city.",
+    "exampleTamil": "புதிய நகரத்தைச் சுற்றிப் பாருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "travel_010",
+    "name": "return",
+    "tamilMeaning": "திரும்பி வா",
+    "example": "Return home safely.",
+    "exampleTamil": "பாதுகாப்பாக வீட்டிற்கு திரும்பி வாருங்கள்.",
+    "audio": ""
+  }
+]

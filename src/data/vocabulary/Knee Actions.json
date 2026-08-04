@@ -1,0 +1,42 @@
+[
+  {
+    "id": "knee_001",
+    "name": "bend",
+    "tamilMeaning": "முழங்காலை மடி",
+    "example": "Bend your knees slowly.",
+    "exampleTamil": "உங்கள் முழங்கால்களை மெதுவாக மடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "knee_002",
+    "name": "straighten",
+    "tamilMeaning": "முழங்காலை நேராக்கு",
+    "example": "Straighten your knees.",
+    "exampleTamil": "உங்கள் முழங்கால்களை நேராக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "knee_003",
+    "name": "kneel",
+    "tamilMeaning": "முழங்காலில் மண்டியிடு",
+    "example": "Kneel on the mat.",
+    "exampleTamil": "பாயின் மீது மண்டியிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "knee_004",
+    "name": "flex",
+    "tamilMeaning": "முழங்காலை மடக்கு",
+    "example": "Flex your knees before exercising.",
+    "exampleTamil": "உடற்பயிற்சிக்கு முன் உங்கள் முழங்கால்களை மடக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "knee_005",
+    "name": "extend",
+    "tamilMeaning": "முழங்காலை நீட்டு",
+    "example": "Extend your knees fully.",
+    "exampleTamil": "உங்கள் முழங்கால்களை முழுவதுமாக நீட்டுங்கள்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "eed_001",
+    "name": "deed",
+    "tamilMeaning": "செயல் / பத்திரம்",
+    "example": "A good deed is never forgotten.",
+    "exampleTamil": "ஒரு நல்ல செயல் ஒருபோதும் மறக்கப்படாது.",
+    "audio": ""
+  },
+  {
+    "id": "eed_002",
+    "name": "feed",
+    "tamilMeaning": "உணவளி",
+    "example": "Please feed the cat.",
+    "exampleTamil": "தயவுசெய்து பூனைக்கு உணவளியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_003",
+    "name": "heed",
+    "tamilMeaning": "கவனம் செலுத்து",
+    "example": "Heed your teacher's advice.",
+    "exampleTamil": "உங்கள் ஆசிரியரின் ஆலோசனையை கவனியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_004",
+    "name": "need",
+    "tamilMeaning": "தேவை",
+    "example": "We need clean water.",
+    "exampleTamil": "எங்களுக்கு சுத்தமான தண்ணீர் தேவை.",
+    "audio": ""
+  },
+  {
+    "id": "eed_005",
+    "name": "reed",
+    "tamilMeaning": "நாணல்",
+    "example": "Reeds grow near the river.",
+    "exampleTamil": "ஆற்றங்கரையில் நாணல்கள் வளரும்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_006",
+    "name": "seed",
+    "tamilMeaning": "விதை",
+    "example": "Plant the seed in the soil.",
+    "exampleTamil": "விதையை மண்ணில் விதையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_007",
+    "name": "weed",
+    "tamilMeaning": "களை",
+    "example": "Remove the weeds from the garden.",
+    "exampleTamil": "தோட்டத்தில் உள்ள களைகளை அகற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_008",
+    "name": "bleed",
+    "tamilMeaning": "இரத்தம் கசி",
+    "example": "His finger began to bleed.",
+    "exampleTamil": "அவரின் விரலில் இரத்தம் கசியத் தொடங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "eed_009",
+    "name": "breed",
+    "tamilMeaning": "இனப்பெருக்கம் செய்",
+    "example": "Farmers breed healthy cattle.",
+    "exampleTamil": "விவசாயிகள் ஆரோக்கியமான கால்நடைகளை இனப்பெருக்கம் செய்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_010",
+    "name": "creed",
+    "tamilMeaning": "கொள்கை",
+    "example": "The team followed its creed.",
+    "exampleTamil": "அணி தனது கொள்கையைப் பின்பற்றியது.",
+    "audio": ""
+  },
+  {
+    "id": "eed_011",
+    "name": "greed",
+    "tamilMeaning": "பேராசை",
+    "example": "Greed can cause problems.",
+    "exampleTamil": "பேராசை பிரச்சினைகளை ஏற்படுத்தும்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_012",
+    "name": "speed",
+    "tamilMeaning": "வேகம்",
+    "example": "Drive at a safe speed.",
+    "exampleTamil": "பாதுகாப்பான வேகத்தில் வாகனம் ஓட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_013",
+    "name": "steed",
+    "tamilMeaning": "போர்குதிரை",
+    "example": "The knight rode his steed.",
+    "exampleTamil": "வீரன் தனது போர்குதிரையில் சவாரி செய்தான்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_014",
+    "name": "succeed",
+    "tamilMeaning": "வெற்றி பெறு",
+    "example": "Work hard to succeed.",
+    "exampleTamil": "வெற்றி பெற கடினமாக உழையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_015",
+    "name": "exceed",
+    "tamilMeaning": "மீறு",
+    "example": "Do not exceed the speed limit.",
+    "exampleTamil": "வேக வரம்பை மீறாதீர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_016",
+    "name": "proceed",
+    "tamilMeaning": "தொடர்ந்து செல்",
+    "example": "Please proceed to the next room.",
+    "exampleTamil": "தயவுசெய்து அடுத்த அறைக்குச் செல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eed_017",
+    "name": "indeed",
+    "tamilMeaning": "உண்மையாகவே",
+    "example": "It is indeed a great idea.",
+    "exampleTamil": "அது உண்மையாகவே ஒரு சிறந்த யோசனை.",
+    "audio": ""
+  }
+]

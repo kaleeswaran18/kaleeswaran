@@ -1,0 +1,138 @@
+[
+  {
+    "id": "all_001",
+    "name": "all",
+    "tamilMeaning": "அனைத்தும்",
+    "example": "All the students are present.",
+    "exampleTamil": "அனைத்து மாணவர்களும் வந்துள்ளனர்.",
+    "audio": ""
+  },
+  {
+    "id": "all_002",
+    "name": "ball",
+    "tamilMeaning": "பந்து",
+    "example": "The boy kicked the ball.",
+    "exampleTamil": "சிறுவன் பந்தை உதைத்தான்.",
+    "audio": ""
+  },
+  {
+    "id": "all_003",
+    "name": "call",
+    "tamilMeaning": "அழை / அழைப்பு",
+    "example": "Please call me later.",
+    "exampleTamil": "தயவுசெய்து பிறகு என்னை அழையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "all_004",
+    "name": "fall",
+    "tamilMeaning": "விழு",
+    "example": "Be careful not to fall.",
+    "exampleTamil": "விழாமல் கவனமாக இருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "all_005",
+    "name": "gall",
+    "tamilMeaning": "பித்தநீர்",
+    "example": "The doctor explained the function of gall.",
+    "exampleTamil": "மருத்துவர் பித்தநீரின் செயல்பாட்டை விளக்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "all_006",
+    "name": "hall",
+    "tamilMeaning": "மண்டபம்",
+    "example": "The meeting is in the hall.",
+    "exampleTamil": "கூட்டம் மண்டபத்தில் நடைபெறுகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "all_007",
+    "name": "mall",
+    "tamilMeaning": "வணிக வளாகம்",
+    "example": "We went to the shopping mall.",
+    "exampleTamil": "நாங்கள் வணிக வளாகத்திற்குச் சென்றோம்.",
+    "audio": ""
+  },
+  {
+    "id": "all_008",
+    "name": "pall",
+    "tamilMeaning": "மூடுதுணி",
+    "example": "A pall covered the coffin.",
+    "exampleTamil": "சவப்பெட்டியின் மீது மூடுதுணி போர்த்தப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "all_009",
+    "name": "tall",
+    "tamilMeaning": "உயரமான",
+    "example": "The tree is very tall.",
+    "exampleTamil": "அந்த மரம் மிகவும் உயரமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "all_010",
+    "name": "wall",
+    "tamilMeaning": "சுவர்",
+    "example": "The picture is on the wall.",
+    "exampleTamil": "படம் சுவரில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "all_011",
+    "name": "stall",
+    "tamilMeaning": "கடை / தடைபடு",
+    "example": "He bought fruit from the stall.",
+    "exampleTamil": "அவர் கடையிலிருந்து பழங்கள் வாங்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "all_012",
+    "name": "small",
+    "tamilMeaning": "சிறிய",
+    "example": "The puppy is very small.",
+    "exampleTamil": "அந்த நாய்க்குட்டி மிகவும் சிறியது.",
+    "audio": ""
+  },
+  {
+    "id": "all_013",
+    "name": "install",
+    "tamilMeaning": "நிறுவு",
+    "example": "Install the application.",
+    "exampleTamil": "செயலியை நிறுவுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "all_014",
+    "name": "recall",
+    "tamilMeaning": "நினைவுகூர்",
+    "example": "I can't recall his name.",
+    "exampleTamil": "எனக்கு அவரது பெயர் நினைவில் இல்லை.",
+    "audio": ""
+  },
+  {
+    "id": "all_015",
+    "name": "overall",
+    "tamilMeaning": "ஒட்டுமொத்த",
+    "example": "The overall result was good.",
+    "exampleTamil": "ஒட்டுமொத்த முடிவு நன்றாக இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "all_016",
+    "name": "football",
+    "tamilMeaning": "கால்பந்து",
+    "example": "The children played football.",
+    "exampleTamil": "குழந்தைகள் கால்பந்து விளையாடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "all_017",
+    "name": "volleyball",
+    "tamilMeaning": "கைப்பந்து",
+    "example": "They enjoy playing volleyball.",
+    "exampleTamil": "அவர்கள் கைப்பந்து விளையாட விரும்புகிறார்கள்.",
+    "audio": ""
+  }
+]

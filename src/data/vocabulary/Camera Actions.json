@@ -1,0 +1,66 @@
+[
+  {
+    "id": "camera_001",
+    "name": "photograph",
+    "tamilMeaning": "புகைப்படம் எடு",
+    "example": "She photographed the sunset.",
+    "exampleTamil": "அவள் சூரிய அஸ்தமனத்தைப் புகைப்படம் எடுத்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "camera_002",
+    "name": "capture",
+    "tamilMeaning": "பதிவு செய்",
+    "example": "Capture the beautiful moment.",
+    "exampleTamil": "அழகான தருணத்தைப் பதிவு செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "camera_003",
+    "name": "focus",
+    "tamilMeaning": "தெளிவாக குவி",
+    "example": "Focus the camera on the flower.",
+    "exampleTamil": "கேமராவை பூவின் மீது தெளிவாகக் குவியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "camera_004",
+    "name": "zoom",
+    "tamilMeaning": "பெரிதாக்கு",
+    "example": "Zoom in to see the bird.",
+    "exampleTamil": "பறவையைப் பார்க்க பெரிதாக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "camera_005",
+    "name": "record",
+    "tamilMeaning": "வீடியோ பதிவு செய்",
+    "example": "Record the school event.",
+    "exampleTamil": "பள்ளி நிகழ்ச்சியை வீடியோவாக பதிவு செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "camera_006",
+    "name": "snap",
+    "tamilMeaning": "விரைவாக புகைப்படம் எடு",
+    "example": "Snap a picture of the family.",
+    "exampleTamil": "குடும்பத்தின் ஒரு புகைப்படத்தை விரைவாக எடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "camera_007",
+    "name": "film",
+    "tamilMeaning": "வீடியோ எடு",
+    "example": "They filmed the sports day.",
+    "exampleTamil": "அவர்கள் விளையாட்டு தினத்தை வீடியோ எடுத்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "camera_008",
+    "name": "preview",
+    "tamilMeaning": "முன்னோட்டம் பார்",
+    "example": "Preview the photo before saving.",
+    "exampleTamil": "சேமிப்பதற்கு முன் புகைப்படத்தின் முன்னோட்டத்தைப் பாருங்கள்.",
+    "audio": ""
+  }
+]

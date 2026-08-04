@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ave_001",
+    "name": "cave",
+    "tamilMeaning": "குகை",
+    "example": "The bear lives in a cave.",
+    "exampleTamil": "கரடி ஒரு குகையில் வாழ்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ave_002",
+    "name": "gave",
+    "tamilMeaning": "கொடுத்தான் / கொடுத்தது",
+    "example": "She gave me a book.",
+    "exampleTamil": "அவள் எனக்கு ஒரு புத்தகம் கொடுத்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_003",
+    "name": "have",
+    "tamilMeaning": "வைத்திரு / உடையவனாக இரு",
+    "example": "I have two brothers.",
+    "exampleTamil": "எனக்கு இரண்டு சகோதரர்கள் உள்ளனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_004",
+    "name": "pave",
+    "tamilMeaning": "சாலை அமை",
+    "example": "Workers paved the road.",
+    "exampleTamil": "தொழிலாளர்கள் சாலையை அமைத்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_005",
+    "name": "rave",
+    "tamilMeaning": "மிகவும் பாராட்டு",
+    "example": "People raved about the movie.",
+    "exampleTamil": "மக்கள் அந்த திரைப்படத்தை மிகவும் பாராட்டினர்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_006",
+    "name": "save",
+    "tamilMeaning": "சேமி / காப்பாற்று",
+    "example": "Save your work before closing.",
+    "exampleTamil": "மூடுவதற்கு முன் உங்கள் வேலையை சேமியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_007",
+    "name": "wave",
+    "tamilMeaning": "அலை / கையை அசை",
+    "example": "The children waved at us.",
+    "exampleTamil": "குழந்தைகள் எங்களைப் பார்த்து கையை அசைத்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_008",
+    "name": "brave",
+    "tamilMeaning": "தைரியமான",
+    "example": "The brave soldier helped everyone.",
+    "exampleTamil": "தைரியமான வீரர் அனைவருக்கும் உதவினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_009",
+    "name": "crave",
+    "tamilMeaning": "மிகவும் விரும்பு",
+    "example": "Some people crave sweets.",
+    "exampleTamil": "சிலர் இனிப்புகளை மிகவும் விரும்புகிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_010",
+    "name": "grave",
+    "tamilMeaning": "கல்லறை",
+    "example": "They placed flowers on the grave.",
+    "exampleTamil": "அவர்கள் கல்லறையில் மலர்களை வைத்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_011",
+    "name": "shave",
+    "tamilMeaning": "சவரம் செய்",
+    "example": "He shaves every morning.",
+    "exampleTamil": "அவர் தினமும் காலை சவரம் செய்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_012",
+    "name": "slave",
+    "tamilMeaning": "அடிமை",
+    "example": "The story was about a slave.",
+    "exampleTamil": "அந்தக் கதை ஒரு அடிமையைப் பற்றியது.",
+    "audio": ""
+  },
+  {
+    "id": "ave_013",
+    "name": "behave",
+    "tamilMeaning": "நடந்து கொள்",
+    "example": "Please behave well.",
+    "exampleTamil": "தயவுசெய்து நல்ல முறையில் நடந்துகொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_014",
+    "name": "octave",
+    "tamilMeaning": "எட்டு இசைச் சுரங்களின் வரம்பு",
+    "example": "She sang an octave higher.",
+    "exampleTamil": "அவள் ஒரு ஆக்டேவ் உயரத்தில் பாடினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_015",
+    "name": "engrave",
+    "tamilMeaning": "பொறித்து செதுக்கு",
+    "example": "They engraved his name on the trophy.",
+    "exampleTamil": "அவர்கள் அவரது பெயரை கோப்பையில் பொறித்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_016",
+    "name": "deprave",
+    "tamilMeaning": "சீர்குலை",
+    "example": "Bad habits can deprave the mind.",
+    "exampleTamil": "தீய பழக்கங்கள் மனதை சீர்குலைக்கலாம்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_017",
+    "name": "weave",
+    "tamilMeaning": "நெய்",
+    "example": "They weave cotton cloth.",
+    "exampleTamil": "அவர்கள் பருத்தித் துணியை நெய்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_018",
+    "name": "cleave",
+    "tamilMeaning": "பிள",
+    "example": "The axe can cleave the wood.",
+    "exampleTamil": "கோடாரி மரத்தைப் பிளக்க முடியும்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_019",
+    "name": "leave",
+    "tamilMeaning": "விட்டு செல்",
+    "example": "Please leave the room quietly.",
+    "exampleTamil": "தயவுசெய்து அமைதியாக அறையை விட்டு வெளியே செல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ave_020",
+    "name": "heave",
+    "tamilMeaning": "பலமாக தூக்கு",
+    "example": "They heaved the heavy box.",
+    "exampleTamil": "அவர்கள் கனமான பெட்டியை பலமாகத் தூக்கினர்.",
+    "audio": ""
+  }
+]

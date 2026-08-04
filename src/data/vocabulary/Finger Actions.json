@@ -1,0 +1,82 @@
+[
+  {
+    "id": "finger_001",
+    "name": "point",
+    "tamilMeaning": "விரலால் காட்டு",
+    "example": "Point to the picture.",
+    "exampleTamil": "படத்தை விரலால் காட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "finger_002",
+    "name": "tap",
+    "tamilMeaning": "விரலால் தட்டு",
+    "example": "Tap the screen.",
+    "exampleTamil": "திரையை விரலால் தட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "finger_003",
+    "name": "press",
+    "tamilMeaning": "அழுத்து",
+    "example": "Press the button.",
+    "exampleTamil": "பொத்தானை அழுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "finger_004",
+    "name": "pinch",
+    "tamilMeaning": "கிள்ளிப் பிடி",
+    "example": "Pinch the paper gently.",
+    "exampleTamil": "காகிதத்தை மெதுவாகக் கிள்ளிப் பிடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "finger_005",
+    "name": "snap",
+    "tamilMeaning": "விரல் சொடுக்கு",
+    "example": "He snapped his fingers.",
+    "exampleTamil": "அவர் விரல்களைச் சொடுக்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "finger_006",
+    "name": "curl",
+    "tamilMeaning": "விரலை மடி",
+    "example": "Curl your fingers.",
+    "exampleTamil": "உங்கள் விரல்களை மடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "finger_007",
+    "name": "straighten",
+    "tamilMeaning": "விரலை நேராக்கு",
+    "example": "Straighten your fingers.",
+    "exampleTamil": "உங்கள் விரல்களை நேராக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "finger_008",
+    "name": "cross",
+    "tamilMeaning": "விரல்களைக் குறுக்காக வை",
+    "example": "Cross your fingers for good luck.",
+    "exampleTamil": "நல்ல அதிர்ஷ்டத்திற்காக விரல்களைக் குறுக்காக வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "finger_009",
+    "name": "count",
+    "tamilMeaning": "விரலால் எண்ணு",
+    "example": "Count with your fingers.",
+    "exampleTamil": "விரல்களால் எண்ணுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "finger_010",
+    "name": "drum",
+    "tamilMeaning": "விரல்களால் தாளம் போடு",
+    "example": "He drummed his fingers on the table.",
+    "exampleTamil": "அவர் மேசையில் விரல்களால் தாளம் போட்டார்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "oud_001",
+    "name": "loud",
+    "tamilMeaning": "உரத்த",
+    "example": "The music is too loud.",
+    "exampleTamil": "இசை மிகவும் சத்தமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "oud_002",
+    "name": "cloud",
+    "tamilMeaning": "மேகம்",
+    "example": "A dark cloud covered the sky.",
+    "exampleTamil": "கருமேகம் வானத்தை மூடியது.",
+    "audio": ""
+  },
+  {
+    "id": "oud_003",
+    "name": "shroud",
+    "tamilMeaning": "மூடுதுணி / மூடு",
+    "example": "Fog shrouded the hills.",
+    "exampleTamil": "மூடுபனி மலைகளை மூடியது.",
+    "audio": ""
+  },
+  {
+    "id": "oud_004",
+    "name": "proud",
+    "tamilMeaning": "பெருமையுள்ள",
+    "example": "Her parents are proud of her.",
+    "exampleTamil": "அவளின் பெற்றோர் அவளைப் பற்றி பெருமைப்படுகிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "oud_005",
+    "name": "aloud",
+    "tamilMeaning": "உரக்க",
+    "example": "Please read the story aloud.",
+    "exampleTamil": "தயவுசெய்து கதையை உரக்க வாசியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "oud_006",
+    "name": "allowed",
+    "tamilMeaning": "அனுமதிக்கப்பட்ட",
+    "example": "Mobile phones are not allowed here.",
+    "exampleTamil": "இங்கு கைப்பேசிகள் அனுமதிக்கப்படவில்லை.",
+    "audio": ""
+  },
+  {
+    "id": "oud_007",
+    "name": "crowd",
+    "tamilMeaning": "கூட்டம்",
+    "example": "A large crowd gathered outside.",
+    "exampleTamil": "வெளியில் ஒரு பெரிய கூட்டம் திரண்டது.",
+    "audio": ""
+  },
+  {
+    "id": "oud_008",
+    "name": "froud",
+    "tamilMeaning": "❌ தவறான சொல்",
+    "example": "",
+    "exampleTamil": "",
+    "audio": ""
+  }
+]

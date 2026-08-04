@@ -1,0 +1,82 @@
+[
+  {
+    "id": "drive_001",
+    "name": "drive",
+    "tamilMeaning": "வாகனம் ஓட்டு",
+    "example": "She drives to work every day.",
+    "exampleTamil": "அவள் தினமும் வேலைக்கு வாகனம் ஓட்டிச் செல்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "drive_002",
+    "name": "steer",
+    "tamilMeaning": "ஸ்டீயரிங் திருப்பு",
+    "example": "Steer the car carefully.",
+    "exampleTamil": "காரை கவனமாக ஸ்டீயரிங் திருப்பி ஓட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "drive_003",
+    "name": "accelerate",
+    "tamilMeaning": "வேகத்தை அதிகரி",
+    "example": "Accelerate slowly.",
+    "exampleTamil": "மெதுவாக வேகத்தை அதிகரியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "drive_004",
+    "name": "brake",
+    "tamilMeaning": "பிரேக் போடு",
+    "example": "Brake before the traffic signal.",
+    "exampleTamil": "போக்குவரத்து சிக்னலுக்கு முன் பிரேக் போடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "drive_005",
+    "name": "reverse",
+    "tamilMeaning": "பின்நோக்கி ஓட்டு",
+    "example": "Reverse the car slowly.",
+    "exampleTamil": "காரை மெதுவாக பின்நோக்கி ஓட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "drive_006",
+    "name": "park",
+    "tamilMeaning": "நிறுத்தி வை",
+    "example": "Park the car here.",
+    "exampleTamil": "காரை இங்கே நிறுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "drive_007",
+    "name": "overtake",
+    "tamilMeaning": "முந்திச் செல்",
+    "example": "Do not overtake on a curve.",
+    "exampleTamil": "வளைவில் முந்திச் செல்லாதீர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "drive_008",
+    "name": "signal",
+    "tamilMeaning": "சிக்னல் காட்டு",
+    "example": "Signal before turning.",
+    "exampleTamil": "திரும்புவதற்கு முன் சிக்னல் காட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "drive_009",
+    "name": "honk",
+    "tamilMeaning": "ஹார்ன் அடி",
+    "example": "Honk only when necessary.",
+    "exampleTamil": "தேவையானபோது மட்டும் ஹார்ன் அடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "drive_010",
+    "name": "refuel",
+    "tamilMeaning": "எரிபொருள் நிரப்பு",
+    "example": "Refuel the car before the trip.",
+    "exampleTamil": "பயணத்திற்கு முன் காரில் எரிபொருள் நிரப்புங்கள்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "toe_001",
+    "name": "curl",
+    "tamilMeaning": "கால் விரல்களை மடி",
+    "example": "Curl your toes gently.",
+    "exampleTamil": "உங்கள் கால் விரல்களை மெதுவாக மடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "toe_002",
+    "name": "wiggle",
+    "tamilMeaning": "கால் விரல்களை அசை",
+    "example": "Wiggle your toes.",
+    "exampleTamil": "உங்கள் கால் விரல்களை அசையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "toe_003",
+    "name": "spread",
+    "tamilMeaning": "கால் விரல்களை விரி",
+    "example": "Spread your toes apart.",
+    "exampleTamil": "உங்கள் கால் விரல்களை விரியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "toe_004",
+    "name": "flex",
+    "tamilMeaning": "கால் விரல்களை மடக்கு",
+    "example": "Flex your toes slowly.",
+    "exampleTamil": "உங்கள் கால் விரல்களை மெதுவாக மடக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "toe_005",
+    "name": "point",
+    "tamilMeaning": "கால் விரல்களை நீட்டி காட்டு",
+    "example": "Point your toes forward.",
+    "exampleTamil": "உங்கள் கால் விரல்களை முன்னோக்கி நீட்டுங்கள்.",
+    "audio": ""
+  }
+]

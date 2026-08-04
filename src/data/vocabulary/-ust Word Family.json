@@ -1,0 +1,130 @@
+[
+  {
+    "id": "ust_001",
+    "name": "bust",
+    "tamilMeaning": "உடை / மார்பளவு சிலை",
+    "example": "The balloon will bust if you blow too hard.",
+    "exampleTamil": "நீ மிகவும் பலமாக ஊதினால் பலூன் வெடித்துவிடும்.",
+    "audio": ""
+  },
+  {
+    "id": "ust_002",
+    "name": "dust",
+    "tamilMeaning": "தூசி",
+    "example": "There is dust on the table.",
+    "exampleTamil": "மேசையில் தூசி இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ust_003",
+    "name": "gust",
+    "tamilMeaning": "பலத்த காற்று",
+    "example": "A strong gust blew the leaves away.",
+    "exampleTamil": "பலத்த காற்று இலைகளை பறக்கவிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ust_004",
+    "name": "just",
+    "tamilMeaning": "வெறும் / இப்போதுதான்",
+    "example": "I just finished my homework.",
+    "exampleTamil": "நான் இப்போதுதான் என் வீட்டுப்பாடத்தை முடித்தேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ust_005",
+    "name": "must",
+    "tamilMeaning": "கட்டாயம்",
+    "example": "You must wear a helmet.",
+    "exampleTamil": "நீங்கள் கட்டாயம் தலைக்கவசம் அணிய வேண்டும்.",
+    "audio": ""
+  },
+  {
+    "id": "ust_006",
+    "name": "rust",
+    "tamilMeaning": "துரு",
+    "example": "The old gate is covered with rust.",
+    "exampleTamil": "பழைய கதவு துருவால் மூடப்பட்டுள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ust_007",
+    "name": "crust",
+    "tamilMeaning": "மேலோடு",
+    "example": "The pizza crust is crispy.",
+    "exampleTamil": "பீட்சாவின் மேலோடு மொறுமொறுப்பாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ust_008",
+    "name": "trust",
+    "tamilMeaning": "நம்பிக்கை / நம்பு",
+    "example": "I trust my best friend.",
+    "exampleTamil": "நான் என் சிறந்த நண்பரை நம்புகிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ust_009",
+    "name": "thrust",
+    "tamilMeaning": "பலமாகத் தள்ளு",
+    "example": "He thrust the door open.",
+    "exampleTamil": "அவர் கதவை பலமாகத் தள்ளித் திறந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ust_010",
+    "name": "adjust",
+    "tamilMeaning": "சரிசெய்",
+    "example": "Adjust the chair height.",
+    "exampleTamil": "நாற்காலியின் உயரத்தைச் சரிசெய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ust_011",
+    "name": "disgust",
+    "tamilMeaning": "அருவருப்பு",
+    "example": "The smell caused disgust.",
+    "exampleTamil": "அந்த நாற்றம் அருவருப்பை ஏற்படுத்தியது.",
+    "audio": ""
+  },
+  {
+    "id": "ust_012",
+    "name": "entrust",
+    "tamilMeaning": "ஒப்படை",
+    "example": "I entrust this task to you.",
+    "exampleTamil": "இந்த வேலையை உங்களிடம் ஒப்படைக்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ust_013",
+    "name": "combust",
+    "tamilMeaning": "எரி",
+    "example": "Dry wood can combust easily.",
+    "exampleTamil": "உலர்ந்த மரம் எளிதில் எரியும்.",
+    "audio": ""
+  },
+  {
+    "id": "ust_014",
+    "name": "robust",
+    "tamilMeaning": "வலுவான",
+    "example": "The system is robust.",
+    "exampleTamil": "அந்த அமைப்பு வலுவாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ust_015",
+    "name": "locust",
+    "tamilMeaning": "வெட்டுக்கிளி",
+    "example": "A swarm of locusts damaged the crops.",
+    "exampleTamil": "வெட்டுக்கிளிகளின் கூட்டம் பயிர்களை சேதப்படுத்தியது.",
+    "audio": ""
+  },
+  {
+    "id": "ust_016",
+    "name": "august",
+    "tamilMeaning": "ஆகஸ்ட் மாதம்",
+    "example": "School reopens in August.",
+    "exampleTamil": "பள்ளி ஆகஸ்ட் மாதத்தில் மீண்டும் திறக்கப்படுகிறது.",
+    "audio": ""
+  }
+]

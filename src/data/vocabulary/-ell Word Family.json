@@ -1,0 +1,130 @@
+[
+  {
+    "id": "ell_001",
+    "name": "bell",
+    "tamilMeaning": "மணி",
+    "example": "The school bell rang.",
+    "exampleTamil": "பள்ளி மணி அடித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ell_002",
+    "name": "cell",
+    "tamilMeaning": "உயிரணு / சிறை அறை",
+    "example": "A cell is the basic unit of life.",
+    "exampleTamil": "உயிரணு உயிரின் அடிப்படை அலகாகும்.",
+    "audio": ""
+  },
+  {
+    "id": "ell_003",
+    "name": "dell",
+    "tamilMeaning": "சிறிய பள்ளத்தாக்கு",
+    "example": "They walked through the dell.",
+    "exampleTamil": "அவர்கள் சிறிய பள்ளத்தாக்கு வழியாக நடந்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ell_004",
+    "name": "fell",
+    "tamilMeaning": "விழுந்தான்",
+    "example": "He fell from the bicycle.",
+    "exampleTamil": "அவர் மிதிவண்டியில் இருந்து விழுந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ell_005",
+    "name": "hell",
+    "tamilMeaning": "நரகம்",
+    "example": "The story mentioned hell.",
+    "exampleTamil": "அந்தக் கதையில் நரகம் பற்றி கூறப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ell_006",
+    "name": "jell",
+    "tamilMeaning": "உறையத் தொடங்கு",
+    "example": "The mixture began to jell.",
+    "exampleTamil": "அந்த கலவை உறையத் தொடங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ell_007",
+    "name": "sell",
+    "tamilMeaning": "விற்பனை செய்",
+    "example": "They sell fresh fruits.",
+    "exampleTamil": "அவர்கள் புதிய பழங்களை விற்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ell_008",
+    "name": "tell",
+    "tamilMeaning": "சொல்",
+    "example": "Please tell me the truth.",
+    "exampleTamil": "தயவுசெய்து எனக்கு உண்மையைச் சொல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ell_009",
+    "name": "well",
+    "tamilMeaning": "நன்றாக / கிணறு",
+    "example": "She sings well.",
+    "exampleTamil": "அவள் நன்றாகப் பாடுகிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ell_010",
+    "name": "yell",
+    "tamilMeaning": "உரக்கக் கத்து",
+    "example": "Do not yell in the classroom.",
+    "exampleTamil": "வகுப்பறையில் உரக்கக் கத்தாதே.",
+    "audio": ""
+  },
+  {
+    "id": "ell_011",
+    "name": "dwell",
+    "tamilMeaning": "வசித்து இரு",
+    "example": "Many families dwell in this village.",
+    "exampleTamil": "பல குடும்பங்கள் இந்த கிராமத்தில் வசிக்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "ell_012",
+    "name": "shell",
+    "tamilMeaning": "ஓடு",
+    "example": "The turtle has a hard shell.",
+    "exampleTamil": "ஆமைக்கு கடினமான ஓடு உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ell_013",
+    "name": "smell",
+    "tamilMeaning": "வாசனை / முகர்",
+    "example": "The flowers smell sweet.",
+    "exampleTamil": "பூக்கள் இனிமையாக மணக்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "ell_014",
+    "name": "spell",
+    "tamilMeaning": "எழுத்துக்கூட்டி சொல்",
+    "example": "Can you spell your name?",
+    "exampleTamil": "உங்கள் பெயரை எழுத்துக்கூட்டி சொல்ல முடியுமா?",
+    "audio": ""
+  },
+  {
+    "id": "ell_015",
+    "name": "swell",
+    "tamilMeaning": "வீங்கு",
+    "example": "His ankle began to swell.",
+    "exampleTamil": "அவரது கணுக்கால் வீங்கத் தொடங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ell_016",
+    "name": "knell",
+    "tamilMeaning": "இறப்பு மணி ஒலி",
+    "example": "The church bell sounded a knell.",
+    "exampleTamil": "தேவாலய மணி இறப்பு மணி ஒலியை எழுப்பியது.",
+    "audio": ""
+  }
+]

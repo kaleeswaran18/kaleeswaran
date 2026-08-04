@@ -1,0 +1,162 @@
+[
+  {
+    "id": "og_001",
+    "name": "bog",
+    "tamilMeaning": "சேற்று நிலம்",
+    "example": "The truck got stuck in the bog.",
+    "exampleTamil": "லாரி சேற்று நிலத்தில் சிக்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "og_002",
+    "name": "cog",
+    "tamilMeaning": "பற்சக்கரப் பல்",
+    "example": "The cog fits into the wheel.",
+    "exampleTamil": "பற்சக்கரம் சக்கரத்தில் பொருந்துகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "og_003",
+    "name": "dog",
+    "tamilMeaning": "நாய்",
+    "example": "The dog is barking.",
+    "exampleTamil": "நாய் குரைக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "og_004",
+    "name": "fog",
+    "tamilMeaning": "மூடுபனி",
+    "example": "The fog covered the road.",
+    "exampleTamil": "மூடுபனி சாலையை மூடியது.",
+    "audio": ""
+  },
+  {
+    "id": "og_005",
+    "name": "hog",
+    "tamilMeaning": "பெரிய பன்றி",
+    "example": "The hog ran across the field.",
+    "exampleTamil": "பெரிய பன்றி வயலைக் கடந்து ஓடியது.",
+    "audio": ""
+  },
+  {
+    "id": "og_006",
+    "name": "jog",
+    "tamilMeaning": "மெதுவாக ஓடு",
+    "example": "I jog every morning.",
+    "exampleTamil": "நான் தினமும் காலையில் மெதுவாக ஓடுகிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "og_007",
+    "name": "log",
+    "tamilMeaning": "மரக்கட்டை",
+    "example": "The fire burned the log.",
+    "exampleTamil": "நெருப்பு மரக்கட்டையை எரித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "og_008",
+    "name": "mog",
+    "tamilMeaning": "பூனை (British informal)",
+    "example": "The mog slept on the sofa.",
+    "exampleTamil": "பூனை சோஃபாவில் தூங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "og_009",
+    "name": "nog",
+    "tamilMeaning": "ஒரு வகை பானம்",
+    "example": "They served eggnog at the party.",
+    "exampleTamil": "விருந்தில் எக்நாக் பானம் வழங்கப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "og_010",
+    "name": "tog",
+    "tamilMeaning": "ஆடை (British informal)",
+    "example": "He changed into his sports togs.",
+    "exampleTamil": "அவர் விளையாட்டு ஆடையை மாற்றி அணிந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "og_011",
+    "name": "clog",
+    "tamilMeaning": "அடை",
+    "example": "Leaves can clog the drain.",
+    "exampleTamil": "இலைகள் வடிகாலை அடைக்கலாம்.",
+    "audio": ""
+  },
+  {
+    "id": "og_012",
+    "name": "flog",
+    "tamilMeaning": "சாட்டையால் அடி",
+    "example": "The story mentioned a man being flogged.",
+    "exampleTamil": "ஒருவரை சாட்டையால் அடித்ததாகக் கதையில் கூறப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "og_013",
+    "name": "frog",
+    "tamilMeaning": "தவளை",
+    "example": "The frog jumped into the pond.",
+    "exampleTamil": "தவளை குளத்தில் குதித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "og_014",
+    "name": "smog",
+    "tamilMeaning": "புகைமூட்டம்",
+    "example": "The city was covered in smog.",
+    "exampleTamil": "நகரம் புகைமூட்டத்தால் சூழப்பட்டிருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "og_015",
+    "name": "slog",
+    "tamilMeaning": "கடினமாக உழை",
+    "example": "They slogged through the rain.",
+    "exampleTamil": "அவர்கள் மழையில் கடினமாக நடந்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "og_016",
+    "name": "snog",
+    "tamilMeaning": "காதலுடன் முத்தமிடு (British slang)",
+    "example": "The movie used the word 'snog'.",
+    "exampleTamil": "அந்த திரைப்படத்தில் 'snog' என்ற சொல் பயன்படுத்தப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "og_017",
+    "name": "blog",
+    "tamilMeaning": "வலைப்பதிவு",
+    "example": "She writes a travel blog.",
+    "exampleTamil": "அவள் பயண வலைப்பதிவு எழுதுகிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "og_018",
+    "name": "catalog",
+    "tamilMeaning": "பட்டியல்",
+    "example": "The store printed a catalog.",
+    "exampleTamil": "கடை ஒரு பட்டியலை அச்சிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "og_019",
+    "name": "dialog",
+    "tamilMeaning": "உரையாடல்",
+    "example": "The dialog was interesting.",
+    "exampleTamil": "அந்த உரையாடல் சுவாரஸ்யமாக இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "og_020",
+    "name": "epilog",
+    "tamilMeaning": "பின்னுரை",
+    "example": "The novel ended with an epilog.",
+    "exampleTamil": "நாவல் ஒரு பின்னுரையுடன் முடிந்தது.",
+    "audio": ""
+  }
+]

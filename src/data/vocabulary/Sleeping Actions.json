@@ -1,0 +1,58 @@
+[
+  {
+    "id": "sleep_001",
+    "name": "sleep",
+    "tamilMeaning": "தூங்கு",
+    "example": "Children should sleep early.",
+    "exampleTamil": "குழந்தைகள் சீக்கிரம் தூங்க வேண்டும்.",
+    "audio": ""
+  },
+  {
+    "id": "sleep_002",
+    "name": "nap",
+    "tamilMeaning": "சிறிது நேரம் தூங்கு",
+    "example": "The baby took a nap.",
+    "exampleTamil": "குழந்தை சிறிது நேரம் தூங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "sleep_003",
+    "name": "doze",
+    "tamilMeaning": "கண் அயர்",
+    "example": "Grandfather dozed in the chair.",
+    "exampleTamil": "தாத்தா நாற்காலியில் கண் அயர்ந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "sleep_004",
+    "name": "snore",
+    "tamilMeaning": "குறட்டை விடு",
+    "example": "He snores loudly.",
+    "exampleTamil": "அவர் சத்தமாக குறட்டை விடுகிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "sleep_005",
+    "name": "dream",
+    "tamilMeaning": "கனவு காண்",
+    "example": "She dreamed about flying.",
+    "exampleTamil": "அவள் பறப்பதைப் பற்றி கனவு கண்டாள்.",
+    "audio": ""
+  },
+  {
+    "id": "sleep_006",
+    "name": "oversleep",
+    "tamilMeaning": "அதிக நேரம் தூங்கு",
+    "example": "I overslept this morning.",
+    "exampleTamil": "இன்று காலை நான் அதிக நேரம் தூங்கிவிட்டேன்.",
+    "audio": ""
+  },
+  {
+    "id": "sleep_007",
+    "name": "rest",
+    "tamilMeaning": "ஓய்வெடு",
+    "example": "Rest after a long day.",
+    "exampleTamil": "நீண்ட நாளுக்குப் பிறகு ஓய்வெடுங்கள்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "bake_001",
+    "name": "bake",
+    "tamilMeaning": "சுட்டு வேகவை",
+    "example": "Bake the cake for 30 minutes.",
+    "exampleTamil": "கேக்கை 30 நிமிடங்கள் சுட்டு வேகவையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bake_002",
+    "name": "knead",
+    "tamilMeaning": "மாவைப் பிசை",
+    "example": "Knead the dough well.",
+    "exampleTamil": "மாவை நன்றாகப் பிசையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bake_003",
+    "name": "whisk",
+    "tamilMeaning": "நன்றாக அடித்து கலக்கு",
+    "example": "Whisk the eggs until smooth.",
+    "exampleTamil": "முட்டைகளை நன்றாக அடித்து கலக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bake_004",
+    "name": "beat",
+    "tamilMeaning": "அடி",
+    "example": "Beat the butter and sugar together.",
+    "exampleTamil": "வெண்ணெய் மற்றும் சர்க்கரையை ஒன்றாக அடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bake_005",
+    "name": "roll",
+    "tamilMeaning": "மாவை உருட்டு",
+    "example": "Roll the dough flat.",
+    "exampleTamil": "மாவை தட்டையாக உருட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bake_006",
+    "name": "dust",
+    "tamilMeaning": "மாவைத் தூவு",
+    "example": "Dust the tray with flour.",
+    "exampleTamil": "தட்டில் மாவைத் தூவுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bake_007",
+    "name": "grease",
+    "tamilMeaning": "எண்ணெய் அல்லது வெண்ணெய் தடவு",
+    "example": "Grease the baking pan.",
+    "exampleTamil": "பேக்கிங் பாத்திரத்தில் வெண்ணெய் தடவுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bake_008",
+    "name": "decorate",
+    "tamilMeaning": "அலங்கரி",
+    "example": "Decorate the cake with cream.",
+    "exampleTamil": "கேக்கை கிரீமால் அலங்கரியுங்கள்.",
+    "audio": ""
+  }
+]

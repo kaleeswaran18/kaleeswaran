@@ -1,0 +1,66 @@
+[
+  {
+    "id": "paper_001",
+    "name": "fold",
+    "tamilMeaning": "மடி",
+    "example": "Fold the paper in half.",
+    "exampleTamil": "காகிதத்தை பாதியாக மடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paper_002",
+    "name": "unfold",
+    "tamilMeaning": "மடிப்பை விரி",
+    "example": "Unfold the paper carefully.",
+    "exampleTamil": "காகிதத்தை கவனமாக விரியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paper_003",
+    "name": "tear",
+    "tamilMeaning": "கிழி",
+    "example": "Tear the paper into pieces.",
+    "exampleTamil": "காகிதத்தை துண்டுகளாக கிழியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paper_004",
+    "name": "crumple",
+    "tamilMeaning": "கசக்கு",
+    "example": "Crumple the paper and throw it away.",
+    "exampleTamil": "காகிதத்தைக் கசக்கி தூக்கி எறியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paper_005",
+    "name": "roll",
+    "tamilMeaning": "சுருட்டு",
+    "example": "Roll the paper into a tube.",
+    "exampleTamil": "காகிதத்தை குழாயைப் போல சுருட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paper_006",
+    "name": "unroll",
+    "tamilMeaning": "சுருளை விரி",
+    "example": "Unroll the paper gently.",
+    "exampleTamil": "காகிதச் சுருளை மெதுவாக விரியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paper_007",
+    "name": "wrap",
+    "tamilMeaning": "சுற்றி மடி",
+    "example": "Wrap the gift with paper.",
+    "exampleTamil": "பரிசை காகிதத்தால் சுற்றி மடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paper_008",
+    "name": "unwrap",
+    "tamilMeaning": "சுற்றியதை பிரி",
+    "example": "Unwrap the gift carefully.",
+    "exampleTamil": "பரிசின் காகிதத்தை கவனமாகப் பிரியுங்கள்.",
+    "audio": ""
+  }
+]

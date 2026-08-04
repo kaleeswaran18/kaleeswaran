@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ump_001",
+    "name": "bump",
+    "tamilMeaning": "மோதல் / புடைப்பு",
+    "example": "I bumped my head on the door.",
+    "exampleTamil": "நான் கதவில் என் தலையை மோதிக்கொண்டேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ump_002",
+    "name": "bumpy",
+    "tamilMeaning": "மேடு பள்ளமான",
+    "example": "The road is bumpy.",
+    "exampleTamil": "சாலை மேடு பள்ளமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ump_003",
+    "name": "chump",
+    "tamilMeaning": "முட்டாள் (informal)",
+    "example": "Don't be a chump.",
+    "exampleTamil": "முட்டாளாக இருக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ump_004",
+    "name": "clump",
+    "tamilMeaning": "கொத்து",
+    "example": "A clump of trees stood nearby.",
+    "exampleTamil": "அருகில் ஒரு மரக்கொத்து இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ump_005",
+    "name": "crump",
+    "tamilMeaning": "வெடிப்பு ஒலி",
+    "example": "A loud crump echoed in the distance.",
+    "exampleTamil": "தொலைவில் பலத்த வெடிப்பு ஒலி கேட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ump_006",
+    "name": "dump",
+    "tamilMeaning": "கொட்டு / குப்பை மேடு",
+    "example": "Don't dump waste here.",
+    "exampleTamil": "இங்கே குப்பையை கொட்டாதீர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ump_007",
+    "name": "frump",
+    "tamilMeaning": "நாகரிகமற்ற உடை அணிபவர்",
+    "example": "The story described a frump.",
+    "exampleTamil": "கதையில் நாகரிகமற்ற உடை அணிந்த ஒருவரைப் பற்றி கூறப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ump_008",
+    "name": "grump",
+    "tamilMeaning": "எரிச்சலான நபர்",
+    "example": "Don't be such a grump.",
+    "exampleTamil": "இவ்வளவு எரிச்சலாக இருக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ump_009",
+    "name": "hump",
+    "tamilMeaning": "திமில்",
+    "example": "The camel has a hump.",
+    "exampleTamil": "ஒட்டகத்திற்கு ஒரு திமில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ump_010",
+    "name": "jump",
+    "tamilMeaning": "குதி",
+    "example": "The boy can jump high.",
+    "exampleTamil": "அந்த சிறுவன் உயரமாக குதிக்க முடியும்.",
+    "audio": ""
+  },
+  {
+    "id": "ump_011",
+    "name": "lump",
+    "tamilMeaning": "கட்டி",
+    "example": "There was a lump of clay.",
+    "exampleTamil": "ஒரு களிமண் கட்டி இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ump_012",
+    "name": "pump",
+    "tamilMeaning": "பம்ப்",
+    "example": "The pump supplies water.",
+    "exampleTamil": "பம்ப் தண்ணீரை வழங்குகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ump_013",
+    "name": "rump",
+    "tamilMeaning": "பின்பகுதி",
+    "example": "The horse injured its rump.",
+    "exampleTamil": "குதிரையின் பின்பகுதியில் காயம் ஏற்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ump_014",
+    "name": "slump",
+    "tamilMeaning": "சரிவு",
+    "example": "Sales went into a slump.",
+    "exampleTamil": "விற்பனை சரிவடைந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ump_015",
+    "name": "stump",
+    "tamilMeaning": "மர அடிக்கட்டை",
+    "example": "The children sat on a tree stump.",
+    "exampleTamil": "குழந்தைகள் மர அடிக்கட்டையில் அமர்ந்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ump_016",
+    "name": "thump",
+    "tamilMeaning": "தடார் என்று அடி",
+    "example": "We heard a loud thump.",
+    "exampleTamil": "பலத்த தடார் சத்தம் கேட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ump_017",
+    "name": "trump",
+    "tamilMeaning": "மேலோங்கு / துருப்புச் சீட்டு",
+    "example": "Experience can trump talent.",
+    "exampleTamil": "அனுபவம் திறமையை விட மேலோங்கலாம்.",
+    "audio": ""
+  },
+  {
+    "id": "ump_018",
+    "name": "umpire",
+    "tamilMeaning": "நடுவர்",
+    "example": "The umpire gave the decision.",
+    "exampleTamil": "நடுவர் தனது தீர்ப்பை வழங்கினார்.",
+    "audio": ""
+  }
+]

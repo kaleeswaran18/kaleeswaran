@@ -1,0 +1,130 @@
+[
+  {
+    "id": "unk_001",
+    "name": "bunk",
+    "tamilMeaning": "படுக்கை (இரட்டை படுக்கை)",
+    "example": "He slept on the top bunk.",
+    "exampleTamil": "அவர் மேல்படுக்கையில் தூங்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "unk_002",
+    "name": "bunker",
+    "tamilMeaning": "பதுங்கு குழி",
+    "example": "The soldiers stayed in the bunker.",
+    "exampleTamil": "வீரர்கள் பதுங்கு குழியில் தங்கினர்.",
+    "audio": ""
+  },
+  {
+    "id": "unk_003",
+    "name": "chunk",
+    "tamilMeaning": "பெரிய துண்டு",
+    "example": "Cut the cheese into chunks.",
+    "exampleTamil": "பாலாடைக்கட்டியை பெரிய துண்டுகளாக வெட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "unk_004",
+    "name": "clunk",
+    "tamilMeaning": "தடக் என்ற ஒலி",
+    "example": "We heard a loud clunk.",
+    "exampleTamil": "பலத்த தடக் சத்தம் கேட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "unk_005",
+    "name": "drunk",
+    "tamilMeaning": "குடிபோதையில்",
+    "example": "He looked drunk.",
+    "exampleTamil": "அவர் குடிபோதையில் இருந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "unk_006",
+    "name": "flunk",
+    "tamilMeaning": "தோல்வியடை",
+    "example": "He flunked the exam.",
+    "exampleTamil": "அவர் தேர்வில் தோல்வியடைந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "unk_007",
+    "name": "funk",
+    "tamilMeaning": "பயம் / மனச்சோர்வு",
+    "example": "She was in a funk all day.",
+    "exampleTamil": "அவள் நாள் முழுவதும் மனச்சோர்வுடன் இருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "unk_008",
+    "name": "hunk",
+    "tamilMeaning": "பெரிய துண்டு",
+    "example": "He cut a hunk of bread.",
+    "exampleTamil": "அவர் ஒரு பெரிய ரொட்டி துண்டை வெட்டினார்.",
+    "audio": ""
+  },
+  {
+    "id": "unk_009",
+    "name": "junk",
+    "tamilMeaning": "குப்பை",
+    "example": "Throw away the junk.",
+    "exampleTamil": "தேவையற்ற குப்பையை தூக்கி எறியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "unk_010",
+    "name": "plunk",
+    "tamilMeaning": "பொத் என்று வை",
+    "example": "He plunked the bag on the table.",
+    "exampleTamil": "அவர் பையை மேசையின் மீது பொத் என்று வைத்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "unk_011",
+    "name": "punk",
+    "tamilMeaning": "ரவுடி / கிளர்ச்சியாளர்",
+    "example": "The movie featured a punk character.",
+    "exampleTamil": "திரைப்படத்தில் ஒரு கிளர்ச்சியாளர் கதாபாத்திரம் இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "unk_012",
+    "name": "shrunk",
+    "tamilMeaning": "சுருங்கிவிட்டது",
+    "example": "My shirt shrunk after washing.",
+    "exampleTamil": "துவைத்த பிறகு என் சட்டை சுருங்கிவிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "unk_013",
+    "name": "skunk",
+    "tamilMeaning": "ஸ்கங்க் (ஒரு விலங்கு)",
+    "example": "The skunk sprayed a bad smell.",
+    "exampleTamil": "ஸ்கங்க் துர்நாற்றத்தை வெளியிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "unk_014",
+    "name": "spunk",
+    "tamilMeaning": "தைரியம்",
+    "example": "She showed great spunk.",
+    "exampleTamil": "அவள் மிகுந்த தைரியத்தைக் காட்டினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "unk_015",
+    "name": "stunk",
+    "tamilMeaning": "துர்நாற்றம் வீசியது",
+    "example": "The garbage stunk badly.",
+    "exampleTamil": "குப்பை மிகவும் துர்நாற்றம் வீசியது.",
+    "audio": ""
+  },
+  {
+    "id": "unk_016",
+    "name": "trunk",
+    "tamilMeaning": "மரத்தின் தண்டு / பெட்டி",
+    "example": "The elephant lifted its trunk.",
+    "exampleTamil": "யானை தனது தும்பிக்கையை உயர்த்தியது.",
+    "audio": ""
+  }
+]

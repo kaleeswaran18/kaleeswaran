@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ip_001",
+    "name": "dip",
+    "tamilMeaning": "மூழ்கவை",
+    "example": "Dip the bread in the soup.",
+    "exampleTamil": "ரொட்டியை சூப்பில் தோய்த்து எடு.",
+    "audio": ""
+  },
+  {
+    "id": "ip_002",
+    "name": "hip",
+    "tamilMeaning": "இடுப்பு",
+    "example": "He hurt his hip.",
+    "exampleTamil": "அவருக்கு இடுப்பில் காயம் ஏற்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ip_003",
+    "name": "lip",
+    "tamilMeaning": "உதடு",
+    "example": "Her lip was dry.",
+    "exampleTamil": "அவளுடைய உதடு உலர்ந்திருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ip_004",
+    "name": "nip",
+    "tamilMeaning": "லேசாகக் கடி",
+    "example": "The puppy nipped my finger.",
+    "exampleTamil": "நாய்க்குட்டி என் விரலை லேசாகக் கடித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ip_005",
+    "name": "pip",
+    "tamilMeaning": "விதை",
+    "example": "Remove the apple pips.",
+    "exampleTamil": "ஆப்பிளின் விதைகளை அகற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ip_006",
+    "name": "rip",
+    "tamilMeaning": "கிழி",
+    "example": "Don't rip the paper.",
+    "exampleTamil": "காகிதத்தை கிழிக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ip_007",
+    "name": "sip",
+    "tamilMeaning": "சிறிது சிறிதாகக் குடி",
+    "example": "Sip the hot tea slowly.",
+    "exampleTamil": "சூடான தேநீரை மெதுவாகக் குடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ip_008",
+    "name": "tip",
+    "tamilMeaning": "நுனி",
+    "example": "The pencil tip is sharp.",
+    "exampleTamil": "பென்சிலின் நுனி கூர்மையாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ip_009",
+    "name": "tip",
+    "tamilMeaning": "ஆலோசனை",
+    "example": "Here is a useful tip.",
+    "exampleTamil": "இது ஒரு பயனுள்ள ஆலோசனை.",
+    "audio": ""
+  },
+  {
+    "id": "ip_010",
+    "name": "vip",
+    "tamilMeaning": "முக்கிய நபர்",
+    "example": "The VIP arrived on time.",
+    "exampleTamil": "முக்கிய நபர் நேரத்திற்கு வந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ip_011",
+    "name": "chip",
+    "tamilMeaning": "சிறு துண்டு",
+    "example": "The plate has a small chip.",
+    "exampleTamil": "தட்டில் ஒரு சிறிய உடைவு உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ip_012",
+    "name": "clip",
+    "tamilMeaning": "கிளிப்",
+    "example": "Use a paper clip.",
+    "exampleTamil": "ஒரு காகித கிளிப்பைப் பயன்படுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ip_013",
+    "name": "drip",
+    "tamilMeaning": "சொட்டு சொட்டாக விழு",
+    "example": "Water began to drip.",
+    "exampleTamil": "தண்ணீர் சொட்டு சொட்டாக விழத் தொடங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ip_014",
+    "name": "flip",
+    "tamilMeaning": "புரட்டு",
+    "example": "Flip the page.",
+    "exampleTamil": "பக்கத்தைப் புரட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ip_015",
+    "name": "grip",
+    "tamilMeaning": "இறுக்கமான பிடி",
+    "example": "Keep a firm grip on the rope.",
+    "exampleTamil": "கயிற்றை இறுக்கமாகப் பிடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ip_016",
+    "name": "ship",
+    "tamilMeaning": "கப்பல்",
+    "example": "The ship sailed across the sea.",
+    "exampleTamil": "கப்பல் கடலைக் கடந்து சென்றது.",
+    "audio": ""
+  },
+  {
+    "id": "ip_017",
+    "name": "skip",
+    "tamilMeaning": "தவிர்",
+    "example": "Don't skip breakfast.",
+    "exampleTamil": "காலை உணவைத் தவிர்க்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ip_018",
+    "name": "slip",
+    "tamilMeaning": "வழுக்கு",
+    "example": "Be careful not to slip.",
+    "exampleTamil": "வழுக்காமல் கவனமாக இருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ip_019",
+    "name": "snip",
+    "tamilMeaning": "கத்தரியால் வெட்டு",
+    "example": "Snip the thread.",
+    "exampleTamil": "நூலை கத்தரியால் வெட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ip_020",
+    "name": "strip",
+    "tamilMeaning": "நீண்ட துண்டு",
+    "example": "Cut the paper into strips.",
+    "exampleTamil": "காகிதத்தை நீண்ட துண்டுகளாக வெட்டுங்கள்.",
+    "audio": ""
+  }
+]

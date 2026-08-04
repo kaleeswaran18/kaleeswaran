@@ -1,0 +1,146 @@
+[
+  {
+    "id": "un_001",
+    "name": "bun",
+    "tamilMeaning": "பன் ரொட்டி",
+    "example": "She ate a bun for breakfast.",
+    "exampleTamil": "அவள் காலை உணவாக ஒரு பன் சாப்பிட்டாள்.",
+    "audio": ""
+  },
+  {
+    "id": "un_002",
+    "name": "fun",
+    "tamilMeaning": "வேடிக்கை",
+    "example": "The game was fun.",
+    "exampleTamil": "அந்த விளையாட்டு வேடிக்கையாக இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "un_003",
+    "name": "gun",
+    "tamilMeaning": "துப்பாக்கி",
+    "example": "The police carried a gun.",
+    "exampleTamil": "காவல்துறையினர் ஒரு துப்பாக்கியை வைத்திருந்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "un_004",
+    "name": "nun",
+    "tamilMeaning": "கன்னியாஸ்திரி",
+    "example": "The nun worked at the school.",
+    "exampleTamil": "அந்த கன்னியாஸ்திரி பள்ளியில் பணியாற்றினார்.",
+    "audio": ""
+  },
+  {
+    "id": "un_005",
+    "name": "pun",
+    "tamilMeaning": "சிலேடை",
+    "example": "He made a funny pun.",
+    "exampleTamil": "அவர் ஒரு நகைச்சுவையான சிலேடை கூறினார்.",
+    "audio": ""
+  },
+  {
+    "id": "un_006",
+    "name": "run",
+    "tamilMeaning": "ஓடு",
+    "example": "The boys run every morning.",
+    "exampleTamil": "சிறுவர்கள் தினமும் காலை ஓடுகிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "un_007",
+    "name": "sun",
+    "tamilMeaning": "சூரியன்",
+    "example": "The sun rises in the east.",
+    "exampleTamil": "சூரியன் கிழக்கில் உதிக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "un_008",
+    "name": "ton",
+    "tamilMeaning": "டன்",
+    "example": "The truck carried one ton of sand.",
+    "exampleTamil": "லாரி ஒரு டன் மணலை ஏற்றிச் சென்றது.",
+    "audio": ""
+  },
+  {
+    "id": "un_009",
+    "name": "won",
+    "tamilMeaning": "வென்றான்",
+    "example": "Our team won the match.",
+    "exampleTamil": "எங்கள் அணி போட்டியில் வென்றது.",
+    "audio": ""
+  },
+  {
+    "id": "un_010",
+    "name": "stun",
+    "tamilMeaning": "அதிர்ச்சியடையச் செய்",
+    "example": "The news stunned everyone.",
+    "exampleTamil": "அந்த செய்தி அனைவரையும் அதிர்ச்சியடையச் செய்தது.",
+    "audio": ""
+  },
+  {
+    "id": "un_011",
+    "name": "shun",
+    "tamilMeaning": "தவிர்த்து ஒதுக்கு",
+    "example": "We should shun bad habits.",
+    "exampleTamil": "நாம் தீய பழக்கங்களைத் தவிர்க்க வேண்டும்.",
+    "audio": ""
+  },
+  {
+    "id": "un_012",
+    "name": "spun",
+    "tamilMeaning": "சுற்றினான்",
+    "example": "The wheel spun quickly.",
+    "exampleTamil": "சக்கரம் வேகமாகச் சுழன்றது.",
+    "audio": ""
+  },
+  {
+    "id": "un_013",
+    "name": "begun",
+    "tamilMeaning": "தொடங்கியது",
+    "example": "The class has begun.",
+    "exampleTamil": "வகுப்பு தொடங்கிவிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "un_014",
+    "name": "rerun",
+    "tamilMeaning": "மறுஒளிபரப்பு",
+    "example": "They watched the rerun of the show.",
+    "exampleTamil": "அவர்கள் நிகழ்ச்சியின் மறுஒளிபரப்பைப் பார்த்தார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "un_015",
+    "name": "outrun",
+    "tamilMeaning": "விட வேகமாக ஓடு",
+    "example": "The deer outran the dog.",
+    "exampleTamil": "மான் நாயை விட வேகமாக ஓடியது.",
+    "audio": ""
+  },
+  {
+    "id": "un_016",
+    "name": "overrun",
+    "tamilMeaning": "நிரம்பிவழி / ஆக்கிரமி",
+    "example": "The garden was overrun with weeds.",
+    "exampleTamil": "தோட்டம் களைகளால் நிரம்பியது.",
+    "audio": ""
+  },
+  {
+    "id": "un_017",
+    "name": "undone",
+    "tamilMeaning": "முடிக்கப்படாத",
+    "example": "The work is still undone.",
+    "exampleTamil": "வேலை இன்னும் முடிக்கப்படவில்லை.",
+    "audio": ""
+  },
+  {
+    "id": "un_018",
+    "name": "sunlight",
+    "tamilMeaning": "சூரிய ஒளி",
+    "example": "Plants need sunlight to grow.",
+    "exampleTamil": "செடிகள் வளர சூரிய ஒளி தேவை.",
+    "audio": ""
+  }
+]

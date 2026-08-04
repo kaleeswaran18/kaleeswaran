@@ -1,0 +1,58 @@
+[
+  {
+    "id": "bathroom_001",
+    "name": "flush",
+    "tamilMeaning": "தண்ணீர் விடு",
+    "example": "Flush the toilet after use.",
+    "exampleTamil": "பயன்படுத்திய பிறகு கழிப்பறையில் தண்ணீர் விடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bathroom_002",
+    "name": "wipe",
+    "tamilMeaning": "துடை",
+    "example": "Wipe the sink after use.",
+    "exampleTamil": "பயன்படுத்திய பிறகு கழுவும் தொட்டியைத் துடைக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "bathroom_003",
+    "name": "hang",
+    "tamilMeaning": "தொங்கவிடு",
+    "example": "Hang the towel on the hook.",
+    "exampleTamil": "துண்டை கொக்கியில் தொங்கவிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bathroom_004",
+    "name": "dispense",
+    "tamilMeaning": "வெளியே விடு",
+    "example": "Dispense the liquid soap.",
+    "exampleTamil": "திரவ சோப்பை வெளியே விடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bathroom_005",
+    "name": "sanitize",
+    "tamilMeaning": "கிருமி நீக்கம் செய்",
+    "example": "Sanitize the toilet regularly.",
+    "exampleTamil": "கழிப்பறையை தவறாமல் கிருமி நீக்கம் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bathroom_006",
+    "name": "refill",
+    "tamilMeaning": "மீண்டும் நிரப்பு",
+    "example": "Refill the soap dispenser.",
+    "exampleTamil": "சோப் டிஸ்பென்சரை மீண்டும் நிரப்புங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bathroom_007",
+    "name": "clean",
+    "tamilMeaning": "சுத்தம் செய்",
+    "example": "Clean the bathroom every week.",
+    "exampleTamil": "குளியலறையை வாரம் ஒருமுறை சுத்தம் செய்யுங்கள்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ail_001",
+    "name": "ail",
+    "tamilMeaning": "துன்பப்படுத்து",
+    "example": "What ails you today?",
+    "exampleTamil": "இன்று உங்களை என்ன தொந்தரவு செய்கிறது?",
+    "audio": ""
+  },
+  {
+    "id": "ail_002",
+    "name": "bail",
+    "tamilMeaning": "ஜாமீன்",
+    "example": "He was released on bail.",
+    "exampleTamil": "அவர் ஜாமீனில் விடுவிக்கப்பட்டார்.",
+    "audio": ""
+  },
+  {
+    "id": "ail_003",
+    "name": "fail",
+    "tamilMeaning": "தோல்வியடை",
+    "example": "Never fail to try.",
+    "exampleTamil": "முயற்சி செய்வதில் ஒருபோதும் தவறாதே.",
+    "audio": ""
+  },
+  {
+    "id": "ail_004",
+    "name": "hail",
+    "tamilMeaning": "ஆலங்கட்டி மழை",
+    "example": "Hail damaged the crops.",
+    "exampleTamil": "ஆலங்கட்டி மழை பயிர்களை சேதப்படுத்தியது.",
+    "audio": ""
+  },
+  {
+    "id": "ail_005",
+    "name": "jail",
+    "tamilMeaning": "சிறைச்சாலை",
+    "example": "The thief was sent to jail.",
+    "exampleTamil": "திருடன் சிறைக்கு அனுப்பப்பட்டான்.",
+    "audio": ""
+  },
+  {
+    "id": "ail_006",
+    "name": "mail",
+    "tamilMeaning": "அஞ்சல் / மின்னஞ்சல்",
+    "example": "I received your mail.",
+    "exampleTamil": "உங்கள் அஞ்சலை நான் பெற்றேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ail_007",
+    "name": "nail",
+    "tamilMeaning": "ஆணி",
+    "example": "Hammer the nail carefully.",
+    "exampleTamil": "ஆணியை கவனமாக அடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ail_008",
+    "name": "pail",
+    "tamilMeaning": "வாளி",
+    "example": "Fill the pail with water.",
+    "exampleTamil": "வாளியில் தண்ணீர் நிரப்புங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ail_009",
+    "name": "rail",
+    "tamilMeaning": "இரயில் தண்டவாளம்",
+    "example": "The train runs on the rail.",
+    "exampleTamil": "ரயில் தண்டவாளத்தில் செல்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ail_010",
+    "name": "sail",
+    "tamilMeaning": "பாய்மரம் கப்பலில் பயணம் செய்",
+    "example": "They sailed across the sea.",
+    "exampleTamil": "அவர்கள் கடலைக் கடந்து பயணம் செய்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ail_011",
+    "name": "tail",
+    "tamilMeaning": "வால்",
+    "example": "The dog wagged its tail.",
+    "exampleTamil": "நாய் தனது வாலை ஆட்டியது.",
+    "audio": ""
+  },
+  {
+    "id": "ail_012",
+    "name": "wail",
+    "tamilMeaning": "உரக்க அழு",
+    "example": "The baby began to wail.",
+    "exampleTamil": "குழந்தை உரக்க அழத் தொடங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ail_013",
+    "name": "trail",
+    "tamilMeaning": "பாதை",
+    "example": "We walked along the forest trail.",
+    "exampleTamil": "நாங்கள் காட்டுப் பாதையில் நடந்தோம்.",
+    "audio": ""
+  },
+  {
+    "id": "ail_014",
+    "name": "snail",
+    "tamilMeaning": "நத்தை",
+    "example": "The snail moves slowly.",
+    "exampleTamil": "நத்தை மெதுவாக நகர்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ail_015",
+    "name": "quail",
+    "tamilMeaning": "காடை",
+    "example": "A quail flew from the grass.",
+    "exampleTamil": "ஒரு காடை புல்லிலிருந்து பறந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ail_016",
+    "name": "detail",
+    "tamilMeaning": "விவரம்",
+    "example": "Please explain every detail.",
+    "exampleTamil": "ஒவ்வொரு விவரத்தையும் விளக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ail_017",
+    "name": "retail",
+    "tamilMeaning": "சில்லறை விற்பனை",
+    "example": "She works in retail.",
+    "exampleTamil": "அவள் சில்லறை விற்பனையில் வேலை செய்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ail_018",
+    "name": "cocktail",
+    "tamilMeaning": "கலப்பு பானம்",
+    "example": "The menu included fruit cocktails.",
+    "exampleTamil": "பட்டியலில் பழக் கலப்பு பானங்கள் இருந்தன.",
+    "audio": ""
+  },
+  {
+    "id": "ail_019",
+    "name": "ponytail",
+    "tamilMeaning": "குதிரைவால் கொண்டை",
+    "example": "She tied her hair in a ponytail.",
+    "exampleTamil": "அவள் தனது முடியை குதிரைவால் கொண்டையாக கட்டினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ail_020",
+    "name": "email",
+    "tamilMeaning": "மின்னஞ்சல்",
+    "example": "Please send me an email.",
+    "exampleTamil": "தயவுசெய்து எனக்கு ஒரு மின்னஞ்சல் அனுப்புங்கள்.",
+    "audio": ""
+  }
+]

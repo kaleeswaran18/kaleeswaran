@@ -1,0 +1,138 @@
+[
+  {
+    "id": "est_001",
+    "name": "best",
+    "tamilMeaning": "சிறந்த",
+    "example": "She is my best friend.",
+    "exampleTamil": "அவள் என் சிறந்த தோழி.",
+    "audio": ""
+  },
+  {
+    "id": "est_002",
+    "name": "jest",
+    "tamilMeaning": "நகைச்சுவை",
+    "example": "He spoke in jest.",
+    "exampleTamil": "அவர் நகைச்சுவையாகப் பேசினார்.",
+    "audio": ""
+  },
+  {
+    "id": "est_003",
+    "name": "nest",
+    "tamilMeaning": "கூடு",
+    "example": "The bird built a nest.",
+    "exampleTamil": "பறவை ஒரு கூடு கட்டியது.",
+    "audio": ""
+  },
+  {
+    "id": "est_004",
+    "name": "pest",
+    "tamilMeaning": "தொல்லை தரும் பூச்சி",
+    "example": "The farmer removed the pests.",
+    "exampleTamil": "விவசாயி தொல்லை தரும் பூச்சிகளை அகற்றினார்.",
+    "audio": ""
+  },
+  {
+    "id": "est_005",
+    "name": "rest",
+    "tamilMeaning": "ஓய்வு",
+    "example": "Take some rest.",
+    "exampleTamil": "சிறிது ஓய்வு எடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "est_006",
+    "name": "test",
+    "tamilMeaning": "தேர்வு / சோதனை",
+    "example": "We have a math test today.",
+    "exampleTamil": "இன்று எங்களுக்கு கணிதத் தேர்வு உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "est_007",
+    "name": "west",
+    "tamilMeaning": "மேற்கு",
+    "example": "The sun sets in the west.",
+    "exampleTamil": "சூரியன் மேற்கில் மறைகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "est_008",
+    "name": "zest",
+    "tamilMeaning": "உற்சாகம்",
+    "example": "She works with great zest.",
+    "exampleTamil": "அவள் மிகுந்த உற்சாகத்துடன் வேலை செய்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "est_009",
+    "name": "chest",
+    "tamilMeaning": "மார்பு",
+    "example": "He felt pain in his chest.",
+    "exampleTamil": "அவருக்கு மார்பில் வலி ஏற்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "est_010",
+    "name": "crest",
+    "tamilMeaning": "உச்சி / கொண்டை",
+    "example": "The bird has a colorful crest.",
+    "exampleTamil": "அந்த பறவைக்கு வண்ணமயமான கொண்டை உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "est_011",
+    "name": "guest",
+    "tamilMeaning": "விருந்தினர்",
+    "example": "Our guest arrived early.",
+    "exampleTamil": "எங்கள் விருந்தினர் சீக்கிரமாக வந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "est_012",
+    "name": "quest",
+    "tamilMeaning": "தேடல்",
+    "example": "They began a quest for treasure.",
+    "exampleTamil": "அவர்கள் புதையலைத் தேடும் பயணத்தைத் தொடங்கினர்.",
+    "audio": ""
+  },
+  {
+    "id": "est_013",
+    "name": "invest",
+    "tamilMeaning": "முதலீடு செய்",
+    "example": "Many people invest in gold.",
+    "exampleTamil": "பலர் தங்கத்தில் முதலீடு செய்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "est_014",
+    "name": "harvest",
+    "tamilMeaning": "அறுவடை",
+    "example": "Farmers harvest rice every year.",
+    "exampleTamil": "விவசாயிகள் ஒவ்வொரு ஆண்டும் நெல் அறுவடை செய்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "est_015",
+    "name": "contest",
+    "tamilMeaning": "போட்டி",
+    "example": "She won the singing contest.",
+    "exampleTamil": "அவள் பாடல் போட்டியில் வென்றாள்.",
+    "audio": ""
+  },
+  {
+    "id": "est_016",
+    "name": "protest",
+    "tamilMeaning": "எதிர்ப்பு",
+    "example": "The workers held a protest.",
+    "exampleTamil": "தொழிலாளர்கள் எதிர்ப்பு ஆர்ப்பாட்டம் நடத்தினர்.",
+    "audio": ""
+  },
+  {
+    "id": "est_017",
+    "name": "interest",
+    "tamilMeaning": "ஆர்வம் / வட்டி",
+    "example": "She has an interest in science.",
+    "exampleTamil": "அவளுக்கு அறிவியலில் ஆர்வம் உள்ளது.",
+    "audio": ""
+  }
+]

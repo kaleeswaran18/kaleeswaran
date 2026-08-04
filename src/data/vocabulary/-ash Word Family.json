@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ash_001",
+    "name": "ash",
+    "tamilMeaning": "சாம்பல்",
+    "example": "The fire turned into ash.",
+    "exampleTamil": "தீ சாம்பலாக மாறியது.",
+    "audio": ""
+  },
+  {
+    "id": "ash_002",
+    "name": "bash",
+    "tamilMeaning": "பலமாக அடி",
+    "example": "Don't bash the door.",
+    "exampleTamil": "கதவை பலமாக அடிக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ash_003",
+    "name": "cash",
+    "tamilMeaning": "ரொக்கம்",
+    "example": "I paid in cash.",
+    "exampleTamil": "நான் ரொக்கமாக பணம் செலுத்தினேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ash_004",
+    "name": "dash",
+    "tamilMeaning": "வேகமாக ஓடு",
+    "example": "The boy dashed across the road.",
+    "exampleTamil": "சிறுவன் சாலையைக் வேகமாகக் கடந்தான்.",
+    "audio": ""
+  },
+  {
+    "id": "ash_005",
+    "name": "gash",
+    "tamilMeaning": "ஆழமான காயம்",
+    "example": "He had a deep gash on his arm.",
+    "exampleTamil": "அவரது கையில் ஆழமான காயம் இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ash_006",
+    "name": "hash",
+    "tamilMeaning": "ஹாஷ் மதிப்பு",
+    "example": "The system stores a hash of the password.",
+    "exampleTamil": "கணினி அமைப்பு கடவுச்சொல்லின் ஹாஷ் மதிப்பை சேமிக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ash_007",
+    "name": "lash",
+    "tamilMeaning": "சவுக்கால் அடி",
+    "example": "The wind lashed the trees.",
+    "exampleTamil": "காற்று மரங்களை பலமாகத் தாக்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ash_008",
+    "name": "mash",
+    "tamilMeaning": "மசித்து கூழாக்கு",
+    "example": "Mash the potatoes well.",
+    "exampleTamil": "உருளைக்கிழங்கை நன்றாக மசிக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "ash_009",
+    "name": "rash",
+    "tamilMeaning": "தோல் அரிப்பு",
+    "example": "The child has a skin rash.",
+    "exampleTamil": "குழந்தைக்கு தோல் அரிப்பு உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ash_010",
+    "name": "trash",
+    "tamilMeaning": "குப்பை",
+    "example": "Throw the trash in the bin.",
+    "exampleTamil": "குப்பையை குப்பைத்தொட்டியில் போடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ash_011",
+    "name": "clash",
+    "tamilMeaning": "மோதல்",
+    "example": "The two teams clashed yesterday.",
+    "exampleTamil": "இரு அணிகளும் நேற்று மோதின.",
+    "audio": ""
+  },
+  {
+    "id": "ash_012",
+    "name": "crash",
+    "tamilMeaning": "விபத்து / மோதி உடை",
+    "example": "The car crashed into a tree.",
+    "exampleTamil": "கார் ஒரு மரத்தில் மோதி விபத்துக்குள்ளானது.",
+    "audio": ""
+  },
+  {
+    "id": "ash_013",
+    "name": "flash",
+    "tamilMeaning": "திடீர் ஒளி",
+    "example": "A flash of lightning lit the sky.",
+    "exampleTamil": "மின்னலின் திடீர் ஒளி வானத்தை ஒளிரச்செய்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ash_014",
+    "name": "slash",
+    "tamilMeaning": "வெட்டு",
+    "example": "He slashed the rope with a knife.",
+    "exampleTamil": "அவர் கயிற்றை கத்தியால் வெட்டினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ash_015",
+    "name": "smash",
+    "tamilMeaning": "நொறுக்கு",
+    "example": "The glass smashed on the floor.",
+    "exampleTamil": "கண்ணாடி தரையில் விழுந்து நொறுங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ash_016",
+    "name": "splash",
+    "tamilMeaning": "தண்ணீர் சிதறு",
+    "example": "The children splashed in the pool.",
+    "exampleTamil": "குழந்தைகள் குளத்தில் தண்ணீரைச் சிதறடித்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ash_017",
+    "name": "stash",
+    "tamilMeaning": "இரகசியமாக சேமி",
+    "example": "He stashed the money safely.",
+    "exampleTamil": "அவர் பணத்தை பாதுகாப்பாக மறைத்து வைத்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ash_018",
+    "name": "unashamed",
+    "tamilMeaning": "வெட்கமில்லாத",
+    "example": "She was unashamed of her success.",
+    "exampleTamil": "அவள் தனது வெற்றியைப் பற்றி வெட்கப்படவில்லை.",
+    "audio": ""
+  }
+]

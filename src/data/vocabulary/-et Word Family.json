@@ -1,0 +1,122 @@
+[
+  {
+    "id": "et_001",
+    "name": "bet",
+    "tamilMeaning": "பந்தயம் கட்டு",
+    "example": "I bet he will win.",
+    "exampleTamil": "அவர் வெல்வார் என்று நான் பந்தயம் கட்டுகிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "et_002",
+    "name": "get",
+    "tamilMeaning": "பெறு",
+    "example": "I get many emails every day.",
+    "exampleTamil": "எனக்கு தினமும் பல மின்னஞ்சல்கள் கிடைக்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "et_003",
+    "name": "jet",
+    "tamilMeaning": "ஜெட் விமானம்",
+    "example": "The jet flew across the sky.",
+    "exampleTamil": "ஜெட் விமானம் வானில் பறந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "et_004",
+    "name": "let",
+    "tamilMeaning": "அனுமதி கொடு",
+    "example": "Let me help you.",
+    "exampleTamil": "நான் உங்களுக்கு உதவ அனுமதியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "et_005",
+    "name": "met",
+    "tamilMeaning": "சந்தித்தான்",
+    "example": "I met my friend yesterday.",
+    "exampleTamil": "நான் நேற்று என் நண்பரை சந்தித்தேன்.",
+    "audio": ""
+  },
+  {
+    "id": "et_006",
+    "name": "net",
+    "tamilMeaning": "வலை",
+    "example": "The fisherman threw the net.",
+    "exampleTamil": "மீனவர் வலையை வீசினார்.",
+    "audio": ""
+  },
+  {
+    "id": "et_007",
+    "name": "pet",
+    "tamilMeaning": "செல்லப்பிராணி",
+    "example": "My pet is a rabbit.",
+    "exampleTamil": "என் செல்லப்பிராணி ஒரு முயல்.",
+    "audio": ""
+  },
+  {
+    "id": "et_008",
+    "name": "set",
+    "tamilMeaning": "அமை / தொகுப்பு",
+    "example": "Set the table for dinner.",
+    "exampleTamil": "இரவு உணவிற்கு மேசையை அமைக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "et_009",
+    "name": "vet",
+    "tamilMeaning": "கால்நடை மருத்துவர்",
+    "example": "The vet examined the dog.",
+    "exampleTamil": "கால்நடை மருத்துவர் நாயைப் பரிசோதித்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "et_010",
+    "name": "wet",
+    "tamilMeaning": "ஈரமான",
+    "example": "My clothes are wet.",
+    "exampleTamil": "என் ஆடைகள் ஈரமாக உள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "et_011",
+    "name": "yet",
+    "tamilMeaning": "இன்னும்",
+    "example": "She hasn't arrived yet.",
+    "exampleTamil": "அவள் இன்னும் வரவில்லை.",
+    "audio": ""
+  },
+  {
+    "id": "et_012",
+    "name": "fret",
+    "tamilMeaning": "கவலைப்படு",
+    "example": "Don't fret about the result.",
+    "exampleTamil": "முடிவைப் பற்றி கவலைப்படாதே.",
+    "audio": ""
+  },
+  {
+    "id": "et_013",
+    "name": "greet",
+    "tamilMeaning": "வாழ்த்து",
+    "example": "Please greet our guests.",
+    "exampleTamil": "எங்கள் விருந்தினர்களை வரவேற்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "et_014",
+    "name": "sheet",
+    "tamilMeaning": "தாள்",
+    "example": "Write your name on the sheet.",
+    "exampleTamil": "தாளில் உங்கள் பெயரை எழுதுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "et_015",
+    "name": "blanket",
+    "tamilMeaning": "போர்வை",
+    "example": "The baby slept under a blanket.",
+    "exampleTamil": "குழந்தை போர்வைக்குள் தூங்கியது.",
+    "audio": ""
+  }
+]

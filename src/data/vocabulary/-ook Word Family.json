@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ook_001",
+    "name": "book",
+    "tamilMeaning": "புத்தகம்",
+    "example": "I read a book every day.",
+    "exampleTamil": "நான் தினமும் ஒரு புத்தகம் படிக்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ook_002",
+    "name": "brook",
+    "tamilMeaning": "சிற்றோடை",
+    "example": "A brook flows through the forest.",
+    "exampleTamil": "ஒரு சிற்றோடை காடு வழியாக ஓடுகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ook_003",
+    "name": "cook",
+    "tamilMeaning": "சமை",
+    "example": "My mother can cook well.",
+    "exampleTamil": "என் அம்மா நன்றாக சமைப்பார்.",
+    "audio": ""
+  },
+  {
+    "id": "ook_004",
+    "name": "crook",
+    "tamilMeaning": "திருடன் / வளைந்த கொக்கி",
+    "example": "The police caught the crook.",
+    "exampleTamil": "காவல்துறையினர் திருடனை பிடித்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ook_005",
+    "name": "hook",
+    "tamilMeaning": "கொக்கி",
+    "example": "Hang your bag on the hook.",
+    "exampleTamil": "உங்கள் பையை கொக்கியில் தொங்கவிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ook_006",
+    "name": "look",
+    "tamilMeaning": "பார்",
+    "example": "Look at the rainbow.",
+    "exampleTamil": "வானவில்லைப் பாருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ook_007",
+    "name": "nook",
+    "tamilMeaning": "சிறிய மூலை",
+    "example": "She sat in a quiet nook.",
+    "exampleTamil": "அவள் அமைதியான ஒரு மூலையில் அமர்ந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ook_008",
+    "name": "rook",
+    "tamilMeaning": "ஒரு வகை காகம் / ரூக் (சதுரங்க காய்)",
+    "example": "The rook flew over the field.",
+    "exampleTamil": "ரூக் பறவை வயலின் மேல் பறந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ook_009",
+    "name": "shook",
+    "tamilMeaning": "குலுக்கியான்",
+    "example": "He shook my hand.",
+    "exampleTamil": "அவர் என்னுடன் கைகுலுக்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ook_010",
+    "name": "took",
+    "tamilMeaning": "எடுத்தான்",
+    "example": "She took the keys.",
+    "exampleTamil": "அவள் சாவிகளை எடுத்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ook_011",
+    "name": "forsook",
+    "tamilMeaning": "கைவிட்டான்",
+    "example": "He forsook his old habits.",
+    "exampleTamil": "அவர் தனது பழைய பழக்கங்களை கைவிட்டார்.",
+    "audio": ""
+  },
+  {
+    "id": "ook_012",
+    "name": "overtook",
+    "tamilMeaning": "முந்திச் சென்றான்",
+    "example": "The car overtook the bus.",
+    "exampleTamil": "கார் பேருந்தை முந்திச் சென்றது.",
+    "audio": ""
+  },
+  {
+    "id": "ook_013",
+    "name": "undertook",
+    "tamilMeaning": "மேற்கொண்டான்",
+    "example": "She undertook the project.",
+    "exampleTamil": "அவள் அந்தத் திட்டத்தை மேற்கொண்டாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ook_014",
+    "name": "mistook",
+    "tamilMeaning": "தவறாக நினைத்தான்",
+    "example": "I mistook him for my friend.",
+    "exampleTamil": "நான் அவரை என் நண்பர் என்று தவறாக நினைத்தேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ook_015",
+    "name": "outlook",
+    "tamilMeaning": "கண்ணோட்டம்",
+    "example": "She has a positive outlook.",
+    "exampleTamil": "அவளுக்கு நேர்மறையான கண்ணோட்டம் உள்ளது.",
+    "audio": ""
+  }
+]

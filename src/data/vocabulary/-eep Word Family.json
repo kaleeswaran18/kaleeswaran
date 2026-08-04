@@ -1,0 +1,123 @@
+[
+  {
+    "id": "eep_001",
+    "name": "beep",
+    "tamilMeaning": "பீப் ஒலி",
+    "example": "The phone made a beep.",
+    "exampleTamil": "தொலைபேசி பீப் என்று ஒலித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "eep_002",
+    "name": "deep",
+    "tamilMeaning": "ஆழமான",
+    "example": "The river is very deep.",
+    "exampleTamil": "ஆறு மிகவும் ஆழமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "eep_003",
+    "name": "jeep",
+    "tamilMeaning": "ஜீப் வாகனம்",
+    "example": "The jeep climbed the hill.",
+    "exampleTamil": "ஜீப் மலையில் ஏறியது.",
+    "audio": ""
+  },
+  {
+    "id": "eep_004",
+    "name": "keep",
+    "tamilMeaning": "வைத்திரு",
+    "example": "Keep your room clean.",
+    "exampleTamil": "உங்கள் அறையை சுத்தமாக வைத்திருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eep_005",
+    "name": "peep",
+    "tamilMeaning": "எட்டிப்பார்",
+    "example": "Don't peep through the window.",
+    "exampleTamil": "ஜன்னல் வழியாக எட்டிப் பார்க்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "eep_006",
+    "name": "seep",
+    "tamilMeaning": "மெதுவாக கசி",
+    "example": "Water seeped through the wall.",
+    "exampleTamil": "தண்ணீர் சுவர் வழியாக மெதுவாக கசிந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "eep_007",
+    "name": "weep",
+    "tamilMeaning": "அழு",
+    "example": "The child began to weep.",
+    "exampleTamil": "குழந்தை அழத் தொடங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "eep_008",
+    "name": "creep",
+    "tamilMeaning": "தவழ்ந்து செல்",
+    "example": "The baby can creep.",
+    "exampleTamil": "குழந்தை தவழ்ந்து செல்ல முடியும்.",
+    "audio": ""
+  },
+  {
+    "id": "eep_009",
+    "name": "sleep",
+    "tamilMeaning": "தூங்கு",
+    "example": "Children need enough sleep.",
+    "exampleTamil": "குழந்தைகளுக்கு போதுமான தூக்கம் தேவை.",
+    "audio": ""
+  },
+  {
+    "id": "eep_010",
+    "name": "sheep",
+    "tamilMeaning": "செம்மறி ஆடு",
+    "example": "The sheep are grazing.",
+    "exampleTamil": "செம்மறி ஆடுகள் மேய்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "eep_011",
+    "name": "steep",
+    "tamilMeaning": "செங்குத்தான",
+    "example": "The road is steep.",
+    "exampleTamil": "சாலை மிகவும் செங்குத்தாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "eep_012",
+    "name": "sweep",
+    "tamilMeaning": "பெருக்கு",
+    "example": "Sweep the floor every day.",
+    "exampleTamil": "தினமும் தரையைப் பெருக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eep_013",
+    "name": "cheep",
+    "tamilMeaning": "குஞ்சின் கீச்சொலி",
+    "example": "The chicks began to cheep.",
+    "exampleTamil": "குஞ்சுகள் கீச்சிடத் தொடங்கின.",
+    "audio": ""
+  },
+  {
+    "id": "eep_014",
+   
+    "name": "freebiep",
+    "tamilMeaning": "❌ தவறான சொல்",
+    "example": "",
+    "exampleTamil": "",
+    "audio": ""
+  },
+  {
+    "id": "eep_015",
+    "name": "bookkeep",
+    "tamilMeaning": "கணக்குப் பதிவு செய் (bookkeep)",
+    "example": "She learned to bookkeep.",
+    "exampleTamil": "அவள் கணக்குப் பதிவு செய்யக் கற்றுக்கொண்டாள்.",
+    "audio": ""
+  }
+]

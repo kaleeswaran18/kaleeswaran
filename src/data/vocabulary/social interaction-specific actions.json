@@ -1,0 +1,82 @@
+[
+  {
+    "id": "social_001",
+    "name": "meet",
+    "tamilMeaning": "சந்தி",
+    "example": "I met my friend at the park.",
+    "exampleTamil": "நான் பூங்காவில் என் நண்பரை சந்தித்தேன்.",
+    "audio": ""
+  },
+  {
+    "id": "social_002",
+    "name": "introduce",
+    "tamilMeaning": "அறிமுகப்படுத்து",
+    "example": "Introduce yourself to the class.",
+    "exampleTamil": "உங்களை வகுப்பிற்கு அறிமுகப்படுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "social_003",
+    "name": "invite",
+    "tamilMeaning": "அழை",
+    "example": "Invite your friends to the party.",
+    "exampleTamil": "உங்கள் நண்பர்களை விருந்துக்கு அழையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "social_004",
+    "name": "welcome",
+    "tamilMeaning": "வரவேற்று",
+    "example": "Welcome the new student.",
+    "exampleTamil": "புதிய மாணவரை வரவேற்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "social_005",
+    "name": "help",
+    "tamilMeaning": "உதவி செய்",
+    "example": "Help your classmates.",
+    "exampleTamil": "உங்கள் வகுப்பு நண்பர்களுக்கு உதவுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "social_006",
+    "name": "thank",
+    "tamilMeaning": "நன்றி கூறு",
+    "example": "Thank your teacher.",
+    "exampleTamil": "உங்கள் ஆசிரியருக்கு நன்றி கூறுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "social_007",
+    "name": "apologize",
+    "tamilMeaning": "மன்னிப்பு கேள்",
+    "example": "Apologize for your mistake.",
+    "exampleTamil": "உங்கள் தவறுக்கு மன்னிப்பு கேளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "social_008",
+    "name": "congratulate",
+    "tamilMeaning": "வாழ்த்து",
+    "example": "Congratulate the winner.",
+    "exampleTamil": "வெற்றியாளரை வாழ்த்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "social_009",
+    "name": "encourage",
+    "tamilMeaning": "ஊக்கப்படுத்து",
+    "example": "Parents should encourage their children.",
+    "exampleTamil": "பெற்றோர் தங்கள் குழந்தைகளை ஊக்கப்படுத்த வேண்டும்.",
+    "audio": ""
+  },
+  {
+    "id": "social_010",
+    "name": "comfort",
+    "tamilMeaning": "ஆறுதல் கூறு",
+    "example": "She comforted her friend.",
+    "exampleTamil": "அவள் தனது நண்பருக்கு ஆறுதல் கூறினாள்.",
+    "audio": ""
+  }
+]

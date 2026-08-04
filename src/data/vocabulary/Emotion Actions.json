@@ -1,0 +1,66 @@
+[
+  {
+    "id": "emotion_001",
+    "name": "love",
+    "tamilMeaning": "அன்பு செய்",
+    "example": "Parents love their children.",
+    "exampleTamil": "பெற்றோர் தங்கள் குழந்தைகளை அன்பு செய்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "emotion_002",
+    "name": "care",
+    "tamilMeaning": "அக்கறை கொள்",
+    "example": "Care for your family.",
+    "exampleTamil": "உங்கள் குடும்பத்தின் மீது அக்கறை கொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "emotion_003",
+    "name": "worry",
+    "tamilMeaning": "கவலைப்படு",
+    "example": "Don't worry about the test.",
+    "exampleTamil": "தேர்வைப் பற்றி கவலைப்படாதீர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "emotion_004",
+    "name": "fear",
+    "tamilMeaning": "பயப்படு",
+    "example": "The child feared the dark.",
+    "exampleTamil": "குழந்தை இருளைக் கண்டு பயந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "emotion_005",
+    "name": "trust",
+    "tamilMeaning": "நம்பு",
+    "example": "Trust your friends.",
+    "exampleTamil": "உங்கள் நண்பர்களை நம்புங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "emotion_006",
+    "name": "forgive",
+    "tamilMeaning": "மன்னி",
+    "example": "Forgive others for their mistakes.",
+    "exampleTamil": "மற்றவர்களின் தவறுகளை மன்னியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "emotion_007",
+    "name": "admire",
+    "tamilMeaning": "பாராட்டு / மதி",
+    "example": "I admire my teacher.",
+    "exampleTamil": "நான் என் ஆசிரியரை மதிக்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "emotion_008",
+    "name": "celebrate",
+    "tamilMeaning": "கொண்டாடு",
+    "example": "We celebrated the victory.",
+    "exampleTamil": "நாங்கள் வெற்றியைக் கொண்டாடினோம்.",
+    "audio": ""
+  }
+]

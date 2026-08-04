@@ -1,0 +1,66 @@
+[
+  {
+    "id": "write_001",
+    "name": "write",
+    "tamilMeaning": "எழுது",
+    "example": "Write your name.",
+    "exampleTamil": "உங்கள் பெயரை எழுதுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "write_002",
+    "name": "spell",
+    "tamilMeaning": "எழுத்துக்கூட்டி சொல்",
+    "example": "Spell the word 'apple'.",
+    "exampleTamil": "'Apple' என்ற சொல்லை எழுத்துக்கூட்டி சொல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "write_003",
+    "name": "copy",
+    "tamilMeaning": "நகலெடுத்து எழுது",
+    "example": "Copy the sentence into your notebook.",
+    "exampleTamil": "வாக்கியத்தை உங்கள் நோட்டுப் புத்தகத்தில் நகலெடுத்து எழுதுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "write_004",
+    "name": "sign",
+    "tamilMeaning": "கையொப்பமிடு",
+    "example": "Sign your name here.",
+    "exampleTamil": "இங்கே உங்கள் கையொப்பத்தை இடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "write_005",
+    "name": "underline",
+    "tamilMeaning": "அடிக்கோடு இடு",
+    "example": "Underline the correct answer.",
+    "exampleTamil": "சரியான பதிலுக்கு அடிக்கோடு இடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "write_006",
+    "name": "erase",
+    "tamilMeaning": "அழி",
+    "example": "Erase the wrong answer.",
+    "exampleTamil": "தவறான பதிலை அழிக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "write_007",
+    "name": "edit",
+    "tamilMeaning": "திருத்து",
+    "example": "Edit your paragraph.",
+    "exampleTamil": "உங்கள் பத்தியைத் திருத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "write_008",
+    "name": "rewrite",
+    "tamilMeaning": "மீண்டும் எழுது",
+    "example": "Rewrite the sentence neatly.",
+    "exampleTamil": "வாக்கியத்தை அழகாக மீண்டும் எழுதுங்கள்.",
+    "audio": ""
+  }
+]

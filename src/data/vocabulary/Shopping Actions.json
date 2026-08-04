@@ -1,0 +1,82 @@
+[
+  {
+    "id": "shop_001",
+    "name": "shop",
+    "tamilMeaning": "கடைக்கு சென்று வாங்கு",
+    "example": "We shop every Sunday.",
+    "exampleTamil": "நாங்கள் ஒவ்வொரு ஞாயிற்றுக்கிழமையும் வாங்கச் செல்கிறோம்.",
+    "audio": ""
+  },
+  {
+    "id": "shop_002",
+    "name": "buy",
+    "tamilMeaning": "வாங்கு",
+    "example": "Buy some fruits.",
+    "exampleTamil": "சில பழங்களை வாங்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shop_003",
+    "name": "sell",
+    "tamilMeaning": "விற்பனை செய்",
+    "example": "They sell fresh vegetables.",
+    "exampleTamil": "அவர்கள் புதிய காய்கறிகளை விற்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shop_004",
+    "name": "choose",
+    "tamilMeaning": "தேர்ந்தெடு",
+    "example": "Choose the red shirt.",
+    "exampleTamil": "சிவப்பு சட்டையைத் தேர்ந்தெடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shop_005",
+    "name": "compare",
+    "tamilMeaning": "ஒப்பிடு",
+    "example": "Compare the prices before buying.",
+    "exampleTamil": "வாங்குவதற்கு முன் விலைகளை ஒப்பிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shop_006",
+    "name": "pay",
+    "tamilMeaning": "பணம் செலுத்து",
+    "example": "Pay the bill at the counter.",
+    "exampleTamil": "கவுண்டரில் பணம் செலுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shop_007",
+    "name": "order",
+    "tamilMeaning": "ஆர்டர் செய்",
+    "example": "Order the groceries online.",
+    "exampleTamil": "மளிகைப் பொருட்களை இணையத்தில் ஆர்டர் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shop_008",
+    "name": "exchange",
+    "tamilMeaning": "மாற்றிக்கொள்",
+    "example": "Exchange the shirt for a larger size.",
+    "exampleTamil": "சட்டையை பெரிய அளவிற்கு மாற்றிக்கொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shop_009",
+    "name": "refund",
+    "tamilMeaning": "பணத்தைத் திரும்பப் பெறு",
+    "example": "Request a refund for the damaged item.",
+    "exampleTamil": "சேதமடைந்த பொருளுக்கு பணத்தைத் திரும்பக் கோருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shop_010",
+    "name": "checkout",
+    "tamilMeaning": "கட்டணம் செலுத்தி வாங்கி முடி",
+    "example": "Checkout after selecting your items.",
+    "exampleTamil": "பொருட்களைத் தேர்ந்தெடுத்த பிறகு கட்டணம் செலுத்தி வாங்கி முடிக்கவும்.",
+    "audio": ""
+  }
+]

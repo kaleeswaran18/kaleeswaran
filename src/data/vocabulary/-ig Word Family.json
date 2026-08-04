@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ig_001",
+    "name": "big",
+    "tamilMeaning": "பெரிய",
+    "example": "The elephant is big.",
+    "exampleTamil": "யானை பெரியது.",
+    "audio": ""
+  },
+  {
+    "id": "ig_002",
+    "name": "dig",
+    "tamilMeaning": "தோண்டு",
+    "example": "They dig a hole.",
+    "exampleTamil": "அவர்கள் ஒரு குழியைத் தோண்டுகிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ig_003",
+    "name": "fig",
+    "tamilMeaning": "அத்திப்பழம்",
+    "example": "The fig is sweet.",
+    "exampleTamil": "அத்திப்பழம் இனிப்பாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ig_004",
+    "name": "gig",
+    "tamilMeaning": "இசை நிகழ்ச்சி",
+    "example": "The band played a gig.",
+    "exampleTamil": "இசைக்குழு ஒரு நிகழ்ச்சியில் இசைத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ig_005",
+    "name": "jig",
+    "tamilMeaning": "வேகமான நாட்டுப்புற நடனம்",
+    "example": "They danced a jig.",
+    "exampleTamil": "அவர்கள் ஒரு நாட்டுப்புற நடனம் ஆடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "ig_006",
+    "name": "pig",
+    "tamilMeaning": "பன்றி",
+    "example": "The pig is eating.",
+    "exampleTamil": "பன்றி சாப்பிட்டுக் கொண்டிருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ig_007",
+    "name": "rig",
+    "tamilMeaning": "கருவி அமைப்பு",
+    "example": "The workers checked the oil rig.",
+    "exampleTamil": "தொழிலாளர்கள் எண்ணெய் கருவி அமைப்பைச் சோதித்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ig_008",
+    "name": "rig",
+    "tamilMeaning": "அமை",
+    "example": "They rigged the lights.",
+    "exampleTamil": "அவர்கள் விளக்குகளை அமைத்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ig_009",
+    "name": "wig",
+    "tamilMeaning": "செயற்கை முடி",
+    "example": "She wore a wig.",
+    "exampleTamil": "அவள் செயற்கை முடி அணிந்திருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ig_010",
+    "name": "twig",
+    "tamilMeaning": "சிறிய கிளை",
+    "example": "The bird sat on a twig.",
+    "exampleTamil": "பறவை ஒரு சிறிய கிளையில் அமர்ந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ig_011",
+    "name": "swig",
+    "tamilMeaning": "ஒரே மடக்கில் குடி",
+    "example": "He took a swig of water.",
+    "exampleTamil": "அவன் தண்ணீரை ஒரே மடக்கில் குடித்தான்.",
+    "audio": ""
+  },
+  {
+    "id": "ig_012",
+    "name": "sprig",
+    "tamilMeaning": "சிறிய தளிர்",
+    "example": "Add a sprig of mint.",
+    "exampleTamil": "சிறிது புதினா தளிரைச் சேர்க்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "ig_013",
+    "name": "trig",
+    "tamilMeaning": "நேர்த்தியான",
+    "example": "He looked trig in his suit.",
+    "exampleTamil": "அவர் உடையில் நேர்த்தியாகத் தோன்றினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ig_014",
+    "name": "whig",
+    "tamilMeaning": "விக் கட்சி உறுப்பினர்",
+    "example": "The book mentioned a Whig leader.",
+    "exampleTamil": "அந்தப் புத்தகத்தில் விக் கட்சித் தலைவர் பற்றி குறிப்பிடப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ig_015",
+    "name": "piglet",
+    "tamilMeaning": "பன்றிக்குட்டி",
+    "example": "The piglet followed its mother.",
+    "exampleTamil": "பன்றிக்குட்டி தனது தாயைப் பின்தொடர்ந்தது.",
+    "audio": ""
+  }
+]

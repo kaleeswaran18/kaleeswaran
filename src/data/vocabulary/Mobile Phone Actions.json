@@ -1,0 +1,82 @@
+[
+  {
+    "id": "mobile_001",
+    "name": "tap",
+    "tamilMeaning": "தட்டு",
+    "example": "Tap the app icon.",
+    "exampleTamil": "செயலியின் ஐகானைத் தட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mobile_002",
+    "name": "swipe",
+    "tamilMeaning": "விரலால் நகர்த்து",
+    "example": "Swipe left to see more photos.",
+    "exampleTamil": "மேலும் படங்களைப் பார்க்க இடதுபுறமாக ஸ்வைப் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mobile_003",
+    "name": "scroll",
+    "tamilMeaning": "மேல்கீழாக நகர்த்து",
+    "example": "Scroll down to read more.",
+    "exampleTamil": "மேலும் படிக்க கீழே நகர்த்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mobile_004",
+    "name": "pinch",
+    "tamilMeaning": "இரண்டு விரல்களால் சுருக்கு",
+    "example": "Pinch the screen to zoom out.",
+    "exampleTamil": "சிறிதாக்க இரண்டு விரல்களால் திரையைச் சுருக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mobile_005",
+    "name": "zoom",
+    "tamilMeaning": "பெரிதாக்கு",
+    "example": "Zoom in on the photo.",
+    "exampleTamil": "படத்தை பெரிதாக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mobile_006",
+    "name": "unlock",
+    "tamilMeaning": "பூட்டை திற",
+    "example": "Unlock your phone.",
+    "exampleTamil": "உங்கள் மொபைலை திறக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "mobile_007",
+    "name": "call",
+    "tamilMeaning": "அழை",
+    "example": "Call your mother.",
+    "exampleTamil": "உங்கள் அம்மாவுக்கு அழையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mobile_008",
+    "name": "text",
+    "tamilMeaning": "செய்தி அனுப்பு",
+    "example": "Text your friend.",
+    "exampleTamil": "உங்கள் நண்பருக்கு செய்தி அனுப்புங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mobile_009",
+    "name": "record",
+    "tamilMeaning": "பதிவு செய்",
+    "example": "Record a voice message.",
+    "exampleTamil": "ஒரு குரல் செய்தியை பதிவு செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "mobile_010",
+    "name": "charge",
+    "tamilMeaning": "மின்னேற்று",
+    "example": "Charge your phone.",
+    "exampleTamil": "உங்கள் மொபைலை மின்னேற்றுங்கள்.",
+    "audio": ""
+  }
+]

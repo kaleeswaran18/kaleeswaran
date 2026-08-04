@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ame_001",
+    "name": "came",
+    "tamilMeaning": "வந்தான் / வந்தது",
+    "example": "She came early.",
+    "exampleTamil": "அவள் சீக்கிரமாக வந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ame_002",
+    "name": "dame",
+    "tamilMeaning": "மதிப்பிற்குரிய பெண்மணி",
+    "example": "The dame greeted everyone.",
+    "exampleTamil": "அந்த மதிப்பிற்குரிய பெண்மணி அனைவரையும் வரவேற்றார்.",
+    "audio": ""
+  },
+  {
+    "id": "ame_003",
+    "name": "fame",
+    "tamilMeaning": "புகழ்",
+    "example": "She achieved worldwide fame.",
+    "exampleTamil": "அவள் உலகப் புகழைப் பெற்றாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ame_004",
+    "name": "game",
+    "tamilMeaning": "விளையாட்டு",
+    "example": "The children played a game.",
+    "exampleTamil": "குழந்தைகள் ஒரு விளையாட்டை விளையாடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "ame_005",
+    "name": "lame",
+    "tamilMeaning": "நொண்டியான",
+    "example": "The horse became lame.",
+    "exampleTamil": "அந்த குதிரை நொண்டியானது.",
+    "audio": ""
+  },
+  {
+    "id": "ame_006",
+    "name": "name",
+    "tamilMeaning": "பெயர்",
+    "example": "What is your name?",
+    "exampleTamil": "உங்கள் பெயர் என்ன?",
+    "audio": ""
+  },
+  {
+    "id": "ame_007",
+    "name": "same",
+    "tamilMeaning": "அதே",
+    "example": "We study in the same class.",
+    "exampleTamil": "நாங்கள் அதே வகுப்பில் படிக்கிறோம்.",
+    "audio": ""
+  },
+  {
+    "id": "ame_008",
+    "name": "tame",
+    "tamilMeaning": "பழக்கு / அடக்கு",
+    "example": "The elephant became tame.",
+    "exampleTamil": "யானை பழக்கப்பட்டதாக மாறியது.",
+    "audio": ""
+  },
+  {
+    "id": "ame_009",
+    "name": "blame",
+    "tamilMeaning": "குற்றம் சாட்டு",
+    "example": "Don't blame others.",
+    "exampleTamil": "மற்றவர்களைக் குற்றம் சாட்டாதே.",
+    "audio": ""
+  },
+  {
+    "id": "ame_010",
+    "name": "flame",
+    "tamilMeaning": "தீச்சுடர்",
+    "example": "The flame burned brightly.",
+    "exampleTamil": "தீச்சுடர் பிரகாசமாக எரிந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ame_011",
+    "name": "frame",
+    "tamilMeaning": "சட்டம் / சட்டகம்",
+    "example": "The photo is in a frame.",
+    "exampleTamil": "புகைப்படம் ஒரு சட்டகத்தில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ame_012",
+    "name": "shame",
+    "tamilMeaning": "வெட்கம்",
+    "example": "He felt shame for his mistake.",
+    "exampleTamil": "அவர் தனது தவறுக்காக வெட்கப்பட்டார்.",
+    "audio": ""
+  },
+  {
+    "id": "ame_013",
+    "name": "became",
+    "tamilMeaning": "ஆனது",
+    "example": "She became a doctor.",
+    "exampleTamil": "அவள் மருத்துவரானாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ame_014",
+    "name": "rename",
+    "tamilMeaning": "மறுபெயரிடு",
+    "example": "Rename the file.",
+    "exampleTamil": "கோப்பிற்கு மறுபெயரிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ame_015",
+    "name": "surname",
+    "tamilMeaning": "குடும்பப்பெயர்",
+    "example": "Write your surname here.",
+    "exampleTamil": "உங்கள் குடும்பப்பெயரை இங்கே எழுதுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ame_016",
+    "name": "nickname",
+    "tamilMeaning": "செல்லப்பெயர்",
+    "example": "His nickname is Sam.",
+    "exampleTamil": "அவரின் செல்லப்பெயர் சாம்.",
+    "audio": ""
+  },
+  {
+    "id": "ame_017",
+    "name": "endgame",
+    "tamilMeaning": "இறுதிக்கட்டம்",
+    "example": "We are in the endgame now.",
+    "exampleTamil": "நாம் இப்போது இறுதிக்கட்டத்தில் இருக்கிறோம்.",
+    "audio": ""
+  },
+  {
+    "id": "ame_018",
+    "name": "noname",
+    "tamilMeaning": "பெயரில்லாத",
+    "example": "It was a noname product.",
+    "exampleTamil": "அது பெயரில்லாத தயாரிப்பு.",
+    "audio": ""
+  }
+]

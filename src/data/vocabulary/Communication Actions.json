@@ -1,0 +1,82 @@
+[
+  {
+    "id": "comm_001",
+    "name": "communicate",
+    "tamilMeaning": "தொடர்பு கொள்",
+    "example": "We communicate in English.",
+    "exampleTamil": "நாங்கள் ஆங்கிலத்தில் தொடர்பு கொள்கிறோம்.",
+    "audio": ""
+  },
+  {
+    "id": "comm_002",
+    "name": "speak",
+    "tamilMeaning": "பேசு",
+    "example": "Speak clearly.",
+    "exampleTamil": "தெளிவாகப் பேசுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "comm_003",
+    "name": "talk",
+    "tamilMeaning": "உரையாடு",
+    "example": "Talk to your teacher.",
+    "exampleTamil": "உங்கள் ஆசிரியரிடம் பேசுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "comm_004",
+    "name": "say",
+    "tamilMeaning": "சொல்",
+    "example": "Say your name.",
+    "exampleTamil": "உங்கள் பெயரைச் சொல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "comm_005",
+    "name": "tell",
+    "tamilMeaning": "கூறு",
+    "example": "Tell me the truth.",
+    "exampleTamil": "என்னிடம் உண்மையைக் கூறுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "comm_006",
+    "name": "ask",
+    "tamilMeaning": "கேள்",
+    "example": "Ask a question.",
+    "exampleTamil": "ஒரு கேள்வி கேளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "comm_007",
+    "name": "answer",
+    "tamilMeaning": "பதில் சொல்",
+    "example": "Answer the question.",
+    "exampleTamil": "கேள்விக்குப் பதில் சொல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "comm_008",
+    "name": "explain",
+    "tamilMeaning": "விளக்கு",
+    "example": "Explain the lesson.",
+    "exampleTamil": "பாடத்தை விளக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "comm_009",
+    "name": "discuss",
+    "tamilMeaning": "விவாதி",
+    "example": "Discuss the problem together.",
+    "exampleTamil": "பிரச்சினையை ஒன்றாக விவாதியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "comm_010",
+    "name": "greet",
+    "tamilMeaning": "வாழ்த்து",
+    "example": "Greet your guests politely.",
+    "exampleTamil": "உங்கள் விருந்தினர்களை மரியாதையுடன் வாழ்த்துங்கள்.",
+    "audio": ""
+  }
+]

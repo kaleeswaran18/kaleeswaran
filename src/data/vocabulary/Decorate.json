@@ -1,0 +1,58 @@
+[
+  {
+    "id": "paint_001",
+    "name": "paint",
+    "tamilMeaning": "வண்ணம் பூசு",
+    "example": "Paint the wall blue.",
+    "exampleTamil": "சுவருக்கு நீல நிறம் பூசுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paint_002",
+    "name": "color",
+    "tamilMeaning": "வண்ணம் தீட்டு",
+    "example": "Color the picture neatly.",
+    "exampleTamil": "படத்திற்கு அழகாக வண்ணம் தீட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paint_003",
+    "name": "brush",
+    "tamilMeaning": "தூரிகையால் பூசு",
+    "example": "Brush the paint evenly.",
+    "exampleTamil": "வண்ணத்தை தூரிகையால் சமமாகப் பூசுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paint_004",
+    "name": "blend",
+    "tamilMeaning": "வண்ணங்களை கலந்துபூசு",
+    "example": "Blend the colors smoothly.",
+    "exampleTamil": "வண்ணங்களை மென்மையாகக் கலந்துபூசுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paint_005",
+    "name": "coat",
+    "tamilMeaning": "ஒரு அடுக்கு பூசு",
+    "example": "Coat the wood with paint.",
+    "exampleTamil": "மரத்தில் ஒரு அடுக்கு வண்ணம் பூசுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paint_006",
+    "name": "touch up",
+    "tamilMeaning": "சிறு திருத்தம் செய்து வண்ணம் பூசு",
+    "example": "Touch up the painted wall.",
+    "exampleTamil": "வண்ணம் பூசிய சுவரில் சிறு திருத்தம் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "paint_007",
+    "name": "spray",
+    "tamilMeaning": "தெளித்து வண்ணம் பூசு",
+    "example": "Spray the fence with paint.",
+    "exampleTamil": "வேலியில் வண்ணத்தை தெளித்து பூசுங்கள்.",
+    "audio": ""
+  }
+]

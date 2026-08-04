@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ore_001",
+    "name": "bore",
+    "tamilMeaning": "துளையிடு / சலிப்பூட்டு",
+    "example": "The machine can bore a hole.",
+    "exampleTamil": "அந்த இயந்திரம் ஒரு துளையைத் துளையிடும்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_002",
+    "name": "core",
+    "tamilMeaning": "மையப்பகுதி",
+    "example": "Remove the apple core.",
+    "exampleTamil": "ஆப்பிளின் மையப்பகுதியை அகற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_003",
+    "name": "fore",
+    "tamilMeaning": "முன்பகுதி",
+    "example": "The fore legs of the horse are strong.",
+    "exampleTamil": "குதிரையின் முன் கால்கள் வலிமையாக உள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "ore_004",
+    "name": "gore",
+    "tamilMeaning": "இரத்தம் சிந்தும் காயம்",
+    "example": "The bull can gore its enemy.",
+    "exampleTamil": "காளை தனது எதிரியை கொம்பால் குத்தி காயப்படுத்தும்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_005",
+    "name": "more",
+    "tamilMeaning": "மேலும்",
+    "example": "I need more time.",
+    "exampleTamil": "எனக்கு இன்னும் அதிக நேரம் வேண்டும்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_006",
+    "name": "ore",
+    "tamilMeaning": "தாது",
+    "example": "Iron ore is mined from the earth.",
+    "exampleTamil": "இரும்புத் தாது பூமியிலிருந்து வெட்டியெடுக்கப்படுகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ore_007",
+    "name": "pore",
+    "tamilMeaning": "நுண்துளை",
+    "example": "Your skin has tiny pores.",
+    "exampleTamil": "உங்கள் தோலில் சிறிய நுண்துளைகள் உள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "ore_008",
+    "name": "sore",
+    "tamilMeaning": "வலியுள்ள",
+    "example": "My throat is sore.",
+    "exampleTamil": "என் தொண்டை வலிக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ore_009",
+    "name": "wore",
+    "tamilMeaning": "அணிந்திருந்தான்",
+    "example": "She wore a blue dress.",
+    "exampleTamil": "அவள் நீல நிற ஆடை அணிந்திருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_010",
+    "name": "chore",
+    "tamilMeaning": "வீட்டு வேலை",
+    "example": "Everyone has a daily chore.",
+    "exampleTamil": "ஒவ்வொருவருக்கும் தினசரி ஒரு வீட்டு வேலை இருக்கும்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_011",
+    "name": "shore",
+    "tamilMeaning": "கரை",
+    "example": "The boat reached the shore.",
+    "exampleTamil": "படகு கரையை அடைந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ore_012",
+    "name": "score",
+    "tamilMeaning": "மதிப்பெண்",
+    "example": "She got a high score.",
+    "exampleTamil": "அவள் அதிக மதிப்பெண் பெற்றாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_013",
+    "name": "store",
+    "tamilMeaning": "கடை / சேமி",
+    "example": "Store the food in the fridge.",
+    "exampleTamil": "உணவை குளிர்சாதனப் பெட்டியில் சேமியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_014",
+    "name": "snore",
+    "tamilMeaning": "குறட்டை விடு",
+    "example": "He began to snore loudly.",
+    "exampleTamil": "அவர் சத்தமாக குறட்டை விடத் தொடங்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_015",
+    "name": "before",
+    "tamilMeaning": "முன்பு",
+    "example": "Wash your hands before eating.",
+    "exampleTamil": "சாப்பிடுவதற்கு முன் கைகளை கழுவுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_016",
+    "name": "explore",
+    "tamilMeaning": "ஆராய்",
+    "example": "We explored the forest.",
+    "exampleTamil": "நாங்கள் காட்டை ஆராய்ந்தோம்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_017",
+    "name": "ignore",
+    "tamilMeaning": "புறக்கணி",
+    "example": "Do not ignore the warning.",
+    "exampleTamil": "எச்சரிக்கையை புறக்கணிக்காதீர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_018",
+    "name": "restore",
+    "tamilMeaning": "மீட்டெடு",
+    "example": "Restore the deleted file.",
+    "exampleTamil": "நீக்கப்பட்ட கோப்பை மீட்டெடுக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_019",
+    "name": "adore",
+    "tamilMeaning": "மிகவும் நேசி",
+    "example": "Children adore their grandparents.",
+    "exampleTamil": "குழந்தைகள் தங்கள் தாத்தா பாட்டியை மிகவும் நேசிக்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ore_020",
+    "name": "decorate",
+    "tamilMeaning": "❌ தவறான சொல்",
+    "example": "",
+    "exampleTamil": "",
+    "audio": ""
+  }
+]

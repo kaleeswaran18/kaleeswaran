@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dress_001",
+    "name": "dress",
+    "tamilMeaning": "ஆடை அணிந்து தயாராகு",
+    "example": "Dress quickly for school.",
+    "exampleTamil": "பள்ளிக்குச் செல்ல விரைவாக ஆடை அணிந்து தயாராகுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "dress_002",
+    "name": "put on",
+    "tamilMeaning": "அணிந்து கொள்",
+    "example": "Put on your jacket.",
+    "exampleTamil": "உங்கள் ஜாக்கெட்டை அணிந்து கொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "dress_003",
+    "name": "wear",
+    "tamilMeaning": "அணிந்திரு",
+    "example": "She wears a blue dress.",
+    "exampleTamil": "அவள் நீல நிற உடை அணிந்திருக்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "dress_004",
+    "name": "button",
+    "tamilMeaning": "பொத்தான் போடு",
+    "example": "Button your shirt.",
+    "exampleTamil": "உங்கள் சட்டையின் பொத்தான்களைப் போடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "dress_005",
+    "name": "zip",
+    "tamilMeaning": "ஜிப் போடு",
+    "example": "Zip your jacket.",
+    "exampleTamil": "உங்கள் ஜாக்கெட்டின் ஜிப்பை போடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "dress_006",
+    "name": "tie",
+    "tamilMeaning": "கட்டு",
+    "example": "Tie your shoelaces.",
+    "exampleTamil": "உங்கள் காலணிக் கயிறுகளை கட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "dress_007",
+    "name": "fasten",
+    "tamilMeaning": "இறுக்கமாகப் பொருத்து",
+    "example": "Fasten your belt.",
+    "exampleTamil": "உங்கள் பெல்ட்டை இறுக்கமாகப் பொருத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "dress_008",
+    "name": "unbutton",
+    "tamilMeaning": "பொத்தானை கழற்று",
+    "example": "Unbutton your shirt.",
+    "exampleTamil": "உங்கள் சட்டையின் பொத்தான்களை கழற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "dress_009",
+    "name": "unzip",
+    "tamilMeaning": "ஜிப்பை திற",
+    "example": "Unzip your bag.",
+    "exampleTamil": "உங்கள் பையின் ஜிப்பைத் திறக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "dress_010",
+    "name": "take off",
+    "tamilMeaning": "கழற்று",
+    "example": "Take off your shoes.",
+    "exampleTamil": "உங்கள் காலணிகளைக் கழற்றுங்கள்.",
+    "audio": ""
+  }
+]

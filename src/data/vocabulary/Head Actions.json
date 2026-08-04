@@ -1,0 +1,74 @@
+[
+  {
+    "id": "head_001",
+    "name": "nod",
+    "tamilMeaning": "தலையை ஆட்டு (சம்மதம்)",
+    "example": "She nodded in agreement.",
+    "exampleTamil": "அவள் சம்மதமாகத் தலையாட்டினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "head_002",
+    "name": "shake",
+    "tamilMeaning": "தலையை அசை (மறுப்பு)",
+    "example": "He shook his head.",
+    "exampleTamil": "அவர் தலையை அசைத்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "head_003",
+    "name": "bow",
+    "tamilMeaning": "தலையைத் தாழ்த்து",
+    "example": "The students bowed to the teacher.",
+    "exampleTamil": "மாணவர்கள் ஆசிரியருக்கு தலை தாழ்த்தினர்.",
+    "audio": ""
+  },
+  {
+    "id": "head_004",
+    "name": "tilt",
+    "tamilMeaning": "தலையைச் சாய்",
+    "example": "She tilted her head with curiosity.",
+    "exampleTamil": "ஆர்வத்துடன் அவள் தலையைச் சாய்த்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "head_005",
+    "name": "turn",
+    "tamilMeaning": "தலையைத் திருப்பு",
+    "example": "Turn your head to the left.",
+    "exampleTamil": "உங்கள் தலையை இடது பக்கம் திருப்புங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "head_006",
+    "name": "raise",
+    "tamilMeaning": "தலையை உயர்த்து",
+    "example": "Raise your head and look ahead.",
+    "exampleTamil": "தலையை உயர்த்தி முன்னால் பாருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "head_007",
+    "name": "lower",
+    "tamilMeaning": "தலையைத் தாழ்த்து",
+    "example": "He lowered his head in silence.",
+    "exampleTamil": "அவர் அமைதியாகத் தலையைத் தாழ்த்தினார்.",
+    "audio": ""
+  },
+  {
+    "id": "head_008",
+    "name": "duck",
+    "tamilMeaning": "தலையைத் தாழ்த்து தவிர்",
+    "example": "Duck your head under the branch.",
+    "exampleTamil": "கிளையின் கீழ் செல்ல தலையைத் தாழ்த்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "head_009",
+    "name": "lift",
+    "tamilMeaning": "தலையை உயர்த்து",
+    "example": "Lift your head slowly.",
+    "exampleTamil": "உங்கள் தலையை மெதுவாக உயர்த்துங்கள்.",
+    "audio": ""
+  }
+]

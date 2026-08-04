@@ -1,0 +1,50 @@
+[
+  {
+    "id": "drink_001",
+    "name": "drink",
+    "tamilMeaning": "குடி",
+    "example": "Drink plenty of water.",
+    "exampleTamil": "நிறைய தண்ணீர் குடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "drink_002",
+    "name": "sip",
+    "tamilMeaning": "சிறிது சிறிதாக குடி",
+    "example": "Sip the hot tea slowly.",
+    "exampleTamil": "சூடான தேநீரை மெதுவாகக் குடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "drink_003",
+    "name": "gulp",
+    "tamilMeaning": "மடமடவென்று குடி",
+    "example": "He gulped down a glass of water.",
+    "exampleTamil": "அவர் ஒரு டம்ளர் தண்ணீரை மடமடவென்று குடித்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "drink_004",
+    "name": "swig",
+    "tamilMeaning": "நீண்ட மடக்காக குடி",
+    "example": "She took a swig of juice.",
+    "exampleTamil": "அவள் பழச்சாற்றை ஒரு நீண்ட மடக்காகக் குடித்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "drink_005",
+    "name": "slurp",
+    "tamilMeaning": "உறிஞ்சும் சத்தத்துடன் குடி",
+    "example": "The child slurped the soup.",
+    "exampleTamil": "குழந்தை சூப்பை உறிஞ்சும் சத்தத்துடன் குடித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "drink_006",
+    "name": "chug",
+    "tamilMeaning": "ஒரே மூச்சில் குடி",
+    "example": "He chugged the bottle of water.",
+    "exampleTamil": "அவர் தண்ணீர் பாட்டிலை ஒரே மூச்சில் குடித்தார்.",
+    "audio": ""
+  }
+]

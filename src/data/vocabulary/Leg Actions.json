@@ -1,0 +1,66 @@
+[
+  {
+    "id": "leg_001",
+    "name": "kick",
+    "tamilMeaning": "உதை",
+    "example": "Kick the ball.",
+    "exampleTamil": "பந்தை உதையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "leg_002",
+    "name": "step",
+    "tamilMeaning": "அடி எடுத்து வை",
+    "example": "Step forward carefully.",
+    "exampleTamil": "கவனமாக முன்னால் அடி எடுத்து வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "leg_003",
+    "name": "stride",
+    "tamilMeaning": "நீண்ட அடி எடுத்து நட",
+    "example": "He strode across the field.",
+    "exampleTamil": "அவர் நீண்ட அடிகளுடன் வயலைக் கடந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "leg_004",
+    "name": "march",
+    "tamilMeaning": "அணிவகுத்து நட",
+    "example": "The soldiers marched together.",
+    "exampleTamil": "வீரர்கள் அணிவகுத்து நடந்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "leg_005",
+    "name": "lift",
+    "tamilMeaning": "காலை உயர்த்து",
+    "example": "Lift your leg slowly.",
+    "exampleTamil": "உங்கள் காலை மெதுவாக உயர்த்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "leg_006",
+    "name": "lower",
+    "tamilMeaning": "காலை இறக்கு",
+    "example": "Lower your leg gently.",
+    "exampleTamil": "உங்கள் காலை மெதுவாக இறக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "leg_007",
+    "name": "stretch",
+    "tamilMeaning": "காலை நீட்டு",
+    "example": "Stretch your leg before running.",
+    "exampleTamil": "ஓடுவதற்கு முன் உங்கள் காலை நீட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "leg_008",
+    "name": "swing",
+    "tamilMeaning": "காலை வீசி அசை",
+    "example": "Swing your leg gently.",
+    "exampleTamil": "உங்கள் காலை மெதுவாக வீசி அசையுங்கள்.",
+    "audio": ""
+  }
+]

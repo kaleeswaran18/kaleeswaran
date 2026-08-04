@@ -1,0 +1,58 @@
+[
+  {
+    "id": "dance_001",
+    "name": "dance",
+    "tamilMeaning": "நடனமாடு",
+    "example": "The children danced on the stage.",
+    "exampleTamil": "குழந்தைகள் மேடையில் நடனமாடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "dance_002",
+    "name": "twirl",
+    "tamilMeaning": "சுற்றி நடனமாடு",
+    "example": "She twirled in her new dress.",
+    "exampleTamil": "அவள் தனது புதிய உடையில் சுற்றி நடனமாடினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "dance_003",
+    "name": "sway",
+    "tamilMeaning": "இடமும் வலமும் ஆடு",
+    "example": "The dancers swayed to the music.",
+    "exampleTamil": "நடனக் கலைஞர்கள் இசைக்கு ஏற்ப இடமும் வலமும் ஆடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "dance_004",
+    "name": "shuffle",
+    "tamilMeaning": "சிறு அடிகளுடன் நகர்ந்து ஆடு",
+    "example": "He shuffled across the dance floor.",
+    "exampleTamil": "அவர் நடன மேடையில் சிறிய அடிகளுடன் நகர்ந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "dance_005",
+    "name": "dip",
+    "tamilMeaning": "நடனத்தில் துணையைச் சாய்த்து ஆடு",
+    "example": "The couple dipped at the end of the dance.",
+    "exampleTamil": "நடனத்தின் முடிவில் அந்த ஜோடி அழகாகச் சாய்ந்து ஆடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "dance_006",
+    "name": "perform",
+    "tamilMeaning": "நிகழ்ச்சி நடத்து",
+    "example": "The group performed a folk dance.",
+    "exampleTamil": "அந்தக் குழு ஒரு நாட்டுப்புற நடனத்தை நிகழ்த்தியது.",
+    "audio": ""
+  },
+  {
+    "id": "dance_007",
+    "name": "choreograph",
+    "tamilMeaning": "நடன அசைவுகளை அமை",
+    "example": "She choreographed the school dance.",
+    "exampleTamil": "அவள் பள்ளி நடனத்திற்கான அசைவுகளை அமைத்தாள்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "routine_001",
+    "name": "wake up",
+    "tamilMeaning": "எழுந்திரு",
+    "example": "I wake up at six every morning.",
+    "exampleTamil": "நான் தினமும் காலை ஆறு மணிக்கு எழுந்திருப்பேன்.",
+    "audio": ""
+  },
+  {
+    "id": "routine_002",
+    "name": "get up",
+    "tamilMeaning": "படுக்கையிலிருந்து எழு",
+    "example": "Get up and get ready.",
+    "exampleTamil": "எழுந்து தயாராகுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "routine_003",
+    "name": "make the bed",
+    "tamilMeaning": "படுக்கையை ஒழுங்குபடுத்து",
+    "example": "Make the bed after waking up.",
+    "exampleTamil": "எழுந்த பிறகு படுக்கையை ஒழுங்குபடுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "routine_004",
+    "name": "brush",
+    "tamilMeaning": "பல் துலக்கு",
+    "example": "Brush your teeth twice a day.",
+    "exampleTamil": "ஒரு நாளுக்கு இரண்டு முறை பல் துலக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "routine_005",
+    "name": "bathe",
+    "tamilMeaning": "குளி",
+    "example": "He bathes every morning.",
+    "exampleTamil": "அவர் தினமும் காலை குளிக்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "routine_006",
+    "name": "get dressed",
+    "tamilMeaning": "ஆடை அணிந்து தயாராகு",
+    "example": "Get dressed for school.",
+    "exampleTamil": "பள்ளிக்குச் செல்ல ஆடை அணிந்து தயாராகுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "routine_007",
+    "name": "go to school",
+    "tamilMeaning": "பள்ளிக்குச் செல்",
+    "example": "The children go to school by bus.",
+    "exampleTamil": "குழந்தைகள் பேருந்தில் பள்ளிக்குச் செல்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "routine_008",
+    "name": "come home",
+    "tamilMeaning": "வீட்டிற்கு வா",
+    "example": "She comes home in the evening.",
+    "exampleTamil": "அவள் மாலையில் வீட்டிற்கு வருகிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "routine_009",
+    "name": "relax",
+    "tamilMeaning": "ஓய்வெடு",
+    "example": "Relax after your work.",
+    "exampleTamil": "வேலையிற்குப் பிறகு ஓய்வெடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "routine_010",
+    "name": "sleep",
+    "tamilMeaning": "தூங்கு",
+    "example": "Sleep early every night.",
+    "exampleTamil": "தினமும் இரவு சீக்கிரம் தூங்குங்கள்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "clean_001",
+    "name": "clean",
+    "tamilMeaning": "சுத்தம் செய்",
+    "example": "Clean your room.",
+    "exampleTamil": "உங்கள் அறையைச் சுத்தம் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "clean_002",
+    "name": "sweep",
+    "tamilMeaning": "பெருக்கு",
+    "example": "Sweep the floor.",
+    "exampleTamil": "தரையைப் பெருக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "clean_003",
+    "name": "mop",
+    "tamilMeaning": "துடைப்பத்தால் துடை",
+    "example": "Mop the floor.",
+    "exampleTamil": "தரையை துடைப்பத்தால் துடைக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "clean_004",
+    "name": "wipe",
+    "tamilMeaning": "துடை",
+    "example": "Wipe the table.",
+    "exampleTamil": "மேசையைத் துடைக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "clean_005",
+    "name": "dust",
+    "tamilMeaning": "தூசியை துடை",
+    "example": "Dust the shelves.",
+    "exampleTamil": "அலமாரிகளின் தூசியைத் துடைக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "clean_006",
+    "name": "scrub",
+    "tamilMeaning": "தேய்த்து சுத்தம் செய்",
+    "example": "Scrub the sink.",
+    "exampleTamil": "கழுவும் தொட்டியை தேய்த்து சுத்தம் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "clean_007",
+    "name": "polish",
+    "tamilMeaning": "பளபளப்பாக்கு",
+    "example": "Polish your shoes.",
+    "exampleTamil": "உங்கள் காலணிகளைப் பளபளப்பாக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "clean_008",
+    "name": "vacuum",
+    "tamilMeaning": "வாக்க்யூம் கிளீனரால் சுத்தம் செய்",
+    "example": "Vacuum the carpet.",
+    "exampleTamil": "கம்பளத்தை வாக்க்யூம் கிளீனரால் சுத்தம் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "clean_009",
+    "name": "sanitize",
+    "tamilMeaning": "கிருமி நீக்கம் செய்",
+    "example": "Sanitize the table.",
+    "exampleTamil": "மேசையை கிருமி நீக்கம் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "clean_010",
+    "name": "disinfect",
+    "tamilMeaning": "தொற்று நீக்கம் செய்",
+    "example": "Disinfect the bathroom regularly.",
+    "exampleTamil": "குளியலறையை தவறாமல் தொற்று நீக்கம் செய்யுங்கள்.",
+    "audio": ""
+  }
+]

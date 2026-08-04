@@ -1,0 +1,130 @@
+[
+  {
+    "id": "owo_001",
+    "name": "blow",
+    "tamilMeaning": "ஊது",
+    "example": "Blow out the candles.",
+    "exampleTamil": "மெழுகுவர்த்திகளை ஊதி அணையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "owo_002",
+    "name": "bow",
+    "tamilMeaning": "வணங்கு",
+    "example": "The actor bowed to the audience.",
+    "exampleTamil": "நடிகர் பார்வையாளர்களுக்கு வணங்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "owo_003",
+    "name": "crow",
+    "tamilMeaning": "காகம்",
+    "example": "A crow sat on the tree.",
+    "exampleTamil": "ஒரு காகம் மரத்தில் அமர்ந்திருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "owo_004",
+    "name": "flow",
+    "tamilMeaning": "ஓடு",
+    "example": "The river flows to the sea.",
+    "exampleTamil": "ஆறு கடலை நோக்கி ஓடுகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "owo_005",
+    "name": "glow",
+    "tamilMeaning": "ஒளிர்",
+    "example": "The stars glow at night.",
+    "exampleTamil": "இரவில் நட்சத்திரங்கள் ஒளிர்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "owo_006",
+    "name": "grow",
+    "tamilMeaning": "வளர்",
+    "example": "Plants grow quickly with water.",
+    "exampleTamil": "தண்ணீரால் செடிகள் வேகமாக வளர்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "owo_007",
+    "name": "know",
+    "tamilMeaning": "அறி",
+    "example": "I know the answer.",
+    "exampleTamil": "எனக்கு பதில் தெரியும்.",
+    "audio": ""
+  },
+  {
+    "id": "owo_008",
+    "name": "low",
+    "tamilMeaning": "குறைவான",
+    "example": "The water level is low.",
+    "exampleTamil": "தண்ணீரின் அளவு குறைவாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "owo_009",
+    "name": "mow",
+    "tamilMeaning": "புல் வெட்டு",
+    "example": "He mowed the lawn.",
+    "exampleTamil": "அவர் புல்வெளியை வெட்டினார்.",
+    "audio": ""
+  },
+  {
+    "id": "owo_010",
+    "name": "row",
+    "tamilMeaning": "வரிசை",
+    "example": "Sit in the first row.",
+    "exampleTamil": "முதல் வரிசையில் அமருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "owo_011",
+    "name": "show",
+    "tamilMeaning": "காட்டு",
+    "example": "Please show me the way.",
+    "exampleTamil": "தயவுசெய்து எனக்கு வழியைக் காட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "owo_012",
+    "name": "slow",
+    "tamilMeaning": "மெதுவான",
+    "example": "The turtle is slow.",
+    "exampleTamil": "ஆமை மெதுவாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "owo_013",
+    "name": "snow",
+    "tamilMeaning": "பனி",
+    "example": "Snow covered the mountains.",
+    "exampleTamil": "மலைகள் பனியால் மூடப்பட்டன.",
+    "audio": ""
+  },
+  {
+    "id": "owo_014",
+    "name": "throw",
+    "tamilMeaning": "எறி",
+    "example": "Throw the ball to me.",
+    "exampleTamil": "பந்தை என்னிடம் எறியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "owo_015",
+    "name": "window",
+    "tamilMeaning": "ஜன்னல்",
+    "example": "Open the window.",
+    "exampleTamil": "ஜன்னலைத் திறக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "owo_016",
+    "name": "yellow",
+    "tamilMeaning": "மஞ்சள்",
+    "example": "The flower is yellow.",
+    "exampleTamil": "அந்த மலர் மஞ்சள் நிறத்தில் உள்ளது.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "body_001",
+    "name": "stand",
+    "tamilMeaning": "நில்",
+    "example": "Stand up straight.",
+    "exampleTamil": "நேராக நின்றுகொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "body_002",
+    "name": "sit",
+    "tamilMeaning": "உட்கார்",
+    "example": "Sit on the chair.",
+    "exampleTamil": "நாற்காலியில் உட்காருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "body_003",
+    "name": "lie",
+    "tamilMeaning": "படுத்து",
+    "example": "Lie on the bed.",
+    "exampleTamil": "படுக்கையில் படுத்துக்கொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "body_004",
+    "name": "kneel",
+    "tamilMeaning": "மண்டியிடு",
+    "example": "Kneel on the mat.",
+    "exampleTamil": "பாயின் மீது மண்டியிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "body_005",
+    "name": "crouch",
+    "tamilMeaning": "குனிந்து உட்கார்",
+    "example": "Crouch behind the wall.",
+    "exampleTamil": "சுவரின் பின்னால் குனிந்து உட்காருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "body_006",
+    "name": "squat",
+    "tamilMeaning": "குத்துக்காலிட்டு உட்கார்",
+    "example": "Squat down slowly.",
+    "exampleTamil": "மெதுவாக குத்துக்காலிட்டு உட்காருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "body_007",
+    "name": "lean",
+    "tamilMeaning": "சாய்ந்து நில்",
+    "example": "Lean against the wall.",
+    "exampleTamil": "சுவரில் சாய்ந்து நில்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "body_008",
+    "name": "balance",
+    "tamilMeaning": "சமநிலையைப் பேணி நில்",
+    "example": "Balance on one leg.",
+    "exampleTamil": "ஒரு காலில் சமநிலையுடன் நில்லுங்கள்.",
+    "audio": ""
+  }
+]

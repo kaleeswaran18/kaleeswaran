@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bath_001",
+    "name": "bathe",
+    "tamilMeaning": "குளி",
+    "example": "The baby bathes every evening.",
+    "exampleTamil": "குழந்தை தினமும் மாலையில் குளிக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "bath_002",
+    "name": "shower",
+    "tamilMeaning": "ஷவரில் குளி",
+    "example": "He showers every morning.",
+    "exampleTamil": "அவர் தினமும் காலை ஷவரில் குளிக்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "bath_003",
+    "name": "shampoo",
+    "tamilMeaning": "ஷாம்பு போடு",
+    "example": "Shampoo your hair twice a week.",
+    "exampleTamil": "வாரத்திற்கு இரண்டு முறை உங்கள் தலைமுடிக்கு ஷாம்பு போடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bath_004",
+    "name": "soap",
+    "tamilMeaning": "சோப்பு தேய்",
+    "example": "Soap your hands well.",
+    "exampleTamil": "உங்கள் கைகளில் நன்றாக சோப்பு தேயுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bath_005",
+    "name": "scrub up",
+    "tamilMeaning": "உடலை நன்றாக தேய்த்து குளி",
+    "example": "Scrub up before entering the pool.",
+    "exampleTamil": "நீச்சல் குளத்தில் இறங்குவதற்கு முன் உடலை நன்றாக தேய்த்து குளியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "bath_006",
+    "name": "soak",
+    "tamilMeaning": "தண்ணீரில் ஊறி குளி",
+    "example": "She soaked in a warm bath.",
+    "exampleTamil": "அவள் வெதுவெதுப்பான நீரில் ஊறிக் குளித்தாள்.",
+    "audio": ""
+  }
+]

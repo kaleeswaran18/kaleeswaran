@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ick_001",
+    "name": "ick",
+    "tamilMeaning": "அருவருப்பு (informal)",
+    "example": "Ick! That smells bad.",
+    "exampleTamil": "அருவருப்பு! அது துர்நாற்றம் வீசுகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ick_002",
+    "name": "kick",
+    "tamilMeaning": "உதை",
+    "example": "Don't kick the ball too hard.",
+    "exampleTamil": "பந்தை மிகவும் பலமாக உதைக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ick_003",
+    "name": "lick",
+    "tamilMeaning": "நக்கு",
+    "example": "The dog licked my hand.",
+    "exampleTamil": "நாய் என் கையை நக்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ick_004",
+    "name": "pick",
+    "tamilMeaning": "தேர்ந்தெடு",
+    "example": "Pick your favorite color.",
+    "exampleTamil": "உங்களுக்கு பிடித்த நிறத்தைத் தேர்ந்தெடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ick_005",
+    "name": "sick",
+    "tamilMeaning": "நோய்வாய்ப்பட்ட",
+    "example": "She is sick today.",
+    "exampleTamil": "அவள் இன்று உடல்நலமில்லாமல் இருக்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ick_006",
+    "name": "tick",
+    "tamilMeaning": "டிக் ஒலி / உண்ணி",
+    "example": "The clock makes a tick sound.",
+    "exampleTamil": "கடிகாரம் டிக் என்ற ஒலியை எழுப்புகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ick_007",
+    "name": "wick",
+    "tamilMeaning": "திரி",
+    "example": "The candle wick is burning.",
+    "exampleTamil": "மெழுகுவர்த்தியின் திரி எரிகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ick_008",
+    "name": "brick",
+    "tamilMeaning": "செங்கல்",
+    "example": "The wall is made of brick.",
+    "exampleTamil": "சுவர் செங்கற்களால் கட்டப்பட்டுள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ick_009",
+    "name": "chick",
+    "tamilMeaning": "கோழிக்குஞ்சு",
+    "example": "The chick followed its mother.",
+    "exampleTamil": "கோழிக்குஞ்சு தனது தாயைப் பின்தொடர்ந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ick_010",
+    "name": "click",
+    "tamilMeaning": "சொடுக்கவும்",
+    "example": "Click the button.",
+    "exampleTamil": "பொத்தானை சொடுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ick_011",
+    "name": "flick",
+    "tamilMeaning": "விரைவாகத் தட்டு",
+    "example": "He flicked the switch.",
+    "exampleTamil": "அவர் சுவிட்சை விரைவாகத் தட்டினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ick_012",
+    "name": "quick",
+    "tamilMeaning": "வேகமான",
+    "example": "She gave a quick answer.",
+    "exampleTamil": "அவள் விரைவான பதில் அளித்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ick_013",
+    "name": "slick",
+    "tamilMeaning": "வழுவழுப்பான",
+    "example": "The road is slick after the rain.",
+    "exampleTamil": "மழைக்குப் பிறகு சாலை வழுவழுப்பாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ick_014",
+    "name": "stick",
+    "tamilMeaning": "குச்சி",
+    "example": "The boy found a long stick.",
+    "exampleTamil": "சிறுவன் ஒரு நீண்ட குச்சியைக் கண்டான்.",
+    "audio": ""
+  },
+  {
+    "id": "ick_015",
+    "name": "thick",
+    "tamilMeaning": "தடிமனான",
+    "example": "The book is thick.",
+    "exampleTamil": "அந்த புத்தகம் தடிமனாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ick_016",
+    "name": "trick",
+    "tamilMeaning": "தந்திரம்",
+    "example": "The magician performed a trick.",
+    "exampleTamil": "மந்திரவாதி ஒரு தந்திரத்தைச் செய்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ick_017",
+    "name": "cricket",
+    "tamilMeaning": "கிரிக்கெட்",
+    "example": "They play cricket every Sunday.",
+    "exampleTamil": "அவர்கள் ஒவ்வொரு ஞாயிற்றுக்கிழமையும் கிரிக்கெட் விளையாடுகிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ick_018",
+    "name": "homesick",
+    "tamilMeaning": "வீட்டு நினைவால் வருந்துதல்",
+    "example": "She felt homesick at college.",
+    "exampleTamil": "கல்லூரியில் அவளுக்கு வீட்டு நினைவு வந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ick_019",
+    "name": "toothpick",
+    "tamilMeaning": "பல் குத்தும் குச்சி",
+    "example": "He used a toothpick after dinner.",
+    "exampleTamil": "இரவு உணவுக்குப் பிறகு அவர் பல் குத்தும் குச்சியைப் பயன்படுத்தினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ick_020",
+    "name": "firebrick",
+    "tamilMeaning": "தீத்தாங்கும் செங்கல்",
+    "example": "The oven is built with firebricks.",
+    "exampleTamil": "அடுப்பு தீத்தாங்கும் செங்கற்களால் கட்டப்பட்டுள்ளது.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ime_001",
+    "name": "chime",
+    "tamilMeaning": "மணியொலி",
+    "example": "The church bells chime every hour.",
+    "exampleTamil": "தேவாலய மணிகள் ஒவ்வொரு மணி நேரமும் ஒலிக்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "ime_002",
+    "name": "clime",
+    "tamilMeaning": "பிரதேசம் / காலநிலை பகுதி",
+    "example": "They moved to a warmer clime.",
+    "exampleTamil": "அவர்கள் வெப்பமான பிரதேசத்திற்கு குடிபெயர்ந்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ime_003",
+    "name": "crime",
+    "tamilMeaning": "குற்றம்",
+    "example": "The police solved the crime.",
+    "exampleTamil": "காவல்துறை குற்றத்தை கண்டுபிடித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ime_004",
+    "name": "dime",
+    "tamilMeaning": "பத்து சென்ட் நாணயம்",
+    "example": "He found a dime on the road.",
+    "exampleTamil": "அவர் சாலையில் ஒரு பத்து சென்ட் நாணயத்தைக் கண்டார்.",
+    "audio": ""
+  },
+  {
+    "id": "ime_005",
+    "name": "grime",
+    "tamilMeaning": "அழுக்கு படிவு",
+    "example": "The walls were covered with grime.",
+    "exampleTamil": "சுவர்கள் அழுக்கு படிவால் மூடப்பட்டிருந்தன.",
+    "audio": ""
+  },
+  {
+    "id": "ime_006",
+    "name": "lime",
+    "tamilMeaning": "எலுமிச்சை",
+    "example": "She added lime to the juice.",
+    "exampleTamil": "அவள் சாற்றில் எலுமிச்சை சேர்த்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ime_007",
+    "name": "mime",
+    "tamilMeaning": "சைகை நாடகக் கலைஞர்",
+    "example": "The mime entertained the children.",
+    "exampleTamil": "சைகை நாடகக் கலைஞர் குழந்தைகளை மகிழ்வித்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ime_008",
+    "name": "prime",
+    "tamilMeaning": "முக்கிய / முதன்மையான",
+    "example": "This is the prime reason.",
+    "exampleTamil": "இதுவே முக்கிய காரணம்.",
+    "audio": ""
+  },
+  {
+    "id": "ime_009",
+    "name": "slime",
+    "tamilMeaning": "வழுவழுப்பான பசை",
+    "example": "The rock was covered with slime.",
+    "exampleTamil": "பாறை வழுவழுப்பான பசையால் மூடப்பட்டிருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ime_010",
+    "name": "time",
+    "tamilMeaning": "நேரம்",
+    "example": "Time flies quickly.",
+    "exampleTamil": "நேரம் வேகமாக செல்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ime_011",
+    "name": "rhyme",
+    "tamilMeaning": "ஓசை ஒற்றுமை",
+    "example": "The poem has a nice rhyme.",
+    "exampleTamil": "அந்தக் கவிதையில் அழகான ஓசை ஒற்றுமை உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ime_012",
+    "name": "sometime",
+    "tamilMeaning": "எப்போதாவது",
+    "example": "Let's meet sometime next week.",
+    "exampleTamil": "அடுத்த வாரம் எப்போதாவது சந்திப்போம்.",
+    "audio": ""
+  },
+  {
+    "id": "ime_013",
+    "name": "lifetime",
+    "tamilMeaning": "வாழ்நாள்",
+    "example": "It was a once-in-a-lifetime experience.",
+    "exampleTamil": "அது வாழ்நாளில் ஒருமுறை கிடைக்கும் அனுபவம்.",
+    "audio": ""
+  },
+  {
+    "id": "ime_014",
+    "name": "bedtime",
+    "tamilMeaning": "தூங்கும் நேரம்",
+    "example": "It is bedtime now.",
+    "exampleTamil": "இப்போது தூங்கும் நேரம்.",
+    "audio": ""
+  },
+  {
+    "id": "ime_015",
+    "name": "meantime",
+    "tamilMeaning": "இதற்கிடையில்",
+    "example": "In the meantime, let's wait.",
+    "exampleTamil": "இதற்கிடையில், நாம் காத்திருக்கலாம்.",
+    "audio": ""
+  }
+]

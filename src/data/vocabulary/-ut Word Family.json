@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ut_001",
+    "name": "but",
+    "tamilMeaning": "ஆனால்",
+    "example": "I tried, but I failed.",
+    "exampleTamil": "நான் முயற்சித்தேன், ஆனால் தோல்வியடைந்தேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ut_002",
+    "name": "cut",
+    "tamilMeaning": "வெட்டு",
+    "example": "Cut the paper carefully.",
+    "exampleTamil": "காகிதத்தை கவனமாக வெட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ut_003",
+    "name": "gut",
+    "tamilMeaning": "குடல்",
+    "example": "The fish has a long gut.",
+    "exampleTamil": "மீனுக்கு நீண்ட குடல் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ut_004",
+    "name": "hut",
+    "tamilMeaning": "குடிசை",
+    "example": "The old man lived in a hut.",
+    "exampleTamil": "அந்த முதியவர் ஒரு குடிசையில் வாழ்ந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ut_005",
+    "name": "jut",
+    "tamilMeaning": "வெளியே நீட்டு",
+    "example": "The rocks jut into the sea.",
+    "exampleTamil": "பாறைகள் கடலுக்குள் நீண்டு காணப்படுகின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "ut_006",
+    "name": "nut",
+    "tamilMeaning": "கொட்டை",
+    "example": "The squirrel ate a nut.",
+    "exampleTamil": "அணில் ஒரு கொட்டையை சாப்பிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ut_007",
+    "name": "put",
+    "tamilMeaning": "வை",
+    "example": "Put the book on the table.",
+    "exampleTamil": "புத்தகத்தை மேசையின் மீது வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ut_008",
+    "name": "rut",
+    "tamilMeaning": "சக்கரப் பள்ளம்",
+    "example": "The car got stuck in a rut.",
+    "exampleTamil": "கார் சக்கரப் பள்ளத்தில் சிக்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ut_009",
+    "name": "shut",
+    "tamilMeaning": "மூடு",
+    "example": "Please shut the window.",
+    "exampleTamil": "தயவுசெய்து ஜன்னலை மூடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ut_010",
+    "name": "smut",
+    "tamilMeaning": "கரிப்படிவு",
+    "example": "The chimney was covered with smut.",
+    "exampleTamil": "புகைபோக்கி கரிப்படிவால் மூடப்பட்டிருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ut_011",
+    "name": "strut",
+    "tamilMeaning": "கர்வமாக நட",
+    "example": "The peacock began to strut.",
+    "exampleTamil": "மயில் கர்வமாக நடக்கத் தொடங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ut_012",
+    "name": "coconut",
+    "tamilMeaning": "தேங்காய்",
+    "example": "The coconut fell from the tree.",
+    "exampleTamil": "தேங்காய் மரத்திலிருந்து விழுந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ut_013",
+    "name": "donut",
+    "tamilMeaning": "டோனட்",
+    "example": "She bought a chocolate donut.",
+    "exampleTamil": "அவள் ஒரு சாக்லேட் டோனட் வாங்கினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ut_014",
+    "name": "input",
+    "tamilMeaning": "உள்ளீடு",
+    "example": "Enter the input correctly.",
+    "exampleTamil": "உள்ளீட்டை சரியாக உள்ளிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ut_015",
+    "name": "output",
+    "tamilMeaning": "வெளியீடு",
+    "example": "Check the output carefully.",
+    "exampleTamil": "வெளியீட்டை கவனமாக சரிபாருங்கள்.",
+    "audio": ""
+  }
+]

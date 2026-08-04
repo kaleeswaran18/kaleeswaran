@@ -1,0 +1,66 @@
+[
+  {
+    "id": "play_001",
+    "name": "play",
+    "tamilMeaning": "விளையாடு",
+    "example": "The children play in the park.",
+    "exampleTamil": "குழந்தைகள் பூங்காவில் விளையாடுகிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "play_002",
+    "name": "pretend",
+    "tamilMeaning": "போல நடி",
+    "example": "The children pretended to be doctors.",
+    "exampleTamil": "குழந்தைகள் மருத்துவர்களைப் போல நடித்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "play_003",
+    "name": "hide",
+    "tamilMeaning": "ஒளிந்து கொள்",
+    "example": "Hide behind the tree.",
+    "exampleTamil": "மரத்தின் பின்னால் ஒளிந்து கொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "play_004",
+    "name": "seek",
+    "tamilMeaning": "தேடு",
+    "example": "Seek your friends in the game.",
+    "exampleTamil": "விளையாட்டில் உங்கள் நண்பர்களைத் தேடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "play_005",
+    "name": "chase",
+    "tamilMeaning": "துரத்து",
+    "example": "The children chased each other.",
+    "exampleTamil": "குழந்தைகள் ஒருவரை ஒருவர் துரத்தினர்.",
+    "audio": ""
+  },
+  {
+    "id": "play_006",
+    "name": "tag",
+    "tamilMeaning": "தொட்டு அவுட் செய்",
+    "example": "Tag your friend and run.",
+    "exampleTamil": "உங்கள் நண்பரைத் தொட்டு ஓடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "play_007",
+    "name": "share",
+    "tamilMeaning": "பகிர்ந்து கொள்",
+    "example": "Share your toys with your friends.",
+    "exampleTamil": "உங்கள் பொம்மைகளை நண்பர்களுடன் பகிர்ந்து கொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "play_008",
+    "name": "take turns",
+    "tamilMeaning": "மாறி மாறி செய்",
+    "example": "Take turns while playing.",
+    "exampleTamil": "விளையாடும்போது மாறி மாறி விளையாடுங்கள்.",
+    "audio": ""
+  }
+]

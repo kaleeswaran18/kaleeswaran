@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ill_001",
+    "name": "bill",
+    "tamilMeaning": "ரசீது / அலகு (பறவையின் அலகு)",
+    "example": "Please pay the bill.",
+    "exampleTamil": "தயவுசெய்து ரசீதை செலுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_002",
+    "name": "fill",
+    "tamilMeaning": "நிரப்பு",
+    "example": "Fill the bottle with water.",
+    "exampleTamil": "பாட்டிலில் தண்ணீர் நிரப்புங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_003",
+    "name": "hill",
+    "tamilMeaning": "குன்று",
+    "example": "They climbed the hill.",
+    "exampleTamil": "அவர்கள் குன்றில் ஏறினர்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_004",
+    "name": "kill",
+    "tamilMeaning": "கொல்",
+    "example": "Do not kill wild animals.",
+    "exampleTamil": "காட்டு விலங்குகளை கொல்லாதீர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_005",
+    "name": "mill",
+    "tamilMeaning": "ஆலை",
+    "example": "The rice mill is nearby.",
+    "exampleTamil": "அரிசி ஆலை அருகில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ill_006",
+    "name": "pill",
+    "tamilMeaning": "மாத்திரை",
+    "example": "Take the pill after food.",
+    "exampleTamil": "உணவுக்குப் பிறகு மாத்திரையை எடுத்துக்கொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_007",
+    "name": "sill",
+    "tamilMeaning": "ஜன்னல் விளிம்பு",
+    "example": "The cat sat on the window sill.",
+    "exampleTamil": "பூனை ஜன்னல் விளிம்பில் அமர்ந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ill_008",
+    "name": "till",
+    "tamilMeaning": "வரை",
+    "example": "Wait till tomorrow.",
+    "exampleTamil": "நாளை வரை காத்திருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_009",
+    "name": "will",
+    "tamilMeaning": "செய்வேன் / விருப்பம்",
+    "example": "I will help you.",
+    "exampleTamil": "நான் உங்களுக்கு உதவுவேன்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_010",
+    "name": "drill",
+    "tamilMeaning": "துளையிடு",
+    "example": "The worker used a drill.",
+    "exampleTamil": "தொழிலாளர் துளையிடும் கருவியை பயன்படுத்தினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_011",
+    "name": "frill",
+    "tamilMeaning": "அலங்கார ஓரம்",
+    "example": "The dress has a frill.",
+    "exampleTamil": "அந்த ஆடையில் அலங்கார ஓரம் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ill_012",
+    "name": "grill",
+    "tamilMeaning": "வாட்டு / கம்பி வலை",
+    "example": "They grilled the vegetables.",
+    "exampleTamil": "அவர்கள் காய்கறிகளை வாட்டினர்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_013",
+    "name": "skill",
+    "tamilMeaning": "திறமை",
+    "example": "Reading is an important skill.",
+    "exampleTamil": "வாசிப்பது ஒரு முக்கியமான திறமை.",
+    "audio": ""
+  },
+  {
+    "id": "ill_014",
+    "name": "spill",
+    "tamilMeaning": "சிந்து",
+    "example": "Don't spill the milk.",
+    "exampleTamil": "பாலை சிந்தாதே.",
+    "audio": ""
+  },
+  {
+    "id": "ill_015",
+    "name": "still",
+    "tamilMeaning": "இன்னும் / அசையாமல்",
+    "example": "He is still sleeping.",
+    "exampleTamil": "அவர் இன்னும் தூங்கிக்கொண்டிருக்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_016",
+    "name": "thrill",
+    "tamilMeaning": "பரவசம்",
+    "example": "The ride gave us a thrill.",
+    "exampleTamil": "அந்த சவாரி எங்களுக்கு பரவசத்தை அளித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ill_017",
+    "name": "chill",
+    "tamilMeaning": "குளிர்ச்சி",
+    "example": "There is a chill in the air.",
+    "exampleTamil": "காற்றில் குளிர்ச்சி உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ill_018",
+    "name": "shrill",
+    "tamilMeaning": "கூர்மையான (ஒலி)",
+    "example": "We heard a shrill scream.",
+    "exampleTamil": "நாங்கள் ஒரு கூர்மையான அலறலைக் கேட்டோம்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_019",
+    "name": "uphill",
+    "tamilMeaning": "மேடுபகுதியை நோக்கி",
+    "example": "They walked uphill.",
+    "exampleTamil": "அவர்கள் மேடுபகுதியை நோக்கி நடந்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ill_020",
+    "name": "downhill",
+    "tamilMeaning": "மேட்டிலிருந்து கீழ்நோக்கி",
+    "example": "The bicycle rolled downhill.",
+    "exampleTamil": "மிதிவண்டி மேட்டிலிருந்து கீழே உருண்டது.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ay_001",
+    "name": "bay",
+    "tamilMeaning": "வளைகுடா",
+    "example": "The boat is in the bay.",
+    "exampleTamil": "படகு வளைகுடாவில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ay_002",
+    "name": "day",
+    "tamilMeaning": "நாள்",
+    "example": "Today is a sunny day.",
+    "exampleTamil": "இன்று வெயிலான நாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ay_003",
+    "name": "gay",
+    "tamilMeaning": "மகிழ்ச்சியான (பழைய பயன்பாடு)",
+    "example": "The old poem described a gay morning.",
+    "exampleTamil": "பழைய கவிதை மகிழ்ச்சியான காலையை விவரித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ay_004",
+    "name": "hay",
+    "tamilMeaning": "வைக்கோல்",
+    "example": "The cows ate hay.",
+    "exampleTamil": "பசுக்கள் வைக்கோலைத் தின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "ay_005",
+    "name": "jay",
+    "tamilMeaning": "ஜே பறவை",
+    "example": "A blue jay sat on the tree.",
+    "exampleTamil": "ஒரு நீல ஜே பறவை மரத்தில் அமர்ந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ay_006",
+    "name": "lay",
+    "tamilMeaning": "வை",
+    "example": "Lay the book on the table.",
+    "exampleTamil": "புத்தகத்தை மேசையின் மீது வை.",
+    "audio": ""
+  },
+  {
+    "id": "ay_007",
+    "name": "may",
+    "tamilMeaning": "இருக்கலாம்",
+    "example": "It may rain today.",
+    "exampleTamil": "இன்று மழை பெய்யலாம்.",
+    "audio": ""
+  },
+  {
+    "id": "ay_008",
+    "name": "pay",
+    "tamilMeaning": "பணம் செலுத்து",
+    "example": "Please pay the bill.",
+    "exampleTamil": "தயவுசெய்து கட்டணத்தை செலுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ay_009",
+    "name": "ray",
+    "tamilMeaning": "கதிர்",
+    "example": "A ray of sunlight entered the room.",
+    "exampleTamil": "சூரிய ஒளிக்கதிர் அறைக்குள் வந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ay_010",
+    "name": "say",
+    "tamilMeaning": "சொல்",
+    "example": "Please say your name.",
+    "exampleTamil": "தயவுசெய்து உங்கள் பெயரைச் சொல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ay_011",
+    "name": "way",
+    "tamilMeaning": "வழி",
+    "example": "Show me the way.",
+    "exampleTamil": "எனக்கு வழியைக் காட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ay_012",
+    "name": "clay",
+    "tamilMeaning": "களிமண்",
+    "example": "The pot is made of clay.",
+    "exampleTamil": "அந்தப் பானை களிமண்ணால் செய்யப்பட்டுள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ay_013",
+    "name": "gray",
+    "tamilMeaning": "சாம்பல் நிறம்",
+    "example": "He wore a gray shirt.",
+    "exampleTamil": "அவர் சாம்பல் நிற சட்டை அணிந்திருந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ay_014",
+    "name": "pray",
+    "tamilMeaning": "பிரார்த்தனை செய்",
+    "example": "We pray every morning.",
+    "exampleTamil": "நாங்கள் தினமும் காலை பிரார்த்தனை செய்கிறோம்.",
+    "audio": ""
+  },
+  {
+    "id": "ay_015",
+    "name": "spray",
+    "tamilMeaning": "தெளி",
+    "example": "Spray water on the plants.",
+    "exampleTamil": "செடிகளின் மீது தண்ணீரைத் தெளியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ay_016",
+    "name": "stray",
+    "tamilMeaning": "தவறி அலை",
+    "example": "A stray dog was on the road.",
+    "exampleTamil": "ஒரு தெருநாய் சாலையில் இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ay_017",
+    "name": "delay",
+    "tamilMeaning": "தாமதம்",
+    "example": "There was a delay in the train.",
+    "exampleTamil": "ரயில் தாமதமானது.",
+    "audio": ""
+  },
+  {
+    "id": "ay_018",
+    "name": "display",
+    "tamilMeaning": "காட்சி",
+    "example": "The shop has a nice display.",
+    "exampleTamil": "கடையில் அழகான காட்சி அமைப்பு உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ay_019",
+    "name": "holiday",
+    "tamilMeaning": "விடுமுறை",
+    "example": "We enjoyed our holiday.",
+    "exampleTamil": "நாங்கள் எங்கள் விடுமுறையை மகிழ்ச்சியாகக் கழித்தோம்.",
+    "audio": ""
+  },
+  {
+    "id": "ay_020",
+    "name": "birthday",
+    "tamilMeaning": "பிறந்தநாள்",
+    "example": "Today is my birthday.",
+    "exampleTamil": "இன்று என் பிறந்தநாள்.",
+    "audio": ""
+  }
+]

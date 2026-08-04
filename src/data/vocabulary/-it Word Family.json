@@ -1,0 +1,162 @@
+[
+  {
+    "id": "it_001",
+    "name": "bit",
+    "tamilMeaning": "சிறிய துண்டு",
+    "example": "He ate a bit of cake.",
+    "exampleTamil": "அவன் கேக்கின் ஒரு சிறிய துண்டை சாப்பிட்டான்.",
+    "audio": ""
+  },
+  {
+    "id": "it_002",
+    "name": "fit",
+    "tamilMeaning": "ஆரோக்கியமாக இரு",
+    "example": "She stays fit by walking.",
+    "exampleTamil": "அவள் நடைப்பயிற்சியால் ஆரோக்கியமாக இருக்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "it_003",
+    "name": "hit",
+    "tamilMeaning": "அடி",
+    "example": "Do not hit the ball too hard.",
+    "exampleTamil": "பந்தை மிகவும் பலமாக அடிக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "it_004",
+    "name": "kit",
+    "tamilMeaning": "கருவிகள் தொகுப்பு",
+    "example": "He bought a first-aid kit.",
+    "exampleTamil": "அவர் முதலுதவி பெட்டியை வாங்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "it_005",
+    "name": "lit",
+    "tamilMeaning": "ஒளியூட்டப்பட்டது",
+    "example": "The room was lit by candles.",
+    "exampleTamil": "அறை மெழுகுவர்த்திகளால் ஒளியூட்டப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "it_006",
+    "name": "pit",
+    "tamilMeaning": "குழி",
+    "example": "Be careful near the pit.",
+    "exampleTamil": "குழிக்கு அருகில் கவனமாக இருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "it_007",
+    "name": "sit",
+    "tamilMeaning": "உட்கார்",
+    "example": "Please sit here.",
+    "exampleTamil": "தயவுசெய்து இங்கே உட்காருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "it_008",
+    "name": "wit",
+    "tamilMeaning": "சாதுரியம்",
+    "example": "Her wit impressed everyone.",
+    "exampleTamil": "அவளுடைய சாதுரியம் அனைவரையும் கவர்ந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "it_009",
+    "name": "knit",
+    "tamilMeaning": "பின்னு",
+    "example": "My grandmother can knit sweaters.",
+    "exampleTamil": "என் பாட்டி ஸ்வெட்டர் பின்னுவார்.",
+    "audio": ""
+  },
+  {
+    "id": "it_010",
+    "name": "quit",
+    "tamilMeaning": "விட்டுவிடு",
+    "example": "Never quit trying.",
+    "exampleTamil": "முயற்சியை ஒருபோதும் கைவிடாதே.",
+    "audio": ""
+  },
+  {
+    "id": "it_011",
+    "name": "slit",
+    "tamilMeaning": "நீளமான வெட்டு",
+    "example": "There was a slit in the bag.",
+    "exampleTamil": "பையில் ஒரு நீளமான கிழிவு இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "it_012",
+    "name": "spit",
+    "tamilMeaning": "துப்பு",
+    "example": "Do not spit on the road.",
+    "exampleTamil": "சாலையில் துப்பாதே.",
+    "audio": ""
+  },
+  {
+    "id": "it_013",
+    "name": "split",
+    "tamilMeaning": "பிரி",
+    "example": "Split the cake into two pieces.",
+    "exampleTamil": "கேக்கை இரண்டு துண்டுகளாகப் பிரியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "it_014",
+    "name": "grit",
+    "tamilMeaning": "உறுதியான மனநிலை",
+    "example": "Success needs grit.",
+    "exampleTamil": "வெற்றிக்கு மன உறுதி தேவை.",
+    "audio": ""
+  },
+  {
+    "id": "it_015",
+    "name": "brit",
+    "tamilMeaning": "பிரிட்டனைச் சேர்ந்தவர் (informal)",
+    "example": "He is a Brit.",
+    "exampleTamil": "அவர் ஒரு பிரிட்டனைச் சேர்ந்தவர்.",
+    "audio": ""
+  },
+  {
+    "id": "it_016",
+    "name": "emit",
+    "tamilMeaning": "வெளியிடு",
+    "example": "Cars emit smoke.",
+    "exampleTamil": "கார்கள் புகையை வெளியிடுகின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "it_017",
+    "name": "admit",
+    "tamilMeaning": "ஒப்புக்கொள்",
+    "example": "She admitted her mistake.",
+    "exampleTamil": "அவள் தனது தவறை ஒப்புக்கொண்டாள்.",
+    "audio": ""
+  },
+  {
+    "id": "it_018",
+    "name": "submit",
+    "tamilMeaning": "சமர்ப்பி",
+    "example": "Submit your homework tomorrow.",
+    "exampleTamil": "உங்கள் வீட்டுப்பாடத்தை நாளை சமர்ப்பியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "it_019",
+    "name": "permit",
+    "tamilMeaning": "அனுமதி",
+    "example": "You need a permit to enter.",
+    "exampleTamil": "உள்ளே செல்ல உங்களுக்கு அனுமதி தேவை.",
+    "audio": ""
+  },
+  {
+    "id": "it_020",
+    "name": "profit",
+    "tamilMeaning": "லாபம்",
+    "example": "The company made a good profit.",
+    "exampleTamil": "நிறுவனம் நல்ல லாபம் ஈட்டியது.",
+    "audio": ""
+  }
+]

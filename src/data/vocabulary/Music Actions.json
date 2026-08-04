@@ -1,0 +1,66 @@
+[
+  {
+    "id": "music_001",
+    "name": "sing",
+    "tamilMeaning": "பாடு",
+    "example": "The children sang a beautiful song.",
+    "exampleTamil": "குழந்தைகள் அழகான பாடலைப் பாடினர்.",
+    "audio": ""
+  },
+  {
+    "id": "music_002",
+    "name": "hum",
+    "tamilMeaning": "முணுமுணுத்துப் பாடு",
+    "example": "She hummed her favorite tune.",
+    "exampleTamil": "அவள் தனக்குப் பிடித்த மெட்டைப் முணுமுணுத்துப் பாடினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "music_003",
+    "name": "play",
+    "tamilMeaning": "இசைக்கருவி வாசி",
+    "example": "He plays the guitar.",
+    "exampleTamil": "அவர் கித்தார் வாசிக்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "music_004",
+    "name": "strum",
+    "tamilMeaning": "தந்திக் கருவியை மீட்டு வாசி",
+    "example": "She strummed the guitar gently.",
+    "exampleTamil": "அவள் கித்தாரை மெதுவாக மீட்டி வாசித்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "music_005",
+    "name": "conduct",
+    "tamilMeaning": "இசைக்குழுவை வழிநடத்து",
+    "example": "The conductor conducted the orchestra.",
+    "exampleTamil": "இசை இயக்குநர் இசைக்குழுவை வழிநடத்தினார்.",
+    "audio": ""
+  },
+  {
+    "id": "music_006",
+    "name": "compose",
+    "tamilMeaning": "இசையமை",
+    "example": "She composed a new song.",
+    "exampleTamil": "அவள் ஒரு புதிய பாடலுக்கு இசையமைத்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "music_007",
+    "name": "tune",
+    "tamilMeaning": "இசைக்கருவியை சுருதி சேர்",
+    "example": "Tune the violin before playing.",
+    "exampleTamil": "வாசிப்பதற்கு முன் வயலினை சுருதி சேருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "music_008",
+    "name": "rehearse",
+    "tamilMeaning": "ஒத்திகை பார்",
+    "example": "The band rehearsed before the concert.",
+    "exampleTamil": "இசை நிகழ்ச்சிக்கு முன் இசைக்குழு ஒத்திகை பார்த்தது.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "garden_001",
+    "name": "plant",
+    "tamilMeaning": "நடு",
+    "example": "Plant a flower in the garden.",
+    "exampleTamil": "தோட்டத்தில் ஒரு பூச்செடியை நடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "garden_002",
+    "name": "water",
+    "tamilMeaning": "தண்ணீர் ஊற்று",
+    "example": "Water the plants every morning.",
+    "exampleTamil": "தினமும் காலை செடிகளுக்கு தண்ணீர் ஊற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "garden_003",
+    "name": "dig",
+    "tamilMeaning": "தோண்டு",
+    "example": "Dig a small hole for the plant.",
+    "exampleTamil": "செடிக்காக ஒரு சிறிய குழி தோண்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "garden_004",
+    "name": "weed",
+    "tamilMeaning": "களைகளை அகற்று",
+    "example": "Weed the flower bed.",
+    "exampleTamil": "பூந்தொட்டியில் உள்ள களைகளை அகற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "garden_005",
+    "name": "prune",
+    "tamilMeaning": "கிளைகளை வெட்டி ஒழுங்குபடுத்து",
+    "example": "Prune the rose plant.",
+    "exampleTamil": "ரோஜா செடியின் கிளைகளை வெட்டி ஒழுங்குபடுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "garden_006",
+    "name": "fertilize",
+    "tamilMeaning": "உரம் இடு",
+    "example": "Fertilize the plants once a month.",
+    "exampleTamil": "மாதத்திற்கு ஒருமுறை செடிகளுக்கு உரம் இடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "garden_007",
+    "name": "transplant",
+    "tamilMeaning": "வேறு இடத்திற்கு மாற்றி நடு",
+    "example": "Transplant the sapling carefully.",
+    "exampleTamil": "கன்றை கவனமாக வேறு இடத்தில் மாற்றி நடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "garden_008",
+    "name": "mulch",
+    "tamilMeaning": "செடியைச் சுற்றி மூடாக்கு போடு",
+    "example": "Mulch around the plants to keep the soil moist.",
+    "exampleTamil": "மண்ணின் ஈரப்பதத்தைப் பாதுகாக்க செடியைச் சுற்றி மூடாக்கு போடுங்கள்.",
+    "audio": ""
+  }
+]

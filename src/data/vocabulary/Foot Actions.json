@@ -1,0 +1,58 @@
+[
+  {
+    "id": "foot_001",
+    "name": "step",
+    "tamilMeaning": "அடி எடுத்து வை",
+    "example": "Step onto the mat.",
+    "exampleTamil": "பாயின் மீது அடி எடுத்து வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "foot_002",
+    "name": "stamp",
+    "tamilMeaning": "காலை ஓங்கி அடி",
+    "example": "Stamp your foot gently.",
+    "exampleTamil": "உங்கள் பாதத்தை மெதுவாக ஓங்கி அடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "foot_003",
+    "name": "tap",
+    "tamilMeaning": "பாதத்தால் தட்டு",
+    "example": "Tap your foot to the music.",
+    "exampleTamil": "இசைக்கேற்ப உங்கள் பாதத்தைத் தட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "foot_004",
+    "name": "slide",
+    "tamilMeaning": "பாதத்தை வழுக்கவிடு",
+    "example": "Slide your foot forward.",
+    "exampleTamil": "உங்கள் பாதத்தை முன்னோக்கி வழுக்கவிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "foot_005",
+    "name": "drag",
+    "tamilMeaning": "பாதத்தை இழுத்துச் செல்",
+    "example": "Don't drag your feet.",
+    "exampleTamil": "உங்கள் பாதங்களை இழுத்துக்கொண்டு நடக்காதீர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "foot_006",
+    "name": "plant",
+    "tamilMeaning": "பாதத்தை உறுதியாக ஊன்று",
+    "example": "Plant your foot firmly.",
+    "exampleTamil": "உங்கள் பாதத்தை உறுதியாக ஊன்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "foot_007",
+    "name": "pivot",
+    "tamilMeaning": "ஒரு பாதத்தில் சுழல்",
+    "example": "Pivot on your left foot.",
+    "exampleTamil": "உங்கள் இடது பாதத்தில் சுழலுங்கள்.",
+    "audio": ""
+  }
+]

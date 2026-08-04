@@ -1,0 +1,50 @@
+[
+  {
+    "id": "shoulder_001",
+    "name": "shrug",
+    "tamilMeaning": "தோள்களைக் குலுக்கு",
+    "example": "He shrugged his shoulders.",
+    "exampleTamil": "அவர் தனது தோள்களைக் குலுக்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "shoulder_002",
+    "name": "raise",
+    "tamilMeaning": "தோளை உயர்த்து",
+    "example": "Raise your shoulders slowly.",
+    "exampleTamil": "உங்கள் தோள்களை மெதுவாக உயர்த்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shoulder_003",
+    "name": "lower",
+    "tamilMeaning": "தோளை இறக்கு",
+    "example": "Lower your shoulders and relax.",
+    "exampleTamil": "உங்கள் தோள்களை இறக்கி தளர்வாக இருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shoulder_004",
+    "name": "roll",
+    "tamilMeaning": "தோளைச் சுழற்று",
+    "example": "Roll your shoulders backward.",
+    "exampleTamil": "உங்கள் தோள்களை பின்புறமாகச் சுழற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shoulder_005",
+    "name": "hunch",
+    "tamilMeaning": "தோளை முன்புறமாகக் கூனி வை",
+    "example": "Don't hunch your shoulders.",
+    "exampleTamil": "உங்கள் தோள்களைக் கூனிவைக்காதீர்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "shoulder_006",
+    "name": "straighten",
+    "tamilMeaning": "தோளை நேராக்கு",
+    "example": "Straighten your shoulders.",
+    "exampleTamil": "உங்கள் தோள்களை நேராக வைத்துக்கொள்ளுங்கள்.",
+    "audio": ""
+  }
+]

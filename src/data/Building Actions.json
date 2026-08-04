@@ -1,0 +1,74 @@
+[
+  {
+    "id": "build_001",
+    "name": "build",
+    "tamilMeaning": "கட்டு",
+    "example": "They are building a new house.",
+    "exampleTamil": "அவர்கள் ஒரு புதிய வீட்டைக் கட்டுகிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "build_002",
+    "name": "construct",
+    "tamilMeaning": "கட்டுமானம் செய்",
+    "example": "Workers constructed a bridge.",
+    "exampleTamil": "தொழிலாளர்கள் ஒரு பாலத்தைக் கட்டினர்.",
+    "audio": ""
+  },
+  {
+    "id": "build_003",
+    "name": "hammer",
+    "tamilMeaning": "சுத்தியலால் அடி",
+    "example": "Hammer the nail into the wood.",
+    "exampleTamil": "மரத்தில் ஆணியை சுத்தியலால் அடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "build_004",
+    "name": "drill",
+    "tamilMeaning": "துளையிடு",
+    "example": "Drill a hole in the wall.",
+    "exampleTamil": "சுவரில் ஒரு துளையிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "build_005",
+    "name": "cement",
+    "tamilMeaning": "சிமெண்ட் பூசி இணை",
+    "example": "Cement the bricks together.",
+    "exampleTamil": "செங்கற்களை சிமெண்டால் இணைக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "build_006",
+    "name": "brick",
+    "tamilMeaning": "செங்கல் அடுக்கு",
+    "example": "Brick the garden wall.",
+    "exampleTamil": "தோட்டச் சுவரில் செங்கற்களை அடுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "build_007",
+    "name": "roof",
+    "tamilMeaning": "கூரை அமை",
+    "example": "They roofed the new house.",
+    "exampleTamil": "அவர்கள் புதிய வீட்டிற்கு கூரை அமைத்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "build_008",
+    "name": "install",
+    "tamilMeaning": "பொருத்து",
+    "example": "Install the new door.",
+    "exampleTamil": "புதிய கதவைப் பொருத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "build_009",
+    "name": "demolish",
+    "tamilMeaning": "இடித்து அகற்று",
+    "example": "They demolished the old building.",
+    "exampleTamil": "அவர்கள் பழைய கட்டிடத்தை இடித்தனர்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "learn_001",
+    "name": "learn",
+    "tamilMeaning": "கற்றுக்கொள்",
+    "example": "Children learn new words every day.",
+    "exampleTamil": "குழந்தைகள் தினமும் புதிய சொற்களைக் கற்றுக்கொள்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "learn_002",
+    "name": "study",
+    "tamilMeaning": "படி",
+    "example": "Study for the exam.",
+    "exampleTamil": "தேர்விற்காகப் படியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "learn_003",
+    "name": "practice",
+    "tamilMeaning": "பயிற்சி செய்",
+    "example": "Practice English every day.",
+    "exampleTamil": "தினமும் ஆங்கிலம் பயிற்சி செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "learn_004",
+    "name": "memorize",
+    "tamilMeaning": "மனப்பாடம் செய்",
+    "example": "Memorize the poem.",
+    "exampleTamil": "கவிதையை மனப்பாடம் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "learn_005",
+    "name": "understand",
+    "tamilMeaning": "புரிந்துகொள்",
+    "example": "Try to understand the lesson.",
+    "exampleTamil": "பாடத்தைப் புரிந்துகொள்ள முயற்சி செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "learn_006",
+    "name": "revise",
+    "tamilMeaning": "மறுபடி படி",
+    "example": "Revise your notes before the test.",
+    "exampleTamil": "தேர்வுக்கு முன் உங்கள் குறிப்புகளை மறுபடி படியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "learn_007",
+    "name": "solve",
+    "tamilMeaning": "தீர்வு காண்",
+    "example": "Solve the math problem.",
+    "exampleTamil": "கணக்குப் பிரச்சினையைத் தீர்க்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "learn_008",
+    "name": "improve",
+    "tamilMeaning": "மேம்படுத்து",
+    "example": "Practice to improve your English.",
+    "exampleTamil": "உங்கள் ஆங்கிலத்தை மேம்படுத்த பயிற்சி செய்யுங்கள்.",
+    "audio": ""
+  }
+]

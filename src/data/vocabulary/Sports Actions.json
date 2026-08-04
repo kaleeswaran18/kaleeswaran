@@ -1,0 +1,74 @@
+[
+  {
+    "id": "sports_001",
+    "name": "serve",
+    "tamilMeaning": "சர்வ் செய்",
+    "example": "She served the ball in tennis.",
+    "exampleTamil": "அவள் டென்னிஸில் பந்தை சர்வ் செய்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "sports_002",
+    "name": "dribble",
+    "tamilMeaning": "பந்தை தட்டிக்கொண்டு செல்",
+    "example": "He dribbled the ball past the defender.",
+    "exampleTamil": "அவர் பாதுகாப்பு வீரரைக் கடந்து பந்தை தட்டிக்கொண்டு சென்றார்.",
+    "audio": ""
+  },
+  {
+    "id": "sports_003",
+    "name": "shoot",
+    "tamilMeaning": "கோல் அடிக்க முயற்சி செய்",
+    "example": "She shot the ball into the goal.",
+    "exampleTamil": "அவள் பந்தை கோலுக்குள் அடித்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "sports_004",
+    "name": "pass",
+    "tamilMeaning": "பந்தை சக வீரரிடம் கொடு",
+    "example": "Pass the ball to your teammate.",
+    "exampleTamil": "பந்தை உங்கள் சக வீரரிடம் கொடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "sports_005",
+    "name": "bat",
+    "tamilMeaning": "மட்டையால் அடி",
+    "example": "He batted the ball hard.",
+    "exampleTamil": "அவர் பந்தை மட்டையால் பலமாக அடித்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "sports_006",
+    "name": "bowl",
+    "tamilMeaning": "பந்து வீசு",
+    "example": "She bowled a fast delivery.",
+    "exampleTamil": "அவள் வேகமாக பந்துவீசினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "sports_007",
+    "name": "dive",
+    "tamilMeaning": "பாய்ந்து தடு",
+    "example": "The goalkeeper dived to save the ball.",
+    "exampleTamil": "கோல்கீப்பர் பந்தைத் தடுக்க பாய்ந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "sports_008",
+    "name": "tackle",
+    "tamilMeaning": "எதிர்த்து தடு",
+    "example": "The defender tackled the striker.",
+    "exampleTamil": "பாதுகாப்பு வீரர் தாக்குதல் வீரரைத் தடுத்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "sports_009",
+    "name": "score",
+    "tamilMeaning": "புள்ளி பெறு",
+    "example": "Our team scored the winning goal.",
+    "exampleTamil": "எங்கள் அணி வெற்றி கோலை அடித்தது.",
+    "audio": ""
+  }
+]

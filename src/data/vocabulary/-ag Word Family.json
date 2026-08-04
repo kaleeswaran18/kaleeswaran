@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ag_001",
+    "name": "bag",
+    "tamilMeaning": "பை",
+    "example": "This is my school bag.",
+    "exampleTamil": "இது என் பள்ளிப் பை.",
+    "audio": ""
+  },
+  {
+    "id": "ag_002",
+    "name": "bag",
+    "tamilMeaning": "பையில் வை",
+    "example": "Bag the vegetables carefully.",
+    "exampleTamil": "காய்கறிகளை கவனமாக பையில் வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ag_003",
+    "name": "tag",
+    "tamilMeaning": "அடையாள அட்டை",
+    "example": "Read the price tag.",
+    "exampleTamil": "விலை அடையாள அட்டையைப் படியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ag_004",
+    "name": "tag",
+    "tamilMeaning": "குறியிடு",
+    "example": "Tag your friend in the photo.",
+    "exampleTamil": "புகைப்படத்தில் உங்கள் நண்பரைக் குறியிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ag_005",
+    "name": "rag",
+    "tamilMeaning": "துணிக்கந்தல்",
+    "example": "Clean the table with a rag.",
+    "exampleTamil": "துணிக்கந்தலால் மேசையைத் துடைக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "ag_006",
+    "name": "nag",
+    "tamilMeaning": "நச்சரித்துக்கொண்டு இரு",
+    "example": "Don't nag your brother.",
+    "exampleTamil": "உன் சகோதரனை நச்சரிக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "ag_007",
+    "name": "lag",
+    "tamilMeaning": "பின்னடைவு",
+    "example": "The video has a slight lag.",
+    "exampleTamil": "வீடியோவில் சிறிய பின்னடைவு உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ag_008",
+    "name": "lag",
+    "tamilMeaning": "தாமதப்படு",
+    "example": "The system began to lag.",
+    "exampleTamil": "கணினி அமைப்பு தாமதமாக செயல்படத் தொடங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ag_009",
+    "name": "gag",
+    "tamilMeaning": "வாய் கட்டு",
+    "example": "The movie showed a gag scene.",
+    "exampleTamil": "திரைப்படத்தில் வாய் கட்டும் காட்சி இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ag_010",
+    "name": "wag",
+    "tamilMeaning": "ஆட்டு",
+    "example": "The dog wagged its tail.",
+    "exampleTamil": "நாய் தனது வாலை ஆட்டியது.",
+    "audio": ""
+  },
+  {
+    "id": "ag_011",
+    "name": "sag",
+    "tamilMeaning": "தொய்வு",
+    "example": "The old sofa began to sag.",
+    "exampleTamil": "பழைய சோஃபா தொய்வடையத் தொடங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "ag_012",
+    "name": "hag",
+    "tamilMeaning": "சூனியக்காரி (கதைகளில்)",
+    "example": "The story had an old hag.",
+    "exampleTamil": "அந்தக் கதையில் ஒரு வயதான சூனியக்காரி இருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ag_013",
+    "name": "brag",
+    "tamilMeaning": "பெருமை பேசு",
+    "example": "He likes to brag about his car.",
+    "exampleTamil": "அவர் தனது கார் பற்றி பெருமையாகப் பேச விரும்புகிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "ag_014",
+    "name": "drag",
+    "tamilMeaning": "இழு",
+    "example": "Drag the chair closer.",
+    "exampleTamil": "நாற்காலியை அருகில் இழுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ag_015",
+    "name": "flag",
+    "tamilMeaning": "கொடி",
+    "example": "The national flag is flying high.",
+    "exampleTamil": "தேசியக் கொடி உயரமாகப் பறக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ag_016",
+    "name": "slag",
+    "tamilMeaning": "உலோகக் கழிவு",
+    "example": "The factory removed the slag.",
+    "exampleTamil": "தொழிற்சாலை உலோகக் கழிவை அகற்றியது.",
+    "audio": ""
+  },
+  {
+    "id": "ag_017",
+    "name": "snag",
+    "tamilMeaning": "தடை",
+    "example": "We hit a small snag in the project.",
+    "exampleTamil": "திட்டத்தில் ஒரு சிறிய தடை ஏற்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ag_018",
+    "name": "stag",
+    "tamilMeaning": "ஆண் மான்",
+    "example": "The stag stood quietly.",
+    "exampleTamil": "ஆண் மான் அமைதியாக நின்றது.",
+    "audio": ""
+  },
+  {
+    "id": "ag_019",
+    "name": "crag",
+    "tamilMeaning": "செங்குத்துப் பாறை",
+    "example": "The climber reached the crag.",
+    "exampleTamil": "ஏறுபவர் செங்குத்துப் பாறையை அடைந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ag_020",
+    "name": "zigzag",
+    "tamilMeaning": "வளைந்து நெளிந்து செல்லும்",
+    "example": "The road follows a zigzag path.",
+    "exampleTamil": "சாலை வளைந்து நெளிந்து செல்கிறது.",
+    "audio": ""
+  }
+]

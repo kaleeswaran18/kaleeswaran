@@ -1,0 +1,66 @@
+[
+  {
+    "id": "eat_001",
+    "name": "eat",
+    "tamilMeaning": "சாப்பிடு",
+    "example": "Eat your lunch.",
+    "exampleTamil": "உங்கள் மதிய உணவை சாப்பிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eat_002",
+    "name": "chew",
+    "tamilMeaning": "மென்று சாப்பிடு",
+    "example": "Chew your food well.",
+    "exampleTamil": "உணவை நன்றாக மென்று சாப்பிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eat_003",
+    "name": "bite",
+    "tamilMeaning": "கடி",
+    "example": "Take a bite of the apple.",
+    "exampleTamil": "ஆப்பிளை ஒரு கடி கடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eat_004",
+    "name": "swallow",
+    "tamilMeaning": "விழுங்கு",
+    "example": "Swallow the food carefully.",
+    "exampleTamil": "உணவை கவனமாக விழுங்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "eat_005",
+    "name": "lick",
+    "tamilMeaning": "நக்கு",
+    "example": "The child licked the ice cream.",
+    "exampleTamil": "குழந்தை ஐஸ்கிரீமை நக்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "eat_006",
+    "name": "nibble",
+    "tamilMeaning": "கொஞ்சம் கொஞ்சமாக கடி",
+    "example": "The rabbit nibbled the carrot.",
+    "exampleTamil": "முயல் காரட்டை கொஞ்சம் கொஞ்சமாகக் கடித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "eat_007",
+    "name": "munch",
+    "tamilMeaning": "மொறுமொறுப்பாக சாப்பிடு",
+    "example": "He munched on some chips.",
+    "exampleTamil": "அவர் சிப்ஸை மொறுமொறுப்பாகச் சாப்பிட்டார்.",
+    "audio": ""
+  },
+  {
+    "id": "eat_008",
+    "name": "gobble",
+    "tamilMeaning": "அவசரமாக சாப்பிடு",
+    "example": "Don't gobble your food.",
+    "exampleTamil": "உணவை அவசரமாக சாப்பிடாதே.",
+    "audio": ""
+  }
+]

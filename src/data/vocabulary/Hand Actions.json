@@ -1,0 +1,98 @@
+[
+  {
+    "id": "hand_001",
+    "name": "hold",
+    "tamilMeaning": "பிடி",
+    "example": "Hold my hand.",
+    "exampleTamil": "என் கையைப் பிடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "hand_002",
+    "name": "grab",
+    "tamilMeaning": "பிடித்து எடு",
+    "example": "Grab the rope.",
+    "exampleTamil": "கயிற்றைப் பிடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "hand_003",
+    "name": "catch",
+    "tamilMeaning": "பிடி",
+    "example": "Catch the ball.",
+    "exampleTamil": "பந்தைப் பிடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "hand_004",
+    "name": "release",
+    "tamilMeaning": "விடு",
+    "example": "Release the handle.",
+    "exampleTamil": "கைப்பிடியை விடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "hand_005",
+    "name": "carry",
+    "tamilMeaning": "எடுத்து செல்",
+    "example": "Carry the bag carefully.",
+    "exampleTamil": "பையை கவனமாக எடுத்துச் செல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "hand_006",
+    "name": "throw",
+    "tamilMeaning": "எறி",
+    "example": "Throw the ball.",
+    "exampleTamil": "பந்தை எறியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "hand_007",
+    "name": "push",
+    "tamilMeaning": "தள்ளு",
+    "example": "Push the door.",
+    "exampleTamil": "கதவைத் தள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "hand_008",
+    "name": "pull",
+    "tamilMeaning": "இழு",
+    "example": "Pull the rope.",
+    "exampleTamil": "கயிற்றை இழுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "hand_009",
+    "name": "clap",
+    "tamilMeaning": "கை தட்டு",
+    "example": "Clap your hands.",
+    "exampleTamil": "கை தட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "hand_010",
+    "name": "wave",
+    "tamilMeaning": "கையை அசை",
+    "example": "Wave goodbye.",
+    "exampleTamil": "கையை அசைத்து விடைபெறுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "hand_011",
+    "name": "shake",
+    "tamilMeaning": "கைகுலுக்கு",
+    "example": "Shake hands with your friend.",
+    "exampleTamil": "உங்கள் நண்பருடன் கைகுலுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "hand_012",
+    "name": "rub",
+    "tamilMeaning": "தேய்",
+    "example": "Rub your hands together.",
+    "exampleTamil": "உங்கள் கைகளை ஒன்றாகத் தேயுங்கள்.",
+    "audio": ""
+  }
+]

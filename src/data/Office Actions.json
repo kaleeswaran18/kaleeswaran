@@ -1,0 +1,82 @@
+[
+  {
+    "id": "office_001",
+    "name": "work",
+    "tamilMeaning": "வேலை செய்",
+    "example": "She works in an office.",
+    "exampleTamil": "அவள் ஒரு அலுவலகத்தில் வேலை செய்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "office_002",
+    "name": "attend",
+    "tamilMeaning": "கலந்துகொள்",
+    "example": "Attend the team meeting.",
+    "exampleTamil": "குழு கூட்டத்தில் கலந்துகொள்ளுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "office_003",
+    "name": "schedule",
+    "tamilMeaning": "அட்டவணையிடு",
+    "example": "Schedule a meeting for tomorrow.",
+    "exampleTamil": "நாளைக்கு ஒரு கூட்டத்தை அட்டவணையிடுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "office_004",
+    "name": "email",
+    "tamilMeaning": "மின்னஞ்சல் அனுப்பு",
+    "example": "Email the report to your manager.",
+    "exampleTamil": "அறிக்கையை உங்கள் மேலாளருக்கு மின்னஞ்சலில் அனுப்புங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "office_005",
+    "name": "submit",
+    "tamilMeaning": "சமர்ப்பி",
+    "example": "Submit the report before noon.",
+    "exampleTamil": "மதியத்திற்கு முன் அறிக்கையை சமர்ப்பியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "office_006",
+    "name": "approve",
+    "tamilMeaning": "ஒப்புதல் அளி",
+    "example": "The manager approved the request.",
+    "exampleTamil": "மேலாளர் கோரிக்கைக்கு ஒப்புதல் அளித்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "office_007",
+    "name": "organize",
+    "tamilMeaning": "ஒழுங்குபடுத்து",
+    "example": "Organize your desk.",
+    "exampleTamil": "உங்கள் மேசையை ஒழுங்குபடுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "office_008",
+    "name": "present",
+    "tamilMeaning": "விளக்கவுரை வழங்கு",
+    "example": "Present your project to the team.",
+    "exampleTamil": "உங்கள் திட்டத்தை குழுவிற்கு விளக்கமாக வழங்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "office_009",
+    "name": "delegate",
+    "tamilMeaning": "பணியை ஒப்படை",
+    "example": "Delegate the task to your colleague.",
+    "exampleTamil": "பணியை உங்கள் சக ஊழியரிடம் ஒப்படையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "office_010",
+    "name": "collaborate",
+    "tamilMeaning": "இணைந்து செயல் செய்",
+    "example": "Collaborate with your teammates.",
+    "exampleTamil": "உங்கள் குழுவினருடன் இணைந்து செயல்படுங்கள்.",
+    "audio": ""
+  }
+]

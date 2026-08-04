@@ -1,0 +1,58 @@
+[
+  {
+    "id": "wash_001",
+    "name": "wash",
+    "tamilMeaning": "கழுவு",
+    "example": "Wash your hands before eating.",
+    "exampleTamil": "சாப்பிடுவதற்கு முன் உங்கள் கைகளைக் கழுவுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "wash_002",
+    "name": "rinse",
+    "tamilMeaning": "அலசு",
+    "example": "Rinse the vegetables with water.",
+    "exampleTamil": "காய்கறிகளை தண்ணீரில் அலசுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "wash_003",
+    "name": "soak",
+    "tamilMeaning": "ஊறவை",
+    "example": "Soak the beans overnight.",
+    "exampleTamil": "பயறுகளை இரவு முழுவதும் ஊறவையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "wash_004",
+    "name": "lather",
+    "tamilMeaning": "நுரை உண்டாக்கு",
+    "example": "Lather your hands with soap.",
+    "exampleTamil": "சோப்பால் உங்கள் கைகளில் நுரை உண்டாக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "wash_005",
+    "name": "dry",
+    "tamilMeaning": "உலர்த்து",
+    "example": "Dry your hands with a towel.",
+    "exampleTamil": "துண்டால் உங்கள் கைகளை உலர்த்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "wash_006",
+    "name": "drain",
+    "tamilMeaning": "நீரை வடிகட்டு",
+    "example": "Drain the washed rice.",
+    "exampleTamil": "கழுவிய அரிசியின் நீரை வடிகட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "wash_007",
+    "name": "spin",
+    "tamilMeaning": "சுழற்றி உலர்த்து",
+    "example": "Spin the clothes in the washing machine.",
+    "exampleTamil": "துணிகளை சலவை இயந்திரத்தில் சுழற்றி உலர்த்துங்கள்.",
+    "audio": ""
+  }
+]

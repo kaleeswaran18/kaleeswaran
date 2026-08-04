@@ -1,0 +1,58 @@
+[
+  {
+    "id": "read_001",
+    "name": "read",
+    "tamilMeaning": "வாசி",
+    "example": "Read the story aloud.",
+    "exampleTamil": "கதையை சத்தமாக வாசியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "read_002",
+    "name": "skim",
+    "tamilMeaning": "மேலோட்டமாக வாசி",
+    "example": "Skim the article first.",
+    "exampleTamil": "முதலில் கட்டுரையை மேலோட்டமாக வாசியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "read_003",
+    "name": "scan",
+    "tamilMeaning": "குறிப்பிட்ட தகவலைத் தேடி வாசி",
+    "example": "Scan the page for the answer.",
+    "exampleTamil": "பதிலைக் கண்டுபிடிக்க பக்கத்தை விரைவாக வாசியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "read_004",
+    "name": "browse",
+    "tamilMeaning": "புரட்டிப் பார்",
+    "example": "Browse the magazine.",
+    "exampleTamil": "இதழைப் புரட்டிப் பாருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "read_005",
+    "name": "proofread",
+    "tamilMeaning": "பிழை திருத்திப் வாசி",
+    "example": "Proofread your essay before submitting.",
+    "exampleTamil": "கட்டுரையை சமர்ப்பிக்கும் முன் பிழை திருத்திப் வாசியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "read_006",
+    "name": "review",
+    "tamilMeaning": "மறுபரிசீலனை செய்து வாசி",
+    "example": "Review your notes.",
+    "exampleTamil": "உங்கள் குறிப்புகளை மறுபரிசீலனை செய்து வாசியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "read_007",
+    "name": "interpret",
+    "tamilMeaning": "பொருள் புரிந்து வாசி",
+    "example": "Interpret the graph carefully.",
+    "exampleTamil": "வரைபடத்தின் பொருளை கவனமாகப் புரிந்து வாசியுங்கள்.",
+    "audio": ""
+  }
+]

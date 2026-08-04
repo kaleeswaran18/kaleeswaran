@@ -1,0 +1,162 @@
+[
+  {
+    "id": "ock_001",
+    "name": "dock",
+    "tamilMeaning": "துறைமுக மேடை",
+    "example": "The ship arrived at the dock.",
+    "exampleTamil": "கப்பல் துறைமுக மேடையை அடைந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ock_002",
+    "name": "hock",
+    "tamilMeaning": "விலங்கின் பின்கால் மூட்டு",
+    "example": "The horse injured its hock.",
+    "exampleTamil": "குதிரையின் பின்கால் மூட்டில் காயம் ஏற்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ock_003",
+    "name": "jock",
+    "tamilMeaning": "விளையாட்டு வீரர் (informal)",
+    "example": "He is a talented jock.",
+    "exampleTamil": "அவர் திறமையான விளையாட்டு வீரர்.",
+    "audio": ""
+  },
+  {
+    "id": "ock_004",
+    "name": "lock",
+    "tamilMeaning": "பூட்டு",
+    "example": "Lock the door before leaving.",
+    "exampleTamil": "வெளியே செல்லும் முன் கதவைப் பூட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ock_005",
+    "name": "mock",
+    "tamilMeaning": "கேலி செய்",
+    "example": "Do not mock others.",
+    "exampleTamil": "மற்றவர்களைக் கேலி செய்யாதே.",
+    "audio": ""
+  },
+  {
+    "id": "ock_006",
+    "name": "rock",
+    "tamilMeaning": "பாறை",
+    "example": "The rock is very heavy.",
+    "exampleTamil": "அந்தப் பாறை மிகவும் கனமாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ock_007",
+    "name": "sock",
+    "tamilMeaning": "காலுறை",
+    "example": "He is wearing white socks.",
+    "exampleTamil": "அவர் வெள்ளை காலுறைகள் அணிந்திருக்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "ock_008",
+    "name": "tock",
+    "tamilMeaning": "டாக் ஒலி",
+    "example": "The clock went tick-tock.",
+    "exampleTamil": "கடிகாரம் டிக்-டாக் என்று ஒலித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ock_009",
+    "name": "block",
+    "tamilMeaning": "தடு / கட்டம்",
+    "example": "A tree blocked the road.",
+    "exampleTamil": "ஒரு மரம் சாலையை மறைத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ock_010",
+    "name": "clock",
+    "tamilMeaning": "கடிகாரம்",
+    "example": "The clock shows ten o'clock.",
+    "exampleTamil": "கடிகாரம் பத்து மணியைக் காட்டுகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ock_011",
+    "name": "flock",
+    "tamilMeaning": "கூட்டம்",
+    "example": "A flock of birds flew away.",
+    "exampleTamil": "பறவைகளின் கூட்டம் பறந்து சென்றது.",
+    "audio": ""
+  },
+  {
+    "id": "ock_012",
+    "name": "shock",
+    "tamilMeaning": "அதிர்ச்சி",
+    "example": "The news gave everyone a shock.",
+    "exampleTamil": "அந்தச் செய்தி அனைவருக்கும் அதிர்ச்சியை ஏற்படுத்தியது.",
+    "audio": ""
+  },
+  {
+    "id": "ock_013",
+    "name": "stock",
+    "tamilMeaning": "இருப்பு",
+    "example": "The shop has enough stock.",
+    "exampleTamil": "கடையில் போதுமான இருப்பு உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ock_014",
+    "name": "unlock",
+    "tamilMeaning": "பூட்டைத் திற",
+    "example": "Unlock the phone.",
+    "exampleTamil": "தொலைபேசியின் பூட்டைத் திறக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "ock_015",
+    "name": "padlock",
+    "tamilMeaning": "தொங்கு பூட்டு",
+    "example": "Use a padlock for the gate.",
+    "exampleTamil": "வாயிலுக்கு தொங்கு பூட்டைப் பயன்படுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ock_016",
+    "name": "airlock",
+    "tamilMeaning": "காற்று அடைப்பு அறை",
+    "example": "The astronauts entered the airlock.",
+    "exampleTamil": "விண்வெளி வீரர்கள் காற்று அடைப்பு அறைக்குள் சென்றனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ock_017",
+    "name": "bedrock",
+    "tamilMeaning": "அடிப்பாறை",
+    "example": "The building stands on bedrock.",
+    "exampleTamil": "கட்டிடம் அடிப்பாறையின் மீது உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ock_018",
+    "name": "shamrock",
+    "tamilMeaning": "மூவிலைச் செடி",
+    "example": "The shamrock is a symbol of Ireland.",
+    "exampleTamil": "ஷாம்ராக் அயர்லாந்தின் ஒரு சின்னமாகும்.",
+    "audio": ""
+  },
+  {
+    "id": "ock_019",
+    "name": "hardrock",
+    "tamilMeaning": "கடினப் பாறை",
+    "example": "The miners drilled through hardrock.",
+    "exampleTamil": "சுரங்கத் தொழிலாளர்கள் கடினப் பாறையைத் துளைத்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ock_020",
+    "name": "woodlock",
+    "tamilMeaning": "❌ தவறான சொல்",
+    "example": "",
+    "exampleTamil": "",
+    "audio": ""
+  }
+]

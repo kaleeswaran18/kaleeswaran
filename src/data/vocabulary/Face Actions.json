@@ -1,0 +1,82 @@
+[
+  {
+    "id": "face_001",
+    "name": "smile",
+    "tamilMeaning": "புன்னகை செய்",
+    "example": "She smiled at her friend.",
+    "exampleTamil": "அவள் தனது நண்பரைப் பார்த்து புன்னகைத்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "face_002",
+    "name": "grin",
+    "tamilMeaning": "அகலமாக சிரி",
+    "example": "He grinned with excitement.",
+    "exampleTamil": "அவர் உற்சாகத்துடன் அகலமாகச் சிரித்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "face_003",
+    "name": "frown",
+    "tamilMeaning": "முகம் சுளி",
+    "example": "Don't frown at me.",
+    "exampleTamil": "என்னைப் பார்த்து முகம் சுளிக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "face_004",
+    "name": "smirk",
+    "tamilMeaning": "ஏளனமாக சிரி",
+    "example": "He smirked after the joke.",
+    "exampleTamil": "நகைச்சுவைக்குப் பிறகு அவர் ஏளனமாகச் சிரித்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "face_005",
+    "name": "pout",
+    "tamilMeaning": "உதட்டை பிதுக்கு",
+    "example": "The child pouted when upset.",
+    "exampleTamil": "வருத்தமானபோது குழந்தை உதட்டை பிதுக்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "face_006",
+    "name": "blush",
+    "tamilMeaning": "வெட்கத்தால் சிவ",
+    "example": "She blushed with embarrassment.",
+    "exampleTamil": "வெட்கத்தால் அவள் சிவந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "face_007",
+    "name": "grimace",
+    "tamilMeaning": "வலியால் முகம் சுளி",
+    "example": "He grimaced in pain.",
+    "exampleTamil": "வலியால் அவர் முகம் சுளித்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "face_008",
+    "name": "beam",
+    "tamilMeaning": "மகிழ்ச்சியுடன் புன்னகை செய்",
+    "example": "She beamed with pride.",
+    "exampleTamil": "அவள் பெருமையுடன் புன்னகைத்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "face_009",
+    "name": "glare",
+    "tamilMeaning": "கோபமாக முறைத்துப் பார்",
+    "example": "He glared at the thief.",
+    "exampleTamil": "அவர் திருடனை கோபமாக முறைத்துப் பார்த்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "face_010",
+    "name": "scowl",
+    "tamilMeaning": "கடுகடுப்பாக முகம் சுளி",
+    "example": "She scowled at the mistake.",
+    "exampleTamil": "அவள் தவறைப் பார்த்து கடுகடுப்பாக முகம் சுளித்தாள்.",
+    "audio": ""
+  }
+]

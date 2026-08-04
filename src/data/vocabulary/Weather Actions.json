@@ -1,0 +1,82 @@
+[
+  {
+    "id": "weather_001",
+    "name": "rain",
+    "tamilMeaning": "மழை பெய்",
+    "example": "It is raining today.",
+    "exampleTamil": "இன்று மழை பெய்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "weather_002",
+    "name": "drizzle",
+    "tamilMeaning": "தூறல் பெய்",
+    "example": "It drizzled in the morning.",
+    "exampleTamil": "காலையில் தூறல் பெய்தது.",
+    "audio": ""
+  },
+  {
+    "id": "weather_003",
+    "name": "pour",
+    "tamilMeaning": "கனமழை பெய்",
+    "example": "It poured all night.",
+    "exampleTamil": "இரவு முழுவதும் கனமழை பெய்தது.",
+    "audio": ""
+  },
+  {
+    "id": "weather_004",
+    "name": "snow",
+    "tamilMeaning": "பனி பெய்",
+    "example": "It snowed in the mountains.",
+    "exampleTamil": "மலைப்பகுதியில் பனி பெய்தது.",
+    "audio": ""
+  },
+  {
+    "id": "weather_005",
+    "name": "thunder",
+    "tamilMeaning": "இடி முழங்கு",
+    "example": "It thundered loudly.",
+    "exampleTamil": "இடி பலமாக முழங்கியது.",
+    "audio": ""
+  },
+  {
+    "id": "weather_006",
+    "name": "lightning",
+    "tamilMeaning": "மின்னல் மின்னு",
+    "example": "Lightning flashed across the sky.",
+    "exampleTamil": "வானில் மின்னல் மின்னியது.",
+    "audio": ""
+  },
+  {
+    "id": "weather_007",
+    "name": "blow",
+    "tamilMeaning": "காற்று வீசு",
+    "example": "A cool wind blew all day.",
+    "exampleTamil": "நாள் முழுவதும் குளிர்ந்த காற்று வீசியது.",
+    "audio": ""
+  },
+  {
+    "id": "weather_008",
+    "name": "hail",
+    "tamilMeaning": "ஆலங்கட்டி மழை பெய்",
+    "example": "It hailed for a few minutes.",
+    "exampleTamil": "சில நிமிடங்கள் ஆலங்கட்டி மழை பெய்தது.",
+    "audio": ""
+  },
+  {
+    "id": "weather_009",
+    "name": "fog",
+    "tamilMeaning": "மூடுபனி சூழ்",
+    "example": "The road fogged up early in the morning.",
+    "exampleTamil": "அதிகாலையில் சாலை மூடுபனியால் சூழப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "weather_010",
+    "name": "storm",
+    "tamilMeaning": "புயல் வீசு",
+    "example": "A strong storm hit the coast.",
+    "exampleTamil": "கடற்கரையை ஒரு பலமான புயல் தாக்கியது.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cook_001",
+    "name": "cook",
+    "tamilMeaning": "சமை",
+    "example": "My mother cooks every day.",
+    "exampleTamil": "என் அம்மா தினமும் சமைக்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "cook_002",
+    "name": "cut",
+    "tamilMeaning": "வெட்டு",
+    "example": "Cut the vegetables.",
+    "exampleTamil": "காய்கறிகளை வெட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "cook_003",
+    "name": "chop",
+    "tamilMeaning": "நறுக்கு",
+    "example": "Chop the onions finely.",
+    "exampleTamil": "வெங்காயத்தை பொடியாக நறுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "cook_004",
+    "name": "slice",
+    "tamilMeaning": "துண்டுகளாக நறுக்கு",
+    "example": "Slice the tomatoes.",
+    "exampleTamil": "தக்காளியை துண்டுகளாக நறுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "cook_005",
+    "name": "peel",
+    "tamilMeaning": "தோலை உரி",
+    "example": "Peel the potatoes.",
+    "exampleTamil": "உருளைக்கிழங்கின் தோலை உரியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "cook_006",
+    "name": "boil",
+    "tamilMeaning": "கொதி",
+    "example": "Boil the water.",
+    "exampleTamil": "தண்ணீரை கொதிக்க வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "cook_007",
+    "name": "fry",
+    "tamilMeaning": "வறு",
+    "example": "Fry the fish.",
+    "exampleTamil": "மீனை வறுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "cook_008",
+    "name": "steam",
+    "tamilMeaning": "ஆவியில் வேக வை",
+    "example": "Steam the vegetables.",
+    "exampleTamil": "காய்கறிகளை ஆவியில் வேக வையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "cook_009",
+    "name": "stir",
+    "tamilMeaning": "கிளறு",
+    "example": "Stir the soup gently.",
+    "exampleTamil": "சூப்பை மெதுவாகக் கிளறுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "cook_010",
+    "name": "mix",
+    "tamilMeaning": "கலக்கு",
+    "example": "Mix the ingredients well.",
+    "exampleTamil": "பொருட்களை நன்றாகக் கலக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "cook_011",
+    "name": "pour",
+    "tamilMeaning": "ஊற்று",
+    "example": "Pour the oil into the pan.",
+    "exampleTamil": "வாணலியில் எண்ணெயை ஊற்றுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "cook_012",
+    "name": "season",
+    "tamilMeaning": "சுவையூட்டு",
+    "example": "Season the curry with salt.",
+    "exampleTamil": "கறியில் உப்பு சேர்த்து சுவையூட்டுங்கள்.",
+    "audio": ""
+  }
+]

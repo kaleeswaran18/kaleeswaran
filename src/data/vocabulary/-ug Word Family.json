@@ -1,0 +1,146 @@
+[
+  {
+    "id": "ug_001",
+    "name": "bug",
+    "tamilMeaning": "பூச்சி",
+    "example": "A bug is crawling on the leaf.",
+    "exampleTamil": "ஒரு பூச்சி இலையின் மீது ஊர்ந்து செல்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "ug_002",
+    "name": "dug",
+    "tamilMeaning": "தோண்டினான்",
+    "example": "He dug a hole in the garden.",
+    "exampleTamil": "அவர் தோட்டத்தில் ஒரு குழி தோண்டினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ug_003",
+    "name": "hug",
+    "tamilMeaning": "அணைத்துக்கொள்",
+    "example": "The child gave her mother a hug.",
+    "exampleTamil": "குழந்தை தனது அம்மாவை அணைத்துக்கொண்டது.",
+    "audio": ""
+  },
+  {
+    "id": "ug_004",
+    "name": "jug",
+    "tamilMeaning": "கூஜா",
+    "example": "Fill the jug with water.",
+    "exampleTamil": "கூஜாவில் தண்ணீர் நிரப்புங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ug_005",
+    "name": "lug",
+    "tamilMeaning": "இழுத்துச் செல்",
+    "example": "They lugged the heavy box upstairs.",
+    "exampleTamil": "அவர்கள் கனமான பெட்டியை மேலே இழுத்துச் சென்றனர்.",
+    "audio": ""
+  },
+  {
+    "id": "ug_006",
+    "name": "mug",
+    "tamilMeaning": "குவளை",
+    "example": "She drank tea from a mug.",
+    "exampleTamil": "அவள் ஒரு குவளையில் தேநீர் குடித்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "ug_007",
+    "name": "rug",
+    "tamilMeaning": "தரை விரிப்பு",
+    "example": "The rug is soft.",
+    "exampleTamil": "தரை விரிப்பு மென்மையாக உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "ug_008",
+    "name": "tug",
+    "tamilMeaning": "பலமாக இழு",
+    "example": "Tug the rope gently.",
+    "exampleTamil": "கயிற்றை மெதுவாக இழுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "ug_009",
+    "name": "plug",
+    "tamilMeaning": "மின்சார செருகி",
+    "example": "Plug in the charger.",
+    "exampleTamil": "சார்ஜரை மின்சாரத்தில் இணைக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "ug_010",
+    "name": "slug",
+    "tamilMeaning": "நத்தை போன்ற மென்மையான உயிரினம்",
+    "example": "A slug moved across the path.",
+    "exampleTamil": "ஒரு ஸ்லக் பாதையில் ஊர்ந்து சென்றது.",
+    "audio": ""
+  },
+  {
+    "id": "ug_011",
+    "name": "snug",
+    "tamilMeaning": "வசதியான / இறுக்கமாகப் பொருந்தும்",
+    "example": "The baby looked snug in the blanket.",
+    "exampleTamil": "குழந்தை போர்வையில் வசதியாக இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ug_012",
+    "name": "shrug",
+    "tamilMeaning": "தோளைக் குலுக்கு",
+    "example": "He shrugged his shoulders.",
+    "exampleTamil": "அவர் தனது தோள்களைக் குலுக்கினார்.",
+    "audio": ""
+  },
+  {
+    "id": "ug_013",
+    "name": "thug",
+    "tamilMeaning": "ரவுடி",
+    "example": "The police arrested the thug.",
+    "exampleTamil": "காவல்துறை ரவுடியை கைது செய்தது.",
+    "audio": ""
+  },
+  {
+    "id": "ug_014",
+    "name": "drug",
+    "tamilMeaning": "மருந்து",
+    "example": "The doctor prescribed a drug.",
+    "exampleTamil": "மருத்துவர் ஒரு மருந்தை பரிந்துரைத்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ug_015",
+    "name": "chug",
+    "tamilMeaning": "மடமடவென குடி",
+    "example": "He chugged a bottle of water.",
+    "exampleTamil": "அவர் ஒரு பாட்டில் தண்ணீரை மடமடவென குடித்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ug_016",
+    "name": "smug",
+    "tamilMeaning": "தன்னைப் பற்றி மிகுந்த திருப்தியுள்ள",
+    "example": "He looked smug after winning.",
+    "exampleTamil": "வெற்றி பெற்ற பிறகு அவர் தன்னைப் பற்றி பெருமையாக இருந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ug_017",
+    "name": "debug",
+    "tamilMeaning": "பிழையைச் சரிசெய்",
+    "example": "The developer debugged the program.",
+    "exampleTamil": "டெவலப்பர் நிரலின் பிழையைச் சரிசெய்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "ug_018",
+    "name": "earplug",
+    "tamilMeaning": "காது அடைப்பான்",
+    "example": "Wear earplugs in noisy places.",
+    "exampleTamil": "அதிக சத்தம் உள்ள இடங்களில் காது அடைப்பானை அணியுங்கள்.",
+    "audio": ""
+  }
+]

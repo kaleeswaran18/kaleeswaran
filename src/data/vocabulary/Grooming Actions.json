@@ -1,0 +1,66 @@
+[
+  {
+    "id": "groom_001",
+    "name": "comb",
+    "tamilMeaning": "சீப்பு",
+    "example": "Comb your hair neatly.",
+    "exampleTamil": "உங்கள் தலைமுடியை நன்றாக சீவுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "groom_002",
+    "name": "brush",
+    "tamilMeaning": "பிரஷ் செய்",
+    "example": "Brush your hair gently.",
+    "exampleTamil": "உங்கள் தலைமுடியை மெதுவாக பிரஷ் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "groom_003",
+    "name": "shave",
+    "tamilMeaning": "சவரம் செய்",
+    "example": "He shaves every morning.",
+    "exampleTamil": "அவர் தினமும் காலை சவரம் செய்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "groom_004",
+    "name": "trim",
+    "tamilMeaning": "நறுக்கு",
+    "example": "Trim your nails regularly.",
+    "exampleTamil": "உங்கள் நகங்களை தவறாமல் நறுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "groom_005",
+    "name": "clip",
+    "tamilMeaning": "நகம் வெட்டு",
+    "example": "Clip your fingernails carefully.",
+    "exampleTamil": "உங்கள் கைநகங்களை கவனமாக வெட்டுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "groom_006",
+    "name": "style",
+    "tamilMeaning": "அலங்கரி",
+    "example": "She styled her hair beautifully.",
+    "exampleTamil": "அவள் தனது தலைமுடியை அழகாக அலங்கரித்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "groom_007",
+    "name": "moisturize",
+    "tamilMeaning": "ஈரப்பதக் கிரீம் தடவு",
+    "example": "Moisturize your skin after bathing.",
+    "exampleTamil": "குளித்த பிறகு உங்கள் தோலில் ஈரப்பதக் கிரீமைத் தடவுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "groom_008",
+    "name": "apply",
+    "tamilMeaning": "பூசு",
+    "example": "Apply perfume before going out.",
+    "exampleTamil": "வெளியே செல்வதற்கு முன் வாசனைத் திரவியத்தைப் பூசுங்கள்.",
+    "audio": ""
+  }
+]

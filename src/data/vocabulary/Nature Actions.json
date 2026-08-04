@@ -1,0 +1,82 @@
+[
+  {
+    "id": "nature_001",
+    "name": "grow",
+    "tamilMeaning": "வளர்",
+    "example": "Trees grow quickly in the rainy season.",
+    "exampleTamil": "மழைக்காலத்தில் மரங்கள் வேகமாக வளர்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "nature_002",
+    "name": "bloom",
+    "tamilMeaning": "மலர்",
+    "example": "The roses bloom in spring.",
+    "exampleTamil": "வசந்த காலத்தில் ரோஜாக்கள் மலர்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "nature_003",
+    "name": "sprout",
+    "tamilMeaning": "முளை விடு",
+    "example": "The seeds sprouted after the rain.",
+    "exampleTamil": "மழைக்குப் பிறகு விதைகள் முளைவிட்டன.",
+    "audio": ""
+  },
+  {
+    "id": "nature_004",
+    "name": "flow",
+    "tamilMeaning": "ஓடு",
+    "example": "The river flows through the village.",
+    "exampleTamil": "ஆறு கிராமத்தின் வழியாக ஓடுகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "nature_005",
+    "name": "fall",
+    "tamilMeaning": "விழு",
+    "example": "Leaves fall in autumn.",
+    "exampleTamil": "இலையுதிர் காலத்தில் இலைகள் விழுகின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "nature_006",
+    "name": "wither",
+    "tamilMeaning": "வாடு",
+    "example": "The flowers withered in the heat.",
+    "exampleTamil": "வெயிலில் பூக்கள் வாடின.",
+    "audio": ""
+  },
+  {
+    "id": "nature_007",
+    "name": "erupt",
+    "tamilMeaning": "வெடித்து சிதறு",
+    "example": "The volcano erupted suddenly.",
+    "exampleTamil": "எரிமலை திடீரென வெடித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "nature_008",
+    "name": "shine",
+    "tamilMeaning": "ஒளிர்",
+    "example": "The sun shines brightly.",
+    "exampleTamil": "சூரியன் பிரகாசமாக ஒளிர்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "nature_009",
+    "name": "freeze",
+    "tamilMeaning": "உறை",
+    "example": "The lake freezes in winter.",
+    "exampleTamil": "குளம் குளிர்காலத்தில் உறைகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "nature_010",
+    "name": "melt",
+    "tamilMeaning": "உருகு",
+    "example": "The snow melts in the sun.",
+    "exampleTamil": "வெயிலில் பனி உருகுகிறது.",
+    "audio": ""
+  }
+]

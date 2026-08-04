@@ -1,0 +1,82 @@
+[
+  {
+    "id": "repair_001",
+    "name": "repair",
+    "tamilMeaning": "பழுது நீக்கு",
+    "example": "Repair the broken chair.",
+    "exampleTamil": "உடைந்த நாற்காலியைப் பழுது நீக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "repair_002",
+    "name": "fix",
+    "tamilMeaning": "சரி செய்",
+    "example": "Fix the leaking tap.",
+    "exampleTamil": "ஒழுகும் குழாயைச் சரி செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "repair_003",
+    "name": "replace",
+    "tamilMeaning": "மாற்றிப் பொருத்து",
+    "example": "Replace the old battery.",
+    "exampleTamil": "பழைய பேட்டரியை மாற்றிப் பொருத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "repair_004",
+    "name": "tighten",
+    "tamilMeaning": "இறுக்கு",
+    "example": "Tighten the screw.",
+    "exampleTamil": "திருகை இறுக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "repair_005",
+    "name": "loosen",
+    "tamilMeaning": "தளர்த்து",
+    "example": "Loosen the bolt carefully.",
+    "exampleTamil": "போல்ட்டை கவனமாக தளர்த்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "repair_006",
+    "name": "adjust",
+    "tamilMeaning": "சரிசெய்",
+    "example": "Adjust the chair height.",
+    "exampleTamil": "நாற்காலியின் உயரத்தைச் சரிசெய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "repair_007",
+    "name": "maintain",
+    "tamilMeaning": "பராமரி",
+    "example": "Maintain your bicycle regularly.",
+    "exampleTamil": "உங்கள் மிதிவண்டியைத் தவறாமல் பராமரியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "repair_008",
+    "name": "restore",
+    "tamilMeaning": "மீட்டமை",
+    "example": "Restore the old furniture.",
+    "exampleTamil": "பழைய மரச்சாமானை மீட்டமைக்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "repair_009",
+    "name": "patch",
+    "tamilMeaning": "ஒட்டு / ஓட்டை அடை",
+    "example": "Patch the hole in the tire.",
+    "exampleTamil": "டயரில் உள்ள ஓட்டையை அடையுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "repair_010",
+    "name": "service",
+    "tamilMeaning": "சேவை பராமரிப்பு செய்",
+    "example": "Service your motorcycle every year.",
+    "exampleTamil": "உங்கள் மோட்டார் சைக்கிளுக்கு ஆண்டுதோறும் சேவை செய்யுங்கள்.",
+    "audio": ""
+  }
+]

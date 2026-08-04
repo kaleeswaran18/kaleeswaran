@@ -1,0 +1,50 @@
+[
+  {
+    "id": "thumb_001",
+    "name": "thumb",
+    "tamilMeaning": "கட்டை விரலால் பக்கங்களைப் புரட்டு",
+    "example": "He thumbed through the magazine.",
+    "exampleTamil": "அவர் இதழின் பக்கங்களை கட்டை விரலால் வேகமாகப் புரட்டினார்.",
+    "audio": ""
+  },
+  {
+    "id": "thumb_002",
+    "name": "hitchhike",
+    "tamilMeaning": "கட்டை விரலைக் காட்டி வாகனம் கேள்",
+    "example": "He hitchhiked along the highway.",
+    "exampleTamil": "அவர் சாலையில் கட்டை விரலைக் காட்டி வாகனம் கேட்டார்.",
+    "audio": ""
+  },
+  {
+    "id": "thumb_003",
+    "name": "press",
+    "tamilMeaning": "கட்டை விரலால் அழுத்து",
+    "example": "Press the button with your thumb.",
+    "exampleTamil": "பொத்தானை கட்டை விரலால் அழுத்துங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "thumb_004",
+    "name": "grip",
+    "tamilMeaning": "கட்டை விரலால் உறுதியாகப் பிடி",
+    "example": "Grip the handle with your thumb.",
+    "exampleTamil": "கைப்பிடியை கட்டை விரலால் உறுதியாகப் பிடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "thumb_005",
+    "name": "hook",
+    "tamilMeaning": "கட்டை விரலால் மாட்டிப் பிடி",
+    "example": "Hook your thumb through the loop.",
+    "exampleTamil": "வளையத்தில் உங்கள் கட்டை விரலை மாட்டிப் பிடியுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "thumb_006",
+    "name": "rub",
+    "tamilMeaning": "கட்டை விரலால் தேய்",
+    "example": "Rub the coin with your thumb.",
+    "exampleTamil": "நாணயத்தை உங்கள் கட்டை விரலால் தேயுங்கள்.",
+    "audio": ""
+  }
+]
