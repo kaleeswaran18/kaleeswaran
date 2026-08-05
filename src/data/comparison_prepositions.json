@@ -1,0 +1,82 @@
+[
+  {
+    "id": "comparison_001",
+    "name": "like",
+    "tamilMeaning": "போல",
+    "example": "He runs like his father.",
+    "exampleTamil": "அவர் தனது அப்பாவைப் போல ஓடுகிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "comparison_002",
+    "name": "unlike",
+    "tamilMeaning": "போலல்லாமல்",
+    "example": "Unlike his brother, he is quiet.",
+    "exampleTamil": "அவரது சகோதரனைப் போலல்லாமல், அவர் அமைதியாக இருக்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "comparison_003",
+    "name": "than",
+    "tamilMeaning": "விட",
+    "example": "She is taller than me.",
+    "exampleTamil": "அவள் என்னைவிட உயரமாக இருக்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "comparison_004",
+    "name": "as",
+    "tamilMeaning": "அளவுக்கு / போல",
+    "example": "He is as strong as his friend.",
+    "exampleTamil": "அவர் தனது நண்பரைப் போலவே வலிமையானவர்.",
+    "audio": ""
+  },
+  {
+    "id": "comparison_005",
+    "name": "instead of",
+    "tamilMeaning": "பதிலாக",
+    "example": "Drink water instead of soda.",
+    "exampleTamil": "குளிர்பானத்திற்கு பதிலாக தண்ணீர் குடி.",
+    "audio": ""
+  },
+  {
+    "id": "comparison_006",
+    "name": "compared to",
+    "tamilMeaning": "ஒப்பிடும்போது",
+    "example": "This phone is faster compared to the old one.",
+    "exampleTamil": "பழைய போனுடன் ஒப்பிடும்போது இந்த போன் வேகமானது.",
+    "audio": ""
+  },
+  {
+    "id": "comparison_007",
+    "name": "compared with",
+    "tamilMeaning": "ஒப்பிடுகையில்",
+    "example": "Sales increased compared with last year.",
+    "exampleTamil": "கடந்த ஆண்டுடன் ஒப்பிடுகையில் விற்பனை அதிகரித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "comparison_008",
+    "name": "similar to",
+    "tamilMeaning": "ஒத்த",
+    "example": "Your bag is similar to mine.",
+    "exampleTamil": "உன் பை என்னுடையதைப் போலவே உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "comparison_009",
+    "name": "different from",
+    "tamilMeaning": "வேறுபட்ட",
+    "example": "This dress is different from that one.",
+    "exampleTamil": "இந்த உடை அந்த உடையிலிருந்து வேறுபட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "comparison_010",
+    "name": "equal to",
+    "tamilMeaning": "சமமான",
+    "example": "Five plus five is equal to ten.",
+    "exampleTamil": "ஐந்து கூட்டி ஐந்து என்பது பத்துக்கு சமம்.",
+    "audio": ""
+  }
+]

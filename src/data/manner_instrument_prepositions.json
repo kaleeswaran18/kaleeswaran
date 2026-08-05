@@ -1,0 +1,122 @@
+[
+  {
+    "id": "manner_001",
+    "name": "by",
+    "tamilMeaning": "மூலம்",
+    "example": "She came by bus.",
+    "exampleTamil": "அவள் பேருந்தில் வந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "manner_002",
+    "name": "with",
+    "tamilMeaning": "உடன் / கொண்டு",
+    "example": "He cut the paper with scissors.",
+    "exampleTamil": "அவர் கத்தரிக்கோலால் காகிதத்தை வெட்டினார்.",
+    "audio": ""
+  },
+  {
+    "id": "manner_003",
+    "name": "without",
+    "tamilMeaning": "இல்லாமல்",
+    "example": "She left without her bag.",
+    "exampleTamil": "அவள் தனது பை இல்லாமல் சென்றாள்.",
+    "audio": ""
+  },
+  {
+    "id": "manner_004",
+    "name": "through",
+    "tamilMeaning": "மூலம்",
+    "example": "We solved it through teamwork.",
+    "exampleTamil": "நாங்கள் குழு ஒத்துழைப்பின் மூலம் அதை தீர்த்தோம்.",
+    "audio": ""
+  },
+  {
+    "id": "manner_005",
+    "name": "via",
+    "tamilMeaning": "வழியாக",
+    "example": "Send the file via email.",
+    "exampleTamil": "கோப்பை மின்னஞ்சல் வழியாக அனுப்பு.",
+    "audio": ""
+  },
+  {
+    "id": "manner_006",
+    "name": "using",
+    "tamilMeaning": "பயன்படுத்தி",
+    "example": "He fixed it using a screwdriver.",
+    "exampleTamil": "அவர் ஸ்க்ரூ டிரைவரைப் பயன்படுத்தி அதை சரிசெய்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "manner_007",
+    "name": "like",
+    "tamilMeaning": "போல்",
+    "example": "She sings like a professional.",
+    "exampleTamil": "அவள் ஒரு தொழில்முறை பாடகியைப் போல பாடுகிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "manner_008",
+    "name": "as",
+    "tamilMeaning": "ஆக / போல",
+    "example": "He works as a teacher.",
+    "exampleTamil": "அவர் ஆசிரியராக வேலை செய்கிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "manner_009",
+    "name": "according to",
+    "tamilMeaning": "படி",
+    "example": "According to the doctor, you need rest.",
+    "exampleTamil": "மருத்துவரின் ஆலோசனைப்படி, உங்களுக்கு ஓய்வு தேவை.",
+    "audio": ""
+  },
+  {
+    "id": "manner_010",
+    "name": "in",
+    "tamilMeaning": "ஒரு முறையில்",
+    "example": "Please speak in English.",
+    "exampleTamil": "தயவுசெய்து ஆங்கிலத்தில் பேசுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "manner_011",
+    "name": "on",
+    "tamilMeaning": "மூலம்",
+    "example": "I heard it on the radio.",
+    "exampleTamil": "அதை நான் வானொலியில் கேட்டேன்.",
+    "audio": ""
+  },
+  {
+    "id": "manner_012",
+    "name": "under",
+    "tamilMeaning": "கீழ் / அடிப்படையில்",
+    "example": "The project is under review.",
+    "exampleTamil": "திட்டம் ஆய்வில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "manner_013",
+    "name": "by means of",
+    "tamilMeaning": "மூலமாக",
+    "example": "They communicated by means of signs.",
+    "exampleTamil": "அவர்கள் சைகைகளின் மூலம் தொடர்பு கொண்டனர்.",
+    "audio": ""
+  },
+  {
+    "id": "manner_014",
+    "name": "with the help of",
+    "tamilMeaning": "உதவியுடன்",
+    "example": "She completed the task with the help of her friend.",
+    "exampleTamil": "அவள் நண்பரின் உதவியுடன் வேலையை முடித்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "manner_015",
+    "name": "through the use of",
+    "tamilMeaning": "பயன்பாட்டின் மூலம்",
+    "example": "We improved production through the use of technology.",
+    "exampleTamil": "தொழில்நுட்பத்தின் பயன்பாட்டின் மூலம் உற்பத்தியை மேம்படுத்தினோம்.",
+    "audio": ""
+  }
+]

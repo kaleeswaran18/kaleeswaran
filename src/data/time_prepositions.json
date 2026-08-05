@@ -1,0 +1,122 @@
+[
+  {
+    "id": "time_001",
+    "name": "at",
+    "tamilMeaning": "குறிப்பிட்ட நேரத்தில்",
+    "example": "The class starts at 9 o'clock.",
+    "exampleTamil": "வகுப்பு காலை 9 மணிக்கு தொடங்குகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "time_002",
+    "name": "on",
+    "tamilMeaning": "குறிப்பிட்ட நாளில்",
+    "example": "We will meet on Monday.",
+    "exampleTamil": "நாம் திங்கட்கிழமை சந்திப்போம்.",
+    "audio": ""
+  },
+  {
+    "id": "time_003",
+    "name": "in",
+    "tamilMeaning": "மாதம் / ஆண்டு / காலப்பகுதியில்",
+    "example": "She was born in 2001.",
+    "exampleTamil": "அவள் 2001-ல் பிறந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "time_004",
+    "name": "before",
+    "tamilMeaning": "முன்பு",
+    "example": "Finish your homework before dinner.",
+    "exampleTamil": "இரவு உணவுக்கு முன் வீட்டுப்பாடத்தை முடி.",
+    "audio": ""
+  },
+  {
+    "id": "time_005",
+    "name": "after",
+    "tamilMeaning": "பிறகு",
+    "example": "We went home after the movie.",
+    "exampleTamil": "திரைப்படத்திற்குப் பிறகு வீட்டிற்கு சென்றோம்.",
+    "audio": ""
+  },
+  {
+    "id": "time_006",
+    "name": "during",
+    "tamilMeaning": "நடக்கும் காலத்தில்",
+    "example": "Do not talk during the exam.",
+    "exampleTamil": "தேர்வின் போது பேசாதே.",
+    "audio": ""
+  },
+  {
+    "id": "time_007",
+    "name": "since",
+    "tamilMeaning": "முதல்",
+    "example": "I have lived here since 2020.",
+    "exampleTamil": "நான் 2020 முதல் இங்கு வசிக்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "time_008",
+    "name": "for",
+    "tamilMeaning": "ஒரு கால அளவிற்கு",
+    "example": "She waited for two hours.",
+    "exampleTamil": "அவள் இரண்டு மணி நேரம் காத்திருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "time_009",
+    "name": "until",
+    "tamilMeaning": "வரை",
+    "example": "Stay here until I return.",
+    "exampleTamil": "நான் திரும்பி வரும் வரை இங்கே இரு.",
+    "audio": ""
+  },
+  {
+    "id": "time_010",
+    "name": "by",
+    "tamilMeaning": "அதற்குள்",
+    "example": "Submit the report by Friday.",
+    "exampleTamil": "வெள்ளிக்கிழமைக்குள் அறிக்கையை சமர்ப்பிக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "time_011",
+    "name": "within",
+    "tamilMeaning": "குறிப்பிட்ட நேரத்திற்குள்",
+    "example": "Reply within 24 hours.",
+    "exampleTamil": "24 மணி நேரத்திற்குள் பதிலளிக்கவும்.",
+    "audio": ""
+  },
+  {
+    "id": "time_012",
+    "name": "throughout",
+    "tamilMeaning": "முழுவதும்",
+    "example": "It rained throughout the night.",
+    "exampleTamil": "இரவு முழுவதும் மழை பெய்தது.",
+    "audio": ""
+  },
+  {
+    "id": "time_013",
+    "name": "from",
+    "tamilMeaning": "இருந்து",
+    "example": "The shop is open from 8 a.m.",
+    "exampleTamil": "கடை காலை 8 மணி முதல் திறந்திருக்கும்.",
+    "audio": ""
+  },
+  {
+    "id": "time_014",
+    "name": "to",
+    "tamilMeaning": "வரை",
+    "example": "The office is open from 9 to 5.",
+    "exampleTamil": "அலுவலகம் காலை 9 மணி முதல் மாலை 5 மணி வரை திறந்திருக்கும்.",
+    "audio": ""
+  },
+  {
+    "id": "time_015",
+    "name": "past",
+    "tamilMeaning": "மணியை கடந்த",
+    "example": "It is ten past six.",
+    "exampleTamil": "இப்போது ஆறு மணி பத்து நிமிடம்.",
+    "audio": ""
+  }
+]

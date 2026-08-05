@@ -1,0 +1,162 @@
+[
+  {
+    "id": "compound_001",
+    "name": "according to",
+    "tamilMeaning": "படி",
+    "example": "According to the weather report, it will rain today.",
+    "exampleTamil": "வானிலை அறிக்கையின்படி இன்று மழை பெய்யும்.",
+    "audio": ""
+  },
+  {
+    "id": "compound_002",
+    "name": "because of",
+    "tamilMeaning": "காரணமாக",
+    "example": "The match was cancelled because of the rain.",
+    "exampleTamil": "மழை காரணமாக போட்டி ரத்து செய்யப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "compound_003",
+    "name": "due to",
+    "tamilMeaning": "காரணமாக",
+    "example": "The flight was delayed due to bad weather.",
+    "exampleTamil": "மோசமான வானிலையால் விமானம் தாமதமானது.",
+    "audio": ""
+  },
+  {
+    "id": "compound_004",
+    "name": "instead of",
+    "tamilMeaning": "பதிலாக",
+    "example": "She drank juice instead of coffee.",
+    "exampleTamil": "அவள் காபிக்குப் பதிலாக ஜூஸ் குடித்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "compound_005",
+    "name": "in front of",
+    "tamilMeaning": "முன்புறத்தில்",
+    "example": "The car is parked in front of the house.",
+    "exampleTamil": "வீட்டின் முன்புறத்தில் கார் நிறுத்தப்பட்டுள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "compound_006",
+    "name": "next to",
+    "tamilMeaning": "பக்கத்தில்",
+    "example": "The hospital is next to the bank.",
+    "exampleTamil": "வங்கியின் பக்கத்தில் மருத்துவமனை உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "compound_007",
+    "name": "out of",
+    "tamilMeaning": "வெளியே / இல்லாமல்",
+    "example": "We are out of milk.",
+    "exampleTamil": "எங்களிடம் பால் தீர்ந்துவிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "compound_008",
+    "name": "apart from",
+    "tamilMeaning": "தவிர",
+    "example": "Apart from Ravi, everyone attended.",
+    "exampleTamil": "ரவியைத் தவிர அனைவரும் வந்திருந்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "compound_009",
+    "name": "along with",
+    "tamilMeaning": "உடன்",
+    "example": "She came along with her parents.",
+    "exampleTamil": "அவள் தனது பெற்றோருடன் வந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "compound_010",
+    "name": "as for",
+    "tamilMeaning": "பொறுத்தவரை",
+    "example": "As for me, I agree with the plan.",
+    "exampleTamil": "என்னைப் பொறுத்தவரை, இந்த திட்டத்தை நான் ஒப்புக்கொள்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "compound_011",
+    "name": "as to",
+    "tamilMeaning": "குறித்து",
+    "example": "There is no doubt as to his honesty.",
+    "exampleTamil": "அவருடைய நேர்மையைப் பற்றி எந்த சந்தேகமும் இல்லை.",
+    "audio": ""
+  },
+  {
+    "id": "compound_012",
+    "name": "by means of",
+    "tamilMeaning": "மூலமாக",
+    "example": "They communicated by means of gestures.",
+    "exampleTamil": "அவர்கள் சைகைகள் மூலம் தொடர்பு கொண்டனர்.",
+    "audio": ""
+  },
+  {
+    "id": "compound_013",
+    "name": "in addition to",
+    "tamilMeaning": "கூடுதலாக",
+    "example": "In addition to English, she speaks Tamil.",
+    "exampleTamil": "ஆங்கிலத்துடன் கூடுதலாக அவள் தமிழ் பேசுகிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "compound_014",
+    "name": "in spite of",
+    "tamilMeaning": "இருந்தபோதிலும்",
+    "example": "He went out in spite of the rain.",
+    "exampleTamil": "மழை இருந்தபோதிலும் அவர் வெளியே சென்றார்.",
+    "audio": ""
+  },
+  {
+    "id": "compound_015",
+    "name": "on behalf of",
+    "tamilMeaning": "சார்பாக",
+    "example": "She accepted the award on behalf of her team.",
+    "exampleTamil": "அவள் தனது குழுவின் சார்பாக விருதைப் பெற்றாள்.",
+    "audio": ""
+  },
+  {
+    "id": "compound_016",
+    "name": "with regard to",
+    "tamilMeaning": "தொடர்பாக",
+    "example": "I have a question with regard to your application.",
+    "exampleTamil": "உங்கள் விண்ணப்பம் தொடர்பாக எனக்கு ஒரு கேள்வி உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "compound_017",
+    "name": "with respect to",
+    "tamilMeaning": "குறித்து",
+    "example": "The rules changed with respect to attendance.",
+    "exampleTamil": "வருகைப் பதிவு குறித்து விதிகள் மாற்றப்பட்டன.",
+    "audio": ""
+  },
+  {
+    "id": "compound_018",
+    "name": "in accordance with",
+    "tamilMeaning": "இணங்க",
+    "example": "The work was completed in accordance with the guidelines.",
+    "exampleTamil": "வழிகாட்டுதல்களின்படி வேலை முடிக்கப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "compound_019",
+    "name": "prior to",
+    "tamilMeaning": "முன்னதாக",
+    "example": "Please register prior to the event.",
+    "exampleTamil": "நிகழ்ச்சிக்கு முன்னதாக பதிவு செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "compound_020",
+    "name": "thanks to",
+    "tamilMeaning": "காரணமாக / நன்றி காரணமாக",
+    "example": "Thanks to your help, I finished the project.",
+    "exampleTamil": "உங்கள் உதவியால் நான் திட்டத்தை முடித்தேன்.",
+    "audio": ""
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "direction_001",
+    "name": "to",
+    "tamilMeaning": "நோக்கி / க்கு",
+    "example": "She walked to the market.",
+    "exampleTamil": "அவள் சந்தைக்கு நடந்துச் சென்றாள்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_002",
+    "name": "into",
+    "tamilMeaning": "உள்ளே",
+    "example": "The dog ran into the house.",
+    "exampleTamil": "நாய் வீட்டிற்குள் ஓடிச் சென்றது.",
+    "audio": ""
+  },
+  {
+    "id": "direction_003",
+    "name": "onto",
+    "tamilMeaning": "மேல்",
+    "example": "The cat jumped onto the bed.",
+    "exampleTamil": "பூனை படுக்கையின் மேல் குதித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "direction_004",
+    "name": "toward",
+    "tamilMeaning": "நோக்கி",
+    "example": "He walked toward the station.",
+    "exampleTamil": "அவர் நிலையத்தை நோக்கி நடந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_005",
+    "name": "away from",
+    "tamilMeaning": "விட்டு விலகி",
+    "example": "Stay away from the fire.",
+    "exampleTamil": "நெருப்பிலிருந்து விலகி இரு.",
+    "audio": ""
+  },
+  {
+    "id": "direction_006",
+    "name": "through",
+    "tamilMeaning": "வழியாக",
+    "example": "We walked through the park.",
+    "exampleTamil": "நாங்கள் பூங்கா வழியாக நடந்தோம்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_007",
+    "name": "across",
+    "tamilMeaning": "குறுக்கே",
+    "example": "She swam across the river.",
+    "exampleTamil": "அவள் ஆற்றைக் குறுக்கே நீந்தினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_008",
+    "name": "along",
+    "tamilMeaning": "ஓரமாக",
+    "example": "They walked along the beach.",
+    "exampleTamil": "அவர்கள் கடற்கரையோரமாக நடந்தார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_009",
+    "name": "around",
+    "tamilMeaning": "சுற்றி",
+    "example": "We walked around the lake.",
+    "exampleTamil": "நாங்கள் ஏரியைச் சுற்றி நடந்தோம்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_010",
+    "name": "past",
+    "tamilMeaning": "கடந்து",
+    "example": "Drive past the school.",
+    "exampleTamil": "பள்ளியைக் கடந்து செல்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_011",
+    "name": "over",
+    "tamilMeaning": "மேலாக",
+    "example": "The plane flew over the city.",
+    "exampleTamil": "விமானம் நகரத்தின் மேலாக பறந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "direction_012",
+    "name": "under",
+    "tamilMeaning": "கீழாக",
+    "example": "The rabbit ran under the fence.",
+    "exampleTamil": "முயல் வேலிக்குக் கீழாக ஓடியது.",
+    "audio": ""
+  },
+  {
+    "id": "direction_013",
+    "name": "up",
+    "tamilMeaning": "மேலே",
+    "example": "He climbed up the ladder.",
+    "exampleTamil": "அவர் ஏணியில் மேலே ஏறினார்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_014",
+    "name": "down",
+    "tamilMeaning": "கீழே",
+    "example": "She ran down the stairs.",
+    "exampleTamil": "அவள் படிக்கட்டில் கீழே ஓடினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_015",
+    "name": "out of",
+    "tamilMeaning": "வெளியே",
+    "example": "The bird flew out of the cage.",
+    "exampleTamil": "பறவை கூண்டிலிருந்து வெளியே பறந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "direction_016",
+    "name": "off",
+    "tamilMeaning": "விட்டு / இருந்து கீழே",
+    "example": "The boy jumped off the wall.",
+    "exampleTamil": "சிறுவன் சுவரிலிருந்து குதித்தான்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_017",
+    "name": "via",
+    "tamilMeaning": "வழியாக",
+    "example": "We travelled via Chennai.",
+    "exampleTamil": "நாங்கள் சென்னை வழியாக பயணம் செய்தோம்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_018",
+    "name": "towards",
+    "tamilMeaning": "நோக்கி",
+    "example": "The bus moved towards the town.",
+    "exampleTamil": "பேருந்து நகரத்தை நோக்கி சென்றது.",
+    "audio": ""
+  },
+  {
+    "id": "direction_019",
+    "name": "across from",
+    "tamilMeaning": "எதிர்ப்புறம் நோக்கி",
+    "example": "Walk across from the bank.",
+    "exampleTamil": "வங்கிக்கு எதிர்ப்புறமாக நடந்து செல்.",
+    "audio": ""
+  },
+  {
+    "id": "direction_020",
+    "name": "throughout",
+    "tamilMeaning": "முழுவதும்",
+    "example": "The train travelled throughout the country.",
+    "exampleTamil": "ரயில் நாடு முழுவதும் பயணித்தது.",
+    "audio": ""
+  }
+]

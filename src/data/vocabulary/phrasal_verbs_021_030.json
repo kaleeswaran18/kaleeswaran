@@ -1,0 +1,242 @@
+[
+    {
+    "id": "phrasal_001",
+    "name": "put on",
+    "tamilMeaning": "அணிந்து கொள்",
+    "example": "Put on your shoes.",
+    "exampleTamil": "உன் காலணிகளை அணிந்து கொள்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_002",
+    "name": "put off",
+    "tamilMeaning": "ஒத்திவை",
+    "example": "They put off the meeting.",
+    "exampleTamil": "அவர்கள் கூட்டத்தை ஒத்திவைத்தார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_003",
+    "name": "put away",
+    "tamilMeaning": "எடுத்து வைத்து வை",
+    "example": "Put away your books.",
+    "exampleTamil": "உன் புத்தகங்களை எடுத்து வைத்து வை.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_004",
+    "name": "put out",
+    "tamilMeaning": "அணை",
+    "example": "Put out the candle.",
+    "exampleTamil": "மெழுகுவர்த்தியை அணைத்துவிடு.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_005",
+    "name": "put up",
+    "tamilMeaning": "நிறுவு / அமை",
+    "example": "They put up a new tent.",
+    "exampleTamil": "அவர்கள் புதிய கூடாரத்தை அமைத்தார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_006",
+    "name": "take off",
+    "tamilMeaning": "கழற்று / புறப்படு",
+    "example": "Take off your jacket.",
+    "exampleTamil": "உன் ஜாக்கெட்டை கழற்று.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_007",
+    "name": "take out",
+    "tamilMeaning": "வெளியே எடு",
+    "example": "Take out your phone.",
+    "exampleTamil": "உன் தொலைபேசியை வெளியே எடு.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_008",
+    "name": "take over",
+    "tamilMeaning": "பொறுப்பேற்று",
+    "example": "She will take over the project.",
+    "exampleTamil": "அவள் திட்டத்தின் பொறுப்பை ஏற்கப் போகிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_009",
+    "name": "take back",
+    "tamilMeaning": "திரும்ப எடு",
+    "example": "Take back your bag.",
+    "exampleTamil": "உன் பையை திரும்ப எடுத்துக்கொள்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_010",
+    "name": "take up",
+    "tamilMeaning": "தொடங்கு / மேற்கொள்",
+    "example": "She took up painting.",
+    "exampleTamil": "அவள் ஓவியம் வரைவதைத் தொடங்கினாள்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_021",
+    "name": "go out",
+    "tamilMeaning": "வெளியே செல்",
+    "example": "Let's go out for dinner.",
+    "exampleTamil": "இரவு உணவிற்கு வெளியே போகலாம்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_022",
+    "name": "go back",
+    "tamilMeaning": "திரும்பிச் செல்",
+    "example": "Go back to your seat.",
+    "exampleTamil": "உன் இருக்கைக்கு திரும்பிச் செல்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_023",
+    "name": "go on",
+    "tamilMeaning": "தொடர்ந்து செய்",
+    "example": "Please go on speaking.",
+    "exampleTamil": "தயவுசெய்து தொடர்ந்து பேசுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_024",
+    "name": "go away",
+    "tamilMeaning": "போய்விடு",
+    "example": "Go away and come later.",
+    "exampleTamil": "இப்போது போய்விட்டு பிறகு வா.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_025",
+    "name": "go through",
+    "tamilMeaning": "ஆய்வு செய் / முழுவதும் பார்",
+    "example": "Go through the report carefully.",
+    "exampleTamil": "அறிக்கையை கவனமாகப் படித்துப் பார்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_026",
+    "name": "come in",
+    "tamilMeaning": "உள்ளே வா",
+    "example": "Please come in.",
+    "exampleTamil": "தயவுசெய்து உள்ளே வாருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_027",
+    "name": "come back",
+    "tamilMeaning": "திரும்பி வா",
+    "example": "Come back soon.",
+    "exampleTamil": "விரைவில் திரும்பி வா.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_028",
+    "name": "come out",
+    "tamilMeaning": "வெளியே வா",
+    "example": "Come out and play.",
+    "exampleTamil": "வெளியே வந்து விளையாடு.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_029",
+    "name": "come over",
+    "tamilMeaning": "வீட்டிற்கு வா / சந்திக்க வா",
+    "example": "Come over this evening.",
+    "exampleTamil": "இன்று மாலை வீட்டிற்கு வா.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_030",
+    "name": "come across",
+    "tamilMeaning": "எதிர்பாராமல் கண்டுபிடி",
+    "example": "I came across an old photo.",
+    "exampleTamil": "பழைய புகைப்படம் ஒன்று எனக்குக் கிடைத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_011",
+    "name": "look at",
+    "tamilMeaning": "பார்",
+    "example": "Look at the board.",
+    "exampleTamil": "பலகையை பார்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_012",
+    "name": "look for",
+    "tamilMeaning": "தேடு",
+    "example": "I'm looking for my keys.",
+    "exampleTamil": "நான் என் சாவிகளைத் தேடிக்கொண்டிருக்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_013",
+    "name": "look after",
+    "tamilMeaning": "கவனித்துக்கொள்",
+    "example": "Look after your little brother.",
+    "exampleTamil": "உன் தம்பியை கவனித்துக்கொள்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_014",
+    "name": "look into",
+    "tamilMeaning": "விசாரி",
+    "example": "The police will look into the case.",
+    "exampleTamil": "காவல்துறை இந்த வழக்கை விசாரிக்கும்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_015",
+    "name": "look up",
+    "tamilMeaning": "தேடிப்பார்",
+    "example": "Look up the meaning online.",
+    "exampleTamil": "அதன் அர்த்தத்தை இணையத்தில் தேடிப்பார்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_016",
+    "name": "get up",
+    "tamilMeaning": "எழுந்திரு",
+    "example": "I get up at six.",
+    "exampleTamil": "நான் ஆறு மணிக்கு எழுந்திருப்பேன்.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_017",
+    "name": "get in",
+    "tamilMeaning": "உள்ளே செல்",
+    "example": "Get in the car.",
+    "exampleTamil": "காருக்குள் ஏறு.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_018",
+    "name": "get out",
+    "tamilMeaning": "வெளியே வா",
+    "example": "Get out of the room.",
+    "exampleTamil": "அறையை விட்டு வெளியே வா.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_019",
+    "name": "get on",
+    "tamilMeaning": "ஏறு",
+    "example": "Get on the bus quickly.",
+    "exampleTamil": "விரைவாக பேருந்தில் ஏறு.",
+    "audio": ""
+  },
+  {
+    "id": "phrasal_020",
+    "name": "get off",
+    "tamilMeaning": "இறங்கு",
+    "example": "Get off at the next stop.",
+    "exampleTamil": "அடுத்த நிறுத்தத்தில் இறங்கு.",
+    "audio": ""
+  }
+]

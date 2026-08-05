@@ -1,0 +1,162 @@
+[
+  {
+    "id": "place_001",
+    "name": "in",
+    "tamilMeaning": "உள்ளே",
+    "example": "The books are in the bag.",
+    "exampleTamil": "புத்தகங்கள் பைக்குள் உள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "place_002",
+    "name": "on",
+    "tamilMeaning": "மேல்",
+    "example": "The phone is on the table.",
+    "exampleTamil": "தொலைபேசி மேசையின் மேல் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "place_003",
+    "name": "at",
+    "tamilMeaning": "இடத்தில்",
+    "example": "She is at the bus stop.",
+    "exampleTamil": "அவள் பேருந்து நிறுத்தத்தில் இருக்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "place_004",
+    "name": "under",
+    "tamilMeaning": "கீழே",
+    "example": "The cat is under the chair.",
+    "exampleTamil": "பூனை நாற்காலியின் கீழே இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "place_005",
+    "name": "below",
+    "tamilMeaning": "கீழ்ப்பகுதியில்",
+    "example": "The picture is below the clock.",
+    "exampleTamil": "கடிகாரத்திற்குக் கீழே படம் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "place_006",
+    "name": "over",
+    "tamilMeaning": "மேலாக",
+    "example": "A bridge goes over the river.",
+    "exampleTamil": "ஆற்றின் மேலாக ஒரு பாலம் செல்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "place_007",
+    "name": "above",
+    "tamilMeaning": "மேற்புறத்தில்",
+    "example": "The fan is above our heads.",
+    "exampleTamil": "மின்விசிறி நம் தலைக்கு மேலே உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "place_008",
+    "name": "behind",
+    "tamilMeaning": "பின்னால்",
+    "example": "The car is behind the house.",
+    "exampleTamil": "வீட்டின் பின்னால் கார் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "place_009",
+    "name": "in front of",
+    "tamilMeaning": "முன்புறத்தில்",
+    "example": "The school is in front of the park.",
+    "exampleTamil": "பள்ளி பூங்காவிற்கு முன்புறத்தில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "place_010",
+    "name": "between",
+    "tamilMeaning": "இரண்டிற்கும் நடுவில்",
+    "example": "The bank is between the hospital and the school.",
+    "exampleTamil": "வங்கி மருத்துவமனைக்கும் பள்ளிக்கும் நடுவில் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "place_011",
+    "name": "among",
+    "tamilMeaning": "பலவற்றின் நடுவில்",
+    "example": "She was sitting among her friends.",
+    "exampleTamil": "அவள் தனது நண்பர்களின் நடுவில் அமர்ந்திருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "place_012",
+    "name": "beside",
+    "tamilMeaning": "அருகில்",
+    "example": "Sit beside me.",
+    "exampleTamil": "என் அருகில் உட்கார்.",
+    "audio": ""
+  },
+  {
+    "id": "place_013",
+    "name": "next to",
+    "tamilMeaning": "பக்கத்தில்",
+    "example": "The hotel is next to the bank.",
+    "exampleTamil": "வங்கி பக்கத்தில் ஹோட்டல் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "place_014",
+    "name": "near",
+    "tamilMeaning": "அருகே",
+    "example": "We live near the beach.",
+    "exampleTamil": "நாங்கள் கடற்கரைக்கு அருகே வசிக்கிறோம்.",
+    "audio": ""
+  },
+  {
+    "id": "place_015",
+    "name": "inside",
+    "tamilMeaning": "உட்புறத்தில்",
+    "example": "The children are inside the house.",
+    "exampleTamil": "குழந்தைகள் வீட்டின் உள்ளே இருக்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "place_016",
+    "name": "outside",
+    "tamilMeaning": "வெளியே",
+    "example": "Please wait outside the office.",
+    "exampleTamil": "அலுவலகத்திற்கு வெளியே காத்திருங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "place_017",
+    "name": "around",
+    "tamilMeaning": "சுற்றிலும்",
+    "example": "Trees are around the lake.",
+    "exampleTamil": "ஏரியைச் சுற்றிலும் மரங்கள் உள்ளன.",
+    "audio": ""
+  },
+  {
+    "id": "place_018",
+    "name": "opposite",
+    "tamilMeaning": "எதிரில்",
+    "example": "The pharmacy is opposite the hospital.",
+    "exampleTamil": "மருத்துவமனைக்கு எதிரில் மருந்தகம் உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "place_019",
+    "name": "across from",
+    "tamilMeaning": "எதிர்ப்புறத்தில்",
+    "example": "The café is across from the library.",
+    "exampleTamil": "நூலகத்திற்கு எதிர்ப்புறத்தில் கஃபே உள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "place_020",
+    "name": "by",
+    "tamilMeaning": "அருகில்",
+    "example": "The bicycle is by the gate.",
+    "exampleTamil": "வாயிலின் அருகில் மிதிவண்டி உள்ளது.",
+    "audio": ""
+  }
+]

@@ -753,6 +753,69 @@
   
 },
 {
+  "id": "Phrasal Verbs",
+  "name": "Phrasal Verbs",
+  "emoji": "🗣️",
+  "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=600&q=80",
+  "subcategories": [
+   
+    {
+      "id": "Phrasal Verbs 021-030",
+      "name": "Phrasal Verbs 021-030",
+      "emoji": "📝",
+      "vocabularyFile": "phrasal_verbs_021_030.json"
+    },
+    {
+      "id": "Phrasal Verbs 031-045",
+      "name": "Phrasal Verbs 031-045",
+      "emoji": "📝",
+      "vocabularyFile": "phrasal_verbs_031_045.json"
+    },
+    {
+      "id": "Phrasal Verbs 046-060",
+      "name": "Phrasal Verbs 046-060",
+      "emoji": "📝",
+      "vocabularyFile": "phrasal_verbs_046_060.json"
+    },
+    {
+      "id": "Phrasal Verbs 061-075",
+      "name": "Phrasal Verbs 061-075",
+      "emoji": "📝",
+      "vocabularyFile": "phrasal_verbs_061_075.json"
+    },
+    {
+      "id": "Phrasal Verbs 076-090",
+      "name": "Phrasal Verbs 076-090",
+      "emoji": "📝",
+      "vocabularyFile": "phrasal_verbs_076_090.json"
+    },
+    {
+      "id": "Phrasal Verbs 091-105",
+      "name": "Phrasal Verbs 091-105",
+      "emoji": "📝",
+      "vocabularyFile": "phrasal_verbs_091_105.json"
+    },
+    {
+      "id": "Phrasal Verbs 106-120",
+      "name": "Phrasal Verbs 106-120",
+      "emoji": "📝",
+      "vocabularyFile": "phrasal_verbs_106_120.json"
+    },
+    {
+      "id": "Phrasal Verbs 121-135",
+      "name": "Phrasal Verbs 121-135",
+      "emoji": "📝",
+      "vocabularyFile": "phrasal_verbs_121_135.json"
+    },
+    {
+      "id": "Phrasal Verbs 136-150",
+      "name": "Phrasal Verbs 136-150",
+      "emoji": "📝",
+      "vocabularyFile": "phrasal_verbs_136_150.json"
+    }
+  ]
+},
+{
   "id": "Phrases",
   "name": "Phrases",
   "emoji": "💬",
