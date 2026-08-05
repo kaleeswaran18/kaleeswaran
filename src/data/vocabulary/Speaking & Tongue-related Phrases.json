@@ -1,0 +1,162 @@
+[
+  {
+    "id": "speak_001",
+    "name": "Keep a civil tongue.",
+    "tamilMeaning": "மரியாதையாக பேசு.",
+    "example": "Keep a civil tongue when talking to elders.",
+    "exampleTamil": "பெரியவர்களிடம் பேசும்போது மரியாதையாக பேசு.",
+    "audio": ""
+  },
+  {
+    "id": "speak_002",
+    "name": "Don't get lippy.",
+    "tamilMeaning": "எதிர்த்துப் பேசாதே.",
+    "example": "Don't get lippy with your teacher.",
+    "exampleTamil": "ஆசிரியரிடம் எதிர்த்துப் பேசாதே.",
+    "audio": ""
+  },
+  {
+    "id": "speak_003",
+    "name": "Watch your tongue.",
+    "tamilMeaning": "நாக்கை அடக்கிப் பேசு.",
+    "example": "Watch your tongue when you're angry.",
+    "exampleTamil": "கோபமாக இருக்கும்போது நாக்கை அடக்கிப் பேசு.",
+    "audio": ""
+  },
+  {
+    "id": "speak_004",
+    "name": "Mind your language.",
+    "tamilMeaning": "வார்த்தைகளை கவனமாகப் பயன்படுத்து.",
+    "example": "Mind your language in public.",
+    "exampleTamil": "பொது இடங்களில் வார்த்தைகளை கவனமாகப் பயன்படுத்து.",
+    "audio": ""
+  },
+  {
+    "id": "speak_005",
+    "name": "Speak up.",
+    "tamilMeaning": "சத்தமாக பேசு.",
+    "example": "Speak up. I can't hear you.",
+    "exampleTamil": "சத்தமாக பேசு. உன் குரல் கேட்கவில்லை.",
+    "audio": ""
+  },
+  {
+    "id": "speak_006",
+    "name": "Speak clearly.",
+    "tamilMeaning": "தெளிவாக பேசு.",
+    "example": "Speak clearly during the interview.",
+    "exampleTamil": "நேர்காணலில் தெளிவாக பேசு.",
+    "audio": ""
+  },
+  {
+    "id": "speak_007",
+    "name": "Speak slowly.",
+    "tamilMeaning": "மெதுவாக பேசு.",
+    "example": "Please speak slowly.",
+    "exampleTamil": "தயவுசெய்து மெதுவாக பேசுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "speak_008",
+    "name": "Lower your voice.",
+    "tamilMeaning": "குரலை தாழ்த்து.",
+    "example": "Lower your voice in the library.",
+    "exampleTamil": "நூலகத்தில் குரலை தாழ்த்திப் பேசு.",
+    "audio": ""
+  },
+  {
+    "id": "speak_009",
+    "name": "Hold your tongue.",
+    "tamilMeaning": "வாயை மூடிக்கொள்.",
+    "example": "Hold your tongue for a moment.",
+    "exampleTamil": "சிறிது நேரம் வாயை மூடிக்கொள்.",
+    "audio": ""
+  },
+  {
+    "id": "speak_010",
+    "name": "Bite your tongue.",
+    "tamilMeaning": "சொல்ல வேண்டியதை அடக்கிக்கொள்.",
+    "example": "I had to bite my tongue.",
+    "exampleTamil": "நான் சொல்ல வேண்டியதை அடக்கிக்கொள்ள வேண்டியிருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "speak_011",
+    "name": "Tell the truth.",
+    "tamilMeaning": "உண்மையை சொல்.",
+    "example": "Always tell the truth.",
+    "exampleTamil": "எப்போதும் உண்மையைச் சொல்.",
+    "audio": ""
+  },
+  {
+    "id": "speak_012",
+    "name": "Say it again.",
+    "tamilMeaning": "மீண்டும் சொல்.",
+    "example": "Please say it again.",
+    "exampleTamil": "தயவுசெய்து மீண்டும் சொல்.",
+    "audio": ""
+  },
+  {
+    "id": "speak_013",
+    "name": "Get to the point.",
+    "tamilMeaning": "நேராக விஷயத்திற்கு வா.",
+    "example": "Get to the point quickly.",
+    "exampleTamil": "நேராக விஷயத்திற்கு வா.",
+    "audio": ""
+  },
+  {
+    "id": "speak_014",
+    "name": "Watch what you say.",
+    "tamilMeaning": "என்ன பேசுகிறாய் என்று கவனமாக இரு.",
+    "example": "Watch what you say in public.",
+    "exampleTamil": "பொது இடத்தில் என்ன பேசுகிறாய் என்று கவனமாக இரு.",
+    "audio": ""
+  },
+  {
+    "id": "speak_015",
+    "name": "Choose your words carefully.",
+    "tamilMeaning": "வார்த்தைகளை கவனமாகத் தேர்ந்தெடு.",
+    "example": "Choose your words carefully.",
+    "exampleTamil": "உன் வார்த்தைகளை கவனமாகத் தேர்ந்தெடு.",
+    "audio": ""
+  },
+  {
+    "id": "speak_016",
+    "name": "Don't mumble.",
+    "tamilMeaning": "முணுமுணுக்காதே.",
+    "example": "Don't mumble. Speak clearly.",
+    "exampleTamil": "முணுமுணுக்காதே. தெளிவாக பேசு.",
+    "audio": ""
+  },
+  {
+    "id": "speak_017",
+    "name": "Don't gossip.",
+    "tamilMeaning": "புறம்பேசாதே.",
+    "example": "Don't gossip about others.",
+    "exampleTamil": "மற்றவர்களைப் பற்றி புறம்பேசாதே.",
+    "audio": ""
+  },
+  {
+    "id": "speak_018",
+    "name": "Don't interrupt.",
+    "tamilMeaning": "இடையில் பேசாதே.",
+    "example": "Don't interrupt me.",
+    "exampleTamil": "நான் பேசும்போது இடையில் பேசாதே.",
+    "audio": ""
+  },
+  {
+    "id": "speak_019",
+    "name": "Speak politely.",
+    "tamilMeaning": "பணிவாக பேசு.",
+    "example": "Speak politely to everyone.",
+    "exampleTamil": "அனைவரிடமும் பணிவாக பேசு.",
+    "audio": ""
+  },
+  {
+    "id": "speak_020",
+    "name": "Watch your mouth.",
+    "tamilMeaning": "வாயை அடக்கிப் பேசு.",
+    "example": "Watch your mouth around children.",
+    "exampleTamil": "குழந்தைகள் முன்னால் வாயை அடக்கிப் பேசு.",
+    "audio": ""
+  }
+]

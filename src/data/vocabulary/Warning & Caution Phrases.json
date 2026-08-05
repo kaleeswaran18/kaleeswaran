@@ -1,0 +1,162 @@
+[
+  {
+    "id": "warn_001",
+    "name": "Be careful!",
+    "tamilMeaning": "கவனமாக இரு!",
+    "example": "Be careful! The floor is wet.",
+    "exampleTamil": "கவனமாக இரு! தரை ஈரமாக இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "warn_002",
+    "name": "Watch out!",
+    "tamilMeaning": "கவனம்!",
+    "example": "Watch out! A car is coming.",
+    "exampleTamil": "கவனம்! ஒரு கார் வருகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "warn_003",
+    "name": "Look out!",
+    "tamilMeaning": "எச்சரிக்கை!",
+    "example": "Look out! The ball is coming.",
+    "exampleTamil": "எச்சரிக்கை! பந்து வருகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "warn_004",
+    "name": "Be alert.",
+    "tamilMeaning": "விழிப்புடன் இரு.",
+    "example": "Be alert while driving.",
+    "exampleTamil": "வாகனம் ஓட்டும்போது விழிப்புடன் இரு.",
+    "audio": ""
+  },
+  {
+    "id": "warn_005",
+    "name": "Stay away.",
+    "tamilMeaning": "தள்ளி இரு.",
+    "example": "Stay away from the fire.",
+    "exampleTamil": "நெருப்பிலிருந்து தள்ளி இரு.",
+    "audio": ""
+  },
+  {
+    "id": "warn_006",
+    "name": "Keep your distance.",
+    "tamilMeaning": "பாதுகாப்பான தூரத்தில் இரு.",
+    "example": "Keep your distance from the dog.",
+    "exampleTamil": "நாயிடமிருந்து பாதுகாப்பான தூரத்தில் இரு.",
+    "audio": ""
+  },
+  {
+    "id": "warn_007",
+    "name": "Don't go there.",
+    "tamilMeaning": "அங்கே போகாதே.",
+    "example": "Don't go there. It's dangerous.",
+    "exampleTamil": "அங்கே போகாதே. அது ஆபத்தான இடம்.",
+    "audio": ""
+  },
+  {
+    "id": "warn_008",
+    "name": "Keep out.",
+    "tamilMeaning": "உள்ளே வராதே.",
+    "example": "Keep out. Authorized personnel only.",
+    "exampleTamil": "உள்ளே வராதே. அனுமதி பெற்றவர்கள் மட்டும்.",
+    "audio": ""
+  },
+  {
+    "id": "warn_009",
+    "name": "Hands off!",
+    "tamilMeaning": "கையை வைக்காதே!",
+    "example": "Hands off! That's mine.",
+    "exampleTamil": "கையை வைக்காதே! அது என்னுடையது.",
+    "audio": ""
+  },
+  {
+    "id": "warn_010",
+    "name": "Leave it alone.",
+    "tamilMeaning": "அதைத் தொடாமல் விடு.",
+    "example": "Leave it alone. It's broken.",
+    "exampleTamil": "அதைத் தொடாமல் விடு. அது பழுதாகியுள்ளது.",
+    "audio": ""
+  },
+  {
+    "id": "warn_011",
+    "name": "Proceed with caution.",
+    "tamilMeaning": "மிகவும் கவனமாகச் செல்.",
+    "example": "Proceed with caution on this road.",
+    "exampleTamil": "இந்த சாலையில் மிகவும் கவனமாகச் செல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "warn_012",
+    "name": "Don't take the risk.",
+    "tamilMeaning": "ஆபத்தை ஏற்காதே.",
+    "example": "Don't take the risk. Wait for help.",
+    "exampleTamil": "ஆபத்தை ஏற்காதே. உதவிக்காக காத்திரு.",
+    "audio": ""
+  },
+  {
+    "id": "warn_013",
+    "name": "Watch your step.",
+    "tamilMeaning": "கால் வைக்கும் இடத்தில் கவனம்.",
+    "example": "Watch your step. The stairs are slippery.",
+    "exampleTamil": "கால் வைக்கும் இடத்தில் கவனம். படிக்கட்டு வழுக்கலாக இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "warn_014",
+    "name": "Slow down.",
+    "tamilMeaning": "வேகத்தைக் குறை.",
+    "example": "Slow down. You're driving too fast.",
+    "exampleTamil": "வேகத்தைக் குறை. நீ மிகவும் வேகமாக ஓட்டுகிறாய்.",
+    "audio": ""
+  },
+  {
+    "id": "warn_015",
+    "name": "Don't get too close.",
+    "tamilMeaning": "மிக அருகில் போகாதே.",
+    "example": "Don't get too close to the edge.",
+    "exampleTamil": "விளிம்பிற்கு மிக அருகில் போகாதே.",
+    "audio": ""
+  },
+  {
+    "id": "warn_016",
+    "name": "Take care.",
+    "tamilMeaning": "பத்திரமாக இரு.",
+    "example": "Take care on your way home.",
+    "exampleTamil": "வீட்டிற்குச் செல்லும் வழியில் பத்திரமாக இரு.",
+    "audio": ""
+  },
+  {
+    "id": "warn_017",
+    "name": "Be on your guard.",
+    "tamilMeaning": "எச்சரிக்கையாக இரு.",
+    "example": "Be on your guard in crowded places.",
+    "exampleTamil": "கூட்டம் அதிகமான இடங்களில் எச்சரிக்கையாக இரு.",
+    "audio": ""
+  },
+  {
+    "id": "warn_018",
+    "name": "Stay focused.",
+    "tamilMeaning": "கவனம் சிதறாமல் இரு.",
+    "example": "Stay focused while working.",
+    "exampleTamil": "வேலை செய்யும்போது கவனம் சிதறாமல் இரு.",
+    "audio": ""
+  },
+  {
+    "id": "warn_019",
+    "name": "Don't ignore it.",
+    "tamilMeaning": "அதை அலட்சியம் செய்யாதே.",
+    "example": "Don't ignore the warning signs.",
+    "exampleTamil": "எச்சரிக்கை அறிகுறிகளை அலட்சியம் செய்யாதே.",
+    "audio": ""
+  },
+  {
+    "id": "warn_020",
+    "name": "Think before you act.",
+    "tamilMeaning": "செய்வதற்கு முன் சிந்தி.",
+    "example": "Think before you act in an emergency.",
+    "exampleTamil": "அவசரநிலையில் செயல்படுவதற்கு முன் சிந்தி.",
+    "audio": ""
+  }
+]

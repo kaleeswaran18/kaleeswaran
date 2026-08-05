@@ -1,0 +1,82 @@
+[
+  {
+    "id": "neg_001",
+    "name": "No way!",
+    "tamilMeaning": "முடியவே முடியாது! / சாத்தியமே இல்லை!",
+    "example": "No way! I can't believe it.",
+    "exampleTamil": "முடியவே முடியாது! என்னால் நம்ப முடியவில்லை.",
+    "audio": ""
+  },
+  {
+    "id": "neg_002",
+    "name": "No problem.",
+    "tamilMeaning": "பிரச்சினை இல்லை.",
+    "example": "No problem. I can help you.",
+    "exampleTamil": "பிரச்சினை இல்லை. நான் உங்களுக்கு உதவுகிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "neg_003",
+    "name": "No worries.",
+    "tamilMeaning": "கவலைப்பட வேண்டாம்.",
+    "example": "No worries. Everything is fine.",
+    "exampleTamil": "கவலைப்பட வேண்டாம். எல்லாம் சரியாக இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "neg_004",
+    "name": "No chance.",
+    "tamilMeaning": "வாய்ப்பே இல்லை.",
+    "example": "There's no chance of winning.",
+    "exampleTamil": "வெற்றி பெற வாய்ப்பே இல்லை.",
+    "audio": ""
+  },
+  {
+    "id": "neg_005",
+    "name": "No thanks.",
+    "tamilMeaning": "வேண்டாம், நன்றி.",
+    "example": "No thanks. I'm not hungry.",
+    "exampleTamil": "வேண்டாம், நன்றி. எனக்கு பசி இல்லை.",
+    "audio": ""
+  },
+  {
+    "id": "neg_006",
+    "name": "Don't worry.",
+    "tamilMeaning": "கவலைப்படாதே.",
+    "example": "Don't worry. I'll take care of it.",
+    "exampleTamil": "கவலைப்படாதே. நான் பார்த்துக்கொள்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "neg_007",
+    "name": "Don't panic.",
+    "tamilMeaning": "பதறாதே.",
+    "example": "Don't panic. Stay calm.",
+    "exampleTamil": "பதறாதே. அமைதியாக இரு.",
+    "audio": ""
+  },
+  {
+    "id": "neg_008",
+    "name": "Don't rush.",
+    "tamilMeaning": "அவசரப்படாதே.",
+    "example": "Don't rush. Take your time.",
+    "exampleTamil": "அவசரப்படாதே. நிதானமாக செய்.",
+    "audio": ""
+  },
+  {
+    "id": "neg_009",
+    "name": "Don't touch.",
+    "tamilMeaning": "தொடாதே.",
+    "example": "Don't touch the hot pan.",
+    "exampleTamil": "சூடான பாத்திரத்தைத் தொடாதே.",
+    "audio": ""
+  },
+  {
+    "id": "neg_010",
+    "name": "Don't move.",
+    "tamilMeaning": "அசையாதே.",
+    "example": "Don't move until I come back.",
+    "exampleTamil": "நான் திரும்பி வரும் வரை அசையாதே.",
+    "audio": ""
+  }
+]

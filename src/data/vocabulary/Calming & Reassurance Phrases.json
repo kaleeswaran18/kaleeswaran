@@ -1,0 +1,162 @@
+[
+  {
+    "id": "calm_001",
+    "name": "Take it easy.",
+    "tamilMeaning": "நிதானமாக இரு.",
+    "example": "Take it easy. Everything will be fine.",
+    "exampleTamil": "நிதானமாக இரு. எல்லாம் சரியாகிவிடும்.",
+    "audio": ""
+  },
+  {
+    "id": "calm_002",
+    "name": "Calm down.",
+    "tamilMeaning": "அமைதியாக இரு.",
+    "example": "Calm down. There's no danger.",
+    "exampleTamil": "அமைதியாக இரு. எந்த ஆபத்தும் இல்லை.",
+    "audio": ""
+  },
+  {
+    "id": "calm_003",
+    "name": "Don't worry.",
+    "tamilMeaning": "கவலைப்படாதே.",
+    "example": "Don't worry. I'll help you.",
+    "exampleTamil": "கவலைப்படாதே. நான் உனக்கு உதவுகிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "calm_004",
+    "name": "It's okay.",
+    "tamilMeaning": "பரவாயில்லை.",
+    "example": "It's okay. Everyone makes mistakes.",
+    "exampleTamil": "பரவாயில்லை. எல்லோரும் தவறு செய்வார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "calm_005",
+    "name": "No worries.",
+    "tamilMeaning": "கவலை வேண்டாம்.",
+    "example": "No worries. I understand.",
+    "exampleTamil": "கவலை வேண்டாம். எனக்கு புரிகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "calm_006",
+    "name": "Take your time.",
+    "tamilMeaning": "அவசரப்படாமல் செய்.",
+    "example": "Take your time. There's no hurry.",
+    "exampleTamil": "அவசரப்படாமல் செய். அவசரம் இல்லை.",
+    "audio": ""
+  },
+  {
+    "id": "calm_007",
+    "name": "Relax.",
+    "tamilMeaning": "மனதை தளர்த்து.",
+    "example": "Relax. You did your best.",
+    "exampleTamil": "மனதை தளர்த்து. உன்னால் முடிந்ததை செய்தாய்.",
+    "audio": ""
+  },
+  {
+    "id": "calm_008",
+    "name": "Stay calm.",
+    "tamilMeaning": "அமைதியாக இரு.",
+    "example": "Stay calm during the emergency.",
+    "exampleTamil": "அவசரநிலையில் அமைதியாக இரு.",
+    "audio": ""
+  },
+  {
+    "id": "calm_009",
+    "name": "Be patient.",
+    "tamilMeaning": "பொறுமையாக இரு.",
+    "example": "Be patient. Your turn will come.",
+    "exampleTamil": "பொறுமையாக இரு. உன் முறை வரும்.",
+    "audio": ""
+  },
+  {
+    "id": "calm_010",
+    "name": "Take a deep breath.",
+    "tamilMeaning": "ஆழமாக மூச்சு விடு.",
+    "example": "Take a deep breath and relax.",
+    "exampleTamil": "ஆழமாக மூச்சு விட்டு அமைதியாக இரு.",
+    "audio": ""
+  },
+  {
+    "id": "calm_011",
+    "name": "Everything will be okay.",
+    "tamilMeaning": "எல்லாம் சரியாகிவிடும்.",
+    "example": "Everything will be okay. Trust me.",
+    "exampleTamil": "எல்லாம் சரியாகிவிடும். என்னை நம்பு.",
+    "audio": ""
+  },
+  {
+    "id": "calm_012",
+    "name": "You've got this.",
+    "tamilMeaning": "உன்னால் முடியும்.",
+    "example": "Don't be afraid. You've got this.",
+    "exampleTamil": "பயப்படாதே. உன்னால் முடியும்.",
+    "audio": ""
+  },
+  {
+    "id": "calm_013",
+    "name": "I'm here for you.",
+    "tamilMeaning": "நான் உனக்காக இருக்கிறேன்.",
+    "example": "Don't worry. I'm here for you.",
+    "exampleTamil": "கவலைப்படாதே. நான் உனக்காக இருக்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "calm_014",
+    "name": "You're safe.",
+    "tamilMeaning": "நீ பாதுகாப்பாக இருக்கிறாய்.",
+    "example": "You're safe now.",
+    "exampleTamil": "இப்போது நீ பாதுகாப்பாக இருக்கிறாய்.",
+    "audio": ""
+  },
+  {
+    "id": "calm_015",
+    "name": "Keep going.",
+    "tamilMeaning": "தொடர்ந்து செய்.",
+    "example": "Keep going. You're doing well.",
+    "exampleTamil": "தொடர்ந்து செய். நீ நன்றாக செய்கிறாய்.",
+    "audio": ""
+  },
+  {
+    "id": "calm_016",
+    "name": "No pressure.",
+    "tamilMeaning": "எந்த அழுத்தமும் இல்லை.",
+    "example": "No pressure. Decide when you're ready.",
+    "exampleTamil": "எந்த அழுத்தமும் இல்லை. தயாரான பிறகு முடிவு செய்.",
+    "audio": ""
+  },
+  {
+    "id": "calm_017",
+    "name": "Don't stress.",
+    "tamilMeaning": "மனஅழுத்தப்படாதே.",
+    "example": "Don't stress about the exam.",
+    "exampleTamil": "தேர்வைப் பற்றி மனஅழுத்தப்படாதே.",
+    "audio": ""
+  },
+  {
+    "id": "calm_018",
+    "name": "Keep smiling.",
+    "tamilMeaning": "சிரித்துக்கொண்டே இரு.",
+    "example": "Keep smiling. Better days are coming.",
+    "exampleTamil": "சிரித்துக்கொண்டே இரு. நல்ல நாட்கள் வரும்.",
+    "audio": ""
+  },
+  {
+    "id": "calm_019",
+    "name": "Never mind.",
+    "tamilMeaning": "பரவாயில்லை, விடு.",
+    "example": "Never mind. It wasn't your fault.",
+    "exampleTamil": "பரவாயில்லை, விடு. அது உன் தவறு இல்லை.",
+    "audio": ""
+  },
+  {
+    "id": "calm_020",
+    "name": "You're doing great.",
+    "tamilMeaning": "நீ மிகவும் நன்றாக செய்கிறாய்.",
+    "example": "Keep it up. You're doing great.",
+    "exampleTamil": "இப்படியே தொடரு. நீ மிகவும் நன்றாக செய்கிறாய்.",
+    "audio": ""
+  }
+]

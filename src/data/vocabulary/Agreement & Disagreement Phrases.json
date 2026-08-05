@@ -1,0 +1,162 @@
+[
+  {
+    "id": "agree_001",
+    "name": "I agree.",
+    "tamilMeaning": "நான் ஒத்துக்கொள்கிறேன்.",
+    "example": "I agree with your idea.",
+    "exampleTamil": "உங்கள் யோசனையை நான் ஒத்துக்கொள்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "agree_002",
+    "name": "Absolutely!",
+    "tamilMeaning": "கண்டிப்பாக!",
+    "example": "Absolutely! That's a great idea.",
+    "exampleTamil": "கண்டிப்பாக! அது ஒரு அருமையான யோசனை.",
+    "audio": ""
+  },
+  {
+    "id": "agree_003",
+    "name": "Exactly!",
+    "tamilMeaning": "அப்படித்தான்!",
+    "example": "Exactly! I was thinking the same.",
+    "exampleTamil": "அப்படித்தான்! நானும் அதைத்தான் நினைத்தேன்.",
+    "audio": ""
+  },
+  {
+    "id": "agree_004",
+    "name": "You're right.",
+    "tamilMeaning": "நீ சொல்வது சரி.",
+    "example": "You're right about that.",
+    "exampleTamil": "அதைப் பற்றி நீ சொல்வது சரி.",
+    "audio": ""
+  },
+  {
+    "id": "agree_005",
+    "name": "I think so too.",
+    "tamilMeaning": "நானும் அப்படித்தான் நினைக்கிறேன்.",
+    "example": "I think so too.",
+    "exampleTamil": "நானும் அப்படித்தான் நினைக்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "agree_006",
+    "name": "I don't agree.",
+    "tamilMeaning": "நான் ஒத்துக்கொள்ளவில்லை.",
+    "example": "I don't agree with that decision.",
+    "exampleTamil": "அந்த முடிவை நான் ஒத்துக்கொள்ளவில்லை.",
+    "audio": ""
+  },
+  {
+    "id": "agree_007",
+    "name": "I disagree.",
+    "tamilMeaning": "நான் கருத்து வேறுபடுகிறேன்.",
+    "example": "I respectfully disagree.",
+    "exampleTamil": "நான் மரியாதையுடன் கருத்து வேறுபடுகிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "agree_008",
+    "name": "Not really.",
+    "tamilMeaning": "அப்படி இல்லை.",
+    "example": "Do you like it? Not really.",
+    "exampleTamil": "உனக்கு இது பிடிக்குமா? அவ்வளவாக இல்லை.",
+    "audio": ""
+  },
+  {
+    "id": "agree_009",
+    "name": "I don't think so.",
+    "tamilMeaning": "எனக்கு அப்படித் தோன்றவில்லை.",
+    "example": "Will it rain? I don't think so.",
+    "exampleTamil": "மழை பெய்யுமா? எனக்கு அப்படித் தோன்றவில்லை.",
+    "audio": ""
+  },
+  {
+    "id": "agree_010",
+    "name": "I'm not sure.",
+    "tamilMeaning": "எனக்கு உறுதியாக தெரியவில்லை.",
+    "example": "I'm not sure about that.",
+    "exampleTamil": "அதைப் பற்றி எனக்கு உறுதியாக தெரியவில்லை.",
+    "audio": ""
+  },
+  {
+    "id": "agree_011",
+    "name": "That's true.",
+    "tamilMeaning": "அது உண்மை.",
+    "example": "That's true. I agree with you.",
+    "exampleTamil": "அது உண்மை. நான் உன்னுடன் ஒத்துக்கொள்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "agree_012",
+    "name": "Fair enough.",
+    "tamilMeaning": "அது நியாயம்தான்.",
+    "example": "Fair enough. Let's do it your way.",
+    "exampleTamil": "அது நியாயம்தான். உன் வழியிலேயே செய்வோம்.",
+    "audio": ""
+  },
+  {
+    "id": "agree_013",
+    "name": "You have a point.",
+    "tamilMeaning": "நீ சொல்வதில் நியாயம் இருக்கிறது.",
+    "example": "You have a point. Let's think about it.",
+    "exampleTamil": "நீ சொல்வதில் நியாயம் இருக்கிறது. அதைப் பற்றி யோசிப்போம்.",
+    "audio": ""
+  },
+  {
+    "id": "agree_014",
+    "name": "I see your point.",
+    "tamilMeaning": "உன் கருத்து எனக்கு புரிகிறது.",
+    "example": "I see your point, but I have another idea.",
+    "exampleTamil": "உன் கருத்து எனக்கு புரிகிறது, ஆனால் எனக்கு வேறு ஒரு யோசனை இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "agree_015",
+    "name": "Not at all.",
+    "tamilMeaning": "இல்லவே இல்லை.",
+    "example": "Are you upset? Not at all.",
+    "exampleTamil": "நீ வருத்தமாக இருக்கிறாயா? இல்லவே இல்லை.",
+    "audio": ""
+  },
+  {
+    "id": "agree_016",
+    "name": "I couldn't agree more.",
+    "tamilMeaning": "நான் முழுமையாக ஒத்துக்கொள்கிறேன்.",
+    "example": "I couldn't agree more with you.",
+    "exampleTamil": "நான் உன்னுடன் முழுமையாக ஒத்துக்கொள்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "agree_017",
+    "name": "I'm afraid not.",
+    "tamilMeaning": "மன்னிக்கவும், இல்லை.",
+    "example": "Can you come today? I'm afraid not.",
+    "exampleTamil": "இன்று வர முடியுமா? மன்னிக்கவும், முடியாது.",
+    "audio": ""
+  },
+  {
+    "id": "agree_018",
+    "name": "That's not true.",
+    "tamilMeaning": "அது உண்மை இல்லை.",
+    "example": "That's not true at all.",
+    "exampleTamil": "அது முற்றிலும் உண்மை இல்லை.",
+    "audio": ""
+  },
+  {
+    "id": "agree_019",
+    "name": "I beg to differ.",
+    "tamilMeaning": "நான் வேறுபட்ட கருத்தைக் கொண்டிருக்கிறேன்.",
+    "example": "I beg to differ on this issue.",
+    "exampleTamil": "இந்த விஷயத்தில் நான் வேறுபட்ட கருத்தைக் கொண்டிருக்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "agree_020",
+    "name": "Let's agree to disagree.",
+    "tamilMeaning": "கருத்து வேறுபாட்டை ஏற்றுக்கொள்வோம்.",
+    "example": "We have different opinions. Let's agree to disagree.",
+    "exampleTamil": "நமக்கு வெவ்வேறு கருத்துகள் உள்ளன. கருத்து வேறுபாட்டை ஏற்றுக்கொள்வோம்.",
+    "audio": ""
+  }
+]

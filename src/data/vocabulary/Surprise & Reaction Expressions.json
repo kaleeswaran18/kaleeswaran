@@ -1,0 +1,162 @@
+[
+  {
+    "id": "react_001",
+    "name": "Oh my God!",
+    "tamilMeaning": "அடக் கடவுளே!",
+    "example": "Oh my God! That's amazing.",
+    "exampleTamil": "அடக் கடவுளே! அது ஆச்சரியமாக இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "react_002",
+    "name": "Really?",
+    "tamilMeaning": "உண்மையாவா?",
+    "example": "Really? I didn't know that.",
+    "exampleTamil": "உண்மையாவா? எனக்கு அது தெரியவில்லை.",
+    "audio": ""
+  },
+  {
+    "id": "react_003",
+    "name": "Are you serious?",
+    "tamilMeaning": "நிஜமாகச் சொல்கிறாயா?",
+    "example": "Are you serious? That's unbelievable.",
+    "exampleTamil": "நிஜமாகச் சொல்கிறாயா? அதை நம்ப முடியவில்லை.",
+    "audio": ""
+  },
+  {
+    "id": "react_004",
+    "name": "No kidding!",
+    "tamilMeaning": "உண்மையாவா!",
+    "example": "No kidding! That's great news.",
+    "exampleTamil": "உண்மையாவா! அது ஒரு நல்ல செய்தி.",
+    "audio": ""
+  },
+  {
+    "id": "react_005",
+    "name": "Unbelievable!",
+    "tamilMeaning": "நம்ப முடியவில்லை!",
+    "example": "Unbelievable! You won the match.",
+    "exampleTamil": "நம்ப முடியவில்லை! நீ போட்டியில் வெற்றி பெற்றாய்.",
+    "audio": ""
+  },
+  {
+    "id": "react_006",
+    "name": "What a surprise!",
+    "tamilMeaning": "என்ன ஒரு ஆச்சரியம்!",
+    "example": "What a surprise! You're here.",
+    "exampleTamil": "என்ன ஒரு ஆச்சரியம்! நீ இங்கே இருக்கிறாய்.",
+    "audio": ""
+  },
+  {
+    "id": "react_007",
+    "name": "Wow!",
+    "tamilMeaning": "வாவ்!",
+    "example": "Wow! This place is beautiful.",
+    "exampleTamil": "வாவ்! இந்த இடம் அழகாக இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "react_008",
+    "name": "Awesome!",
+    "tamilMeaning": "அருமை!",
+    "example": "Awesome! You did it.",
+    "exampleTamil": "அருமை! நீ செய்து முடித்தாய்.",
+    "audio": ""
+  },
+  {
+    "id": "react_009",
+    "name": "Fantastic!",
+    "tamilMeaning": "அற்புதம்!",
+    "example": "Fantastic! Keep it up.",
+    "exampleTamil": "அற்புதம்! இப்படியே தொடரு.",
+    "audio": ""
+  },
+  {
+    "id": "react_010",
+    "name": "Excellent!",
+    "tamilMeaning": "மிகச் சிறப்பு!",
+    "example": "Excellent! That's the correct answer.",
+    "exampleTamil": "மிகச் சிறப்பு! அதுதான் சரியான பதில்.",
+    "audio": ""
+  },
+  {
+    "id": "react_011",
+    "name": "That's amazing!",
+    "tamilMeaning": "அது ஆச்சரியமாக இருக்கிறது!",
+    "example": "That's amazing! Congratulations.",
+    "exampleTamil": "அது ஆச்சரியமாக இருக்கிறது! வாழ்த்துகள்.",
+    "audio": ""
+  },
+  {
+    "id": "react_012",
+    "name": "That's wonderful!",
+    "tamilMeaning": "அது அற்புதம்!",
+    "example": "That's wonderful! I'm happy for you.",
+    "exampleTamil": "அது அற்புதம்! உனக்காக நான் மகிழ்ச்சியடைகிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "react_013",
+    "name": "What happened?",
+    "tamilMeaning": "என்ன நடந்தது?",
+    "example": "What happened? You look worried.",
+    "exampleTamil": "என்ன நடந்தது? நீ கவலையாகத் தெரிகிறாய்.",
+    "audio": ""
+  },
+  {
+    "id": "react_014",
+    "name": "What a pity!",
+    "tamilMeaning": "எவ்வளவு வருத்தம்!",
+    "example": "What a pity! You missed the train.",
+    "exampleTamil": "எவ்வளவு வருத்தம்! நீ ரயிலைத் தவறவிட்டாய்.",
+    "audio": ""
+  },
+  {
+    "id": "react_015",
+    "name": "What a shame!",
+    "tamilMeaning": "எவ்வளவு வருத்தமான விஷயம்!",
+    "example": "What a shame! The event was cancelled.",
+    "exampleTamil": "எவ்வளவு வருத்தமான விஷயம்! நிகழ்ச்சி ரத்து செய்யப்பட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "react_016",
+    "name": "Thank goodness!",
+    "tamilMeaning": "நல்ல வேளை!",
+    "example": "Thank goodness! Everyone is safe.",
+    "exampleTamil": "நல்ல வேளை! எல்லோரும் பாதுகாப்பாக இருக்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "react_017",
+    "name": "That's interesting.",
+    "tamilMeaning": "அது சுவாரசியமாக இருக்கிறது.",
+    "example": "That's interesting. Tell me more.",
+    "exampleTamil": "அது சுவாரசியமாக இருக்கிறது. இன்னும் சொல்லுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "react_018",
+    "name": "I can't believe it!",
+    "tamilMeaning": "என்னால் நம்ப முடியவில்லை!",
+    "example": "I can't believe it! We won.",
+    "exampleTamil": "என்னால் நம்ப முடியவில்லை! நாம் வென்றுவிட்டோம்.",
+    "audio": ""
+  },
+  {
+    "id": "react_019",
+    "name": "What a relief!",
+    "tamilMeaning": "அப்பாடா!",
+    "example": "What a relief! The exam is over.",
+    "exampleTamil": "அப்பாடா! தேர்வு முடிந்துவிட்டது.",
+    "audio": ""
+  },
+  {
+    "id": "react_020",
+    "name": "That's unbelievable!",
+    "tamilMeaning": "அது நம்ப முடியாதது!",
+    "example": "That's unbelievable! You finished in one day.",
+    "exampleTamil": "அது நம்ப முடியாதது! நீ ஒரு நாளில் முடித்துவிட்டாய்.",
+    "audio": ""
+  }
+]

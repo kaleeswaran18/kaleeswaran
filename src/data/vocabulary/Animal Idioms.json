@@ -1,0 +1,162 @@
+[
+  {
+    "id": "animal_001",
+    "name": "Let the cat out of the bag",
+    "tamilMeaning": "ரகசியத்தை வெளிப்படுத்து",
+    "example": "He let the cat out of the bag.",
+    "exampleTamil": "அவர் ரகசியத்தை வெளிப்படுத்திவிட்டார்.",
+    "audio": ""
+  },
+  {
+    "id": "animal_002",
+    "name": "A fish out of water",
+    "tamilMeaning": "பழக்கமில்லாத சூழலில் இருப்பவர்",
+    "example": "I felt like a fish out of water.",
+    "exampleTamil": "நான் அந்த இடத்தில் ஒத்துப்போக முடியாமல் இருந்தேன்.",
+    "audio": ""
+  },
+  {
+    "id": "animal_003",
+    "name": "The elephant in the room",
+    "tamilMeaning": "அனைவருக்கும் தெரிந்தும் பேசப்படாத பெரிய பிரச்சினை",
+    "example": "Nobody talked about the elephant in the room.",
+    "exampleTamil": "அனைவருக்கும் தெரிந்த பெரிய பிரச்சினையை யாரும் பேசவில்லை.",
+    "audio": ""
+  },
+  {
+    "id": "animal_004",
+    "name": "Hold your horses",
+    "tamilMeaning": "பொறுமையாக இரு",
+    "example": "Hold your horses! Don't rush.",
+    "exampleTamil": "பொறுமையாக இரு! அவசரப்படாதே.",
+    "audio": ""
+  },
+  {
+    "id": "animal_005",
+    "name": "Kill two birds with one stone",
+    "tamilMeaning": "ஒரே முயற்சியில் இரண்டு வேலைகளை முடி",
+    "example": "Cycling to work kills two birds with one stone.",
+    "exampleTamil": "வேலைக்கு சைக்கிளில் செல்வதால் இரண்டு வேலைகள் ஒரே நேரத்தில் முடிகின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "animal_006",
+    "name": "Wolf in sheep's clothing",
+    "tamilMeaning": "நல்லவர் போல நடிக்கும் கெட்டவர்",
+    "example": "Be careful. He's a wolf in sheep's clothing.",
+    "exampleTamil": "கவனமாக இரு. அவர் நல்லவர் போல நடிக்கும் கெட்டவர்.",
+    "audio": ""
+  },
+  {
+    "id": "animal_007",
+    "name": "Busy as a bee",
+    "tamilMeaning": "மிகவும் பிஸியாக இரு",
+    "example": "She's as busy as a bee.",
+    "exampleTamil": "அவள் மிகவும் பிஸியாக இருக்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "animal_008",
+    "name": "Black sheep",
+    "tamilMeaning": "குடும்பத்தின் கெட்ட பெயர் பெற்றவர்",
+    "example": "He is the black sheep of the family.",
+    "exampleTamil": "அவர் குடும்பத்தில் கெட்ட பெயர் பெற்றவர்.",
+    "audio": ""
+  },
+  {
+    "id": "animal_009",
+    "name": "Copycat",
+    "tamilMeaning": "மற்றவர்களை அப்படியே பின்பற்றுபவர்",
+    "example": "Don't be a copycat.",
+    "exampleTamil": "மற்றவர்களை அப்படியே பின்பற்றாதே.",
+    "audio": ""
+  },
+  {
+    "id": "animal_010",
+    "name": "Monkey see, monkey do",
+    "tamilMeaning": "பார்த்ததை அப்படியே பின்பற்று",
+    "example": "Kids often learn by monkey see, monkey do.",
+    "exampleTamil": "குழந்தைகள் பார்த்ததை அப்படியே பின்பற்றுவார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "animal_011",
+    "name": "The lion's share",
+    "tamilMeaning": "பெரும்பங்கு",
+    "example": "She received the lion's share of the profits.",
+    "exampleTamil": "அவளுக்கு லாபத்தின் பெரும்பங்கு கிடைத்தது.",
+    "audio": ""
+  },
+  {
+    "id": "animal_012",
+    "name": "Straight from the horse's mouth",
+    "tamilMeaning": "நேரடியாக நம்பகமானவரிடமிருந்து",
+    "example": "I heard it straight from the horse's mouth.",
+    "exampleTamil": "நான் அதை நேரடியாக சம்பந்தப்பட்டவரிடமிருந்து கேட்டேன்.",
+    "audio": ""
+  },
+  {
+    "id": "animal_013",
+    "name": "Dog-eat-dog world",
+    "tamilMeaning": "கடுமையான போட்டி நிறைந்த உலகம்",
+    "example": "Business is a dog-eat-dog world.",
+    "exampleTamil": "வணிகம் கடுமையான போட்டி நிறைந்த உலகம்.",
+    "audio": ""
+  },
+  {
+    "id": "animal_014",
+    "name": "Like a fish in water",
+    "tamilMeaning": "மிகவும் இயல்பாக பொருந்தி இரு",
+    "example": "She is like a fish in water in her new job.",
+    "exampleTamil": "புதிய வேலையில் அவள் மிகவும் இயல்பாக பொருந்திவிட்டாள்.",
+    "audio": ""
+  },
+  {
+    "id": "animal_015",
+    "name": "Cat got your tongue?",
+    "tamilMeaning": "ஏன் அமைதியாக இருக்கிறாய்?",
+    "example": "Cat got your tongue? Say something.",
+    "exampleTamil": "ஏன் அமைதியாக இருக்கிறாய்? ஏதாவது பேசு.",
+    "audio": ""
+  },
+  {
+    "id": "animal_016",
+    "name": "Watch out for snakes in the grass",
+    "tamilMeaning": "மறைமுக எதிரிகளை எச்சரிக்கையாக இரு",
+    "example": "Watch out for snakes in the grass.",
+    "exampleTamil": "மறைமுக எதிரிகளிடம் எச்சரிக்கையாக இரு.",
+    "audio": ""
+  },
+  {
+    "id": "animal_017",
+    "name": "A bird in the hand is worth two in the bush",
+    "tamilMeaning": "கையில் இருப்பதே சிறந்தது",
+    "example": "Take the offer. A bird in the hand is worth two in the bush.",
+    "exampleTamil": "இந்த வாய்ப்பை ஏற்றுக்கொள். கையில் இருப்பதே சிறந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "animal_018",
+    "name": "Smell a rat",
+    "tamilMeaning": "ஏதோ தவறு இருப்பதாக சந்தேகப்படு",
+    "example": "I smell a rat in this deal.",
+    "exampleTamil": "இந்த ஒப்பந்தத்தில் ஏதோ தவறு இருப்பதாக எனக்கு சந்தேகம்.",
+    "audio": ""
+  },
+  {
+    "id": "animal_019",
+    "name": "Eager beaver",
+    "tamilMeaning": "மிகுந்த ஆர்வமுள்ளவர்",
+    "example": "She's an eager beaver at work.",
+    "exampleTamil": "வேலையில் அவள் மிகவும் ஆர்வமாக இருக்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "animal_020",
+    "name": "Birds of a feather flock together",
+    "tamilMeaning": "ஒரே குணம் உள்ளவர்கள் ஒன்றாக இருப்பார்கள்",
+    "example": "Birds of a feather flock together.",
+    "exampleTamil": "ஒரே குணம் உள்ளவர்கள் ஒன்றாக இருப்பார்கள்.",
+    "audio": ""
+  }
+]

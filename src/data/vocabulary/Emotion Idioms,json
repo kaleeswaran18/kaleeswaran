@@ -1,0 +1,162 @@
+[
+  {
+    "id": "emo_001",
+    "name": "Over the moon",
+    "tamilMeaning": "மிகுந்த மகிழ்ச்சியில் இரு",
+    "example": "She was over the moon after winning the prize.",
+    "exampleTamil": "பரிசு வென்ற பிறகு அவள் மிகவும் மகிழ்ச்சியாக இருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_002",
+    "name": "Down in the dumps",
+    "tamilMeaning": "மிகவும் சோகமாக இரு",
+    "example": "He has been down in the dumps all day.",
+    "exampleTamil": "அவர் நாள் முழுவதும் மிகவும் சோகமாக இருந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_003",
+    "name": "On cloud nine",
+    "tamilMeaning": "மகிழ்ச்சியின் உச்சத்தில் இரு",
+    "example": "I'm on cloud nine after hearing the good news.",
+    "exampleTamil": "நல்ல செய்தியைக் கேட்ட பிறகு நான் மிகுந்த மகிழ்ச்சியில் இருக்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_004",
+    "name": "Lose your temper",
+    "tamilMeaning": "கோபத்தை இழந்து வெகுண்டெழு",
+    "example": "Don't lose your temper over small things.",
+    "exampleTamil": "சிறிய விஷயங்களுக்கு கோபத்தை இழக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "emo_005",
+    "name": "Keep your cool",
+    "tamilMeaning": "அமைதியை இழக்காமல் இரு",
+    "example": "Keep your cool during the interview.",
+    "exampleTamil": "நேர்காணலின் போது அமைதியை இழக்காதே.",
+    "audio": ""
+  },
+  {
+    "id": "emo_006",
+    "name": "Heartbroken",
+    "tamilMeaning": "மனமுடைந்து போ",
+    "example": "She was heartbroken after the loss.",
+    "exampleTamil": "அந்த இழப்புக்குப் பிறகு அவள் மனமுடைந்து போனாள்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_007",
+    "name": "Jump for joy",
+    "tamilMeaning": "மகிழ்ச்சியில் துள்ளிக் குதி",
+    "example": "The children jumped for joy.",
+    "exampleTamil": "குழந்தைகள் மகிழ்ச்சியில் துள்ளிக் குதித்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_008",
+    "name": "In high spirits",
+    "tamilMeaning": "உற்சாகமாக இரு",
+    "example": "Everyone was in high spirits.",
+    "exampleTamil": "அனைவரும் உற்சாகமாக இருந்தனர்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_009",
+    "name": "Feel blue",
+    "tamilMeaning": "சோகமாக உணர்",
+    "example": "I feel blue today.",
+    "exampleTamil": "இன்று நான் சோகமாக உணர்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_010",
+    "name": "Burst into tears",
+    "tamilMeaning": "அழ ஆரம்பி",
+    "example": "She burst into tears.",
+    "exampleTamil": "அவள் திடீரென அழ ஆரம்பித்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_011",
+    "name": "Scared to death",
+    "tamilMeaning": "உயிர் போகும் அளவுக்கு பயப்படு",
+    "example": "I was scared to death.",
+    "exampleTamil": "நான் மிகவும் பயந்துவிட்டேன்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_012",
+    "name": "Butterflies in your stomach",
+    "tamilMeaning": "பதற்றமாக உணர்",
+    "example": "I had butterflies in my stomach before the exam.",
+    "exampleTamil": "தேர்வுக்கு முன் எனக்கு மிகவும் பதற்றமாக இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "emo_013",
+    "name": "Be on edge",
+    "tamilMeaning": "பதற்றமாக இரு",
+    "example": "She has been on edge all week.",
+    "exampleTamil": "அவள் வாரம் முழுவதும் பதற்றமாக இருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_014",
+    "name": "Cry your heart out",
+    "tamilMeaning": "மனமார அழு",
+    "example": "She cried her heart out.",
+    "exampleTamil": "அவள் மனம் உடைந்து அழுதாள்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_015",
+    "name": "Walk on air",
+    "tamilMeaning": "மிகுந்த மகிழ்ச்சியில் இரு",
+    "example": "He was walking on air after the promotion.",
+    "exampleTamil": "பதவி உயர்வுக்குப் பிறகு அவர் மிகுந்த மகிழ்ச்சியில் இருந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_016",
+    "name": "Hit rock bottom",
+    "tamilMeaning": "மிகவும் மோசமான நிலையை அடை",
+    "example": "He hit rock bottom before changing his life.",
+    "exampleTamil": "வாழ்க்கையை மாற்றுவதற்கு முன் அவர் மிகவும் மோசமான நிலையை அடைந்தார்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_017",
+    "name": "Be all smiles",
+    "tamilMeaning": "முகம் முழுவதும் சிரிப்புடன் இரு",
+    "example": "She was all smiles today.",
+    "exampleTamil": "இன்று அவள் முகம் முழுவதும் சிரிப்புடன் இருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_018",
+    "name": "Blow off steam",
+    "tamilMeaning": "மனஅழுத்தத்தை குறை",
+    "example": "He plays football to blow off steam.",
+    "exampleTamil": "மனஅழுத்தத்தைக் குறைக்க அவர் கால்பந்து விளையாடுகிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_019",
+    "name": "Go to pieces",
+    "tamilMeaning": "மனதளவில் உடைந்து போ",
+    "example": "She went to pieces after the accident.",
+    "exampleTamil": "விபத்திற்குப் பிறகு அவள் மனதளவில் உடைந்து போனாள்.",
+    "audio": ""
+  },
+  {
+    "id": "emo_020",
+    "name": "Be in a good mood",
+    "tamilMeaning": "நல்ல மனநிலையில் இரு",
+    "example": "He's in a good mood today.",
+    "exampleTamil": "இன்று அவர் நல்ல மனநிலையில் இருக்கிறார்.",
+    "audio": ""
+  }
+]

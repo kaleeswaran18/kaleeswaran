@@ -1,0 +1,162 @@
+[
+  {
+    "id": "fun_001",
+    "name": "Hang on!",
+    "tamilMeaning": "ஒரு நிமிடம் இரு!",
+    "example": "Hang on! I'll be right back.",
+    "exampleTamil": "ஒரு நிமிடம் இரு! நான் உடனே வருகிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "fun_002",
+    "name": "Come on!",
+    "tamilMeaning": "வாங்க! / அடடா!",
+    "example": "Come on! Let's go.",
+    "exampleTamil": "வாங்க! போகலாம்.",
+    "audio": ""
+  },
+  {
+    "id": "fun_003",
+    "name": "Give me a break!",
+    "tamilMeaning": "அட போங்கப்பா! / என்னை விட்டுடு!",
+    "example": "Give me a break! I'm tired.",
+    "exampleTamil": "என்னை விட்டுடு! நான் களைப்பாக இருக்கிறேன்.",
+    "audio": ""
+  },
+  {
+    "id": "fun_004",
+    "name": "You bet!",
+    "tamilMeaning": "கண்டிப்பாக!",
+    "example": "Will you help me? You bet!",
+    "exampleTamil": "நீ எனக்கு உதவுவாயா? கண்டிப்பாக!",
+    "audio": ""
+  },
+  {
+    "id": "fun_005",
+    "name": "Sounds good!",
+    "tamilMeaning": "நல்ல யோசனை!",
+    "example": "Let's watch a movie. Sounds good!",
+    "exampleTamil": "படம் பார்க்கலாம். நல்ல யோசனை!",
+    "audio": ""
+  },
+  {
+    "id": "fun_006",
+    "name": "You wish!",
+    "tamilMeaning": "அது நடக்காது!",
+    "example": "You'll beat me? You wish!",
+    "exampleTamil": "நீ என்னை ஜெயிப்பாயா? அது நடக்காது!",
+    "audio": ""
+  },
+  {
+    "id": "fun_007",
+    "name": "My bad!",
+    "tamilMeaning": "என் தவறு!",
+    "example": "My bad! I forgot.",
+    "exampleTamil": "என் தவறு! நான் மறந்துவிட்டேன்.",
+    "audio": ""
+  },
+  {
+    "id": "fun_008",
+    "name": "No kidding!",
+    "tamilMeaning": "உண்மையாவா!",
+    "example": "No kidding! That's amazing.",
+    "exampleTamil": "உண்மையாவா! அது ஆச்சரியமாக இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "fun_009",
+    "name": "Lucky you!",
+    "tamilMeaning": "உனக்கு நல்ல அதிர்ஷ்டம்!",
+    "example": "You won the prize? Lucky you!",
+    "exampleTamil": "நீ பரிசு வென்றாயா? உனக்கு நல்ல அதிர்ஷ்டம்!",
+    "audio": ""
+  },
+  {
+    "id": "fun_010",
+    "name": "Here we go!",
+    "tamilMeaning": "ஆரம்பிக்கலாம்!",
+    "example": "Here we go! The game is starting.",
+    "exampleTamil": "ஆரம்பிக்கலாம்! விளையாட்டு தொடங்குகிறது.",
+    "audio": ""
+  },
+  {
+    "id": "fun_011",
+    "name": "You got it!",
+    "tamilMeaning": "கண்டிப்பாக! / சரி!",
+    "example": "Can you help me? You got it!",
+    "exampleTamil": "நீ எனக்கு உதவுவாயா? கண்டிப்பாக!",
+    "audio": ""
+  },
+  {
+    "id": "fun_012",
+    "name": "That's cool!",
+    "tamilMeaning": "அருமை!",
+    "example": "You bought a bike? That's cool!",
+    "exampleTamil": "நீ பைக் வாங்கினாயா? அருமை!",
+    "audio": ""
+  },
+  {
+    "id": "fun_013",
+    "name": "Awesome!",
+    "tamilMeaning": "சூப்பர்!",
+    "example": "Awesome! You did a great job.",
+    "exampleTamil": "சூப்பர்! நீ அருமையாக செய்தாய்.",
+    "audio": ""
+  },
+  {
+    "id": "fun_014",
+    "name": "Take it easy.",
+    "tamilMeaning": "ரிலாக்ஸாக இரு.",
+    "example": "Take it easy. Don't stress.",
+    "exampleTamil": "ரிலாக்ஸாக இரு. மனஅழுத்தப்படாதே.",
+    "audio": ""
+  },
+  {
+    "id": "fun_015",
+    "name": "What's up?",
+    "tamilMeaning": "என்ன விசேஷம்?",
+    "example": "Hey! What's up?",
+    "exampleTamil": "ஹேய்! என்ன விசேஷம்?",
+    "audio": ""
+  },
+  {
+    "id": "fun_016",
+    "name": "Long time no see!",
+    "tamilMeaning": "ரொம்ப நாளாச்சு பார்க்க!",
+    "example": "Long time no see! How are you?",
+    "exampleTamil": "ரொம்ப நாளாச்சு பார்க்க! எப்படி இருக்கிறாய்?",
+    "audio": ""
+  },
+  {
+    "id": "fun_017",
+    "name": "Guess what?",
+    "tamilMeaning": "என்ன தெரியுமா?",
+    "example": "Guess what? I got the job!",
+    "exampleTamil": "என்ன தெரியுமா? எனக்கு வேலை கிடைத்துவிட்டது!",
+    "audio": ""
+  },
+  {
+    "id": "fun_018",
+    "name": "Good for you!",
+    "tamilMeaning": "உனக்கு நல்லது!",
+    "example": "You passed the exam? Good for you!",
+    "exampleTamil": "நீ தேர்வில் தேர்ச்சி பெற்றாயா? உனக்கு நல்லது!",
+    "audio": ""
+  },
+  {
+    "id": "fun_019",
+    "name": "Piece of cake!",
+    "tamilMeaning": "ரொம்ப சுலபம்!",
+    "example": "The test was a piece of cake.",
+    "exampleTamil": "அந்தத் தேர்வு ரொம்ப சுலபமாக இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "fun_020",
+    "name": "Why not?",
+    "tamilMeaning": "ஏன் கூடாது?",
+    "example": "Let's go out. Why not?",
+    "exampleTamil": "வெளியே போகலாம். ஏன் கூடாது?",
+    "audio": ""
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "greet_001",
+    "name": "Hello!",
+    "tamilMeaning": "வணக்கம்!",
+    "example": "Hello! How are you?",
+    "exampleTamil": "வணக்கம்! எப்படி இருக்கிறீர்கள்?",
+    "audio": ""
+  },
+  {
+    "id": "greet_002",
+    "name": "Hi!",
+    "tamilMeaning": "ஹாய்!",
+    "example": "Hi! Nice to see you.",
+    "exampleTamil": "ஹாய்! உங்களைப் பார்த்ததில் மகிழ்ச்சி.",
+    "audio": ""
+  },
+  {
+    "id": "greet_003",
+    "name": "Good morning.",
+    "tamilMeaning": "காலை வணக்கம்.",
+    "example": "Good morning, everyone.",
+    "exampleTamil": "அனைவருக்கும் காலை வணக்கம்.",
+    "audio": ""
+  },
+  {
+    "id": "greet_004",
+    "name": "Good afternoon.",
+    "tamilMeaning": "மதிய வணக்கம்.",
+    "example": "Good afternoon, sir.",
+    "exampleTamil": "மதிய வணக்கம், ஐயா.",
+    "audio": ""
+  },
+  {
+    "id": "greet_005",
+    "name": "Good evening.",
+    "tamilMeaning": "மாலை வணக்கம்.",
+    "example": "Good evening, friends.",
+    "exampleTamil": "மாலை வணக்கம், நண்பர்களே.",
+    "audio": ""
+  },
+  {
+    "id": "greet_006",
+    "name": "How are you?",
+    "tamilMeaning": "நீங்கள் எப்படி இருக்கிறீர்கள்?",
+    "example": "How are you today?",
+    "exampleTamil": "நீங்கள் இன்று எப்படி இருக்கிறீர்கள்?",
+    "audio": ""
+  },
+  {
+    "id": "greet_007",
+    "name": "Nice to meet you.",
+    "tamilMeaning": "உங்களை சந்தித்ததில் மகிழ்ச்சி.",
+    "example": "Nice to meet you for the first time.",
+    "exampleTamil": "உங்களை முதல் முறையாக சந்தித்ததில் மகிழ்ச்சி.",
+    "audio": ""
+  },
+  {
+    "id": "greet_008",
+    "name": "Welcome!",
+    "tamilMeaning": "வரவேற்கிறோம்!",
+    "example": "Welcome to our home.",
+    "exampleTamil": "எங்கள் வீட்டிற்கு வரவேற்கிறோம்.",
+    "audio": ""
+  },
+  {
+    "id": "greet_009",
+    "name": "Have a nice day!",
+    "tamilMeaning": "உங்கள் நாள் இனிமையாக அமையட்டும்!",
+    "example": "Have a nice day at work.",
+    "exampleTamil": "வேலையில் உங்கள் நாள் இனிமையாக அமையட்டும்.",
+    "audio": ""
+  },
+  {
+    "id": "greet_010",
+    "name": "Take care.",
+    "tamilMeaning": "பத்திரமாக இருங்கள்.",
+    "example": "Take care. See you soon.",
+    "exampleTamil": "பத்திரமாக இருங்கள். விரைவில் சந்திப்போம்.",
+    "audio": ""
+  },
+  {
+    "id": "greet_011",
+    "name": "See you later.",
+    "tamilMeaning": "பிறகு சந்திப்போம்.",
+    "example": "See you later after class.",
+    "exampleTamil": "வகுப்புக்குப் பிறகு சந்திப்போம்.",
+    "audio": ""
+  },
+  {
+    "id": "greet_012",
+    "name": "See you soon.",
+    "tamilMeaning": "விரைவில் சந்திப்போம்.",
+    "example": "See you soon, my friend.",
+    "exampleTamil": "விரைவில் சந்திப்போம், நண்பா.",
+    "audio": ""
+  },
+  {
+    "id": "greet_013",
+    "name": "See you tomorrow.",
+    "tamilMeaning": "நாளை சந்திப்போம்.",
+    "example": "See you tomorrow at school.",
+    "exampleTamil": "நாளை பள்ளியில் சந்திப்போம்.",
+    "audio": ""
+  },
+  {
+    "id": "greet_014",
+    "name": "Goodbye!",
+    "tamilMeaning": "பிரியாவிடை!",
+    "example": "Goodbye! Have a safe trip.",
+    "exampleTamil": "பிரியாவிடை! பாதுகாப்பான பயணம் அமையட்டும்.",
+    "audio": ""
+  },
+  {
+    "id": "greet_015",
+    "name": "Bye!",
+    "tamilMeaning": "பாய்!",
+    "example": "Bye! Call me later.",
+    "exampleTamil": "பாய்! பிறகு எனக்கு அழை.",
+    "audio": ""
+  },
+  {
+    "id": "greet_016",
+    "name": "Bye-bye!",
+    "tamilMeaning": "டாடா!",
+    "example": "Bye-bye! See you again.",
+    "exampleTamil": "டாடா! மீண்டும் சந்திப்போம்.",
+    "audio": ""
+  },
+  {
+    "id": "greet_017",
+    "name": "Have a safe trip.",
+    "tamilMeaning": "பாதுகாப்பான பயணம் அமையட்டும்.",
+    "example": "Have a safe trip home.",
+    "exampleTamil": "வீட்டிற்கு பாதுகாப்பாகப் பயணம் செய்யுங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "greet_018",
+    "name": "Good night.",
+    "tamilMeaning": "இரவு வணக்கம்.",
+    "example": "Good night. Sleep well.",
+    "exampleTamil": "இரவு வணக்கம். நன்றாகத் தூங்குங்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "greet_019",
+    "name": "Sleep well.",
+    "tamilMeaning": "நன்றாகத் தூங்குங்கள்.",
+    "example": "Sleep well. See you tomorrow.",
+    "exampleTamil": "நன்றாகத் தூங்குங்கள். நாளை சந்திப்போம்.",
+    "audio": ""
+  },
+  {
+    "id": "greet_020",
+    "name": "Have a great weekend!",
+    "tamilMeaning": "வார இறுதி இனிமையாக அமையட்டும்!",
+    "example": "Have a great weekend with your family.",
+    "exampleTamil": "உங்கள் குடும்பத்துடன் இனிய வார இறுதியைக் கழியுங்கள்.",
+    "audio": ""
+  }
+]

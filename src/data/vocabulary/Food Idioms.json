@@ -1,0 +1,162 @@
+[
+  {
+    "id": "food_001",
+    "name": "Piece of cake",
+    "tamilMeaning": "மிகவும் எளிதான வேலை",
+    "example": "The test was a piece of cake.",
+    "exampleTamil": "அந்தத் தேர்வு மிகவும் எளிதாக இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "food_002",
+    "name": "Spill the beans",
+    "tamilMeaning": "ரகசியத்தை உளறிவிடு",
+    "example": "Don't spill the beans about the surprise.",
+    "exampleTamil": "அந்த ஆச்சரியத்தைப் பற்றி ரகசியத்தை உளறிவிடாதே.",
+    "audio": ""
+  },
+  {
+    "id": "food_003",
+    "name": "The icing on the cake",
+    "tamilMeaning": "ஏற்கனவே நல்லதற்கு மேலாக இன்னும் சிறப்பாக இருப்பது",
+    "example": "Winning the prize was the icing on the cake.",
+    "exampleTamil": "பரிசு வென்றது ஏற்கனவே இருந்த மகிழ்ச்சியை இன்னும் அதிகப்படுத்தியது.",
+    "audio": ""
+  },
+  {
+    "id": "food_004",
+    "name": "Cry over spilled milk",
+    "tamilMeaning": "நடந்ததை நினைத்து வருந்து",
+    "example": "Don't cry over spilled milk.",
+    "exampleTamil": "நடந்ததை நினைத்து வருந்தாதே.",
+    "audio": ""
+  },
+  {
+    "id": "food_005",
+    "name": "Take it with a grain of salt",
+    "tamilMeaning": "முழுமையாக நம்பாதே",
+    "example": "Take his advice with a grain of salt.",
+    "exampleTamil": "அவர் சொல்வதை முழுமையாக நம்பாதே.",
+    "audio": ""
+  },
+  {
+    "id": "food_006",
+    "name": "In a nutshell",
+    "tamilMeaning": "சுருக்கமாகச் சொன்னால்",
+    "example": "In a nutshell, the plan worked.",
+    "exampleTamil": "சுருக்கமாகச் சொன்னால், திட்டம் வெற்றி பெற்றது.",
+    "audio": ""
+  },
+  {
+    "id": "food_007",
+    "name": "Butter someone up",
+    "tamilMeaning": "புகழ்ந்து ஆதாயம் தேடு",
+    "example": "He's trying to butter up his boss.",
+    "exampleTamil": "அவர் தனது மேலாளரைப் புகழ்ந்து ஆதாயம் தேடுகிறார்.",
+    "audio": ""
+  },
+  {
+    "id": "food_008",
+    "name": "Cheesy",
+    "tamilMeaning": "செயற்கையாக அல்லது மிகைப்படுத்தப்பட்டதாக",
+    "example": "That joke was a bit cheesy.",
+    "exampleTamil": "அந்த நகைச்சுவை கொஞ்சம் செயற்கையாக இருந்தது.",
+    "audio": ""
+  },
+  {
+    "id": "food_009",
+    "name": "Full of beans",
+    "tamilMeaning": "உற்சாகம் நிறைந்த",
+    "example": "The kids are full of beans today.",
+    "exampleTamil": "இன்று குழந்தைகள் மிகவும் உற்சாகமாக இருக்கிறார்கள்.",
+    "audio": ""
+  },
+  {
+    "id": "food_010",
+    "name": "Bring home the bacon",
+    "tamilMeaning": "குடும்பத்திற்காக சம்பாதி",
+    "example": "She works hard to bring home the bacon.",
+    "exampleTamil": "குடும்பத்திற்காக அவள் கடினமாக உழைத்து சம்பாதிக்கிறாள்.",
+    "audio": ""
+  },
+  {
+    "id": "food_011",
+    "name": "Bad egg",
+    "tamilMeaning": "மோசமான நபர்",
+    "example": "Stay away from him. He's a bad egg.",
+    "exampleTamil": "அவரிடமிருந்து விலகி இரு. அவர் நல்லவர் அல்ல.",
+    "audio": ""
+  },
+  {
+    "id": "food_012",
+    "name": "Egg someone on",
+    "tamilMeaning": "ஒருவரைத் தூண்டிவிடு",
+    "example": "His friends egged him on.",
+    "exampleTamil": "அவரது நண்பர்கள் அவரைத் தூண்டிவிட்டனர்.",
+    "audio": ""
+  },
+  {
+    "id": "food_013",
+    "name": "Hot potato",
+    "tamilMeaning": "சிக்கலான விஷயம்",
+    "example": "The issue became a hot potato.",
+    "exampleTamil": "அந்த விஷயம் மிகவும் சிக்கலானதாக மாறியது.",
+    "audio": ""
+  },
+  {
+    "id": "food_014",
+    "name": "Cool as a cucumber",
+    "tamilMeaning": "மிகவும் அமைதியாக",
+    "example": "She stayed cool as a cucumber.",
+    "exampleTamil": "அவள் மிகவும் அமைதியாக இருந்தாள்.",
+    "audio": ""
+  },
+  {
+    "id": "food_015",
+    "name": "Have bigger fish to fry",
+    "tamilMeaning": "முக்கியமான வேலையைச் செய்ய வேண்டியிரு",
+    "example": "I can't help now. I have bigger fish to fry.",
+    "exampleTamil": "இப்போது என்னால் உதவ முடியாது. எனக்கு முக்கியமான வேலை இருக்கிறது.",
+    "audio": ""
+  },
+  {
+    "id": "food_016",
+    "name": "Sell like hotcakes",
+    "tamilMeaning": "வேகமாக விற்றுத் தீரு",
+    "example": "The new phones are selling like hotcakes.",
+    "exampleTamil": "புதிய போன்கள் வேகமாக விற்றுத் தீர்கின்றன.",
+    "audio": ""
+  },
+  {
+    "id": "food_017",
+    "name": "Not my cup of tea",
+    "tamilMeaning": "எனக்கு பிடித்த விஷயம் அல்ல",
+    "example": "Horror movies are not my cup of tea.",
+    "exampleTamil": "திகில் படங்கள் எனக்கு பிடித்தவை அல்ல.",
+    "audio": ""
+  },
+  {
+    "id": "food_018",
+    "name": "Sugarcoat",
+    "tamilMeaning": "கசப்பான உண்மையை இனிமையாகச் சொல்",
+    "example": "Don't sugarcoat the truth.",
+    "exampleTamil": "உண்மையை இனிமைப்படுத்திச் சொல்லாதே.",
+    "audio": ""
+  },
+  {
+    "id": "food_019",
+    "name": "Food for thought",
+    "tamilMeaning": "சிந்திக்க வேண்டிய விஷயம்",
+    "example": "His speech gave us food for thought.",
+    "exampleTamil": "அவரது பேச்சு நமக்கு சிந்திக்க வேண்டிய விஷயங்களை அளித்தது.",
+    "audio": ""
+  },
+  {
+    "id": "food_020",
+    "name": "Have your cake and eat it too",
+    "tamilMeaning": "இரண்டு முரண்பட்ட நன்மைகளையும் ஒரே நேரத்தில் எதிர்பார்",
+    "example": "You can't have your cake and eat it too.",
+    "exampleTamil": "எல்லா நன்மைகளையும் ஒரே நேரத்தில் பெற முடியாது.",
+    "audio": ""
+  }
+]
