@@ -133,9 +133,19 @@ export default function ImageSlider({ items, categoryName }) {
             />
           ) : (
             <>
-              {currentItem.tamilMeaning && (
-                <p className="image-slider__tamil">{currentItem.tamilMeaning}</p>
-              )}
+             {currentItem.tamilMeaning && (
+  <>
+    <p className="image-slider__tamil">
+      {currentItem.tamilMeaning}
+    </p>
+
+    {currentItem.example && (
+      <p className="image-slider__example">
+        {currentItem.example}
+      </p>
+    )}
+  </>
+)}
              
             </>
           )}
